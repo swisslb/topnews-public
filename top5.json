@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-04",
+  "news_count": 123,
+  "top5": [
+    {
+      "rank": 1,
+      "id": "g4538",
+      "title": "ChatGPT Reaches 20% of Google’s Search Volume",
+      "description": "According to Adam Fry of OpenAI, ChatGPT now handles approximately one-fifth of the number of search-like queries handled by Google. ChatGPT would therefore be ahead of Bing, which holds about 5% of the search market.",
+      "link": "https://www.seroundtable.com/chatgpt-20-percent-google-42451.html",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "Business Insider",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "ChatGPT handling roughly one-fifth of Google’s search volume signals a potentially significant shift in how people discover information and threatens the economics of the traditional search market."
+    },
+    {
+      "rank": 2,
+      "id": "g4556",
+      "title": "Apple Opens Siri’s AI to All Apps",
+      "description": "Apple now allows app developers to integrate their content and actions with Siri through a developer preview. Integrations could include checking a delivery, booking a service, or combining multiple actions.",
+      "link": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Opening Siri to app actions gives Apple a broader platform for AI-powered assistants and could reshape how users interact with third-party services."
+    },
+    {
+      "rank": 3,
+      "id": "g4569",
+      "title": "Hidden AI-related commitments reach $3.2 trillion",
+      "description": "According to Nikkei Asia, AI-related commitments that major US tech companies do not carry directly on their balance sheets amount to around $3.2 trillion. This situation is increasingly worrying investors, particularly because of spending on data centers.",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-04T10:03+00:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "An estimated $3.2 trillion in off-balance-sheet AI commitments highlights the scale of infrastructure spending and the growing financial risks behind the AI investment boom."
+    },
+    {
+      "rank": 4,
+      "id": "g4572",
+      "title": "Google Threatens to Cut Off Search for Schools That Ban AI",
+      "description": "Google plans to remove Search access from student accounts managed by schools that reject its AI tools. Beginning in early 2027, institutions will also have to manually enable several AI features that are disabled by default.",
+      "link": "https://techstartups.com/2026/11/03/google-will-turn-off-search-for-schools-that-ban-ai/",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Google’s plan to remove Search access from schools that reject its AI tools raises major questions about platform power, education policy and competition."
+    },
+    {
+      "rank": 5,
+      "id": "g4560",
+      "title": "Canva Cuts Jobs, Affecting 22% of Its Workforce",
+      "description": "Canva’s first layoffs affect 22% of its staff, in what the company describes as its most difficult moment.",
+      "link": "https://thenextweb.com/news/canva-restructure-1271-jobs-22-percent-layoffs",
+      "sources": [
+        "Techpresso",
+        "Business Insider",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Canva’s reduction of 22% of its workforce is a major workforce and business signal that AI-era efficiency pressures are reaching prominent software companies."
+    }
+  ],
+  "period": {
+    "from": "2026-11-03T21:48+00:00",
+    "to": "2026-11-04T21:48+00:00"
+  },
+  "generated_at": "2026-11-04T21:48+00:00"
+}
