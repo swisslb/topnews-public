@@ -1,6 +1,6 @@
-# All newsletter news — 2026-11-04
+# All newsletter news — 2026-11-05
 
-Period: 2026-11-03T23:56+01:00 → 2026-11-04T23:56+01:00 · 123 news received
+Period: 2026-11-04T06:25+01:00 → 2026-11-05T06:25+01:00 · 123 news received
 
 ## 1. ChatGPT Reaches 20% of Google’s Search Volume
 
