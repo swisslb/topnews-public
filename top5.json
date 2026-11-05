@@ -1,70 +1,54 @@
 {
   "date": "2026-11-05",
-  "news_count": 97,
+  "news_count": 67,
   "top5": [
     {
       "rank": 1,
-      "id": "g4672",
-      "title": "Meta Seeks to Raise Up to $25 Billion in Debt to Fund AI",
-      "description": "Meta is seeking to raise up to $25 billion in the debt markets as its artificial intelligence spending increases.",
-      "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+      "id": "g4721",
+      "title": "Delays threaten Microsoft’s AI data-center partners",
+      "description": "Microsoft cut its annual capital-spending forecast by $5 billion, with its CFO citing delays at third-party cloud providers among other factors. Satellite analysis suggests that two data-center projects could be affected.",
+      "link": "https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11",
       "sources": [
-        "Techpresso"
+        "Business Insider"
       ],
-      "received_at": "2026-11-04T17:47+00:00",
+      "received_at": "2026-11-05T12:14+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "Meta’s plan to raise up to $25 billion in debt underscores the enormous financing requirements of its AI buildout and could influence investor assessments of Big Tech capital spending."
+      "followed_topic": null,
+      "why": "Microsoft’s $5 billion capital-spending cut and delays at partner data centers signal that AI infrastructure deployment may be hitting execution and supply constraints."
     },
     {
       "rank": 2,
-      "id": "g4659",
-      "title": "Voters oppose new AI infrastructure in their region",
-      "description": "According to an NBC News exit poll, a majority of voters say AI and data centers played an important role in their vote. They also say they oppose new AI infrastructure in their community.",
-      "link": "https://www.businessinsider.com/data-centers-hammered-midterms-key-votes-show-how-2026-11",
+      "id": "g4538",
+      "title": "ChatGPT reportedly accounts for around 20% of Google’s search volume",
+      "description": "OpenAI chief product officer Adam Fry says ChatGPT has reached around 20% of Google’s search volume. If accurate, this would make the chatbot Google Search’s most serious challenger in decades.",
+      "link": "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/",
       "sources": [
-        "Business Insider",
-        "Techpresso"
+        "Superhuman"
       ],
-      "received_at": "2026-11-05T12:14+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-05T15:09+01:00",
+      "covered_by": 1,
       "favorite": false,
-      "followed_topic": null,
-      "why": "Voter opposition to new AI infrastructure signals a growing political and regulatory constraint on the data-center expansion needed to sustain the AI boom."
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "If accurate, ChatGPT reaching roughly 20% of Google’s search volume would mark the most serious competitive threat to Google Search in decades and accelerate the shift toward AI-mediated discovery."
     },
     {
       "rank": 3,
-      "id": "g4663",
-      "title": "Nvidia Will Be Able to Fulfill Only 1% of Chinese GPU Orders",
-      "description": "Over the coming months, Nvidia will deliver only about 1% of the RTX Pro 5500 GPUs ordered by Chinese companies such as ByteDance, Alibaba, and Tencent. Demand reportedly amounts to about $70 billion, far exceeding current production capacity.",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+      "id": "g4757",
+      "title": "The biggest AI spenders stagnate in the third quarter",
+      "description": "AI adoption continues to grow among other companies, but spending by the top 1% of customers stagnated in the third quarter. Anthropic’s dollar growth also stalled.",
+      "link": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/",
       "sources": [
-        "Techpresso"
+        "TLDR"
       ],
-      "received_at": "2026-11-04T17:47+00:00",
+      "received_at": "2026-11-05T18:05+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Nvidia’s ability to fulfill only about 1% of Chinese demand highlights severe GPU supply constraints and the continuing impact of export controls on the AI market."
+      "why": "Stagnant spending among the largest AI customers and slowing Anthropic growth suggest that enterprise AI demand may be broadening without yet supporting the sector’s biggest spending expectations."
     },
     {
       "rank": 4,
-      "id": "g4556",
-      "title": "Apple Opens Siri’s AI to All Apps",
-      "description": "Apple now allows app developers to integrate their content and actions with Siri through a developer preview. Integrations could include checking a delivery, booking a service, or combining multiple actions.",
-      "link": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Apple’s decision to let developers connect apps and actions to Siri could turn Apple Intelligence into a broader platform and intensify competition among AI assistants."
-    },
-    {
-      "rank": 5,
       "id": "g4700",
       "title": "OpenAI plans to acquire code-hosting startup Pierre",
       "description": "OpenAI has agreed to acquire Pierre Computer, the startup that already hosts Codex’s code repositories. The deal brings OpenAI closer to GitHub’s territory.",
@@ -76,12 +60,27 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s planned acquisition of code-hosting startup Pierre would extend Codex deeper into the software-development stack and increase pressure on GitHub."
+      "why": "OpenAI’s planned acquisition of Pierre would strengthen its control of code repositories and move Codex closer to competing directly with GitHub."
+    },
+    {
+      "rank": 5,
+      "id": "g4706",
+      "title": "Moonshot releases the open weights of its Kimi K3.1 Pro model",
+      "description": "Moonshot released Kimi K3.1 Pro with open, downloadable weights, text and image understanding, and a one-million-token memory. The model is distributed under a custom license and can be tried on HuggingChat.",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-05T11:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Moonshot’s release of downloadable weights for a multimodal model with a one-million-token context window intensifies competition around open, deployable frontier AI."
     }
   ],
   "period": {
-    "from": "2026-11-04T13:25+01:00",
-    "to": "2026-11-05T13:25+01:00"
+    "from": "2026-11-04T19:25+01:00",
+    "to": "2026-11-05T19:25+01:00"
   },
-  "generated_at": "2026-11-05T13:25+01:00"
+  "generated_at": "2026-11-05T19:25+01:00"
 }
