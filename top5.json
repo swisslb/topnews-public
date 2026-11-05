@@ -1,27 +1,9 @@
 {
   "date": "2026-11-05",
-  "news_count": 123,
+  "news_count": 97,
   "top5": [
     {
       "rank": 1,
-      "id": "g4538",
-      "title": "ChatGPT Reaches 20% of Google’s Search Volume",
-      "description": "According to Adam Fry of OpenAI, ChatGPT now handles approximately one-fifth of the number of search-like queries handled by Google. ChatGPT would therefore be ahead of Bing, which holds about 5% of the search market.",
-      "link": "https://www.seroundtable.com/chatgpt-20-percent-google-42451.html",
-      "sources": [
-        "Techpresso",
-        "TLDR",
-        "Business Insider",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 4,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "ChatGPT reaching roughly 20% of Google’s search volume signals a potentially major shift in how users discover information and where search advertising may flow."
-    },
-    {
-      "rank": 2,
       "id": "g4672",
       "title": "Meta Seeks to Raise Up to $25 Billion in Debt to Fund AI",
       "description": "Meta is seeking to raise up to $25 billion in the debt markets as its artificial intelligence spending increases.",
@@ -33,14 +15,30 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "Meta seeking up to $25 billion in debt underscores the extraordinary scale of AI infrastructure spending and the growing reliance on financial markets to fund it."
+      "why": "Meta’s plan to raise up to $25 billion in debt underscores the enormous financing requirements of its AI buildout and could influence investor assessments of Big Tech capital spending."
+    },
+    {
+      "rank": 2,
+      "id": "g4659",
+      "title": "Voters oppose new AI infrastructure in their region",
+      "description": "According to an NBC News exit poll, a majority of voters say AI and data centers played an important role in their vote. They also say they oppose new AI infrastructure in their community.",
+      "link": "https://www.businessinsider.com/data-centers-hammered-midterms-key-votes-show-how-2026-11",
+      "sources": [
+        "Business Insider",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Voter opposition to new AI infrastructure signals a growing political and regulatory constraint on the data-center expansion needed to sustain the AI boom."
     },
     {
       "rank": 3,
-      "id": "g4659",
-      "title": "U.S. Voters Reject Dozens of AI Data Centers",
-      "description": "During the midterm elections, U.S. voters approved 33 measures limiting AI data center projects, while six others were leading. The measures range from permanent bans to moratoriums and power limits.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+      "id": "g4663",
+      "title": "Nvidia Will Be Able to Fulfill Only 1% of Chinese GPU Orders",
+      "description": "Over the coming months, Nvidia will deliver only about 1% of the RTX Pro 5500 GPUs ordered by Chinese companies such as ByteDance, Alibaba, and Tencent. Demand reportedly amounts to about $70 billion, far exceeding current production capacity.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
       "sources": [
         "Techpresso"
       ],
@@ -48,7 +46,7 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Voters approving dozens of measures restricting AI data centers shows that power, water and local opposition are becoming material constraints on the industry’s expansion."
+      "why": "Nvidia’s ability to fulfill only about 1% of Chinese demand highlights severe GPU supply constraints and the continuing impact of export controls on the AI market."
     },
     {
       "rank": 4,
@@ -57,38 +55,33 @@
       "description": "Apple now allows app developers to integrate their content and actions with Siri through a developer preview. Integrations could include checking a delivery, booking a service, or combining multiple actions.",
       "link": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
       "sources": [
-        "Techpresso",
-        "TLDR",
-        "The Neuron",
-        "Vision IA"
+        "Techpresso"
       ],
       "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 4,
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Opening Siri to app actions could turn Apple’s assistant into a broad agentic interface for transactions and services across the iPhone ecosystem."
+      "why": "Apple’s decision to let developers connect apps and actions to Siri could turn Apple Intelligence into a broader platform and intensify competition among AI assistants."
     },
     {
       "rank": 5,
-      "id": "g4572",
-      "title": "Google Threatens to Cut Off Search for Schools That Ban AI",
-      "description": "Google plans to remove Search access from student accounts managed by schools that reject its AI tools. Beginning in early 2027, institutions will also have to manually enable several AI features that are disabled by default.",
-      "link": "https://techstartups.com/2026/11/03/google-will-turn-off-search-for-schools-that-ban-ai/",
+      "id": "g4700",
+      "title": "OpenAI plans to acquire code-hosting startup Pierre",
+      "description": "OpenAI has agreed to acquire Pierre Computer, the startup that already hosts Codex’s code repositories. The deal brings OpenAI closer to GitHub’s territory.",
+      "link": "https://www.axios.com/2026/11/04/openai-pierre-computer-github",
       "sources": [
-        "Techpresso",
-        "TLDR",
         "The Neuron"
       ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 3,
+      "received_at": "2026-11-05T11:34+01:00",
+      "covered_by": 1,
       "favorite": false,
-      "followed_topic": null,
-      "why": "Google tying Search access to schools’ acceptance of its AI tools raises significant questions about corporate leverage over education, platform access and AI policy."
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI’s planned acquisition of code-hosting startup Pierre would extend Codex deeper into the software-development stack and increase pressure on GitHub."
     }
   ],
   "period": {
-    "from": "2026-11-04T00:04+01:00",
-    "to": "2026-11-05T00:04+01:00"
+    "from": "2026-11-04T13:25+01:00",
+    "to": "2026-11-05T13:25+01:00"
   },
-  "generated_at": "2026-11-05T00:04+01:00"
+  "generated_at": "2026-11-05T13:25+01:00"
 }
