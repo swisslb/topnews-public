@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-05
 
-Period: 2026-11-04T13:25+01:00 → 2026-11-05T13:25+01:00 · 97 news received
+Period: 2026-11-04T19:25+01:00 → 2026-11-05T19:25+01:00 · 67 news received
 
-## 1. Meta Seeks to Raise Up to $25 Billion in Debt to Fund AI
+## 1. Delays threaten Microsoft’s AI data-center partners
 
-**Why it matters:** Meta’s plan to raise up to $25 billion in debt underscores the enormous financing requirements of its AI buildout and could influence investor assessments of Big Tech capital spending.
+**Why it matters:** Microsoft’s $5 billion capital-spending cut and delays at partner data centers signal that AI infrastructure deployment may be hitting execution and supply constraints.
 
-Meta is seeking to raise up to $25 billion in the debt markets as its artificial intelligence spending increases.
+Microsoft cut its annual capital-spending forecast by $5 billion, with its CFO citing delays at third-party cloud providers among other factors. Satellite analysis suggests that two data-center projects could be affected.
 
-- Link: https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html
-- Sources: Techpresso
-- Received: 2026-11-04T17:47+00:00
-
-## 2. Voters oppose new AI infrastructure in their region
-
-**Why it matters:** Voter opposition to new AI infrastructure signals a growing political and regulatory constraint on the data-center expansion needed to sustain the AI boom.
-
-According to an NBC News exit poll, a majority of voters say AI and data centers played an important role in their vote. They also say they oppose new AI infrastructure in their community.
-
-- Link: https://www.businessinsider.com/data-centers-hammered-midterms-key-votes-show-how-2026-11
-- Sources: Business Insider, Techpresso
+- Link: https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11
+- Sources: Business Insider
 - Received: 2026-11-05T12:14+01:00
 
-## 3. Nvidia Will Be Able to Fulfill Only 1% of Chinese GPU Orders
+## 2. ChatGPT reportedly accounts for around 20% of Google’s search volume
 
-**Why it matters:** Nvidia’s ability to fulfill only about 1% of Chinese demand highlights severe GPU supply constraints and the continuing impact of export controls on the AI market.
+**Why it matters:** If accurate, ChatGPT reaching roughly 20% of Google’s search volume would mark the most serious competitive threat to Google Search in decades and accelerate the shift toward AI-mediated discovery.
 
-Over the coming months, Nvidia will deliver only about 1% of the RTX Pro 5500 GPUs ordered by Chinese companies such as ByteDance, Alibaba, and Tencent. Demand reportedly amounts to about $70 billion, far exceeding current production capacity.
+OpenAI chief product officer Adam Fry says ChatGPT has reached around 20% of Google’s search volume. If accurate, this would make the chatbot Google Search’s most serious challenger in decades.
 
-- Link: https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand
-- Sources: Techpresso
-- Received: 2026-11-04T17:47+00:00
+- Link: https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/
+- Sources: Superhuman
+- Received: 2026-11-05T15:09+01:00
 
-## 4. Apple Opens Siri’s AI to All Apps
+## 3. The biggest AI spenders stagnate in the third quarter
 
-**Why it matters:** Apple’s decision to let developers connect apps and actions to Siri could turn Apple Intelligence into a broader platform and intensify competition among AI assistants.
+**Why it matters:** Stagnant spending among the largest AI customers and slowing Anthropic growth suggest that enterprise AI demand may be broadening without yet supporting the sector’s biggest spending expectations.
 
-Apple now allows app developers to integrate their content and actions with Siri through a developer preview. Integrations could include checking a delivery, booking a service, or combining multiple actions.
+AI adoption continues to grow among other companies, but spending by the top 1% of customers stagnated in the third quarter. Anthropic’s dollar growth also stalled.
 
-- Link: https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee
-- Sources: Techpresso
-- Received: 2026-11-04T17:47+00:00
+- Link: https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/
+- Sources: TLDR
+- Received: 2026-11-05T18:05+01:00
 
-## 5. OpenAI plans to acquire code-hosting startup Pierre
+## 4. OpenAI plans to acquire code-hosting startup Pierre
 
-**Why it matters:** OpenAI’s planned acquisition of code-hosting startup Pierre would extend Codex deeper into the software-development stack and increase pressure on GitHub.
+**Why it matters:** OpenAI’s planned acquisition of Pierre would strengthen its control of code repositories and move Codex closer to competing directly with GitHub.
 
 OpenAI has agreed to acquire Pierre Computer, the startup that already hosts Codex’s code repositories. The deal brings OpenAI closer to GitHub’s territory.
 
 - Link: https://www.axios.com/2026/11/04/openai-pierre-computer-github
+- Sources: The Neuron
+- Received: 2026-11-05T11:34+01:00
+
+## 5. Moonshot releases the open weights of its Kimi K3.1 Pro model
+
+**Why it matters:** Moonshot’s release of downloadable weights for a multimodal model with a one-million-token context window intensifies competition around open, deployable frontier AI.
+
+Moonshot released Kimi K3.1 Pro with open, downloadable weights, text and image understanding, and a one-million-token memory. The model is distributed under a custom license and can be tried on HuggingChat.
+
+- Link: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
 - Sources: The Neuron
 - Received: 2026-11-05T11:34+01:00
