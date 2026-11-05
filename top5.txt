@@ -1,20 +1,10 @@
 # Top 5 news of the day — 2026-11-05
 
-Period: 2026-11-04T00:04+01:00 → 2026-11-05T00:04+01:00 · 123 news received
+Period: 2026-11-04T13:25+01:00 → 2026-11-05T13:25+01:00 · 97 news received
 
-## 1. ChatGPT Reaches 20% of Google’s Search Volume
+## 1. Meta Seeks to Raise Up to $25 Billion in Debt to Fund AI
 
-**Why it matters:** ChatGPT reaching roughly 20% of Google’s search volume signals a potentially major shift in how users discover information and where search advertising may flow.
-
-According to Adam Fry of OpenAI, ChatGPT now handles approximately one-fifth of the number of search-like queries handled by Google. ChatGPT would therefore be ahead of Bing, which holds about 5% of the search market.
-
-- Link: https://www.seroundtable.com/chatgpt-20-percent-google-42451.html
-- Sources: Techpresso, TLDR, Business Insider, Vision IA
-- Received: 2026-11-04T17:47+00:00
-
-## 2. Meta Seeks to Raise Up to $25 Billion in Debt to Fund AI
-
-**Why it matters:** Meta seeking up to $25 billion in debt underscores the extraordinary scale of AI infrastructure spending and the growing reliance on financial markets to fund it.
+**Why it matters:** Meta’s plan to raise up to $25 billion in debt underscores the enormous financing requirements of its AI buildout and could influence investor assessments of Big Tech capital spending.
 
 Meta is seeking to raise up to $25 billion in the debt markets as its artificial intelligence spending increases.
 
@@ -22,32 +12,42 @@ Meta is seeking to raise up to $25 billion in the debt markets as its artificial
 - Sources: Techpresso
 - Received: 2026-11-04T17:47+00:00
 
-## 3. U.S. Voters Reject Dozens of AI Data Centers
+## 2. Voters oppose new AI infrastructure in their region
 
-**Why it matters:** Voters approving dozens of measures restricting AI data centers shows that power, water and local opposition are becoming material constraints on the industry’s expansion.
+**Why it matters:** Voter opposition to new AI infrastructure signals a growing political and regulatory constraint on the data-center expansion needed to sustain the AI boom.
 
-During the midterm elections, U.S. voters approved 33 measures limiting AI data center projects, while six others were leading. The measures range from permanent bans to moratoriums and power limits.
+According to an NBC News exit poll, a majority of voters say AI and data centers played an important role in their vote. They also say they oppose new AI infrastructure in their community.
 
-- Link: https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments
+- Link: https://www.businessinsider.com/data-centers-hammered-midterms-key-votes-show-how-2026-11
+- Sources: Business Insider, Techpresso
+- Received: 2026-11-05T12:14+01:00
+
+## 3. Nvidia Will Be Able to Fulfill Only 1% of Chinese GPU Orders
+
+**Why it matters:** Nvidia’s ability to fulfill only about 1% of Chinese demand highlights severe GPU supply constraints and the continuing impact of export controls on the AI market.
+
+Over the coming months, Nvidia will deliver only about 1% of the RTX Pro 5500 GPUs ordered by Chinese companies such as ByteDance, Alibaba, and Tencent. Demand reportedly amounts to about $70 billion, far exceeding current production capacity.
+
+- Link: https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand
 - Sources: Techpresso
 - Received: 2026-11-04T17:47+00:00
 
 ## 4. Apple Opens Siri’s AI to All Apps
 
-**Why it matters:** Opening Siri to app actions could turn Apple’s assistant into a broad agentic interface for transactions and services across the iPhone ecosystem.
+**Why it matters:** Apple’s decision to let developers connect apps and actions to Siri could turn Apple Intelligence into a broader platform and intensify competition among AI assistants.
 
 Apple now allows app developers to integrate their content and actions with Siri through a developer preview. Integrations could include checking a delivery, booking a service, or combining multiple actions.
 
 - Link: https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee
-- Sources: Techpresso, TLDR, The Neuron, Vision IA
+- Sources: Techpresso
 - Received: 2026-11-04T17:47+00:00
 
-## 5. Google Threatens to Cut Off Search for Schools That Ban AI
+## 5. OpenAI plans to acquire code-hosting startup Pierre
 
-**Why it matters:** Google tying Search access to schools’ acceptance of its AI tools raises significant questions about corporate leverage over education, platform access and AI policy.
+**Why it matters:** OpenAI’s planned acquisition of code-hosting startup Pierre would extend Codex deeper into the software-development stack and increase pressure on GitHub.
 
-Google plans to remove Search access from student accounts managed by schools that reject its AI tools. Beginning in early 2027, institutions will also have to manually enable several AI features that are disabled by default.
+OpenAI has agreed to acquire Pierre Computer, the startup that already hosts Codex’s code repositories. The deal brings OpenAI closer to GitHub’s territory.
 
-- Link: https://techstartups.com/2026/11/03/google-will-turn-off-search-for-schools-that-ban-ai/
-- Sources: Techpresso, TLDR, The Neuron
-- Received: 2026-11-04T17:47+00:00
+- Link: https://www.axios.com/2026/11/04/openai-pierre-computer-github
+- Sources: The Neuron
+- Received: 2026-11-05T11:34+01:00
