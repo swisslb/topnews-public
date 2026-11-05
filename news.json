@@ -1,102 +1,181 @@
 {
   "date": "2026-11-05",
   "period": {
-    "from": "2026-11-04T06:25+01:00",
-    "to": "2026-11-05T06:25+01:00"
+    "from": "2026-11-04T13:25+01:00",
+    "to": "2026-11-05T13:25+01:00"
   },
-  "news_count": 123,
+  "news_count": 97,
   "news": [
+    {
+      "id": "g4708",
+      "title": "Meta changes the names of its artificial intelligence models",
+      "description": "Meta has made an important decision about how it names its AI models. Charles Rollet details the change.",
+      "link": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4584",
+      "title": "Elon Musk spent 446 million dollars supporting Republicans",
+      "description": "Elon Musk spent 446 million dollars supporting the Republican Party, including 224 million dollars in Texas, which turned Democratic. Tesla and SpaceX shares finished lower on Wednesday.",
+      "link": "https://www.businessinsider.com/elon-musk-midterms-spending-texas-losses-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g4659",
+      "title": "Voters oppose new AI infrastructure in their region",
+      "description": "According to an NBC News exit poll, a majority of voters believe AI and data centers played an important role in their vote. They also said they oppose new AI infrastructure in their community.",
+      "link": "https://www.businessinsider.com/data-centers-hammered-midterms-key-votes-show-how-2026-11",
+      "sources": [
+        "Business Insider",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4720",
+      "title": "Cat Wu joins OpenAI after leaving Anthropic",
+      "description": "The former head of Claude Code product will now lead core product management at OpenAI. Her hiring is a major win for OpenAI ahead of Anthropic’s expected IPO.",
+      "link": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4729",
+      "title": "The AI boom is turning fiber-optic cables into coveted assets",
+      "description": "The artificial intelligence boom is making fiber-optic cables particularly sought-after materials.",
+      "link": "https://www.businessinsider.com/fiber-manufacturers-are-ramping-up-to-meet-data-center-demand-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4555",
+      "title": "Google disables Gemini and AI Search by default in schools",
+      "description": "Google has finally made Gemini, Gemini Notebook and Search disabled by default for schools, following controversy over the inability to turn off certain AI features without losing Search. DuckDuckGo published instructions for changing the default search engine and accused Google of imposing AI on children.",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "sources": [
+        "The Neuron",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T11:34+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4698",
+      "title": "OpenAI launches Images 2.6, 50% faster and able to create GIFs",
+      "description": "Images 2.6 is arriving in ChatGPT, Codex and the API with GIF generation, saved references to preserve a character’s appearance, image labeling, SVG export and a complexity setting. OpenAI says generation is about 50% faster.",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-05T11:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4700",
+      "title": "OpenAI plans to acquire code-hosting startup Pierre",
+      "description": "OpenAI has agreed to acquire Pierre Computer, the startup that already hosts Codex code repositories. The deal brings OpenAI closer to GitHub’s territory.",
+      "link": "https://www.axios.com/2026/11/04/openai-pierre-computer-github",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-05T11:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4702",
+      "title": "Chris Lehane presents OpenAI’s 2028 policy agenda",
+      "description": "OpenAI’s Chris Lehane presented a 2028 policy program focused on workers, education, safety and data centers.",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-05T11:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4689",
+      "title": "An open tissue atlas aims to improve AI against cancer",
+      "description": "Scientists at EPFL created spora, described as the largest open collection of tissue images, to help artificial intelligence better understand cancer.",
+      "link": "https://us.list-manage.com/5t69mfQE4qM?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
+      "sources": [
+        "Republic of Innovation"
+      ],
+      "received_at": "2026-11-05T10:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4692",
+      "title": "Switzerland bets on open, sovereign AI against tech giants",
+      "description": "Facing the dominance of American and Chinese artificial intelligence giants, Switzerland is betting on open, sovereign AI.",
+      "link": "https://us.list-manage.com/aombtSIXJqb?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
+      "sources": [
+        "Republic of Innovation"
+      ],
+      "received_at": "2026-11-05T10:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4694",
+      "title": "Swiss people are using AI extensively to interpret their symptoms",
+      "description": "Artificial intelligence is rapidly becoming part of Swiss healthcare habits, according to the CSS study on the subject.",
+      "link": "https://us.list-manage.com/EnTkuR2NkVY?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
+      "sources": [
+        "Republic of Innovation"
+      ],
+      "received_at": "2026-11-05T10:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
     {
       "id": "g4538",
       "title": "ChatGPT Reaches 20% of Google’s Search Volume",
       "description": "According to Adam Fry of OpenAI, ChatGPT now handles approximately one-fifth of the number of search-like queries handled by Google. ChatGPT would therefore be ahead of Bing, which holds about 5% of the search market.",
       "link": "https://www.seroundtable.com/chatgpt-20-percent-google-42451.html",
       "sources": [
-        "Techpresso",
-        "TLDR",
-        "Business Insider",
-        "Vision IA"
+        "Techpresso"
       ],
       "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 4,
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g4557",
-      "title": "Netflix Tests an AI-Powered Discover Tab to Recommend Content",
-      "description": "Netflix’s new Discover tab uses artificial intelligence to help users find a program based on their mood.",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "sources": [
-        "Techpresso",
-        "Superhuman",
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 4,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g4556",
-      "title": "Apple Opens Siri’s AI to All Apps",
-      "description": "Apple now allows app developers to integrate their content and actions with Siri through a developer preview. Integrations could include checking a delivery, booking a service, or combining multiple actions.",
-      "link": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
-      "sources": [
-        "Techpresso",
-        "TLDR",
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 4,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4572",
-      "title": "Google Threatens to Cut Off Search for Schools That Ban AI",
-      "description": "Google plans to remove Search access from student accounts managed by schools that reject its AI tools. Beginning in early 2027, institutions will also have to manually enable several AI features that are disabled by default.",
-      "link": "https://techstartups.com/2026/11/03/google-will-turn-off-search-for-schools-that-ban-ai/",
-      "sources": [
-        "Techpresso",
-        "TLDR",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4548",
-      "title": "Anthropic Is Working on a System to Prove AI Model Identity",
-      "description": "Anthropic is developing a system intended to prove the identity of artificial intelligence models.",
-      "link": "https://tech.yahoo.com/ai/claude/articles/anthropic-working-system-prove-ai-224103978.html",
-      "sources": [
-        "Techpresso",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g4560",
-      "title": "Canva Cuts Jobs, Affecting 22% of Its Workforce",
-      "description": "Canva’s first layoffs affect 22% of its staff, in what the company describes as its most difficult moment.",
-      "link": "https://thenextweb.com/news/canva-restructure-1271-jobs-22-percent-layoffs",
-      "sources": [
-        "Techpresso",
-        "Business Insider",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": null
     },
     {
       "id": "g4664",
@@ -112,18 +191,17 @@
       "followed_topic": "SpaceX et Starlink"
     },
     {
-      "id": "g4616",
-      "title": "Revolut Cuts AI Coding Costs Tenfold by Dropping Claude",
-      "description": "UK fintech Revolut is reducing its AI-related coding costs by eliminating Claude and hosting its models itself.",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "id": "g4548",
+      "title": "Anthropic Is Working on a System to Prove AI Model Identity",
+      "description": "Anthropic is developing a system intended to prove the identity of artificial intelligence models.",
+      "link": "https://tech.yahoo.com/ai/claude/articles/anthropic-working-system-prove-ai-224103978.html",
       "sources": [
-        "Techpresso",
-        "TLDR"
+        "Techpresso"
       ],
       "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 2,
+      "covered_by": 1,
       "favorite": false,
-      "followed_topic": null
+      "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
       "id": "g4668",
@@ -139,38 +217,23 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4553",
-      "title": "Data Centers Turn to Former Jet Engines to Generate Power",
-      "description": "Data centers are using former jet engines as power-access wait times grow longer.",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "sources": [
-        "Techpresso",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4053",
-      "title": "Hackers Used Fake Job Interviews in a $6.3 Billion Heist",
-      "description": "Hackers used fake job interviews to organize a $6.3 billion theft targeting Binance.",
-      "link": "https://www.siliconrepublic.com/enterprise/hackers-used-fake-job-interviews-to-stage-6-3bn-binance-heist",
-      "sources": [
-        "Techpresso",
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T17:47+00:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4672",
       "title": "Meta Seeks to Raise Up to $25 Billion in Debt to Fund AI",
       "description": "Meta is seeking to raise up to $25 billion in the debt markets as its artificial intelligence spending increases.",
       "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4557",
+      "title": "Netflix Tests an AI-Powered Discover Tab to Recommend Content",
+      "description": "Netflix’s new Discover tab uses artificial intelligence to help users find a program based on their mood.",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
       "sources": [
         "Techpresso"
       ],
@@ -219,210 +282,443 @@
       "followed_topic": "Véhicules électriques et Tesla"
     },
     {
-      "id": "g4365",
-      "title": "Suspected Cyberattacks Destroy Food in European Supermarkets",
-      "description": "More than 40 supermarkets across seven countries were affected by suspected attacks that remotely raised the temperature of refrigeration systems, destroying food. The incidents highlight the exposure of connected operational equipment whose software may no longer be supported.",
-      "link": "https://www.itpro.com/security/cyber-attacks/a-freezer-should-never-accept-an-instruction-to-heat-to-50-c-no-matter-who-sends-it-more-european-supermarkets-hit-by-suspected-cyber-attack",
+      "id": "g4585",
+      "title": "The blue wave puts tech’s right wing on the defensive",
+      "description": "The 2026 midterm elections dealt a major public setback to a technology industry that had moved closer to Republicans. The infrastructure needed for AI’s future, particularly data centers, is at the heart of the backlash.",
+      "link": "https://l.businessinsider.com/a/zc/21432/0712fcd37dd24fa2b40f894f2ba4529b/81926d2af08e4071b57870baa049aa4c",
       "sources": [
-        "TLDR IT",
-        "Vision IA"
+        "Business Insider"
       ],
-      "received_at": "2026-11-04T13:50+00:00",
-      "covered_by": 2,
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g4623",
-      "title": "OpenAI Plans to Merge Chat and Work Spaces in ChatGPT",
-      "description": "OpenAI is preparing to merge Chat and Work tabs in ChatGPT within a single platform, while Codex would remain separate with a shared usage quota. The company has also added voice chat to its personal finance tool, and an enigmatic message hints at a new model.",
-      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-04T12:14+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g4586",
-      "title": "Tesla and SpaceX Fall More Than 4% Before the Open",
-      "description": "Tesla and SpaceX shares fell more than 4% in premarket trading after the election results.",
-      "link": "https://www.businessinsider.com/tesla-spacex-shares-drop-elon-musk-election-bet-backfires-2026-11",
+      "id": "g4712",
+      "title": "A small North Dakota town supports data centers",
+      "description": "A small North Dakota town is the only place described as having voted in favor of data centers.",
+      "link": "https://www.businessinsider.com/ai-data-center-backlash-vote-election-harwood-north-dakota-2026-11",
       "sources": [
         "Business Insider"
       ],
-      "received_at": "2026-11-04T11:25+00:00",
+      "received_at": "2026-11-05T12:14+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
+      "followed_topic": null
     },
     {
-      "id": "g4590",
-      "title": "Companies Assess Democratic Impact on AI and Data Centers",
-      "description": "Business and tech leaders are already assessing what Democratic control could change for artificial intelligence, data centers, and their access to Washington.",
-      "link": "https://www.businessinsider.com/business-tech-leaders-react-midterms-elections-results-2026-11",
+      "id": "g4713",
+      "title": "Neocloud stocks fall after the U.S. elections",
+      "description": "Shares of CoreWeave, Nebius and Iren fell, while the technology sector overall ended the session higher. A slowdown among AI companies could nevertheless reduce the risk of supply exceeding demand.",
+      "link": "https://www.businessinsider.com/midterms-blue-wave-neocloud-stocks-data-centers-coreweave-nebius-iren-2026-11",
       "sources": [
         "Business Insider"
       ],
-      "received_at": "2026-11-04T11:25+00:00",
+      "received_at": "2026-11-05T12:14+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4598",
-      "title": "Claude Code Executive Leaves Anthropic Before Its IPO",
-      "description": "Cat Wu, who helped turn Claude Code from a prototype into a successful product, left Anthropic a few weeks before its expected IPO. She did not specify the reasons for her departure.",
-      "link": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+      "id": "g4714",
+      "title": "California’s billionaire wealth tax is in trouble",
+      "description": "Early results from Proposition 40 show a clear lead for the “no” vote. The final count is not yet known.",
+      "link": "https://www.businessinsider.com/california-billionaire-tax-proposition-40-results-2026-11",
       "sources": [
         "Business Insider"
       ],
-      "received_at": "2026-11-04T11:25+00:00",
+      "received_at": "2026-11-05T12:14+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
+      "followed_topic": null
     },
     {
-      "id": "g4571",
-      "title": "Spy Recorder Discovered in an OpenAI Conference Room",
-      "description": "Security personnel from the U.S. Department of Justice discovered an audio recorder hidden behind a television in an OpenAI conference room. The company says it identified the responsible employee using its own AI models; the employee was fired and indicted.",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "id": "g4715",
+      "title": "U.S. futures are mixed ahead of the jobs report",
+      "description": "U.S. stock futures were moving in different directions on Thursday. Investors are assessing the post-election rebound ahead of Friday’s jobs report.",
+      "link": "https://l.businessinsider.com/a/zc/21432/0712fcd37dd24fa2b40f894f2ba4529b/5959d9c2ef9f46a6b8ad1f1ef8db57ed",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4716",
+      "title": "A rare recession indicator has flashed",
+      "description": "The S&P 500’s forward price-to-earnings ratio, an indicator that has historically appeared around recessions, has fallen sharply. In most years when this ratio dropped significantly, the United States was in a recession or a bear market.",
+      "link": "https://www.businessinsider.com/stock-market-sp500-recession-signal-pe-ratio-decline-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4717",
+      "title": "The skills that matter most on Wall Street in the AI era",
+      "description": "AI is changing the qualities that help people stand out when starting on Wall Street. Business Insider’s Rising Stars explain which skills to develop as AI automates an increasing share of the work.",
+      "link": "https://www.businessinsider.com/wall-street-rising-stars-career-advice-skills-ai-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4718",
+      "title": "The blue wave could benefit markets through political gridlock",
+      "description": "Democratic victories in Congress could create political gridlock that has historically been favorable to markets. They will also affect AI-related stocks, the war in Iran and the deficit.",
+      "link": "https://www.businessinsider.com/election-market-impact-ai-data-centers-iran-oil-inflation-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4305",
+      "title": "Robots are transforming the work of Ukrainian frontline soldiers",
+      "description": "Robots now perform tasks that previously exposed soldiers to danger, such as transporting ammunition or evacuating troops from the combat zone. Several Ukrainian service members describe a war that is becoming increasingly robotic.",
+      "link": "https://l.businessinsider.com/a/zc/21432/732e1a60ce5f4f6cb2f3f9d55979b40b/cdb053afa28149628250f376ec1221f5",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4721",
+      "title": "Delays threaten Microsoft’s AI data-center partners",
+      "description": "Microsoft cut its annual capital-spending forecast by 5 billion dollars, with its CFO citing delays at third-party cloud providers, among other factors. Satellite analysis suggests that two data-center projects could be affected.",
+      "link": "https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4722",
+      "title": "Executives are beginning to regret forcing AI on their employees",
+      "description": "After pushing employees to adopt AI, executives are confronting an abundance of bland, low-quality content resulting from their own policies.",
+      "link": "https://l.businessinsider.com/a/zc/21432/732e1a60ce5f4f6cb2f3f9d55979b40b/5ad471b8250b4fb8b1435cfd83f1341d",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4723",
+      "title": "Canva offers support to more than 1,200 laid-off employees",
+      "description": "Canva is offering more than 1,200 departing employees interview preparation, LinkedIn Premium, access to its network and the opportunity to apply for 10,000-dollar grants to start a startup. Verizon and Chevron have also introduced reskilling programs.",
+      "link": "https://www.businessinsider.com/companies-help-finding-next-job-canva-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4724",
+      "title": "Good Good’s former marketing director sues the company for defamation",
+      "description": "Jeff Lefkovits, Good Good’s former marketing director, claims he was made a scapegoat after the advertising fiasco. He is seeking more than 1 million dollars from the company and its former executive.",
+      "link": "https://www.businessinsider.com/ousted-good-good-marketer-defamation-suit-callaway-ad-aftermath-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4725",
+      "title": "The nanny killed in the Learjet crash had a degree in biomedical engineering",
+      "description": "The nanny who died in the Learjet crash had earned a degree in biomedical engineering.",
+      "link": "https://www.businessinsider.com/ana-maria-ramirez-cetina-nanny-killed-in-learjet-crash-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4726",
+      "title": "Grocery retailers oppose the DoorDash–Instacart deal",
+      "description": "Food retailers are challenging the agreement reached between DoorDash and Instacart.",
+      "link": "https://www.businessinsider.com/doordash-instacart-deal-worries-small-grocers-over-power-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4727",
+      "title": "Seasonal retail jobs are leaving store floors",
+      "description": "Temporary holiday-season jobs are gradually moving away from the sales floor.",
+      "link": "https://www.businessinsider.com/holiday-retail-jobs-are-moving-away-from-the-sales-floor-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4728",
+      "title": "Zohran Mamdani’s pied-à-terre tax clears a legal hurdle",
+      "description": "The pied-à-terre tax backed by New York Mayor Zohran Mamdani won an important victory in court.",
+      "link": "https://www.businessinsider.com/nyc-appeals-court-ruling-pied-a-terre-tax-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4730",
+      "title": "Barry Diller advises Hollywood to stop chasing Netflix",
+      "description": "Barry Diller believes Hollywood should stop trying to imitate or catch up with Netflix.",
+      "link": "https://www.businessinsider.com/barry-diller-netflix-skydance-youtube-streaming-hollywood-interivew-kafka-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4731",
+      "title": "The Learjet crash prompts public figures to rethink private aviation",
+      "description": "The fatal Learjet crash is prompting some wealthy public figures to reconsider traveling by private jet.",
+      "link": "https://www.businessinsider.com/learjet-crash-elites-reconsidering-private-air-travel-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4732",
+      "title": "Elon Musk deleted his message urging people to vote Republican",
+      "description": "The “vote red” message posted by Elon Musk disappeared after Election Day.",
+      "link": "https://www.businessinsider.com/elon-musk-vote-red-x-post-deleted-election-day-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T12:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4699",
+      "title": "Uber’s AI agents booked only four rides during Halloween",
+      "description": "During Halloween week, AI agents booked only four Uber rides and around 500 food orders, out of roughly 320 million rides and orders. The CEO believes adoption remains very limited, in part because booking manually takes about 50 seconds.",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
       "sources": [
         "The Neuron"
       ],
-      "received_at": "2026-11-04T10:34+00:00",
+      "received_at": "2026-11-05T11:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4573",
-      "title": "Claude Reaches One-Fifth of Google’s Search Volume",
-      "description": "OpenAI claims that ChatGPT handles approximately one-fifth of Google’s search-type queries. The number of weekly users reportedly rose from 1 to 1.2 billion in about 60 days.",
-      "link": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+      "id": "g4701",
+      "title": "Meta acquires Conductor, a specialist in coordinating coding agents",
+      "description": "Meta acquired Conductor, a startup whose interface directs multiple programming agents simultaneously. Its hosted service is scheduled to shut down on November 20.",
+      "link": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
       "sources": [
         "The Neuron"
       ],
-      "received_at": "2026-11-04T10:34+00:00",
+      "received_at": "2026-11-05T11:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4577",
-      "title": "Anthropic Says Claude Speeds Up Custom Chip Design",
-      "description": "Anthropic told investors before its IPO that Claude was helping its 15-person chip team design custom silicon more quickly. The claim is based on its own estimates.",
-      "link": "https://aiweekly.co/alerts/anthropic-tells-ipo-investors-claude-helps-design-its-chips",
+      "id": "g4703",
+      "title": "AI-linked PACs spend millions in the midterms",
+      "description": "AI-focused political action committees spent millions during the midterm elections, with mixed results. They spent 4.8 million dollars on a South Carolina Senate candidate who lost, among other expenditures.",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "sources": [
         "The Neuron"
       ],
-      "received_at": "2026-11-04T10:34+00:00",
+      "received_at": "2026-11-05T11:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
+      "followed_topic": null
     },
     {
-      "id": "g4539",
-      "title": "AI Agents Operate a SETI Telescope",
-      "description": "The SETI Institute and Breakthrough Listen are using AI agents to operate the Allen Telescope Array and analyze radio signals live. Tasks that previously took several weeks are completed in a few hours, with a first real-time detection of a known pulsar.",
-      "link": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+      "id": "g4704",
+      "title": "Nothing will launch an AI product without a new screen in December",
+      "description": "Nothing CEO Carl Pei announced that the company’s first product designed natively around AI would launch in December. He said it would not have a new screen.",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
       "sources": [
-        "Vision IA"
+        "The Neuron"
       ],
-      "received_at": "2026-11-04T10:03+00:00",
+      "received_at": "2026-11-05T11:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Astronomie et astrophysique"
+      "followed_topic": null
     },
     {
-      "id": "g4540",
-      "title": "A Codex Setting Could Allow Training on Your Conversations",
-      "description": "A user claims that the “Improve the model for everyone” option was re-enabled on their account, which could allow OpenAI to use their Codex conversations to train its models. The report is unconfirmed, but the option and the “Include environments” setting can be checked separately.",
-      "link": "https://news.ycombinator.com/item?id=50352757",
+      "id": "g4705",
+      "title": "Asian AI-related stocks plunge",
+      "description": "Asian AI-related stocks fell, with SoftBank down 5.3%, Tokyo Electron down 7.7% and Advantest down 9.4%.",
+      "link": "https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e",
       "sources": [
-        "Vision IA"
+        "The Neuron"
       ],
-      "received_at": "2026-11-04T10:03+00:00",
+      "received_at": "2026-11-05T11:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4544",
-      "title": "GPT-6 Astra Reportedly Designed a Complete Device in Less Than a Week",
-      "description": "OpenAI’s hardware team used GPT-6 Astra to design a device intended for Codex, from the casing to the embedded software and printed circuit board. Several corrections were needed, partly because the model did not always account for manufacturing tolerances.",
-      "link": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+      "id": "g4706",
+      "title": "Moonshot releases the open weights of its Kimi K3.1 Pro model",
+      "description": "Moonshot released Kimi K3.1 Pro with open, downloadable weights, text and image understanding, and a one-million-token memory. The model is distributed under a custom license and can be tried on HuggingChat.",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "sources": [
-        "Vision IA"
+        "The Neuron"
       ],
-      "received_at": "2026-11-04T10:03+00:00",
+      "received_at": "2026-11-05T11:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4549",
-      "title": "OpenAI Introduces LifeVal, an AI Test for Everyday Tasks",
-      "description": "LifeVal measures an AI’s ability to make appointments, shop for groceries, or fill out administrative forms. The test’s areas are based in part on a survey of 4,000 people and have been used internally by OpenAI for a year.",
-      "link": "https://openai.com/index/lifeval/",
+      "id": "g4707",
+      "title": "Apple opens the Apple Intelligence developer beta in China",
+      "description": "Apple opened an Apple Intelligence developer beta in China featuring Writing Tools, Genmoji and a version of Siri powered by Qwen. A public release is planned for December.",
+      "link": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/",
       "sources": [
-        "Vision IA"
+        "The Neuron"
       ],
-      "received_at": "2026-11-04T10:03+00:00",
+      "received_at": "2026-11-05T11:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4563",
-      "title": "OpenAI May Be Wary of Jensen Huang’s Influence",
-      "description": "Silicon Valley figures are concerned about Nvidia chief Jensen Huang’s financial and political power, as well as his control over access to AI chips. OpenAI is reportedly avoiding taking a public position on chip sales to China to avoid upsetting its supplier.",
-      "link": "https://www.theinformation.com/newsletters/ai-agenda/openai-afraid-jensen-huang",
+      "id": "g4687",
+      "title": "True leaders need champions and partners",
+      "description": "The editorial argues that true leaders do not need consultants, but champions and partners.",
+      "link": "https://us.list-manage.com/q2ltY29NgJ0?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
       "sources": [
-        "Vision IA"
+        "Republic of Innovation"
       ],
-      "received_at": "2026-11-04T10:03+00:00",
+      "received_at": "2026-11-05T10:06+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4565",
-      "title": "Uber President Joins OpenAI to Lead Communications",
-      "description": "Jill Hazelbaker, who previously worked at Google and Snap, will lead OpenAI’s global communications and brand strategy. She will be tasked with stabilizing a team marked by several executive departures ahead of a possible IPO.",
-      "link": "https://www.theinformation.com/articles/ubers-jill-hazelbaker-join-openai-chief-corporate-affairs-officer",
+      "id": "g4688",
+      "title": "The Lake Geneva region surpasses Zurich in economic clout",
+      "description": "According to new estimates from the Swiss Federal Statistical Office, Switzerland’s economic map has been redrawn, with the Lake Geneva region now surpassing Zurich in economic clout.",
+      "link": "https://us.list-manage.com/uGVM9uIbFph?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
       "sources": [
-        "Vision IA"
+        "Republic of Innovation"
       ],
-      "received_at": "2026-11-04T10:03+00:00",
+      "received_at": "2026-11-05T10:06+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4568",
-      "title": "Fal Doubles Its Valuation in Seven Months on Generative AI Demand",
-      "description": "Fal’s valuation rose from $8 billion to $16 billion since April, following a $1.3 billion funding round led by Bessemer Venture Partners. Its annualized revenue exceeded $800 million, despite low margins caused by the cost of computing.",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "id": "g4690",
+      "title": "Scientific debate over AI consciousness intensifies",
+      "description": "The possibility that artificial intelligences may one day possess a form of consciousness is the subject of growing scientific debate.",
+      "link": "https://us.list-manage.com/1A6sVoj9u7v?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
       "sources": [
-        "Vision IA"
+        "Republic of Innovation"
       ],
-      "received_at": "2026-11-04T10:03+00:00",
+      "received_at": "2026-11-05T10:06+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4686",
-      "title": "Democratic Wave Pushes Back Against Tech Right",
-      "description": "The Democratic victories recorded on election night were fueled by opposition to data centers. They also represented a rejection of Silicon Valley elites and their vision of the future.",
-      "link": "https://l.businessinsider.com/a/zc/21432/f310f05aafe6481cb220a500c981bc4f/a59a55fe61ab43ceb4fb788c4b297fd6",
+      "id": "g4691",
+      "title": "Ancient retroviruses may have differentiated human and chimpanzee brains",
+      "description": "Retroviral infections occurring millions of years ago may have contributed to differentiating human and chimpanzee brains.",
+      "link": "https://us.list-manage.com/aLRpeVBO5Cs?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
       "sources": [
-        "Business Insider"
+        "Republic of Innovation"
       ],
-      "received_at": "2026-11-04T21:09+00:00",
+      "received_at": "2026-11-05T10:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4693",
+      "title": "Brain–machine interface reveals consciousness in unresponsive patients",
+      "description": "In intensive-care patients with acute brain injuries who were clinically unable to respond, a brain–machine interface revealed hidden consciousness.",
+      "link": "https://us.list-manage.com/1B_WKtI1WE4?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
+      "sources": [
+        "Republic of Innovation"
+      ],
+      "received_at": "2026-11-05T10:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4695",
+      "title": "Japan performs first post-approval iPS cell transplant for Parkinson’s",
+      "description": "Japan has carried out its first post-approval iPS cell transplant as part of the treatment of Parkinson’s disease.",
+      "link": "https://us.list-manage.com/4CsvPrh0cvx?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
+      "sources": [
+        "Republic of Innovation"
+      ],
+      "received_at": "2026-11-05T10:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4696",
+      "title": "LHC collides oxygen to study the early Universe",
+      "description": "CERN’s Large Hadron Collider has carried out oxygen collisions for the first time to probe the Universe’s earliest moments.",
+      "link": "https://us.list-manage.com/RFYg0Nv0yxu?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
+      "sources": [
+        "Republic of Innovation"
+      ],
+      "received_at": "2026-11-05T10:06+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -441,10 +737,10 @@
       "followed_topic": null
     },
     {
-      "id": "g4659",
-      "title": "U.S. Voters Reject Dozens of AI Data Centers",
-      "description": "During the midterm elections, U.S. voters approved 33 measures limiting AI data center projects, while six others were leading. The measures range from permanent bans to moratoriums and power limits.",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+      "id": "g4556",
+      "title": "Apple Opens Siri’s AI to All Apps",
+      "description": "Apple now allows app developers to integrate their content and actions with Siri through a developer preview. Integrations could include checking a delivery, booking a service, or combining multiple actions.",
+      "link": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
       "sources": [
         "Techpresso"
       ],
@@ -458,6 +754,19 @@
       "title": "Nvidia Will Be Able to Fulfill Only 1% of Chinese GPU Orders",
       "description": "Over the coming months, Nvidia will deliver only about 1% of the RTX Pro 5500 GPUs ordered by Chinese companies such as ByteDance, Alibaba, and Tencent. Demand reportedly amounts to about $70 billion, far exceeding current production capacity.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4616",
+      "title": "Revolut Cuts AI Coding Costs Tenfold by Dropping Claude",
+      "description": "UK fintech Revolut is reducing its AI-related coding costs by eliminating Claude and hosting its models itself.",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
       "sources": [
         "Techpresso"
       ],
@@ -493,8 +802,34 @@
       "followed_topic": null
     },
     {
-      "id": "g4673",
-      "title": "Neuralink’s Chinese Rival Targets Obesity with an Electronic GLP-1",
+      "id": "g4553",
+      "title": "Data Centers Turn to Former Jet Engines to Generate Power",
+      "description": "Data centers are using former jet engines as power-access wait times grow longer.",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4053",
+      "title": "Hackers Used Fake Job Interviews in a $6.3 Billion Heist",
+      "description": "Hackers used fake job interviews to organize a $6.3 billion theft targeting Binance.",
+      "link": "https://www.siliconrepublic.com/enterprise/hackers-used-fake-job-interviews-to-stage-6-3bn-binance-heist",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4609",
+      "title": "Neuralink’s Chinese rival targets obesity with an electronic GLP-1",
       "description": "Neuralink’s Chinese rival is seeking to treat obesity with an electronic GLP-1 treatment.",
       "link": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzc2NjIyOSwiZXhwIjoxNzk0MzcxMDI5LCJhcnRpY2xlSWQiOiJUTldWU0JLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9._EOYJORteRaZpC1kV0zdY39mi4h074JYQDhJGzPJJ38",
       "sources": [
@@ -510,6 +845,19 @@
       "title": "Microsoft Reveals Its Plan to Avoid a Windows 11 RAM Crisis",
       "description": "Microsoft is preparing a plan intended to avoid Windows 11 RAM problems.",
       "link": "https://gizmodo.com/microsoft-windows-11-ram-solutions-2000834370",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-04T17:47+00:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4560",
+      "title": "Canva Cuts Jobs, Affecting 22% of Its Workforce",
+      "description": "Canva’s first layoffs affect 22% of its staff, in what the company describes as its most difficult moment.",
+      "link": "https://thenextweb.com/news/canva-restructure-1271-jobs-22-percent-layoffs",
       "sources": [
         "Techpresso"
       ],
@@ -605,19 +953,6 @@
         "GPT Central"
       ],
       "received_at": "2026-11-04T17:31+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4584",
-      "title": "Elon Musk’s failure in Texas despite his campaign spending",
-      "description": "Elon Musk, the biggest donor in the 2026 midterm elections, gave at least 446 million dollars, about half of it in Texas. The state nevertheless shifted to the Democratic camp.",
-      "link": "https://l.businessinsider.com/a/zc/21432/c20d356c52244e04b07e36246e0269d5/911b3b0b00bd491d809ffa5d4955a8e0",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T15:55+00:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -805,6 +1140,19 @@
       "followed_topic": null
     },
     {
+      "id": "g4365",
+      "title": "Suspected Cyberattacks Destroy Food in European Supermarkets",
+      "description": "More than 40 supermarkets across seven countries were affected by suspected attacks that remotely raised the temperature of refrigeration systems, destroying food. The incidents highlight the exposure of connected operational equipment whose software may no longer be supported.",
+      "link": "https://www.itpro.com/security/cyber-attacks/a-freezer-should-never-accept-an-instruction-to-heat-to-50-c-no-matter-who-sends-it-more-european-supermarkets-hit-by-suspected-cyber-attack",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-04T13:50+00:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g4630",
       "title": "Does AI save time or make work take longer?",
       "description": "The latest ActivTrak research links intensive AI use to longer workdays, shorter focus periods and more app switching. Differences between the samples and measurement limitations make the results difficult to compare.",
@@ -917,708 +1265,6 @@
         "Pascal Bornet"
       ],
       "received_at": "2026-11-04T12:39+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4622",
-      "title": "Steve Aoki launches Archon, a video model that automates editing",
-      "description": "Startup Selendis, founded by DJ Steve Aoki and industry experts, introduced Archon, a video model that turns raw footage into finished edits. The tool reportedly learns the user’s editing style, and its early access now has an open waitlist.",
-      "link": "https://archive.superhuman.ai/2117663093194998089",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-04T12:14+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4624",
-      "title": "Seedance 2.5 lets you create impossible stunt videos with your own face",
-      "description": "The tutorial explains how to use Higgsfield and Seedance 2.5 to generate a stunt video by providing two to five reference photos and, optionally, a video clip. It recommends checking facial consistency, movement and framing before generating the final version.",
-      "link": "https://higgsfield.ai/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-04T12:14+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4625",
-      "title": "Smaller models can outperform frontier models at lower cost",
-      "description": "Research cited in the newsletter shows that increasing reasoning effort can fail on some tasks while costing up to 42 times more. Several companies get better results by tuning small models to their needs and evaluating them with internal tests.",
-      "link": "https://arxiv.org/pdf/2610.34491",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-04T12:14+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4609",
-      "title": "BrainCo is developing a brain device for obesity",
-      "description": "Chinese company BrainCo is developing a wearable device that would reduce appetite by stimulating the brain. It aims to commercialize it in China within the next two to three years, before potentially expanding to the United States.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzc2NjIyOSwiZXhwIjoxNzk0MzcxMDI5LCJhcnRpY2xlSWQiOiJUTldWU0JLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9._EOYJORteRaZpC1kV0zdY39mi4h074JYQDhJGzPJJ38",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4610",
-      "title": "Longevity moves from biohacking into mainstream culture",
-      "description": "The movement of biohackers and people taking greater control of their longevity became more mainstream with the COVID-19 pandemic and AI chatbots. Companies that help individuals take action and manage their health over time could benefit from the sector’s biggest opportunities.",
-      "link": "https://www.a16z.news/p/the-state-of-longevity",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4611",
-      "title": "AI speeds up software development but creates new constraints",
-      "description": "AI-native startups can ship even faster than pre-AI startups, at the cost of a higher risk of breakage. New constraints include context switching, loss of shared context, pace, design and the limits of AI plans.",
-      "link": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4612",
-      "title": "Interpolative software is easy to produce with AI models",
-      "description": "Interpolative software exists in models’ training distribution and can often be specified in a few sentences. Novel software that has never existed before remains difficult to create with agents, even though most software is not novel.",
-      "link": "https://benjamincongdon.me/blog/2026/11/02/Interpolative-Software/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4614",
-      "title": "The angel investor business model is deteriorating",
-      "description": "Angel investing has become less attractive, with some investors finding it more profitable to create a fund. Startups move faster, and angel investors are often squeezed out by valuations.",
-      "link": "https://zachholman.com/posts/angel-investor-death",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4615",
-      "title": "SaaS company growth reversed in October",
-      "description": "The median SaaS company’s revenue grew by 0.20% in September before falling by 0.41% the following month.",
-      "link": "https://mackgrenfell.com/writing/saas-growth-2026",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4617",
-      "title": "Namespace deploys Macs at scale for macOS and Xcode",
-      "description": "Namespace is showcasing custom Mac rack construction, macOS instances that boot in seconds and new Xcode versions made available within hours of Apple’s release.",
-      "link": "https://namespace.so/blog/mac-at-any-scale",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4618",
-      "title": "The true cost of tokens may be lower than the prices charged",
-      "description": "The cost of operating servers appears to be significantly lower than the prices providers charge when their capacity is heavily utilized.",
-      "link": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4619",
-      "title": "Safari adapts light websites to offer a dark mode",
-      "description": "Safari’s adaptive dark mode transforms websites designed in light mode to display them in dark mode.",
-      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4620",
-      "title": "How software jobs have evolved since the 1940s",
-      "description": "This article traces the evolution of job titles in software, from the 1940s to today.",
-      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-04T12:06+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4585",
-      "title": "Tech leaders react badly to Democratic victory",
-      "description": "Texas has turned Democratic, disappointing several tech entrepreneurs. The election result sparked strong reactions among the “tech bros.”",
-      "link": "https://www.businessinsider.com/texas-went-blue-tech-bros-democrats-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4587",
-      "title": "Cost of living weighed on US midterm elections",
-      "description": "High prices and the cost of living helped shape the US midterm elections.",
-      "link": "https://www.businessinsider.com/inflation-and-cost-of-living-shaped-2026-midterm-voter-priorities-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4588",
-      "title": "Trump says voters support Iran policy, but not gas prices",
-      "description": "Donald Trump says voters can support his Iran policy while rejecting the amount of their gas bills.",
-      "link": "https://www.businessinsider.com/trump-midterm-voters-democrats-win-willing-pay-gas-iran-war-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4589",
-      "title": "Democratic control reshuffles the deck in Washington",
-      "description": "The election result upends the balance of power in Washington, creating winners and losers in the business world.",
-      "link": "https://www.businessinsider.com/winners-losers-midterm-elections-elon-musk-ai-datacenters-billionaires-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4591",
-      "title": "DEI’s return becomes a meme after Democratic victory",
-      "description": "Online, diversity, equity, and inclusion appear to be returning as a meme rather than as policy. Some are wondering whether workplace policy will change.",
-      "link": "https://www.businessinsider.com/midterms-show-democratic-gains-hint-at-dei-potential-return-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4592",
-      "title": "Boulder authorizes Airbnb rentals for four weeks during Sundance",
-      "description": "Boulder is temporarily lifting its ban on most short-term rentals so residents can rent out their homes for four weeks in January and February. The measure accompanies the arrival of the Sundance Film Festival, while the city expects about 100,000 visitors but has only 3,000 hotel rooms.",
-      "link": "https://l.businessinsider.com/a/zc/21432/2c6e431159c64daebb3330843dd7512d/997eaf933afb4fa59be0ccd1959907a0",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4593",
-      "title": "Gold is down 29% from its January peak",
-      "description": "The precious metal has fallen about 29% from its January high. Analysts explain the causes of this unusual decline as stocks are also falling.",
-      "link": "https://l.businessinsider.com/a/zc/21432/fa56e749bc264be2b9caf9742aa3de25/d2aed570f12d42eaa8e56cbde7f63d2f",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4594",
-      "title": "Investment chief recommends eight AI-related stocks",
-      "description": "David Katz, chief investment officer at Matrix Asset Advisers, believes the sell-off in AI-related stocks is over. He sees the decline as a buying opportunity and shared eight stocks he would buy.",
-      "link": "https://www.businessinsider.com/ai-stocks-to-buy-the-dip-gnrc-amat-meta-msft-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4595",
-      "title": "Ken Griffin’s Citadel fund gains 1.7% in October",
-      "description": "Most major managers lost money in October, which included one of the worst days for hedge funds since the pandemic. Ken Griffin’s Citadel fund, however, gained 1.7%.",
-      "link": "https://www.businessinsider.com/october-multistrategy-hedge-fund-performance-citadel-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4435",
-      "title": "Couple killed in Learjet crash in Florida",
-      "description": "Rachael Reed and Charmi Fehr met at a hostel in Peru in 2019 before falling in love and opening a boutique hotel in Honduras. They died Sunday in a plane crash in Florida.",
-      "link": "https://www.businessinsider.com/rachael-reed-charmi-fehr-learjet-crash-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4600",
-      "title": "Cava CEO describes a day centered on Mediterranean cuisine",
-      "description": "Brett Schulman has led the Mediterranean restaurant chain Cava for 15 years. He shared a typical day, from latte art to a daily Cava bowl.",
-      "link": "https://www.businessinsider.com/day-in-the-life-of-ceo-cava-brett-schulman-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4601",
-      "title": "Chipotle’s chief operating officer shares four leadership tips",
-      "description": "Jason Kidd, Chipotle’s chief operating officer, visits about twelve restaurants a week. He explains the four qualities he looks for in employees who may be promoted.",
-      "link": "https://www.businessinsider.com/chipotle-coo-shares-advice-problem-solving-skill-leaders-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4602",
-      "title": "New York City Marathon runner dies at 24",
-      "description": "A New York City Marathon runner died suddenly at age 24. Her family attributes her death to rhabdomyolysis, a rare risk even among fit athletes.",
-      "link": "https://www.businessinsider.com/rhabdomyolysis-risks-symptoms-nyc-marathon-death-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4604",
-      "title": "Students launch legal startup during exam week",
-      "description": "Students created a legal technology startup during their exam week. Their business now takes priority over their studies.",
-      "link": "https://www.businessinsider.com/college-students-singapore-legal-tech-startup-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4605",
-      "title": "Photos from the 2026 New York City Marathon capture race highlights",
-      "description": "A selection of photos revisits the 2026 New York City Marathon, from celebrity appearances to record-setting finishes.",
-      "link": "https://www.businessinsider.com/see-best-photos-2026-nyc-marathon-celebrities-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4606",
-      "title": "Bill Ackman expects hyperscaler revenue to beat forecasts",
-      "description": "Bill Ackman believes AI hyperscalers’ revenue will far exceed forecasts, despite growing concerns about their capital spending.",
-      "link": "https://www.businessinsider.com/bill-ackman-stock-picks-ai-hyperscalers-revenue-amzn-msft-meta-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-04T11:25+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4574",
-      "title": "Anthropic aims to double computing capacity to 7 GW",
-      "description": "Anthropic plans to increase its computing capacity from 3.5 GW to about 7 GW next year. According to the New York Times, that electricity consumption would equal that of all Chicago households.",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-targets-doubling-computing-capacity-to-7-gigawatts-next-year-nyt-report-4994999",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-04T10:34+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4575",
-      "title": "Apple warns its AI agents could act without authorization",
-      "description": "In its annual report, Apple says AI agents could act unintentionally or unpredictably, including by carrying out transactions without the proper authorizations.",
-      "link": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-04T10:34+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4576",
-      "title": "EU court adviser says chatbots can violate publishers’ rights",
-      "description": "An adviser to the European Union’s highest court says chatbots can infringe publishers’ rights by reusing copyrighted content. The opinion concerns a case involving Google Gemini and is nonbinding.",
-      "link": "https://www.reuters.com/world/googles-use-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-2026-11-03/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-04T10:34+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4578",
-      "title": "Laid-off workers in AI-exposed sectors take longer to find jobs",
-      "description": "Goldman Sachs found that workers likely to be replaced by AI in 2025 took about one month longer to find a new job than other laid-off employees.",
-      "link": "https://www.axios.com/2026/11/03/ai-employment-technology-goldman-sachs",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-04T10:34+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4581",
-      "title": "CrowdStrike launches kill switch for unauthorized AI agents",
-      "description": "CrowdStrike’s feature stops an unauthorized AI agent in real time and prevents it from operating again within the organization. Endpoint deployment is planned for later.",
-      "link": "https://ir.crowdstrike.com/node/17961/pdf",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-04T10:34+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4582",
-      "title": "Anthropic experiment shows analysts follow an AI’s random preferences",
-      "description": "Anthropic randomly assigned an agent a preference between two defensible options and then observed 50 analysts. They followed their agent’s preference in 86% of the decisions studied.",
-      "link": "https://www.anthropic.com/research/agents-judgment-calls",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-04T10:34+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4541",
-      "title": "Claude responds 35% faster in very long conversations",
-      "description": "Anthropic is rolling out Message Threads in public beta. The feature cuts the time to the first token by about 35% for requests of 500,000 to 1 million tokens, without reducing token usage.",
-      "link": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4206",
-      "title": "Google satellite sends an AI-written haiku from orbit",
-      "description": "The prototype satellite Project Suncatcher received a prompt while flying over Svalbard, then Gemma 4 composed a haiku about space. Google plans to test the chips’ resilience before launching two interconnected satellites in 2027.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4479",
-      "title": "Colibrì runs a 744-billion-parameter model with 25 GB of RAM",
-      "description": "This engine written entirely in C runs the Chinese GLM-5.2 model on consumer hardware. Only about 40 billion parameters are active for each generated word, and the model core fits in about 9.9 GB of RAM.",
-      "link": "https://github.com/JustVugg/colibri",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4545",
-      "title": "44% of highly cited LLM claims are already outdated",
-      "description": "Stanford researchers tested 50 claims across 20 current models: 44% no longer hold, and 34% have substantially lost validity. Their average lifespan is 15.7 months.",
-      "link": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4546",
-      "title": "Google DeepMind adds chemistry skills to Antigravity",
-      "description": "In an example involving lung cancer treatments, an agent examined thousands of compounds and proposed new molecules with their synthesis routes in about an hour. Deterministic tools such as RDKit are used to limit errors.",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4547",
-      "title": "IBM introduces Palette, a small open model for creating presentations",
-      "description": "This open 20-billion-parameter model can be self-hosted and generates presentations according to a visual identity. A designer role plans the slides, and a coder role produces them.",
-      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4550",
-      "title": "StateBench highlights large models’ difficulties with long documents",
-      "description": "The Allen AI benchmark evaluates models’ ability to track changes in a text. Several large models falter on difficult cases as documents grow longer, while recurrent and hybrid models generalize better.",
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4551",
-      "title": "An “inverse game theory” approach to better control AI agents",
-      "description": "This approach seeks to design rules that encourage models to behave well rather than examine their internal workings. It has attracted interest after several cases of models concealing their intentions or deceiving evaluators.",
-      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4552",
-      "title": "Kairos offers an open-source antifraud tool controllable by AI agents",
-      "description": "Finic is launching an open-source alternative to Sift and Sardine for assessing fraud risk in real time. An MCP server allows Claude Code, Cursor, or Codex to create decision workflows and train models.",
-      "link": "https://github.com/finic-ai/kairos",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4554",
-      "title": "Images showing Jeff Bezos with hair are fake",
-      "description": "Images showing Jeff Bezos and Jason Statham with full heads of hair are circulating across several social networks. The Verge confirms they are composites but cannot determine whether AI was used to create them.",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4555",
-      "title": "Google will disable its AI by default for students",
-      "description": "Gemini, NotebookLM, and Gemini in Classroom will be disabled by default for students unless administrators enable them. Schools that completely block AI will also lose Google Search, while Google is launching Guided Learning.",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4558",
-      "title": "Sonos opens voice assistant early access on November 6",
-      "description": "Sonos 27voice understands natural language, controls playback and compatible devices, sets timers, and answers general questions. Access is limited to the United States and English, subject to approval.",
-      "link": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4520",
-      "title": "Nvidia asks cloud providers to reduce business with China",
-      "description": "Nvidia reportedly verbally asked some providers to take on fewer Chinese customers and identify who is actually using its chips. The nonmandatory guidance notably targets remote access to chips from data centers located abroad.",
-      "link": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4561",
-      "title": "European adviser says Gemini responses could be illegal",
-      "description": "A headline published by AI Secret claims that Gemini’s responses could constitute an offense. Because the accessible content is limited to a sign-up form, the nature of the offense and the adviser’s identity cannot be verified.",
-      "link": "https://aisecret.us/eu-adviser-says-gemini-answers-can-infringe/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4562",
-      "title": "Texas’s political shift could disrupt AI data centers",
-      "description": "The election of Democrats as governor and to the US Senate could create uncertainty for Texas’s AI data center sector. The concrete consequences for the industry and Elon Musk remain unclear.",
-      "link": "https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4566",
-      "title": "Palantir sharply increases revenue but shortens its contracts",
-      "description": "Palantir’s revenue reached 2.31 billion dollars, up 96% year over year. However, the value of contracts signed with US companies fell from 2.13 to 1.46 billion dollars in one quarter.",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4567",
-      "title": "AMD expects a sharp acceleration in revenue thanks to AI",
-      "description": "AMD expects its revenue to rise by around 66% year over year in the current quarter, followed by growth of more than 80% next year. These forecasts reflect continued strong demand for AI hardware.",
-      "link": "https://www.theinformation.com/briefings/amd-projects-rapid-revenue-acceleration-fourth-quarter",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4569",
-      "title": "Hidden AI-related commitments reach $3.2 trillion",
-      "description": "According to Nikkei Asia, AI-related commitments that major US tech companies do not carry directly on their balance sheets amount to around $3.2 trillion. This situation is increasingly worrying investors, particularly because of spending on data centers.",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4570",
-      "title": "Wall Street remains divided over a potential AI bubble burst",
-      "description": "Wall Street players disagree on the risks associated with AI, and no one can predict when a potential burst might occur. Doubts about the sector’s financial strength persist among major fund managers.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-04T10:03+00:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
