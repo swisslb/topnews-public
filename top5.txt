@@ -1,10 +1,10 @@
 # Top 5 news of the day — 2026-11-06
 
-Period: 2026-11-05T13:25+01:00 → 2026-11-06T13:25+01:00 · 122 news received
+Period: 2026-11-05T19:25+01:00 → 2026-11-06T19:25+01:00 · 128 news received
 
 ## 1. AI Stocks Fall After the U.S. Elections
 
-**Why it matters:** A 5.5% Nasdaq drop and sharp declines in AI-chip stocks show that investors are reassessing the pace and economics of data-center expansion after new local restrictions.
+**Why it matters:** The post-election 5.5% Nasdaq drop and sharp declines in AI infrastructure stocks show that resistance to data-center expansion is already affecting technology valuations and could constrain future computing capacity.
 
 The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.
 
@@ -12,29 +12,19 @@ The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double
 - Sources: Vision IA
 - Received: 2026-11-06T11:04+01:00
 
-## 2. Mira Murati’s startup targets a $5 billion funding round
+## 2. Anthropic Gives METR Internal Access to Measure AI Progress
 
-**Why it matters:** Thinking Machines Lab’s proposed $5 billion funding round at a $40 billion valuation would signal that private-market appetite for frontier-AI companies remains exceptionally strong despite growing concerns about AI spending.
+**Why it matters:** METR’s finding that AI capabilities on well-specified tasks are advancing roughly twice as fast as a year ago could materially change companies’ automation plans, risk assessments and investment timelines.
 
-Mira Murati’s AI startup, Thinking Machines Lab, is seeking to raise $5 billion at a $40 billion pre-money valuation. Accel is leading the round, which could more than triple the company’s valuation.
+Anthropic gave METR internal access, and the organization estimates that AI capabilities on well-specified tasks are advancing about twice as fast as they were a year ago.
 
-- Link: https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11
-- Sources: Business Insider
-- Received: 2026-11-06T12:15+01:00
-
-## 3. Baidu opens the files for its ERNIE 5.5 Flash base model
-
-**Why it matters:** Baidu’s release of a 280-billion-parameter, one-million-token-context model strengthens China’s open-model ecosystem and increases competitive pressure on Western AI providers.
-
-Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.
-
-- Link: https://ernie.baidu.com/release/ernie-5-5-flash-base/
-- Sources: The Neuron, Vision IA
+- Link: https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23
+- Sources: The Neuron
 - Received: 2026-11-06T12:08+01:00
 
-## 4. OpenAI launches GPT-6 Cyber, a model specialized in hacking
+## 3. OpenAI launches GPT-6 Cyber, a model specialized in hacking
 
-**Why it matters:** OpenAI’s specialized cyber model demonstrates rapidly improving AI-assisted vulnerability research while raising the stakes for defensive security, misuse controls and access restrictions.
+**Why it matters:** OpenAI’s specialized GPT-6 Cyber substantially improves automated vulnerability discovery and exploit development, raising the urgency of defensive security and responsible access controls.
 
 GPT-6 Cyber is a version of GPT-6 Astra designed to identify security vulnerabilities and write exploits. It scored 48.5% on ExploitGym, compared with 32.1% for GPT-5.6 Cyber, but access remains limited through Daybreak Red.
 
@@ -42,12 +32,22 @@ GPT-6 Cyber is a version of GPT-6 Astra designed to identify security vulnerabil
 - Sources: The Neuron, Vision IA
 - Received: 2026-11-06T12:08+01:00
 
-## 5. Anthropic signs its first licensing deal with the Associated Press
+## 4. Baidu opens the files for its ERNIE 5.5 Flash base model
 
-**Why it matters:** Anthropic’s first licensing agreement with the Associated Press suggests that major AI companies are shifting from broad fair-use claims toward negotiated deals with news publishers.
+**Why it matters:** Baidu’s release of a 280-billion-parameter, million-token-context model gives researchers and developers a powerful adaptable Chinese foundation model and intensifies global competition over open AI systems.
 
-Anthropic has reached an agreement with the Associated Press allowing Claude to display midterm election results with their sources. The decision marks a shift in position after the company invoked fair use to collect news content.
+Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.
 
-- Link: https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/
-- Sources: Vision IA, Techpresso
+- Link: https://ernie.baidu.com/release/ernie-5-5-flash-base/
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-06T12:08+01:00
+
+## 5. Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division
+
+**Why it matters:** China’s block on SoftBank’s acquisition of ABB’s robotics division underscores the strategic and geopolitical importance of industrial automation and the growing barriers to cross-border technology deals.
+
+China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.
+
+- Link: https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal
+- Sources: Vision IA
 - Received: 2026-11-06T11:04+01:00
