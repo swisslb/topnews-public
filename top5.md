@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-06
 
-Period: 2026-11-05T06:25+01:00 → 2026-11-06T06:25+01:00 · 97 news received
+Period: 2026-11-05T13:25+01:00 → 2026-11-06T13:25+01:00 · 122 news received
 
-## 1. Local opposition to data centers gains ground in the United States
+## 1. AI Stocks Fall After the U.S. Elections
 
-**Why it matters:** Local opposition to data centers is becoming a widespread political constraint, potentially limiting the power and computing capacity needed for AI expansion.
+**Why it matters:** A 5.5% Nasdaq drop and sharp declines in AI-chip stocks show that investors are reassessing the pace and economics of data-center expansion after new local restrictions.
 
-Nearly all local measures put to a vote opposing data centers have passed or are on track to pass, except in North Dakota. This political constraint could keep AI in a state of scarcity longer than expected.
+The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.
 
-- Link: https://stratechery.com/2026/ai-on-the-ballot/
-- Sources: TLDR, Business Insider
-- Received: 2026-11-05T18:05+01:00
+- Link: https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html
+- Sources: Vision IA
+- Received: 2026-11-06T11:04+01:00
 
-## 2. ChatGPT reportedly accounts for about 20% of Google’s search volume
+## 2. Mira Murati’s startup targets a $5 billion funding round
 
-**Why it matters:** If accurate, ChatGPT reaching roughly 20% of Google’s search volume would signal the most serious competitive threat to web search in decades.
+**Why it matters:** Thinking Machines Lab’s proposed $5 billion funding round at a $40 billion valuation would signal that private-market appetite for frontier-AI companies remains exceptionally strong despite growing concerns about AI spending.
 
-OpenAI Chief Product Officer Adam Fry says ChatGPT has reached about 20% of Google’s search volume. If accurate, the chatbot would be Google Search’s most serious challenger in decades.
+Mira Murati’s AI startup, Thinking Machines Lab, is seeking to raise $5 billion at a $40 billion pre-money valuation. Accel is leading the round, which could more than triple the company’s valuation.
 
-- Link: https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/
-- Sources: Superhuman
-- Received: 2026-11-05T15:09+01:00
+- Link: https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11
+- Sources: Business Insider
+- Received: 2026-11-06T12:15+01:00
 
-## 3. Moonshot releases the open weights of its Kimi K3.1 Pro model
+## 3. Baidu opens the files for its ERNIE 5.5 Flash base model
 
-**Why it matters:** Moonshot’s release of downloadable open weights for a multimodal model with a one-million-token context window could accelerate competition and reduce dependence on closed AI providers.
+**Why it matters:** Baidu’s release of a 280-billion-parameter, one-million-token-context model strengthens China’s open-model ecosystem and increases competitive pressure on Western AI providers.
 
-Moonshot released Kimi K3.1 Pro with open, downloadable weights, text and image understanding, and a one-million-token memory. The model is distributed under a custom license and can be tried on HuggingChat.
+Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.
 
-- Link: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
-- Sources: The Neuron
-- Received: 2026-11-05T11:34+01:00
+- Link: https://ernie.baidu.com/release/ernie-5-5-flash-base/
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-06T12:08+01:00
 
-## 4. Apple opens the Apple Intelligence developer beta in China
+## 4. OpenAI launches GPT-6 Cyber, a model specialized in hacking
 
-**Why it matters:** Apple’s China developer beta, including a Qwen-powered Siri, shows how regulatory and geopolitical requirements are shaping the global rollout of Apple Intelligence.
+**Why it matters:** OpenAI’s specialized cyber model demonstrates rapidly improving AI-assisted vulnerability research while raising the stakes for defensive security, misuse controls and access restrictions.
 
-Apple has opened an Apple Intelligence developer beta in China featuring Writing Tools, Genmoji and a version of Siri powered by Qwen. A public version is planned for December.
+GPT-6 Cyber is a version of GPT-6 Astra designed to identify security vulnerabilities and write exploits. It scored 48.5% on ExploitGym, compared with 32.1% for GPT-5.6 Cyber, but access remains limited through Daybreak Red.
 
-- Link: https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/
-- Sources: The Neuron
-- Received: 2026-11-05T11:34+01:00
+- Link: https://openai.com/index/introducing-gpt-6-cyber/
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-06T12:08+01:00
 
-## 5. Apple cuts daily budgets for employees’ AI tools
+## 5. Anthropic signs its first licensing deal with the Associated Press
 
-**Why it matters:** Apple’s reduction of employee budgets for ChatGPT, Claude and Gemini signals that even leading technology companies are tightening controls around the cost and governance of enterprise AI usage.
+**Why it matters:** Anthropic’s first licensing agreement with the Associated Press suggests that major AI companies are shifting from broad fair-use claims toward negotiated deals with news publishers.
 
-Apple is reducing how much its employees can spend each day on ChatGPT, Claude and Gemini. Some engineers’ budgets have fallen from 300 to 200 dollars and could drop to 100 dollars.
+Anthropic has reached an agreement with the Associated Press allowing Claude to display midterm election results with their sources. The decision marks a shift in position after the company invoked fair use to collect news content.
 
-- Link: https://www.firstpost.com/tech/apple-cuts-employee-ai-budgets-as-token-costs-trigger-tighter-spending-controls-14057944.html
-- Sources: Techpresso, TLDR, Superhuman
-- Received: 2026-11-05T19:11+01:00
+- Link: https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/
+- Sources: Vision IA, Techpresso
+- Received: 2026-11-06T11:04+01:00
