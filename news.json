@@ -1,52 +1,202 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "period": {
-    "from": "2026-11-04T19:25+01:00",
-    "to": "2026-11-05T19:25+01:00"
+    "from": "2026-11-05T06:25+01:00",
+    "to": "2026-11-06T06:25+01:00"
   },
-  "news_count": 67,
+  "news_count": 97,
   "news": [
     {
       "id": "g4698",
-      "title": "OpenAI launches Images 2.6 with GIF creation and image references",
-      "description": "OpenAI is rolling out Images 2.6 in ChatGPT and Codex, with 50% faster generation and the ability to create GIFs. Users can adjust the speed, edit each image, and share them.",
-      "link": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
+      "title": "ChatGPT can now generate GIFs from text or images",
+      "description": "ChatGPT can turn text prompts or uploaded images into animated GIFs using Images 2.6. Users can adjust the speed, view frames individually, and have a drawing completed before animating it.",
+      "link": "https://mashable.com/tech/chatgpt-gif-generator-openai-image-26",
       "sources": [
+        "Techpresso",
         "TLDR",
         "Superhuman",
         "The Neuron"
       ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 3,
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 4,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
       "id": "g4736",
-      "title": "Apple cuts internal AI usage budgets",
-      "description": "Apple has reduced the daily spending limits for AI models used by its employees. Some engineering budgets are dropping from $300 to $200, with further cuts under consideration for certain teams.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg1MjE3OCwiZXhwIjoxNzk0NDU2OTc4LCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.DHBVA6zPzhHyQxx1e0_HOL8by7dOzZ6s91xNvxnD9n4",
+      "title": "Apple cuts employees’ daily budgets for AI tools",
+      "description": "Apple is reducing how much its employees can spend each day on ChatGPT, Claude, and Gemini. Some engineers’ budgets have fallen from $300 to $200 and could drop further to $100.",
+      "link": "https://www.firstpost.com/tech/apple-cuts-employee-ai-budgets-as-token-costs-trigger-tighter-spending-controls-14057944.html",
       "sources": [
+        "Techpresso",
         "TLDR",
         "Superhuman"
       ],
-      "received_at": "2026-11-05T18:05+01:00",
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4747",
+      "title": "SpaceX opens Starfall missions to commercial customers",
+      "description": "SpaceX has launched a commercial site for its Starfall reentry capsule, designed for microgravity experiments. Each mission can carry up to 1,000 kg, provide 1 kW, and keep experiments connected via Starlink.",
+      "link": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g4700",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "description": "OpenAI plans to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "sources": [
+        "Techpresso",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4701",
+      "title": "Meta acquires AI coding startup Conductor",
+      "description": "Meta is acquiring Conductor, a startup specializing in AI-assisted programming.",
+      "link": "https://tech.yahoo.com/ai/meta-ai/articles/meta-acquires-ai-coding-startup-211056941.html",
+      "sources": [
+        "Techpresso",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4775",
+      "title": "OpenAI promises to fund the costs of its own data centers",
+      "description": "OpenAI says it will cover all electricity and infrastructure costs for its data centers. Its commitment includes financial guarantees for utility customers and sharing water and electricity data.",
+      "link": "https://techstartups.com/2026/11/05/openai-promises-to-pay-for-ai-data-center-electricity-as-voters-push-back-against-rising-power-bills/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4778",
+      "title": "Demand for AI chips reduces the supply of Nintendo cartridges",
+      "description": "Rising demand for AI memory chips is reducing the supply of ROM chips used in physical Nintendo Switch cartridges. Macronix, a Nintendo supplier, says its ROM production has fallen 39% in one year.",
+      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4699",
+      "title": "AI agents are nearly nonexistent for booking an Uber",
+      "description": "Uber says almost no one uses AI agents to book rides.",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "sources": [
+        "Techpresso",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g4747",
-      "title": "SpaceX commercializes Starfall, its orbital reentry capsule",
-      "description": "SpaceX has launched a commercial page for Starfall, a disk-shaped reentry capsule capable of carrying up to 1,000 kg. It can provide 1 kW of electricity and transmit data via Starlink while in orbit.",
-      "link": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
+      "id": "g4787",
+      "title": "Rare strike in Taiwan exposes tensions in the AI sector",
+      "description": "A rare strike in Taiwan highlights the social tensions linked to the global growth of artificial intelligence.",
+      "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/",
       "sources": [
-        "TLDR"
+        "Techpresso"
       ],
-      "received_at": "2026-11-05T18:05+01:00",
+      "received_at": "2026-11-05T19:11+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4791",
+      "title": "OpenAI showcases a $1.2 million cybersecurity operation",
+      "description": "OpenAI is highlighting a vulnerability-hunting workflow in which a single run costs $1.2 million in tokens.",
+      "link": "https://gizmodo.com/openai-touts-cyber-workflow-worth-1-2-million-in-tokens-for-a-single-run-2000835405",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4762",
+      "title": "OpenAI speeds up physical product design with its models",
+      "description": "OpenAI is sharing advances that enable its models to help engineers design, simulate, and manufacture physical products. In an internal test, GPT-6 Astra defined the requirements and designed an device’s enclosure, circuit board, and software integrations without direct human modifications.",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4767",
+      "title": "Adobe brings its customer experience agents to major AI platforms",
+      "description": "Adobe’s CX Enterprise Coworker is now available in ChatGPT, Claude, Databricks Genie, Gemini for business, and Microsoft Copilot. These integrations let marketers access data and coordinate customer experience tasks across connected systems.",
+      "link": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4335",
+      "title": "Google will invest $15 billion in data centers in Malaysia",
+      "description": "Google announced a $15 billion investment in Malaysia over the next two years to build data centers and other infrastructure to meet growing demand for artificial intelligence services.",
+      "link": "https://techxplore.com/news/2026-11-google-unveils-billion-center-investment.html",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4659",
+      "title": "Local opposition to data centers gains ground in the United States",
+      "description": "Nearly all local measures put to a vote opposing data centers have passed or are on track to pass, except in North Dakota. This political constraint could keep AI in a state of scarcity longer than expected.",
+      "link": "https://stratechery.com/2026/ai-on-the-ballot/",
+      "sources": [
+        "TLDR",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T18:05+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g4538",
@@ -114,19 +264,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4700",
-      "title": "OpenAI plans to acquire code-hosting startup Pierre",
-      "description": "OpenAI has agreed to acquire Pierre Computer, the startup that already hosts Codex’s code repositories. The deal brings OpenAI closer to GitHub’s territory.",
-      "link": "https://www.axios.com/2026/11/04/openai-pierre-computer-github",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-05T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g4702",
       "title": "Chris Lehane presents OpenAI’s 2028 policy agenda",
       "description": "OpenAI’s Chris Lehane presented a 2028 policy program covering workers, education, safety and data centers.",
@@ -179,6 +316,331 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g4796",
+      "title": "Goldman Sachs names 109 new partners, its largest class since 2010",
+      "description": "The bank promoted 109 executives to partner, one of Wall Street’s most coveted titles. It is the largest class since 2010, and the full list is available.",
+      "link": "https://l.businessinsider.com/a/zc/21432/44aa0e2b333b44b6981478d91fc8f8ae/a8f019e2c16c4fc6b835b538229cc779",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-05T19:37+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4777",
+      "title": "Apple will scan public iCloud links for dangerous content",
+      "description": "Apple will begin scanning images and files shared through public iCloud links in iOS 27.3 and related systems. The company may move or delete the files, block the Apple account, and contact authorities.",
+      "link": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4779",
+      "title": "Pangram says its new models detect fake content",
+      "description": "Pangram says its new models can identify AI-generated content in images and videos.",
+      "link": "https://thenextweb.com/news/pangram-image-1-0-flash-ai-image-video-detection",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4780",
+      "title": "Sequoia reverses two decades of expansion",
+      "description": "Sequoia is narrowing its scope after two decades of expansion.",
+      "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4782",
+      "title": "Amazon replaces Grubhub with Uber Eats in its app",
+      "description": "Amazon is dropping Grubhub and integrating Uber Eats into its own app.",
+      "link": "https://thenextweb.com/news/uber-eats-on-amazon-prime-grubhub-lyft-go-doordash",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4783",
+      "title": "Anthropic begins paying for news content",
+      "description": "Anthropic is changing strategy and paying for news content for the first time.",
+      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4784",
+      "title": "Apple allows discounts to retain subscribers who try to cancel",
+      "description": "Apple now allows developers to offer discounts to users who attempt to cancel their subscriptions.",
+      "link": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4785",
+      "title": "Waymo confirms a change in its relationship with Uber in 2028",
+      "description": "Waymo confirms that its relationship with Uber will change in January 2028.",
+      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4789",
+      "title": "DuckDuckGo targets schools after controversy over Google",
+      "description": "DuckDuckGo is offering its services to schools amid criticism of Google’s AI policy.",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4790",
+      "title": "Discord moves away from Electron in favor of Rust",
+      "description": "Discord is gradually replacing Electron with Rust, with an initial Windows version using 290 MB of RAM.",
+      "link": "https://wccftech.com/discord-is-ditching-electron-for-rust-with-early-windows-build-using-just-290mb-of-ram/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4792",
+      "title": "Early access to AI helps detect more vulnerabilities",
+      "description": "A group of U.S. technology companies with early access to vulnerability research tools more than doubled its reported flaws and found about 150% more critical vulnerabilities before they were exploited.",
+      "link": "https://arxiv.org/abs/2611.06629",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4793",
+      "title": "AI agents design low-carbon power grid plans",
+      "description": "Power-planning agents produced valid, low-cost plans in all forty cases tested, using only public data and complying with strict carbon-emissions limits.",
+      "link": "https://arxiv.org/abs/2611.05911",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4794",
+      "title": "Web agents fall for scams in 11% to 35% of tests",
+      "description": "A testing method recreates real fraudulent websites to measure how well AI assistants resist scams during purchases or banking operations. The agents were deceived between 11% and 35% of the time.",
+      "link": "https://arxiv.org/abs/2611.04879",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4795",
+      "title": "Government content takedowns divide Americans",
+      "description": "A Pew-Knight survey found that 51% of U.S. adults support the government removing false information, but only 14% support it when the information is deemed politically biased.",
+      "link": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-22-2026/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-05T19:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4759",
+      "title": "VMware returns to small deployments with vSphere Express",
+      "description": "Broadcom introduced vSphere Express for deployments of up to 128 processor cores, offering an alternative to VMware’s larger products. The solution includes live virtual machine migration, automated recovery, and distributed switching, but individual installations cannot be centrally managed.",
+      "link": "https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4581",
+      "title": "CrowdStrike launches a kill switch for AI agents",
+      "description": "CrowdStrike’s new AI Kill Switch lets security teams block agents’ access to AI models through connected gateways. Broader controls, such as stopping processes on endpoints and revoking permissions, are still in development.",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4761",
+      "title": "Disaster recovery must evolve for AI-centric companies",
+      "description": "Growing reliance on AI as operational infrastructure and on external services requires companies to rethink their disaster recovery strategies. Experts recommend defining a minimum viable business that includes AI models, RAG data, and identity dependencies, while accounting for nondeterministic results and fast-moving autonomous agents.",
+      "link": "https://www.itpro.com/security/what-does-disaster-recovery-look-like-in-an-ai-centric-world",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4763",
+      "title": "Siloed AI projects increase enterprise costs",
+      "description": "AI projects run separately by different departments create hidden costs from duplicate platform purchases, repeated data preparation, and unsupervised model use. A shared inventory of tools and pilot projects makes it possible to compare operating costs with measurable benefits.",
+      "link": "https://www.prnewswire.com/news-releases/trace3-says-disconnected-ai-investments-are-creating-hidden-costs-for-enterprises-302928832.html",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4764",
+      "title": "Snowflake announces Business Ontology to provide AI with business context",
+      "description": "Snowflake announced the upcoming public preview of Business Ontology, a business modeling and governance layer in Snowflake Horizon Context. It lets organizations define concepts, metrics, and relationships linked to underlying semantic views so AI agents use approved enterprise definitions.",
+      "link": "https://www.snowflake.com/en/blog/business-ontology-context/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4765",
+      "title": "Mozilla AI launches Otari to govern AI usage",
+      "description": "Mozilla AI launched Otari, an open-source operating system and gateway for AI governance and choosing among multiple providers. The platform lets organizations restrict tools, manage user budgets, and track AI sessions from one place.",
+      "link": "https://blog.mozilla.ai/otari-by-mozilla-ai-your-operating-system-for-ai-governance/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4766",
+      "title": "MongoDB brings real-time Atlas data to Microsoft 365 Copilot",
+      "description": "MongoDB’s Atlas connector, now generally available, lets Microsoft 365 Copilot answer questions using real-time operational data. The integration uses a managed MCP server to query Atlas directly for orders, incidents, and business metrics.",
+      "link": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4768",
+      "title": "Neo4j and Snowflake combine graphs and enterprise data for AI",
+      "description": "Neo4j and Snowflake have partnered to integrate Neo4j’s graph intelligence capabilities into Snowflake AI Data Cloud. The offering includes Virtual Graph for querying data without moving it, Graph Analytics for Snowflake for on-demand SQL algorithms, and AuraDB for critical real-time workloads.",
+      "link": "https://neo4j.com/blog/knowledge-graph/graph-intelligence-for-your-snowflake-data-estate/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4769",
+      "title": "Microsoft details Windows management changes and upcoming deadlines",
+      "description": "Microsoft’s latest IT roundup highlights Windows recovery improvements and Intune controls allowing standard users to modify certain approved network settings. It also notes the expiration of Windows Update certificates in 2027 and the end, on January 15, of CNAME-based discovery for MDM-only enrollment.",
+      "link": "https://techcommunity.microsoft.com/blog/windows-itpro-blog/windows-news-you-can-use-october-2026/4552396",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4771",
+      "title": "Confluent introduces Streamhouse to provide real-time business context",
+      "description": "Confluent’s Streamhouse architecture combines streaming, processing, governance, and querying to give applications and AI agents a continuously updated view of business operations.",
+      "link": "https://newsroom.ibm.com/2026-11-04-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4772",
+      "title": "IBM launches a managed version of HashiCorp Vault on dedicated infrastructure",
+      "description": "IBM Cloud Secrets Manager Vault Dedicated provides single-tenant Vault Enterprise deployments, with IBM managing the infrastructure and operations. The service includes dynamic credentials, automated rotation, and policy-based access.",
+      "link": "https://www.ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-05T18:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g4748",
       "title": "Varda manufactures drugs in microgravity",
       "description": "Varda Space Industries uses autonomous orbital factories to process materials in small laboratories before returning a capsule to Earth. The company plans seven missions in 2027 and ten in 2028.",
@@ -209,19 +671,6 @@
       "title": "Design engineers use prototypes to shape future software",
       "description": "Design engineers contribute to feature and architecture decisions in code while retaining their role as designers. Their position enables them to create compelling prototypes of future concepts.",
       "link": "https://maggieappleton.com/fortune-telling",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4751",
-      "title": "Local opposition to data centers gains ground across the US",
-      "description": "Nearly all local measures put to a vote opposing data centers have passed or are on track to do so, with the exception of North Dakota. This political constraint could keep AI in a state of scarcity longer than expected.",
-      "link": "https://stratechery.com/2026/ai-on-the-ballot/",
       "sources": [
         "TLDR"
       ],
@@ -404,19 +853,6 @@
       "title": "The blue wave puts tech’s right wing on the defensive",
       "description": "The 2026 midterm elections dealt a major public setback to a tech industry that had moved closer to Republicans. The infrastructure needed for AI’s future, particularly data centers, is at the heart of the backlash.",
       "link": "https://l.businessinsider.com/a/zc/21432/0712fcd37dd24fa2b40f894f2ba4529b/81926d2af08e4071b57870baa049aa4c",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-05T12:14+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4659",
-      "title": "Voters oppose new AI infrastructure in their region",
-      "description": "According to an NBC News exit poll, a majority of voters say AI and data centers played an important role in their vote. They also say they oppose new AI infrastructure in their community.",
-      "link": "https://www.businessinsider.com/data-centers-hammered-midterms-key-votes-show-how-2026-11",
       "sources": [
         "Business Insider"
       ],
@@ -686,32 +1122,6 @@
       "followed_topic": null
     },
     {
-      "id": "g4699",
-      "title": "Uber’s AI agents booked only four rides during Halloween",
-      "description": "During Halloween week, AI agents booked just four Uber rides and about 500 food orders, out of roughly 320 million rides and orders. The CEO says adoption remains very limited, partly because booking manually takes about 50 seconds.",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-05T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4701",
-      "title": "Meta acquires Conductor, a specialist in coordinating coding agents",
-      "description": "Meta acquired Conductor, a startup whose interface directs multiple coding agents simultaneously. Its hosted service will shut down on November 20.",
-      "link": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-05T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4703",
       "title": "AI-linked PACs spend millions in the midterm elections",
       "description": "AI-focused political action committees spent millions during the midterm elections, with mixed results. They spent $4.8 million on a South Carolina Senate candidate who lost, among other campaigns.",
@@ -764,9 +1174,9 @@
       "followed_topic": null
     },
     {
-      "id": "g4707",
-      "title": "Apple opens the Apple Intelligence developer beta in China",
-      "description": "Apple opened an Apple Intelligence developer beta in China featuring Writing Tools, Genmoji and a version of Siri assisted by Qwen. A public version is expected in December.",
+      "id": "g4280",
+      "title": "Apple opens Apple Intelligence developer beta in China",
+      "description": "Apple has opened an Apple Intelligence developer beta in China featuring Writing Tools, Genmoji, and a version of Siri powered by Qwen. A public release is planned for December.",
       "link": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/",
       "sources": [
         "The Neuron"
@@ -863,19 +1273,6 @@
         "Republic of Innovation"
       ],
       "received_at": "2026-11-05T10:06+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4682",
-      "title": "An AI Website Model with Dual Interfaces for Humans and Agents",
-      "description": "A new study conducted with Knotch proposes websites with two surfaces: an intent-responsive interface for humans and a service-oriented semantic interface for agents. Both would rely on a shared brand context model capable of keeping the company’s content, rules, and capabilities up to date.",
-      "link": "https://content.martechday.com/the-future-of-websites-brand-context-model.pdf",
-      "sources": [
-        "Chief Martec"
-      ],
-      "received_at": "2026-11-04T18:39+00:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
