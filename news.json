@@ -1,41 +1,40 @@
 {
   "date": "2026-11-06",
   "period": {
-    "from": "2026-11-05T13:25+01:00",
-    "to": "2026-11-06T13:25+01:00"
+    "from": "2026-11-05T19:25+01:00",
+    "to": "2026-11-06T19:25+01:00"
   },
-  "news_count": 122,
+  "news_count": 128,
   "news": [
     {
-      "id": "g4736",
-      "title": "Apple sharply cuts some employees’ daily AI budget",
-      "description": "According to Bloomberg, Apple is reducing some engineers’ daily token budget from $300 to $200, with cuts of up to $25 for nontechnical teams. Employees may be directed to cheaper models or local AI.",
-      "link": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/",
+      "id": "g4807",
+      "title": "Claude launches a personal finance hub connected to bank accounts",
+      "description": "Anthropic is rolling out a U.S. beta tab called “Personal Finance” that lets users connect Claude to bank accounts and cards to ask questions about their finances. The tool can reveal trends and explore scenarios, but cannot move, manage, or invest money.",
+      "link": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
       "sources": [
-        "Vision IA",
-        "Techpresso",
-        "TLDR",
-        "Superhuman"
+        "Superhuman",
+        "The Neuron",
+        "Vision IA"
       ],
-      "received_at": "2026-11-06T11:04+01:00",
-      "covered_by": 4,
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g4698",
-      "title": "ChatGPT can now generate GIFs from text or images",
-      "description": "ChatGPT can turn text prompts or uploaded images into animated GIFs using Images 2.6. Users can adjust the speed, view images individually, and have a drawing completed before animation.",
-      "link": "https://mashable.com/tech/chatgpt-gif-generator-openai-image-26",
+      "id": "g4819",
+      "title": "Aina unveils a smart ring with a display and proactive AI",
+      "description": "Hardware startup Aina has introduced a ring that can connect to devices, learn the user’s schedule, and suggest actions for approval. It can also receive voice instructions, control devices, play music, and take calls; initial deliveries are expected in early 2027.",
+      "link": "https://archive.superhuman.ai/2118372390728319238",
       "sources": [
-        "Techpresso",
-        "TLDR",
-        "Superhuman"
+        "Superhuman",
+        "The Neuron",
+        "Vision IA"
       ],
-      "received_at": "2026-11-05T19:11+01:00",
+      "received_at": "2026-11-06T15:12+01:00",
       "covered_by": 3,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
       "id": "g4805",
@@ -52,23 +51,142 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4747",
-      "title": "SpaceX opens Starfall missions to commercial customers",
-      "description": "SpaceX has launched a commercial site for its Starfall reentry capsule, designed for microgravity experiments. Each mission can carry up to 1,000 kg, provide 1 kW and keep experiments connected via Starlink.",
-      "link": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
+      "id": "g4806",
+      "title": "Google launches Gemini Omni 1.2 Flash, a lower-cost video model",
+      "description": "Gemini Omni 1.2 Flash can create 15-second videos in Gemini, with smoother camera movements, more cinematic controls, and less visual drift. For developers, API pricing is down 30%, to 0.07 dollar per second for 720p video.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "sources": [
-        "Techpresso",
+        "Superhuman",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4918",
+      "title": "Cyclon opens preorders for a phone with an AI-focused operating system",
+      "description": "Cyclon has opened preorders for a mobile phone running an operating system designed around artificial intelligence.",
+      "link": "https://archive.superhuman.ai/2117300841036353559",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4698",
+      "title": "OpenAI launches ChatGPT Images 2.6 and enables photo-to-GIF conversion",
+      "description": "ChatGPT Images 2.6 can create GIFs from any photo and has risen near the top of Arena’s text-to-image rankings.",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4720",
+      "title": "Cat Wu leaves Anthropic to join OpenAI",
+      "description": "Cat Wu has left Anthropic to join OpenAI, marking the fourth key departure from the Claude Code team in a few weeks.",
+      "link": "https://archive.superhuman.ai/2118137612577968402",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4427",
+      "title": "OpenAI’s personal agent receives five new features",
+      "description": "OpenAI delivered five improvements to its personal agent this week, including the ability to share any item on an iPhone.",
+      "link": "https://archive.superhuman.ai/2118103057980690771",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4736",
+      "title": "Apple is reportedly cutting employees’ AI budgets",
+      "description": "Apple is reportedly reducing the credits it gives employees to use third-party AI tools, with proposed daily caps of 100 dollars for engineers and 25 dollars for other employees. Some teams are also reportedly being encouraged to use less expensive or locally hosted models, without official confirmation from Apple.",
+      "link": "https://www.itpro.com/technology/artificial-intelligence/apple-set-to-cap-employee-ai-use-amid-rising-costs",
+      "sources": [
+        "TLDR IT",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4885",
+      "title": "Investors question a 1 500 billion dollar valuation for Anthropic’s IPO",
+      "description": "Major investors believe the expected 1 500 billion dollar valuation for Anthropic’s initial public offering will likely need to be lowered. The amount raised could reach about 80 billion dollars, for a valuation close to 1 000 billion.",
+      "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=hNX9MY&reflink=desktopwebshare_permalink",
+      "sources": [
         "TLDR"
       ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g4891",
+      "title": "The philosophies that shaped Dario Amodei and Anthropic",
+      "description": "Dario Amodei’s vision is based in part on rationalism and effective altruism. These schools of thought helped shape Anthropic and its approach to artificial intelligence.",
+      "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?unlocked_article_code=1.OVE.0w5Y.yvhWxuXOa-LL&smid=url-share",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4895",
+      "title": "Elon Musk wants to connect Starlink to terrestrial mobile networks",
+      "description": "Elon Musk wants to combine Starlink’s high-speed satellite network with mobile antennas, fiber connections, and other terrestrial infrastructure. Smartphones could thus seamlessly access signals from both Earth and space.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk0MzA5MSwiZXhwIjoxNzk0NTQ3ODkxLCJhcnRpY2xlSWQiOiJUTkQ1QkZUOU5KTFcwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.a1-WWYcSKGVVPz7Ag2jGNwXWVjlrBwccqRCeb2bt3xI",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "SpaceX et Starlink"
     },
     {
+      "id": "g4875",
+      "title": "Salesforce turns sales expertise into reusable skills",
+      "description": "Salesforce says an experienced salesperson’s renewal playbook can become a reusable skill that the entire team can invoke. The author believes this durable business asset is more important than another agent launch.",
+      "link": "https://www.salesforce.com/ap/news/press-releases/2026/11/05/ph-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/?bc=OTH",
+      "sources": [
+        "Intelligence Newsletter",
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g4847",
-      "title": "Markets plunge after the blue wave in the U.S. elections",
-      "description": "The three major U.S. indexes fell sharply, with the Nasdaq dropping 5.52%. Data-center stocks, SpaceX and Tesla were hit particularly hard.",
+      "title": "Stock market plunges after the blue wave in U.S. elections",
+      "description": "The three major U.S. indexes fell sharply, with the Nasdaq down 5.52%. Data-center stocks, SpaceX and Tesla were hit particularly hard.",
       "link": "https://www.businessinsider.com/nasdaq-correction-decline-ai-spending-tech-stocks-market-outlook-midterms-2026-11",
       "sources": [
         "Business Insider"
@@ -133,8 +251,8 @@
     },
     {
       "id": "g4866",
-      "title": "IREN blames Microsoft-requested network changes for delays to its AI project",
-      "description": "IREN says network modifications requested by Microsoft are responsible for delays to its $9.7 billion artificial intelligence project.",
+      "title": "IREN says Microsoft-requested network changes delayed its AI project",
+      "description": "IREN says network changes requested by Microsoft are responsible for delays to its $9.7 billion artificial intelligence project.",
       "link": "https://www.businessinsider.com/iren-blames-microsoft-change-for-delay-to-texas-ai-center-2026-11",
       "sources": [
         "Business Insider"
@@ -146,8 +264,8 @@
     },
     {
       "id": "g4870",
-      "title": "Apple sharply cuts the waitlist for its new AI-powered Siri",
-      "description": "Apple has substantially reduced the waitlist for access to its new artificial intelligence-powered version of Siri.",
+      "title": "Apple sharply reduces the waitlist for its new AI Siri",
+      "description": "Apple has significantly reduced the waitlist for access to its new artificial intelligence-powered version of Siri.",
       "link": "https://www.businessinsider.com/apple-waitlist-new-siri-ai-2026-11",
       "sources": [
         "Business Insider"
@@ -158,23 +276,9 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4819",
-      "title": "Aina opens preorders for a $399 smart ring",
-      "description": "Aina has opened preorders for a ring equipped with a small screen, microphone, speaker and joystick. It can dictate notes, send queries to an agent, and control a Mac or phone; shipping is scheduled for January 2027.",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T12:08+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4836",
       "title": "Greg Brockman says OpenAI could be ready for an IPO in 2027",
-      "description": "OpenAI President Greg Brockman said the company could be ready to go public in 2027. Its business revenue has roughly doubled and now represents the majority of its sales.",
+      "description": "OpenAI president Greg Brockman said the company could be ready to go public in 2027. Its enterprise-related revenue has roughly doubled and now accounts for most of its revenue.",
       "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "sources": [
         "The Neuron"
@@ -214,8 +318,8 @@
     },
     {
       "id": "g4808",
-      "title": "Baidu releases the files for its ERNIE 5.5 Flash base model",
-      "description": "Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion parameters activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.",
+      "title": "Baidu opens the files for its ERNIE 5.5 Flash base model",
+      "description": "Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.",
       "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
       "sources": [
         "The Neuron",
@@ -228,8 +332,8 @@
     },
     {
       "id": "g4814",
-      "title": "Comedian Matt Husk, known for tricking ChatGPT, is being courted by labs",
-      "description": "Followed by about two million people, Matt Husk films ChatGPT’s voice mode failing at simple tasks. OpenAI, Anthropic and xAI have offered to work with him, but he declined their offers.",
+      "title": "Comedian Matt Husk, known for tricking ChatGPT, is courted by AI labs",
+      "description": "Followed by about two million people, Matt Husk films ChatGPT’s voice mode failing at simple tasks. OpenAI, Anthropic and xAI offered to collaborate with him, but he turned them down.",
       "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
       "sources": [
         "Vision IA"
@@ -242,7 +346,7 @@
     {
       "id": "g4822",
       "title": "Agility Robotics goes public with its Digit humanoid robot",
-      "description": "Agility Robotics, the maker of the Digit robot, is going public through a SPAC despite substantial losses. Digit is already being used to move bins at several companies, and the future Digit 5 will be unveiled at CES 2027.",
+      "description": "Agility Robotics, the maker of the Digit robot, is going public through a SPAC despite significant losses. Digit is already used to move bins at several companies, and the future Digit 5 will be unveiled at CES 2027.",
       "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
       "sources": [
         "Vision IA"
@@ -255,7 +359,7 @@
     {
       "id": "g4826",
       "title": "Australian universities want to train AI-native graduates",
-      "description": "Several Australian universities are expanding access to ChatGPT and integrating AI into their courses. They want to prepare students for a labor market where collaborating with AI is becoming a core skill.",
+      "description": "Several Australian universities are expanding access to ChatGPT and integrating AI into their courses. They want to prepare students for a labor market where working with AI is becoming a core skill.",
       "link": "https://openai.com/index/australian-universities-ai-native-graduates",
       "sources": [
         "Vision IA"
@@ -279,23 +383,9 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4783",
-      "title": "Anthropic signs its first licensing deal with the Associated Press",
-      "description": "Anthropic has reached an agreement with the Associated Press allowing Claude to display midterm election results with their sources. The decision marks a change in position after Anthropic invoked fair use to collect news content.",
-      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
-      "sources": [
-        "Vision IA",
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T11:04+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4829",
-      "title": "OpenAI drops confidentiality agreements with local officials",
-      "description": "OpenAI will no longer sign NDAs with local officials hosting its data centers, except for security information or trade secrets. The agreements had been criticized for hiding negotiations from residents.",
+      "title": "OpenAI abandons confidentiality agreements with local officials",
+      "description": "OpenAI will no longer sign NDAs with local officials hosting its data centers, except for security information or trade secrets. The agreements were criticized for concealing negotiations from residents.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
       "sources": [
         "Vision IA"
@@ -308,7 +398,7 @@
     {
       "id": "g4799",
       "title": "OpenAI expands its AI engineering tests from devices to vehicles",
-      "description": "OpenAI used GPT-6 Astra to design a working prototype in less than a week, reducing initial design time. Tests conducted with Mazda and Chip Ganassi nevertheless show that manufacturing still requires human corrections.",
+      "description": "OpenAI used GPT-6 Astra to design a working prototype in less than a week, reducing initial design time. Tests with Mazda and Chip Ganassi nevertheless show that manufacturing still requires human corrections.",
       "link": "https://www.techrepublic.com/article/news-openai-ai-engineering-hardware-vehicles/",
       "sources": [
         "TechnologyAdvice"
@@ -321,7 +411,7 @@
     {
       "id": "g4800",
       "title": "The leading generative AI companies and startups to know",
-      "description": "This guide presents the major and specialized players in generative AI, from OpenAI to niche providers. It covers uses including coding, creative media, healthcare and enterprise agents.",
+      "description": "This guide introduces major and specialized players in generative AI, from OpenAI to niche providers. It covers uses including coding, creative media, healthcare and enterprise agents.",
       "link": "https://www.eweek.com/news/generative-ai-startups/",
       "sources": [
         "TechnologyAdvice"
@@ -332,148 +422,667 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4775",
-      "title": "OpenAI pledges to fund the costs of its own data centers",
-      "description": "OpenAI says it will cover all electricity and infrastructure costs for its data centers. Its commitment includes financial guarantees for utility customers and sharing data on water and electricity.",
-      "link": "https://techstartups.com/2026/11/05/openai-promises-to-pay-for-ai-data-center-electricity-as-voters-push-back-against-rising-power-bills/",
+      "id": "g4938",
+      "title": "Disney employees question executives about possible layoffs",
+      "description": "During a town hall, employees in Disney’s technology division asked management for explanations following reports of another wave of layoffs. Several employees told Business Insider that morale was declining.",
+      "link": "https://l.businessinsider.com/a/zc/21432/63b86a9b365447a18856be6c58c5e311/c2f1f557c060406abbf4a3726a33283d",
       "sources": [
-        "Techpresso"
+        "Business Insider"
       ],
-      "received_at": "2026-11-05T19:11+01:00",
+      "received_at": "2026-11-06T17:23+01:00",
       "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g4778",
-      "title": "Demand for AI chips reduces the supply of Nintendo cartridges",
-      "description": "Rising demand for AI memory chips is reducing the supply of ROM chips used in physical Nintendo Switch cartridges. Macronix, a Nintendo supplier, says its ROM production has fallen 39% year over year.",
-      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g4753",
-      "title": "Sequoia reflects on two decades of expansion",
-      "description": "Sequoia is narrowing its scope after two decades of expansion.",
-      "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "sources": [
-        "Techpresso",
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g4700",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "description": "OpenAI plans to acquire Pierre Computer Company, Inc.",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "id": "g4934",
+      "title": "The new rules of AI-powered search",
+      "description": "Shoppers using AI-powered search consult nearly three times as many touchpoints before buying. Google vice president Brendon Kraham outlines three priorities for capturing discovery and generating conversions.",
+      "link": "https://c.gle/AGSJxQzCXYsKMeLs2YAFiOkUzgZuIIHIySP8LXnz8r6YTDM2LpGIwzk-2CpMdLgpbdcFIva_P77e3Q2-67cwFuWrf79RIu-NQ-qYDrWNjcLCo47-D4IYMb6CNAavd_735iBmkwnetHNpDzqnhsUB375fOeDjLK1I8fZIVqT_xD7zPgEhMnRU1wismdrXuJ6dLxP8BJ_3FI2xbicCWA0VLpwcGpndF9ro8GNqf8aMbMQM3BVPhlS0CdDFG89Hay1sfQ2C6_lXzykO-_slDCfAz0wlbxsacBC2fe1b9dYRC7sUH8X7QqadSnUycEAGaNq0ybJ7ZXA",
       "sources": [
-        "Techpresso"
+        "Think with Google"
       ],
-      "received_at": "2026-11-05T19:11+01:00",
+      "received_at": "2026-11-06T16:55+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4787",
-      "title": "Rare strike in Taiwan highlights tensions in the AI sector",
-      "description": "A rare strike in Taiwan highlights the social tensions linked to the global rise of artificial intelligence.",
-      "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/",
+      "id": "g4935",
+      "title": "Google’s paid advertising strategy on YouTube",
+      "description": "The article presents Google’s paid advertising strategy on YouTube.",
+      "link": "https://c.gle/AGSJxQxFfRY6JdnzH4JX-Pj_qMEEZtfePgyL2pTi2XEov1cwGgLO7vgX0H2AMNv3WPPY16zNx6lh_02UOcdv1V1DbSvG4-AwDLL1kC8r0JG6GTad7NqPoCmuKqIJN9rSINoU3LqXa1c_Dl8tvHrWl5M0xc1cVUgJV186jdOeRfEIgNy3WPHsPZgqe-nLE27EA41iBvvxzOytkDPVNnWfDngYkMS65ONGLCAxy5f00pGjOtNX2dDKfFmr5eAdhH4Y1VLIMuBY0DDg8bRKCoJql1SD9PTdw1afF4XJ_ABNNQVxGI87ntSOVwqyNDzogsXE02tl",
       "sources": [
-        "Techpresso"
+        "Think with Google"
       ],
-      "received_at": "2026-11-05T19:11+01:00",
+      "received_at": "2026-11-06T16:55+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4701",
-      "title": "Meta acquires AI coding startup Conductor",
-      "description": "Meta is acquiring Conductor, a startup specializing in AI-assisted programming.",
-      "link": "https://tech.yahoo.com/ai/meta-ai/articles/meta-acquires-ai-coding-startup-211056941.html",
+      "id": "g4936",
+      "title": "How Wayfair turned creator trust into ROI",
+      "description": "This case study shows how Wayfair built trust with creators to generate a return on investment during the holidays.",
+      "link": "https://consent.google.com/m?continue=https://business.google.com/us/think/search-and-video/visual-storytelling-holiday-marketing-roi/&gl=CH&m=0&pc=acm&cm=2&hl=en&src=1",
       "sources": [
-        "Techpresso"
+        "Think with Google"
       ],
-      "received_at": "2026-11-05T19:11+01:00",
+      "received_at": "2026-11-06T16:55+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4791",
-      "title": "OpenAI showcases a 1.2 million dollar cybersecurity operation",
-      "description": "OpenAI is highlighting a vulnerability-hunting workflow in which a single run costs 1.2 million dollars in tokens.",
-      "link": "https://gizmodo.com/openai-touts-cyber-workflow-worth-1-2-million-in-tokens-for-a-single-run-2000835405",
+      "id": "g4937",
+      "title": "Five trends driving post-holiday sales",
+      "description": "The article presents five trends driving sales after the holiday season.",
+      "link": "https://c.gle/AGSJxQxq7sg0UBZDgSFLkZN-4KeF4CNiZO0i91HGzMoN179tUkd29WiXyy3q0P_eQB_i9Xmy3VReGdhn8nMMqVZ8D0I4kFsQ79VoN1JGato9gIzmDVCH-IcYL2leberUm3A0elGG8UyoRVCtn38KEDDbonPoYBq83thFGEMCI008JnQYz7TjG5LlDWBCA0J8RQ1xIgnr89w3zQj3AhL9w5ZMPqA1xNCsz4SQANpQwBSHkTX49DHApNbSSCRnq_7UUvib8GT2TJFNDC6_sRv97pAocfpJo0muZFD-NiycuHWovF99nasPymuSSYQ2KczEEN0vXw",
       "sources": [
-        "Techpresso"
+        "Think with Google"
       ],
-      "received_at": "2026-11-05T19:11+01:00",
+      "received_at": "2026-11-06T16:55+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4762",
-      "title": "OpenAI speeds up physical product design with its models",
-      "description": "OpenAI is sharing advances that allow its models to help engineers design, simulate and manufacture physical products. In an internal test, GPT-6 Astra defined the requirements and designed a device’s enclosure, circuit board and software integrations without direct human modifications.",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "id": "g4923",
+      "title": "Early Model 3 owners report on their vehicles’ reliability",
+      "description": "An owner who bought one of the first Model 3 vehicles in 2018 says the car has performed very well. The only major repairs involved the air-conditioning fan, in addition to replacing the tires.",
+      "link": "https://www.teslaownersonline.com/threads/2018-model-3-owners.39840/?post_id=479274#post-479274",
       "sources": [
-        "TLDR IT"
+        "Threadloom"
       ],
-      "received_at": "2026-11-05T18:33+01:00",
+      "received_at": "2026-11-06T16:49+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4767",
-      "title": "Adobe brings its customer experience agents to major AI platforms",
-      "description": "Adobe’s CX Enterprise Coworker is now available in ChatGPT, Claude, Databricks Genie, Gemini for business and Microsoft Copilot. These integrations allow marketers to access data and coordinate customer experience tasks across connected systems.",
-      "link": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms",
+      "id": "g4924",
+      "title": "Model 3 owner expects the traction battery to last a long time",
+      "description": "According to one owner, alarming claims about electric-vehicle batteries are unfounded, and it should be a long time before a traction battery needs replacing. The owner says their Model 3 Long Range has reached eight years and six months.",
+      "link": "https://www.teslaownersonline.com/threads/a-battery-question.39798/page-2?post_id=479406#post-479406",
       "sources": [
-        "TLDR IT"
+        "Threadloom"
       ],
-      "received_at": "2026-11-05T18:33+01:00",
+      "received_at": "2026-11-06T16:49+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4335",
-      "title": "Google will invest 15 billion dollars in data centers in Malaysia",
-      "description": "Google has announced a 15 billion dollar investment in Malaysia over the next two years to build data centers and other infrastructure to meet growing demand for artificial intelligence services.",
-      "link": "https://techxplore.com/news/2026-11-google-unveils-billion-center-investment.html",
+      "id": "g4925",
+      "title": "Interest-rate discrepancy reported between Tesla approval and payment",
+      "description": "A buyer says Tesla approved an annual rate of 1.99 % fourteen days earlier, but the displayed rate rose to 2.49 % at the time of delivery payment.",
+      "link": "https://www.teslaownersonline.com/threads/tesla-approved-apr-1-99-14-days-ago-but-when-i-completed-payment-process-for-delivery-it-is-2-49.39750/?post_id=479344#post-479344",
       "sources": [
-        "TLDR IT"
+        "Threadloom"
       ],
-      "received_at": "2026-11-05T18:33+01:00",
+      "received_at": "2026-11-06T16:49+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4538",
-      "title": "ChatGPT reportedly accounts for about 20% of Google’s search volume",
-      "description": "OpenAI Chief Product Officer Adam Fry says ChatGPT has reached about 20% of Google’s search volume. If accurate, the chatbot would be Google Search’s most serious challenger in decades.",
-      "link": "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/",
+      "id": "g4926",
+      "title": "Debate contrasts paying cash for a cheaper car with replacing it",
+      "description": "One participant says the point made by advocates of paying cash is not that people should keep any car indefinitely, but that they can buy a cheaper vehicle and keep it longer.",
+      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOsidimQGAwZZqh5qGOYXHGYeVWzLolPxFsslTm-NJpscnTLJBjtK7WzC2aSHDGiVU73fJP66FTaYpyWg_C80lHApS7WXzsGuXwmjvmub98B5_Sly9agjChDE18jPx1q_4OfKdp9E-s42kv8jyn0p43Qmjy9s6SPZng8p9u9svvFgCz1YomIlM1VE9n6oyb6ruotVCXCF34K69fS1tzciWscg-td_kLzoBECBqhebKZtYQ/4vi/JYuS8F4jRrypNKG-di0t7Q/h36/h001.KSaw8Or9PiBHrBMKr-MDLN9-XVz921BQ3WXYhn6CeaA",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4927",
+      "title": "Tesla owner describes the limits of sensors needed for driving",
+      "description": "One participant finds it surprising to think that vision, radar, and lidar are needed to replicate human driving, when humans use at most two cameras and no radar or lidar.",
+      "link": "https://www.teslaownersonline.com/threads/daylight-savings-adjusted.39782/?post_id=479272#post-479272",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4928",
+      "title": "Solar charging becomes available with a complete Tesla installation",
+      "description": "A user with solar panels and a Tesla Powerwall says an option allows the car to be charged using solar energy. A new setting also enables charging from any source up to a certain limit.",
+      "link": "https://www.teslaownersonline.com/threads/daylight-savings-adjusted.39782/?post_id=479272#post-479272",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4929",
+      "title": "Tesla update 2026.38.6 is offered for installation",
+      "description": "A user received a notification saying that a software update was ready to install. The listed version is 2026.38.6, but the user has not installed it yet.",
+      "link": "https://www.teslaownersonline.com/threads/software-build-2026-38.39412/page-3?post_id=479456#post-479456",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4930",
+      "title": "Model 3 Performance reports compressor and low-pressure errors",
+      "description": "The owner of a 2019 Model 3 Performance asks whether other users have encountered the “VCFRONT_a160_compressorInhibited” and “lowSuctionPressure” errors.",
+      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsugBYO94zJYO4qtQMHlqWpcu01hZmDi41PrbdgZg_K6e1vQZP4wguGI-jh7i-NXdNpo0G5bBu17lLMA-y_Coh643xtGLTWD5cHCFL0nH-nKoonIfSj60M8-TWjwE0fgbZHNZZH3AaaZaAhABtmOtqmvMrWaDXBKDeg2M8pTzxLyHqCovSX2jxcCq4u2WY7At7_n1B-SZAnzM8rf3e55IymjTO7U6KqRQzxjKaicQslnfv836wYDn4pyTZchB-c15eeGlF_5H9g8X-sX2ikJy37l0GRwHVIbLaxYB6nHhZ6zlly1F3zDNlG2jlFJJkzCbCztyh1z2mwCu9F0zZa2JeVBDZCov9ni52trdmlDwCfWgWYnM_MqI6AUcI3pjhxiYJffUGgd-nbGCj_-sasWmjwrGbIWUxNnyIdiOiT_iWCbA/4vi/JYuS8F4jRrypNKG-di0t7Q/h58/h001.WROMXlWF251p3yoSaooAFTdcYYiDoFNsq6-3ugv4m4A",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4931",
+      "title": "Inconsistencies in FSD mode can make some trips easier",
+      "description": "A user says they also experience inconsistencies in FSD mode, but take advantage of them to make driving easier. Certain areas along the route are affected by map data.",
+      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOsidimQGAwZZqh5qGOYXHGY406erJnoD2LtJv4d5vRfCbHl329kUAjunctf7IFN4my0n9paKLOK-ZbZ9QTT1Tv0-MAdyZbdKH9fP7adkY5rBwo8h9rfHfmFsI2EgeLyLbbyT4I6rxy6AZ-sxj35PnTW5Rato_fEidGuhasoq0CmsXPkdCAj-x1JVS0jxYBWy54RdqmSnrpTpE3cM8ETOmqJ8zGLBWeJq7kS8jwyFpFVHQ/4vi/JYuS8F4jRrypNKG-di0t7Q/h67/h001.TQzvrBls4RspCP49oJZ1p4saHT2XJRG181v09xi604c",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4932",
+      "title": "Post-rear-end-crash repair estimate could change",
+      "description": "One participant points out that a repair shop can estimate only the visible damage after a crash. As with most cars, additional damage may be discovered during disassembly.",
+      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsjnsl4WVI_qAVNuPfcxiDZJ7IjqEPoNK4oyeED12SsA4aW9JnrtnQmLnb5w5gf7HkDrNECRmV8rnQJvwj38PDGcIwWsw4ELntfQss4gw5Q5iBLehrJPW58oiKQo-tWIoetJ2lNFUlc1CNSU4mZU2Oj7nqQyMVO_NRBLmvxKN-pDsntPyEKjp1F_w2bwYqcIopubGKf3_lrPYl_8_aaklaG5ZEcfqXnkCcnhBCRCrbDTow2hLPQWLoKw7n-FVsdFqr7rdjgRKF9BLYxfJuGPEViVu7Y3eyWfu2qXmHwF6vBrsPdjw8FTVpg05MAvfFnV0x/4vi/JYuS8F4jRrypNKG-di0t7Q/h78/h001.oLgVk0WGVRcMKzrelaU7RKQDQLSsBxTz73tBraPswY0",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4933",
+      "title": "Owner recounts a trip without access to Superchargers",
+      "description": "An owner describes a two-and-a-half-hour trip to pick up their Lucid Air from a repair shop in Grand Rapids, Michigan. They made the journey with their son in a Model Y, without access to DC fast chargers.",
+      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsX9fUellXUT2pNX3r7rt1fsrXfinl_CY-A4i9k7Z9_mP5Dw5goBFRWPH7UILC9Qh3qeKcgUazljcZF6R0SYzjH94u8AKM6nv9kDD-UgIIL0dMDvtBVR654hdGqXVKgrJ70qyrqxY5ie8z9uqTzMYu_7yjkdXYfI8VlynJaK68xzveUchNjH6k060qsRBZxmQcOKucw0ZeMcmAktyCncGmT-R_XjDyj6ngh953EXcKzxwD7CV5kMRjb-mICmNtvg8Fg6vPpfi772jmQOJPf_v2YCzEcO1_b-WfPNbRE0NGle2DWH78in_I4aL3YQ1udfJOqTrMzi3uGuYjIcG3LS3l8Q/4vi/JYuS8F4jRrypNKG-di0t7Q/h84/h001.BGPGpCcgcT_X_BIK_4Facuo5Yu_MN46jWYf5pgv9_b4",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-06T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4916",
+      "title": "U.S. elections raise concerns about slowing AI growth",
+      "description": "Democrats regained the House and Senate while advocating, among other measures, stronger oversight of the AI sector, while several data-center projects were restricted. After an initial rise, the market experienced one of the worst daily declines in U.S. history, with some investors fearing further measures against AI.",
+      "link": "https://archive.superhuman.ai/2118399188195234249",
       "sources": [
         "Superhuman"
       ],
-      "received_at": "2026-11-05T15:09+01:00",
+      "received_at": "2026-11-06T15:12+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
+    },
+    {
+      "id": "g4917",
+      "title": "Subvocal unveils glasses that can capture silent whispers",
+      "description": "Subvocal’s smart glasses capture silent whispers to enable text dictation without speaking aloud.",
+      "link": "https://archive.superhuman.ai/2116198463847408066",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4919",
+      "title": "Apple and Goldman Sachs restrict employees’ AI use",
+      "description": "Apple is seeking to reduce costs, while Goldman Sachs is concerned that non-engineering employees are creating their own projects with vibe coding.",
+      "link": null,
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-06T15:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4901",
+      "title": "Google enhances its Agentic Data Cloud for AI agents",
+      "description": "Google Cloud is adding a borderless Lakehouse based on Apache Iceberg, an enriched knowledge catalog, and specialized infrastructure for AI agents. The updates aim to provide secure, real-time access to distributed data while reducing token costs and improving query performance.",
+      "link": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4902",
+      "title": "Microsoft expands Copilot Chat’s undisclosed limits",
+      "description": "Microsoft is increasing Copilot Chat usage caps for businesses without a paid Microsoft 365 Copilot license, without disclosing the limits or allowing administrators to change them. The rollout began on November 2 for small organizations and will reach those with more than 2,000 seats on November 9.",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4904",
+      "title": "AI increases the cost of accumulated technical debt",
+      "description": "AI-assisted vulnerability discovery is making exploits much cheaper and faster to develop, while remediation remains limited to human speed. Organizations should audit deferred security tickets, remove unused exposed systems, and regularly reassess accepted risks.",
+      "link": "https://hitesh.in/2026/ai-raised-the-interest-on-technical-debt/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4905",
+      "title": "Basic vulnerabilities remain at the heart of many attacks",
+      "description": "Despite the apparent complexity of some security incidents, entry points often rely on basic flaws such as missing access controls, unpatched firmware, or exposed credentials. Development tools and internal agents can worsen these risks if access layers and operational security are not rigorously managed.",
+      "link": "https://techtrenches.dev/p/who-checks-the-boring-layer",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4906",
+      "title": "MariaDB launches a unified platform for agentic enterprises",
+      "description": "MariaDB presents Enterprise Platform 2027, a unified database for AI agents and enterprise workloads, integrating transactions, real-time analytics, vector search, and AI tools. It notably announces a 56 % increase in maximum throughput compared with version 11.8 and active-active multiregion scalability.",
+      "link": "https://mariadb.com/resources/blog/introducing-mariadb-enterprise-platform-2027-one-foundation-for-the-agentic-enterprise",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4907",
+      "title": "Confluent makes real-time SQL queries available on Kafka data",
+      "description": "Confluent is making Lightning Tables generally available on AWS, allowing applications to continuously query updated Kafka data through SQL and APIs without a separate serving database. The feature is part of its Streamhouse architecture, which combines streaming, processing, governance, and querying.",
+      "link": "https://www.confluent.io/press-release/confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4908",
+      "title": "EXACT combines TDD and AI agents without sacrificing quality",
+      "description": "The EXACT method combines test-driven development with agentic AI tools by using example mapping, natural-language test lists, and predictive TDD. Experiments show that it improves code correctness and quality compared with unguided vibe coding or simple TDD prompts.",
+      "link": "https://coding-is-like-cooking.info/2026/11/how-to-use-test-driven-development-with-ai-agents-without-lowering-code-quality/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4909",
+      "title": "Google details the failure of its backup generators in London",
+      "description": "According to Google’s incident report, the outage in London in October was caused by a voltage-detection failure and an incorrectly configured controller, preventing the backup generators from starting. With one power supply already under repair, the batteries eventually ran out after the other supply failed.",
+      "link": "https://assets.theregister.com/2026/11/05/20265/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4910",
+      "title": "The next ERPs should prioritize business outcomes",
+      "description": "The next generation of enterprise resource planning software should shift from improving productivity to delivering business outcomes through agentic applications.",
+      "link": "https://diginomica.com/why-next-generation-erp-all-about-outcomes",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4911",
+      "title": "Google launches AlloyDB Express for rapid testing and prototyping",
+      "description": "AlloyDB Express can be provisioned in under two seconds and automatically scales to zero during idle periods. It includes enterprise AI features such as vector search and direct access to Gemini models.",
+      "link": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-06T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4900",
+      "title": "Reusable skills are becoming the primary asset of agentic AI",
+      "description": "Models and agents will evolve, but companies can preserve their expertise by encoding expert workflows as reusable Skills. These Skills capture judgment, exceptions, and escalation rules beyond a simple standardized procedure.",
+      "link": "https://www.linkedin.com/comm/pulse/agentic-intelligence-64-pascal-bornet-wiv8e?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3ByNoH2bvUQIym11JHxwNytg%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=0gacFlGegqeYw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mw4xdkxl~u1-null-null&eid=5135t-mw4xdkxl-u1",
+      "sources": [
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-06T14:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4873",
+      "title": "Plan AI by capabilities rather than dates",
+      "description": "AI roadmaps should define readiness criteria—quality, cost, reliability, and security—instead of setting fixed deadlines. Agents should gradually receive more responsibility once they meet those criteria.",
+      "link": "https://www.linkedin.com/comm/pulse/irreplaceable-ai-249-pascal-bornet-gn1me?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3Bzm9upgO0Rl6ps%2BHB0CHhMw%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=0Qi2ZymdnUeIw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mw4xcm7j~as-null-null&eid=5135t-mw4xcm7j-as",
+      "sources": [
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-06T14:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4886",
+      "title": "US voters threaten massive datacenter development",
+      "description": "Recent results show that voters broadly oppose the massive expansion of computing capacity sought by Silicon Valley. A slowdown in construction could hurt technology companies that already struggle to secure enough computing capacity.",
+      "link": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&reflink=desktopwebshare_permalink",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4887",
+      "title": "Blue Origin prepares a more powerful rocket engine at one-quarter the cost",
+      "description": "Blue Origin announced two upgrades to its New Glenn rocket aimed at reducing manufacturing costs and increasing payload capacity. The company is testing a new engine and developing a hydrogen-and-oxygen third stage.",
+      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4888",
+      "title": "A nearly living artificial cell can grow, copy its DNA, and divide",
+      "description": "SpudCell is an artificial cell created from inanimate components that can grow, copy its DNA, and divide. It could one day serve as a biotechnology platform, while its researchers are considering misuse risks.",
+      "link": "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html?unlocked_article_code=1.OVE.N_Db.a5RBcfVbgWuT&smid=url-share",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4889",
+      "title": "GitHub unveils a new Git storage architecture",
+      "description": "GitHub’s new Git storage architecture can handle thousands of writes per second and support 5,000 simultaneous agents on a repository. It is designed to support the agentic development of hundreds of millions of developers.",
+      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4890",
+      "title": "The *sshole vulnerability allows passwordless access to some Linux devices",
+      "description": "The *sshole vulnerability allows attackers to connect over SSH without knowing the password. It affects systems using OpenSSH with musl and without pluggable authentication modules.",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4892",
+      "title": "The rise of AI revives Hackintosh development",
+      "description": "The Hackintosh community, which had declined since Apple switched to ARM chips, is experiencing renewed activity with the rise of AI. Recent projects include running macOS on a Snapdragon laptop and on ARM boards.",
+      "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4893",
+      "title": "Building a physical platform to produce biological data",
+      "description": "This essay examines the conditions needed to create a platform capable of conducting biological experiments, reliably measuring their results, and producing evidence at the scale required by AI.",
+      "link": "https://deepphenotype.substack.com/p/getting-data-to-grow-in-a-dish",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4894",
+      "title": "A database can be viewed as global variable storage",
+      "description": "Two common software development principles—avoiding global variables and using a database for state—are partly contradictory.",
+      "link": "https://www.seangoedecke.com/a-database-is-a-store-for-global-variables/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4896",
+      "title": "AI accelerates the exploitation of known vulnerabilities",
+      "description": "The average time between vulnerability disclosure and exploitation has been declining for some time. AI has changed who can act during this window and how quickly known flaws are turned into attacks.",
+      "link": "https://a16z.com/the-exploit-was-the-bottleneck/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4897",
+      "title": "Technology companies should make better use of the data they collect",
+      "description": "Technology companies track, store, and sell large amounts of information about their users. They should use it to improve the user experience.",
+      "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4898",
+      "title": "The number of programmers could increase 100-fold",
+      "description": "There could be 100 times more programmers in the coming years, even though most will not define themselves as such.",
+      "link": "https://tailscale.com/blog/100x-more-programmers",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-06T13:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4879",
+      "title": "Expertise is becoming the durable asset of AI systems",
+      "description": "Models and agents will evolve, but the skills that encode a company’s judgment, exceptions, and ways of working can remain durable. The challenge is teaching AI how the best employees work.",
+      "link": null,
+      "sources": [
+        "Intelligence Newsletter"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4881",
+      "title": "Adobe makes operational playbooks executable",
+      "description": "Adobe defines Skills as reusable playbooks that standardize the execution of recurring tasks. These documented processes can now be executed, while judgment between steps remains essential.",
+      "link": "https://experienceleague.adobe.com/en/docs/coworker/content/customizations/skills/what-are-skills",
+      "sources": [
+        "Intelligence Newsletter"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4882",
+      "title": "A small company is already organizing its work around AI playbooks",
+      "description": "An eight-person company encodes the work of its various departments in portable AI playbooks and compares them with human performance. This approach aims to preserve operational expertise regardless of the models or providers used.",
+      "link": "https://www.businessinsider.com/8-person-company-uses-ai-agents-to-avoid-doubling-team-2026-11",
+      "sources": [
+        "Intelligence Newsletter"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4883",
+      "title": "Microsoft makes Skills portable across agents",
+      "description": "Microsoft’s agent tools now support reusable skill packages that can be shared and invoked across multiple agents. This shift favors libraries of capabilities rather than simple prompt libraries.",
+      "link": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/skills-overview",
+      "sources": [
+        "Intelligence Newsletter"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4884",
+      "title": "Reusable skills create a new governance problem",
+      "description": "A study of 1.53 million public agent Skills found that about one in seventeen contains instructions that reduce some form of human oversight. Important skills should be managed like code, with an owner, tests, versioning, and reviews.",
+      "link": "https://arxiv.org/abs/2610.37734",
+      "sources": [
+        "Intelligence Newsletter"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4874",
+      "title": "METR estimates that AI capabilities could accelerate",
+      "description": "A new METR evaluation focused on Anthropic suggests that some well-specified AI capabilities may be advancing much faster than before, despite substantial uncertainty. The text recommends reassessing capability assumptions every 90 days.",
+      "link": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "sources": [
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4876",
+      "title": "Microsoft makes expertise shareable in Copilot Chat",
+      "description": "Microsoft is introducing reusable skills in Copilot Chat so employees can create, share, and reuse instructions and expertise. The text emphasizes that teams can increasingly build AI capabilities themselves.",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--october-2026/4568528",
+      "sources": [
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4877",
+      "title": "Box launches a tool for easier creation of AI-based workflows",
+      "description": "Box announced an AI workflow builder to help teams create AI-based processes around enterprise content. According to the text, easier construction shifts the main challenge to deciding whether to delegate the work.",
+      "link": "https://www.reuters.com/business/box-expands-nvidia-partnership-unveils-ai-workflow-builder-2026-11-05/",
+      "sources": [
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4878",
+      "title": "Google recommends human-directed, agent-executed workflows",
+      "description": "Google Cloud Consulting recommends moving from automating individual tasks to workflows in which agents perform operations and humans direct them. Different decisions within a process may reach readiness at different times.",
+      "link": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/",
+      "sources": [
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-06T13:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g4848",
@@ -491,7 +1100,7 @@
     {
       "id": "g4849",
       "title": "Goldman Sachs names 109 new partners, the most since 2010",
-      "description": "Goldman Sachs welcomed 109 members into its partnership, its largest class since 2010. The number of engineers reached a record high amid Wall Street’s growing interest in AI.",
+      "description": "Goldman Sachs welcomed 109 members into its partner ranks, its largest class since 2010. The number of engineers reached a record high amid Wall Street’s growing interest in AI.",
       "link": "https://www.businessinsider.com/goldman-sachs-partner-promotions-full-list-2026-11",
       "sources": [
         "Business Insider"
@@ -503,8 +1112,8 @@
     },
     {
       "id": "g4850",
-      "title": "Walleye fund fires its head of stock selection",
-      "description": "After a difficult October, Walleye dismissed its head of equity selection, Anil Gondi, along with a significant share of its equity portfolio managers. The $17 billion fund lost nearly 6% last month.",
+      "title": "Walleye fund fires its head of stock picking",
+      "description": "After a difficult October, Walleye dismissed its head of equity selection, Anil Gondi, along with a substantial portion of its equity portfolio managers. The $17 billion fund lost nearly 6% last month.",
       "link": "https://www.businessinsider.com/walleye-capital-stock-picking-head-anil-gondi-exit-2026-11",
       "sources": [
         "Business Insider"
@@ -516,7 +1125,7 @@
     },
     {
       "id": "g4851",
-      "title": "Major investors debate AI and the future of the labor market",
+      "title": "Top investors debate AI and the future of the labor market",
       "description": "At the SALT London forum, financial figures discussed the rise of AI, the outlook for the job market and Elon Musk’s predictions.",
       "link": "https://www.businessinsider.com/salt-london-speakers-ai-bubble-elon-musk-future-jobs-outlook-2026-11",
       "sources": [
@@ -530,7 +1139,7 @@
     {
       "id": "g4852",
       "title": "Tesla will gradually halt Cybertruck production",
-      "description": "Elon Musk announced that Tesla will gradually reduce Cybertruck production starting in the middle of next year. The space freed up at the Texas plant will be used to build the Cybercab robotaxi.",
+      "description": "Elon Musk announced that Tesla will gradually reduce Cybertruck production starting in the middle of next year. The space freed up at the Texas factory will be used to build the Cybercab robotaxi.",
       "link": "https://l.businessinsider.com/a/zc/21432/da58bd8af58844b0920d2446282720e9/40e25a8be2484b97873b612f79b21ebb",
       "sources": [
         "Business Insider"
@@ -543,7 +1152,7 @@
     {
       "id": "g4854",
       "title": "Mira Murati’s startup targets a $5 billion funding round",
-      "description": "Thinking Machines Lab, Mira Murati’s AI startup, is seeking to raise $5 billion at a $40 billion pre-money valuation. Accel is leading the round, which could more than triple the company’s valuation.",
+      "description": "Mira Murati’s AI startup, Thinking Machines Lab, is seeking to raise $5 billion at a $40 billion pre-money valuation. Accel is leading the round, which could more than triple the company’s valuation.",
       "link": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
       "sources": [
         "Business Insider"
@@ -555,8 +1164,8 @@
     },
     {
       "id": "g4855",
-      "title": "Block announces another wave of layoffs",
-      "description": "Jack Dorsey’s fintech is cutting jobs for the second time this year, despite reporting better-than-expected results just days earlier. Employees in the Cash App business are affected.",
+      "title": "Block announces a new wave of layoffs",
+      "description": "Jack Dorsey’s fintech is cutting jobs for the second time this year, despite reporting better-than-expected results just days earlier. Employees in the Cash App businesses are affected.",
       "link": "https://l.businessinsider.com/a/zc/21432/da58bd8af58844b0920d2446282720e9/2412c7a766d949d2ac9eeeb12fd9760e",
       "sources": [
         "Business Insider"
@@ -582,7 +1191,7 @@
     {
       "id": "g4858",
       "title": "Nvidia must decide how to financially support neoclouds",
-      "description": "Nvidia helped bring about a generation of cloud-service providers specializing in AI. The company must now determine how much support to provide as financing becomes more expensive.",
+      "description": "Nvidia helped bring about a generation of cloud providers specializing in AI. The company must now determine how much support to provide as financing becomes more expensive.",
       "link": "https://www.businessinsider.com/nvidia-takes-on-new-risks-as-neoclouds-face-shakeout-2026-11",
       "sources": [
         "Business Insider"
@@ -595,7 +1204,7 @@
     {
       "id": "g4861",
       "title": "Americans are choosing gift recipients more carefully",
-      "description": "Americans are becoming more selective about whom they will give a gift to this year.",
+      "description": "Americans are becoming more selective about whom they will give gifts to this year.",
       "link": "https://www.businessinsider.com/americans-more-choosy-about-who-gets-presents-this-year-2026-11",
       "sources": [
         "Business Insider"
@@ -607,8 +1216,8 @@
     },
     {
       "id": "g4863",
-      "title": "Cristiano Ronaldo will retire from international football at 41",
-      "description": "Cristiano Ronaldo says he will retire from international football at the age of 41. The article also examines the scientific factors behind his longevity.",
+      "title": "Cristiano Ronaldo will leave international football at 41",
+      "description": "Cristiano Ronaldo announced that he is retiring from international football at age 41. The article also examines the scientific factors behind his longevity.",
       "link": "https://www.businessinsider.com/cristiano-ronaldo-retiring-longevity-secrets-health-fitness-tips-2026-11",
       "sources": [
         "Business Insider"
@@ -620,7 +1229,7 @@
     },
     {
       "id": "g4864",
-      "title": "Loved ones pay tribute to Learjet crash victim Helen Sharp",
+      "title": "Helen Sharp’s loved ones pay tribute to Learjet crash victim",
       "description": "Helen Sharp, who died at 40 in a Learjet crash, is described by friends as someone who lived life to the fullest.",
       "link": "https://www.businessinsider.com/helen-sharp-florida-learjet-crash-victim-2026-11",
       "sources": [
@@ -647,7 +1256,7 @@
     {
       "id": "g4867",
       "title": "Data-center builders speak out after the elections",
-      "description": "Data-center builders gathered during the midterm elections and shared their views.",
+      "description": "Data-center builders gathered during the midterm elections and shared their perspectives.",
       "link": "https://www.businessinsider.com/data-center-industry-election-reaction-conference-2026-11",
       "sources": [
         "Business Insider"
@@ -672,8 +1281,8 @@
     },
     {
       "id": "g4869",
-      "title": "Student-loan repayment difficulties are worsening",
-      "description": "Lawmakers say student-loan repayment problems are growing and are demanding answers.",
+      "title": "Student-loan repayment problems are worsening",
+      "description": "Officials say student-loan repayment problems are growing and are demanding answers.",
       "link": "https://www.businessinsider.com/student-loan-borrowers-face-severe-debt-repayment-problems-lawmakers-education-2026-11",
       "sources": [
         "Business Insider"
@@ -698,8 +1307,8 @@
     },
     {
       "id": "g4872",
-      "title": "A carpenter becomes financially independent by renting out land",
-      "description": "A carpenter who went bankrupt achieved financial independence through an unusual land-rental business.",
+      "title": "A Carpenter Becomes Financially Independent by Renting Out Land",
+      "description": "A carpenter who went bankrupt became financially independent through an unusual land-rental business.",
       "link": "https://www.businessinsider.com/bankrupt-to-financially-independent-longyards-founder-small-business-2026-11",
       "sources": [
         "Business Insider"
@@ -711,7 +1320,7 @@
     },
     {
       "id": "g4835",
-      "title": "AI infrastructure stocks drive the S&P 500 down 4.4%",
+      "title": "AI Infrastructure Stocks Send the S&P 500 Down 4.4%",
       "description": "AI infrastructure stocks triggered a Wall Street sell-off as investors anticipated a slowdown in data center construction. The S&P 500 fell 4.4%.",
       "link": "https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e",
       "sources": [
@@ -723,21 +1332,8 @@
       "followed_topic": null
     },
     {
-      "id": "g4837",
-      "title": "Claude rolls out a personal finance management hub",
-      "description": "Claude’s Personal Finance hub is gradually rolling out to U.S. Pro, Max and Ultra subscribers. It connects to bank accounts and cards through Plaid to categorize spending, spot duplicates and explain fees, in read-only mode.",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-06T12:08+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4838",
-      "title": "Gauge turns AI agent errors into regression tests",
+      "title": "Gauge Turns AI Agent Errors into Regression Tests",
       "description": "The open-source Gauge tool has coding agents perform the same task, records their sessions and checks the results against success or failure criteria. It lets users modify an instruction, rerun exactly the same task and compare the results.",
       "link": "https://github.com/gauge-sh/gauge-cli",
       "sources": [
@@ -750,8 +1346,8 @@
     },
     {
       "id": "g4839",
-      "title": "Anthropic gives METR internal access to measure AI progress",
-      "description": "Anthropic gave METR internal access, and the organization estimates that AI capabilities on well-specified tasks are advancing roughly twice as fast as a year ago.",
+      "title": "Anthropic Gives METR Internal Access to Measure AI Progress",
+      "description": "Anthropic gave METR internal access, and the organization estimates that AI capabilities on well-specified tasks are advancing about twice as fast as they were a year ago.",
       "link": "https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23",
       "sources": [
         "The Neuron"
@@ -763,8 +1359,8 @@
     },
     {
       "id": "g4841",
-      "title": "A contest offers one million dollars for five materials science problems",
-      "description": "Discovered Materials is offering one million dollars for five unresolved materials science problems. Leading AI agents have so far made little progress on them.",
+      "title": "A Contest Offers One Million Dollars for Five Materials Science Problems",
+      "description": "Discovered Materials has offered one million dollars for five unsolved problems in materials science. Leading AI agents have so far made little progress on these problems.",
       "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
       "sources": [
         "The Neuron"
@@ -776,7 +1372,7 @@
     },
     {
       "id": "g4843",
-      "title": "ElevenMusic publishes AI-generated tracks directly to SoundCloud",
+      "title": "ElevenMusic Publishes AI-Generated Tracks Directly to SoundCloud",
       "description": "ElevenMusic now lets users publish AI-generated tracks directly to SoundCloud. Users have created more than 25 million tracks with ElevenLabs’ music models.",
       "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
       "sources": [
@@ -789,7 +1385,7 @@
     },
     {
       "id": "g4844",
-      "title": "Box Context Retrieval answers questions from authorized files",
+      "title": "Box Context Retrieval Answers Questions from Authorized Files",
       "description": "Box Context Retrieval uses NVIDIA Nemotron models to answer only from files the user can access, including scanned documents, images, audio and video. General availability is planned for early 2027.",
       "link": "https://blog.box.com/box-partners-nvidia-deliver-trusted-content-layer-enterprise-ai",
       "sources": [
@@ -802,8 +1398,8 @@
     },
     {
       "id": "g4846",
-      "title": "Axiom releases a 16-million-line Lean formalization of the Stacks Project",
-      "description": "Axiom released a Lean formalization of the Stacks Project consisting of 16 million lines, produced primarily by swarms of AI agents. The agents also identified dozens of statements requiring correction in the original text.",
+      "title": "Axiom Publishes a 16-Million-Line Lean Formalization of the Stacks Project",
+      "description": "Axiom has published a Lean formalization of the Stacks Project consisting of 16 million lines and produced mainly by swarms of AI agents. The agents also identified dozens of statements in the original text that need correction.",
       "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
       "sources": [
         "The Neuron"
@@ -814,35 +1410,9 @@
       "followed_topic": null
     },
     {
-      "id": "g4806",
-      "title": "Gemini Omni 1.2 Flash generates 15-second videos at lower cost",
-      "description": "Google DeepMind is making Gemini Omni 1.2 Flash available to everyone, with clips of up to 15 seconds priced at $0.07 per second in 720p. The model can also edit a video conversationally without regenerating the entire thing.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4807",
-      "title": "Claude analyzes bank statements and detects unusual spending",
-      "description": "Anthropic is launching Personal Finance, a Claude hub connected to bank accounts and credit cards through Plaid. Available in beta in the United States to certain subscribers, it analyzes spending in read-only mode and identifies duplicate payments and unexpected fees, among other things.",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4809",
-      "title": "AI could help establish a dialogue with dolphins",
-      "description": "A team of biologists from Georgia Tech and Google DeepMind is analyzing 40 years of dolphin recordings to identify patterns. It is also testing an underwater computer that emits sounds associated with objects, but it remains unclear whether this represents genuine understanding.",
+      "title": "AI Could Help Establish a Dialogue with Dolphins",
+      "description": "A team of biologists from Georgia Tech and Google DeepMind is analyzing 40 years of dolphin recordings to identify patterns. It is also testing an underwater computer that emits sounds associated with objects, but it remains to be determined whether this represents genuine understanding.",
       "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
       "sources": [
         "Vision IA"
@@ -854,8 +1424,8 @@
     },
     {
       "id": "g4810",
-      "title": "Anthropic reportedly accelerated its R&D through internal AI use",
-      "description": "METR estimates that Anthropic’s models have been progressing roughly twice as fast since October as they did previously. The Information attributes this acceleration to the company’s intensive use of AI in research.",
+      "title": "Anthropic Reportedly Accelerated Its R&D Through Internal AI Use",
+      "description": "METR estimates that Anthropic’s models have been improving about twice as fast since October as they did previously. The Information attributes this acceleration to the intensive use of AI in the company’s research.",
       "link": "https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find",
       "sources": [
         "Vision IA"
@@ -867,7 +1437,7 @@
     },
     {
       "id": "g4811",
-      "title": "AI agents remain below a 12% success rate on a real-world work test",
+      "title": "AI Agents Remain Below 12% Success on a Real-World Work Test",
       "description": "SemiAnalysis’s GDPx benchmark evaluates agents on simulated knowledge-work tasks, from chip design to quantitative trading. No model exceeds a 12% success rate, although Claude Opus 5.5 slightly outperforms Gemini 4 Carbon.",
       "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
       "sources": [
@@ -880,8 +1450,8 @@
     },
     {
       "id": "g4812",
-      "title": "Microsoft Research aims to formally verify code written by AI agents",
-      "description": "The PDD Kit tool turns a developer’s intent into a formal specification, then verifies that the generated code satisfies it for all possible inputs. Tested with GitHub Next’s Chopin, it uncovered bugs in an online store written in Rust.",
+      "title": "Microsoft Research Wants to Formally Verify Code Written by AI Agents",
+      "description": "The PDD Kit tool turns a developer’s intent into a formal specification, then verifies that the generated code follows it for all possible inputs. Tested with GitHub Next’s Chopin, it uncovered bugs in an online store written in Rust.",
       "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
       "sources": [
         "Vision IA"
@@ -893,8 +1463,8 @@
     },
     {
       "id": "g4813",
-      "title": "NVIDIA opens four Cosmos 3 models for simulating realistic worlds",
-      "description": "NVIDIA is releasing four 16-billion-parameter Cosmos 3 world models under a license permitting commercial use. They generate driving scenes, camera and LiDAR data, and simulations for autonomous cars and robots.",
+      "title": "NVIDIA Opens Four Cosmos 3 Models for Simulating Realistic Worlds",
+      "description": "NVIDIA is releasing four 16-billion-parameter Cosmos 3 world models under a license permitting commercial use. They generate driving scenes, camera and LiDAR data, and simulations for autonomous vehicles and robots.",
       "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "sources": [
         "Vision IA"
@@ -906,8 +1476,8 @@
     },
     {
       "id": "g4815",
-      "title": "Grimes will appear in an AI-generated film intended for cinemas",
-      "description": "The singer is lending her likeness and voice to « Gods Don't Give Gifts », a science-fiction film produced by Fable and scheduled for theatrical release on December 4. The studio wants to test the commercial potential of AI-generated cinema.",
+      "title": "Grimes Will Star in an AI-Generated Film Intended for Theaters",
+      "description": "The singer is lending her likeness and voice to “Gods Don't Give Gifts,” a science-fiction film produced by Fable and scheduled for theatrical release on December 4. The studio wants to test the commercial potential of AI-generated cinema.",
       "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
       "sources": [
         "Vision IA"
@@ -919,8 +1489,8 @@
     },
     {
       "id": "g4816",
-      "title": "Grok Bot can now make phone calls on your behalf",
-      "description": "The AI agent can wait on hold, schedule appointments and negotiate bills on U.S. numbers. The user remains the “caller of record,” and is therefore legally responsible for calls made by the bot.",
+      "title": "Grok Bot Can Now Make Phone Calls on Your Behalf",
+      "description": "The AI agent can wait on hold, schedule appointments and negotiate bills on U.S. phone numbers. The user remains the “caller of record,” and is therefore legally responsible for calls made by the bot.",
       "link": "https://x.com/bot/status/2118043939592942052",
       "sources": [
         "Vision IA"
@@ -932,8 +1502,8 @@
     },
     {
       "id": "g4817",
-      "title": "Perplexity launches Teammates, collaborative AI agents for work",
-      "description": "Teammates agents can take on different roles, work in parallel and reuse projects, skills and memories in Perplexity. The service relies on Perplexity Computer to handle long-running work.",
+      "title": "Perplexity Launches Teammates, Collaborative AI Agents for Work",
+      "description": "Teammates agents can take on different roles, work in parallel and reuse projects, skills and memories stored in Perplexity. The service relies on Perplexity Computer to handle extended tasks.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
       "sources": [
         "Vision IA"
@@ -945,8 +1515,8 @@
     },
     {
       "id": "g4818",
-      "title": "Mistral adds managed agents and applications to Studio",
-      "description": "Mistral is enhancing Studio with managed agents, workflows, observability and agent evaluation. The platform runs on Mistral Large 4 and can be deployed in the cloud, on a private network or on the company’s servers.",
+      "title": "Mistral Adds Managed Agents and Applications to Studio",
+      "description": "Mistral is enhancing Studio with managed agents, workflows, observability and agent evaluation. The platform runs on Mistral Large 4 and can be deployed in the cloud, on a private network or on company servers.",
       "link": "https://mistral.ai/news/build-with-studio/",
       "sources": [
         "Vision IA"
@@ -958,7 +1528,7 @@
     },
     {
       "id": "g4823",
-      "title": "Tencent launches Hy4, a model capable of controlling a computer",
+      "title": "Tencent Launches Hy4, a Model Capable of Controlling a Computer",
       "description": "Hy4 understands images and can use software autonomously. Tencent ranks it as the second Chinese model behind Kimi K3.1 Pro, while acknowledging its limitations in advanced mathematics and complex image analysis.",
       "link": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
       "sources": [
@@ -971,8 +1541,8 @@
     },
     {
       "id": "g4824",
-      "title": "Beijing blocks SoftBank’s acquisition of ABB’s robotics division",
-      "description": "China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment review agency. The decision highlights the growing strategic importance of industrial robots.",
+      "title": "Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division",
+      "description": "China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.",
       "link": "https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal",
       "sources": [
         "Vision IA"
@@ -983,8 +1553,21 @@
       "followed_topic": null
     },
     {
+      "id": "g4783",
+      "title": "Anthropic signs its first licensing deal with the Associated Press",
+      "description": "Anthropic has reached an agreement with the Associated Press allowing Claude to display midterm election results with their sources. The decision marks a shift in position after the company invoked fair use to collect news content.",
+      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-06T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g4830",
-      "title": "U.S. elections threaten the expansion of AI data centers",
+      "title": "U.S. Elections Threaten the Expansion of AI Data Centers",
       "description": "Democrats now control the U.S. House and Senate, while data centers influenced several local elections. The AI industry expects more regulation and a slowdown in new infrastructure.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
       "sources": [
@@ -997,7 +1580,7 @@
     },
     {
       "id": "g4831",
-      "title": "Blue Origin delays New Glenn’s return to flight until January 2027",
+      "title": "Blue Origin Delays New Glenn’s Return to Flight Until January 2027",
       "description": "Jeff Bezos’s rocket is awaiting the reconstruction of its Cape Canaveral launch pad, destroyed by an explosion in May. Amazon is meanwhile using United Launch Alliance and Arianespace to deploy its satellite constellation.",
       "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
       "sources": [
@@ -1010,7 +1593,7 @@
     },
     {
       "id": "g4832",
-      "title": "AI stocks plunge after the U.S. elections",
+      "title": "AI Stocks Fall After the U.S. Elections",
       "description": "The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.",
       "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
       "sources": [
@@ -1023,8 +1606,8 @@
     },
     {
       "id": "g4797",
-      "title": "The AI data center boom sparks a backlash after the U.S. elections",
-      "description": "Voters challenged the growth of AI-focused data centers. New restrictions could slow construction, raise costs and change the distribution of AI capacity.",
+      "title": "The AI Data Center Boom Draws Backlash After the U.S. Elections",
+      "description": "Voters challenged the growth of AI-focused data centers. New restrictions could slow construction, increase costs and change how AI capacity is distributed.",
       "link": "https://www.techrepublic.com/article/news-ai-data-center-boom-election-backlash/",
       "sources": [
         "TechnologyAdvice"
@@ -1036,8 +1619,8 @@
     },
     {
       "id": "g4798",
-      "title": "16 or 32 GB of RAM: Which capacity should you choose for a Windows AI laptop?",
-      "description": "16 GB is still enough for browsing, office work and cloud-based AI, while Windows 11 updates improve the performance of computers with limited memory. The article details the use cases that genuinely justify 32 GB.",
+      "title": "16 or 32 GB of RAM: Which Capacity Should You Choose for a Windows AI Laptop?",
+      "description": "16 GB is still enough for browsing, office work and cloud-based AI, while Windows 11 updates are improving the performance of computers with limited memory. The article details the use cases that genuinely justify 32 GB.",
       "link": "https://www.techrepublic.com/article/news-16gb-vs-32gb-ram-windows-laptops/",
       "sources": [
         "TechnologyAdvice"
@@ -1049,8 +1632,8 @@
     },
     {
       "id": "g4801",
-      "title": "AI agent governance: Who manages access and accountability?",
-      "description": "New recommendations indicate that 71% of organizations give agents sensitive access, but only 35% use identity and access management. They recommend appointing owners, logging decisions and testing shutdown mechanisms.",
+      "title": "AI Agent Governance: Who Manages Access and Accountability?",
+      "description": "New recommendations indicate that 71% of organizations give agents sensitive access, but only 35% use identity and access management. They call for designated owners, decision logging and testing of shutdown mechanisms.",
       "link": "https://www.techrepublic.com/article/news-ai-agent-governance-access-accountability/",
       "sources": [
         "TechnologyAdvice"
@@ -1062,8 +1645,8 @@
     },
     {
       "id": "g4802",
-      "title": "Apple and Google face pressure over more than 400 deepfake-related sites",
-      "description": "More than 400 apps and sites linked to deepfakes designed to undress people evaded Apple and Google’s controls. Hidden remote servers and ad-triggered features bypassed checks, while takedowns may not dismantle the abusive network.",
+      "title": "Apple and Google Face Pressure Over More Than 400 Deepfake-Related Sites",
+      "description": "More than 400 apps and sites linked to deepfakes that digitally undress people evaded Apple and Google’s controls. Hidden remote servers and ad-triggered features bypassed checks, while takedowns may not dismantle the abusive network.",
       "link": "https://www.techrepublic.com/article/news-ai-nudify-apps-apple-google-deepfake-investigation/",
       "sources": [
         "TechnologyAdvice"
@@ -1075,8 +1658,8 @@
     },
     {
       "id": "g4804",
-      "title": "Xiaomi begins rolling out Android 17 HyperOS 4",
-      "description": "HyperOS 4 will reach 82 Xiaomi, Redmi and Poco devices in three waves through December 2026. The update includes a new interface, Super XiaoAi 2.0 with AI features, and performance and HDR improvements for apps.",
+      "title": "Xiaomi Begins Rolling Out Android 17 HyperOS 4",
+      "description": "HyperOS 4 will reach 82 Xiaomi, Redmi and Poco devices in three waves through December 2026. The update includes a redesigned interface, Super XiaoAi 2.0 with AI features, and performance and HDR improvements.",
       "link": "https://www.techrepublic.com/article/news-xiaomi-hyperos-4-rollout-eligible-devices/",
       "sources": [
         "TechnologyAdvice"
@@ -1095,513 +1678,6 @@
         "Business Insider"
       ],
       "received_at": "2026-11-05T19:37+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4777",
-      "title": "Apple will scan public iCloud links for dangerous content",
-      "description": "Apple will begin scanning images and files shared through public iCloud links in iOS 27.3 and related systems. The company may move or delete affected files, block the Apple account and contact authorities.",
-      "link": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4779",
-      "title": "Pangram says its new models detect fake content",
-      "description": "Pangram says its new models can identify AI-generated content in images and videos.",
-      "link": "https://thenextweb.com/news/pangram-image-1-0-flash-ai-image-video-detection",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4699",
-      "title": "AI agents are almost nonexistent for booking an Uber",
-      "description": "Uber says almost nobody uses AI agents to book rides.",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4782",
-      "title": "Amazon replaces Grubhub with Uber Eats in its app",
-      "description": "Amazon is dropping Grubhub and integrating Uber Eats into its own app.",
-      "link": "https://thenextweb.com/news/uber-eats-on-amazon-prime-grubhub-lyft-go-doordash",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4784",
-      "title": "Apple allows discounts to retain users who attempt to cancel",
-      "description": "Apple now allows developers to offer discounts to users who try to cancel their subscriptions.",
-      "link": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4785",
-      "title": "Waymo confirms a change in its relationship with Uber in 2028",
-      "description": "Waymo confirms that its relationship with Uber will change in January 2028.",
-      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4789",
-      "title": "DuckDuckGo turns to schools after controversy over Google",
-      "description": "DuckDuckGo is offering its services to schools amid criticism of Google’s AI policy.",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4790",
-      "title": "Discord moves away from Electron in favor of Rust",
-      "description": "Discord is gradually replacing Electron with Rust, with an initial Windows version using 290 MB of RAM.",
-      "link": "https://wccftech.com/discord-is-ditching-electron-for-rust-with-early-windows-build-using-just-290mb-of-ram/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4792",
-      "title": "Early access to AI helps detect more vulnerabilities",
-      "description": "A group of U.S. technology companies with early access to vulnerability-research tools more than doubled their reported flaws and found about 150% more critical vulnerabilities before they were exploited.",
-      "link": "https://arxiv.org/abs/2611.06629",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4793",
-      "title": "AI agents design low-carbon power grid plans",
-      "description": "Power-planning agents produced valid, low-cost plans in all forty test cases, using only public data and adhering to strict carbon-emissions limits.",
-      "link": "https://arxiv.org/abs/2611.05911",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4794",
-      "title": "Web agents fall for scams in 11% to 35% of tests",
-      "description": "A testing method recreates real fraudulent websites to measure how well AI assistants resist scams during shopping or banking operations. The agents were deceived between 11% and 35% of the time.",
-      "link": "https://arxiv.org/abs/2611.04879",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4795",
-      "title": "Government content removals divide Americans",
-      "description": "A Pew-Knight survey indicates that 51% of American adults support the government removing false information, but only 14% support it when the information is deemed politically biased.",
-      "link": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-22-2026/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-05T19:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4759",
-      "title": "VMware returns to small deployments with vSphere Express",
-      "description": "Broadcom has introduced vSphere Express for deployments of up to 128 processor cores, offering an alternative to VMware’s larger offerings. The solution includes live virtual machine migration, automated recovery and distributed switching, but individual installations cannot be centrally managed.",
-      "link": "https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4581",
-      "title": "CrowdStrike launches a kill switch for AI agents",
-      "description": "CrowdStrike’s new AI Kill Switch allows security teams to block agents’ access to AI models through connected gateways. Broader controls, such as stopping endpoint processes and revoking permissions, are still in development.",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4761",
-      "title": "Disaster recovery must evolve for AI-centric businesses",
-      "description": "Growing reliance on AI as operational infrastructure and on external services requires disaster recovery strategies to be rethought. Experts recommend defining a minimum viable business that includes AI models, RAG data and identity dependencies, while accounting for nondeterministic results and fast-moving autonomous agents.",
-      "link": "https://www.itpro.com/security/what-does-disaster-recovery-look-like-in-an-ai-centric-world",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4763",
-      "title": "Siloed AI projects increase business costs",
-      "description": "AI projects run separately by department create hidden costs from duplicate platform purchases, repeated data preparation and unmonitored model usage. A shared inventory of tools and pilot projects makes it possible to compare operating costs with measurable benefits.",
-      "link": "https://www.prnewswire.com/news-releases/trace3-says-disconnected-ai-investments-are-creating-hidden-costs-for-enterprises-302928832.html",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4764",
-      "title": "Snowflake announces Business Ontology to provide AI with business context",
-      "description": "Snowflake has announced the upcoming public preview of Business Ontology, a business modeling and governance layer in Snowflake Horizon Context. It allows concepts, metrics and relationships to be defined and linked to underlying semantic views so AI agents use approved enterprise definitions.",
-      "link": "https://www.snowflake.com/en/blog/business-ontology-context/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4765",
-      "title": "Mozilla AI launches Otari to govern AI usage",
-      "description": "Mozilla AI has launched Otari, an open-source operating system and gateway for AI governance and choosing between multiple providers. The platform allows organizations to restrict tools, manage user budgets and track AI sessions from one place.",
-      "link": "https://blog.mozilla.ai/otari-by-mozilla-ai-your-operating-system-for-ai-governance/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4766",
-      "title": "MongoDB brings real-time Atlas data to Microsoft 365 Copilot",
-      "description": "MongoDB’s Atlas connector, now generally available, allows Microsoft 365 Copilot to answer questions using real-time operational data. The integration uses a managed MCP server to query Atlas directly for orders, incidents and business metrics.",
-      "link": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4768",
-      "title": "Neo4j and Snowflake combine graphs and enterprise data for AI",
-      "description": "Neo4j and Snowflake have partnered to integrate Neo4j’s graph intelligence capabilities into Snowflake AI Data Cloud. It offers Virtual Graph for querying data without moving it, Graph Analytics for Snowflake for on-demand SQL algorithms and AuraDB for mission-critical real-time workloads.",
-      "link": "https://neo4j.com/blog/knowledge-graph/graph-intelligence-for-your-snowflake-data-estate/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4769",
-      "title": "Microsoft details Windows management changes and upcoming deadlines",
-      "description": "Microsoft’s latest IT recap presents Windows recovery improvements and Intune controls allowing standard users to change certain approved network settings. It also notes the expiration of Windows Update certificates in 2027 and the end, on January 15, of CNAME-based discovery for MDM-only enrollment.",
-      "link": "https://techcommunity.microsoft.com/blog/windows-itpro-blog/windows-news-you-can-use-october-2026/4552396",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4771",
-      "title": "Confluent introduces Streamhouse to provide real-time business context",
-      "description": "Confluent’s Streamhouse architecture combines streaming, processing, governance and querying to give applications and AI agents a continuously updated view of business operations.",
-      "link": "https://newsroom.ibm.com/2026-11-04-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4772",
-      "title": "IBM launches a managed version of HashiCorp Vault on dedicated infrastructure",
-      "description": "IBM Cloud Secrets Manager Vault Dedicated provides single-tenant Vault Enterprise deployments, with IBM managing the infrastructure and operations. The service includes dynamic credentials, automated rotation and policy-based access.",
-      "link": "https://www.ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-05T18:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4748",
-      "title": "Varda manufactures drugs in microgravity",
-      "description": "Varda Space Industries uses autonomous orbital factories to process materials in small laboratories before returning a capsule to Earth. The company plans seven missions in 2027 and ten in 2028.",
-      "link": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4749",
-      "title": "X.com rebuilds its web app with five engineers and AI agents",
-      "description": "X.com’s new web application was developed by five engineers working with AI coding agents in less than six months. It loads significantly faster than the old version on slow connections and already serves logged-out users.",
-      "link": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4750",
-      "title": "Design engineers use prototypes to shape future software",
-      "description": "Design engineers contribute to feature and architecture decisions in code while retaining their role as designers. Their position enables them to create compelling prototypes of future concepts.",
-      "link": "https://maggieappleton.com/fortune-telling",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4659",
-      "title": "Local opposition to data centers gains ground in the United States",
-      "description": "Nearly all local measures put to a vote opposing data centers have passed or are on track to pass, except in North Dakota. This political constraint could keep AI in a state of scarcity longer than expected.",
-      "link": "https://stratechery.com/2026/ai-on-the-ballot/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4752",
-      "title": "Voice remains underused as an interface for AI",
-      "description": "Voice is presented as a natural interface, particularly for speaking freely with coding agents and capturing context. The article outlines several ways to use voice to interact with AI.",
-      "link": "https://benjamincongdon.me/blog/2026/11/03/Voice-is-Underutilized/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4754",
-      "title": "US AI capacity could reach a ceiling of 81 GW in 2027",
-      "description": "US capacity dedicated to AI is expected to rise from 38 GW today to a ceiling of 81 GW in 2027.",
-      "link": "https://tomtunguz.com/watts-in-store-for-2027-inference",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4755",
-      "title": "Teams need to choose bugs to fix more carefully",
-      "description": "It is no longer practical to fix every bug. Teams therefore need to be more selective about the problems they devote their efforts to.",
-      "link": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4756",
-      "title": "YouTube is preparing Tamba, an experimental app with social features",
-      "description": "Tamba could serve as a testing ground for social features rather than being a finished product.",
-      "link": "https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4757",
-      "title": "The biggest AI spenders stagnate in the third quarter",
-      "description": "AI adoption continues to grow among other companies, but spending by the top 1% of customers stagnated in the third quarter. Anthropic’s dollar growth also slowed.",
-      "link": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4758",
-      "title": "Payments could replace advertising revenue in the agent era",
-      "description": "Agents make advertising-based business models less effective. Agent-driven spending could offset part of the decline in revenue.",
-      "link": "https://www.fintechbrainfood.com/p/payments-new-ads",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-05T18:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4494",
-      "title": "Goldman Sachs limits AI coding tools for its technical teams",
-      "description": "Goldman Sachs has limited the use of AI-based coding tools among its technical teams, excluding most traders and bankers for security reasons.",
-      "link": "https://qz.com/goldman-sachs-restricts-ai-coding-tools-traders-bankers-110226",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-05T15:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4738",
-      "title": "Create an on-demand data analyst with Grok Bot",
-      "description": "The tutorial explains how to create a Bot dedicated to analyzing business data, connect it to data sources, and provide the necessary business context. The Bot can then be shared with the team and used from Team Bots or Slack.",
-      "link": "https://x.ai/bot",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-05T15:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4739",
-      "title": "Personal agents threaten the subscription economy",
-      "description": "Agents can cancel subscriptions, negotiate bills, and move money into higher-yielding accounts. They could save customers time and money while disrupting entire industries.",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/is-an-agentic-bank-run-coming",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-05T15:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4740",
-      "title": "Anthropic warns of the risk of critical thinking disappearing",
-      "description": "Anthropic’s Addy Osmani believes critical thinking could disappear as agents become constantly available. His article on protecting this ability has surpassed three million views.",
-      "link": "https://archive.superhuman.ai/2118043939592942052",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-05T15:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4743",
-      "title": "A Chrome extension replaces YouTube’s clickbait thumbnails",
-      "description": "The De-Slopping YouTube Chrome extension replaces thumbnails designed to attract clicks with an image taken from the video, providing a better indication of what viewers will watch.",
-      "link": "https://archive.superhuman.ai/2117321609665261667",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-05T15:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4744",
-      "title": "Claude Code subagents use 99% fewer resources",
-      "description": "An update reduces Claude Code subagents’ resource consumption by 99%. Anthropic also published a roundup of the product’s major updates in October.",
-      "link": "https://archive.superhuman.ai/2118063143167693011",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-05T15:09+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
