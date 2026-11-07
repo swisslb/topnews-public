@@ -1,10 +1,40 @@
 # Top 5 news of the day — 2026-11-07
 
-Period: 2026-11-06T13:25+01:00 → 2026-11-07T13:25+01:00 · 81 news received
+Period: 2026-11-06T19:25+01:00 → 2026-11-07T19:25+01:00 · 54 news received
 
-## 1. Apple beats forecasts with record quarterly results
+## 1. OpenAI reportedly raises an additional $11 billion
 
-**Why it matters:** Apple’s record $114.5 billion quarter confirms exceptional demand and sets a major benchmark for the consumer technology market.
+**Why it matters:** OpenAI’s reported $11 billion raise at a $1.25 trillion valuation underscores the enormous capital requirements and market expectations surrounding frontier AI.
+
+OpenAI reportedly raised an additional $11 billion, giving it a valuation of $1.25 trillion.
+
+- Link: https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+- Sources: Techpresso
+- Received: 2026-11-07T18:21+01:00
+
+## 2. AMD now defines itself as a data center-focused company
+
+**Why it matters:** AMD’s shift toward a data-center identity, with that segment generating 63% of revenue, highlights how AI infrastructure is reshaping the chip industry.
+
+CEO Lisa Su says server chips now define AMD, with the data center segment accounting for about 63% of third-quarter 2026 revenue. Quarterly revenue reached $13.4 billion, while gaming sales fell 40%.
+
+- Link: https://www.techspot.com/news/114475-after-amd-gaming-revenue-crashes-40-ceo-lisa.html
+- Sources: Techpresso
+- Received: 2026-11-07T18:21+01:00
+
+## 3. Fox finalizes $22 billion acquisition of Roku
+
+**Why it matters:** Fox’s $22 billion acquisition of Roku significantly strengthens its position in connected-TV distribution, advertising, and access to more than 100 million households.
+
+Fox has completed its $22 billion acquisition of Roku, strengthening its position in streaming and connected TV. The deal gives Fox direct access to more than 100 million households and is expected to improve ad targeting.
+
+- Link: https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/
+- Sources: Techpresso
+- Received: 2026-11-07T18:21+01:00
+
+## 4. Apple beats forecasts with record quarterly results
+
+**Why it matters:** Apple’s record $114.5 billion quarterly revenue shows continuing strength in its core business despite supply and cost pressures.
 
 Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.
 
@@ -12,42 +42,12 @@ Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, 
 - Sources: AppleInsider
 - Received: 2026-11-07T01:09+01:00
 
-## 2. Google unveils Gemini Omni 1.2 Flash, faster and more affordable
+## 5. U.S. charges three men in CEO voice scam
 
-**Why it matters:** Google’s faster, cheaper Gemini Omni 1.2 Flash intensifies competition in enterprise AI by improving the economics of high-volume, long-context workloads.
+**Why it matters:** U.S. charges over a $129 million executive-voice fraud scheme demonstrate that AI-enabled impersonation is becoming a material corporate-security and financial risk.
 
-Gemini Omni 1.2 Flash is presented as a fast, affordable model capable of processing longer clips.
+Three men are facing charges in the United States over a $129 million fraud scheme that allegedly used AI to imitate the voices of corporate executives.
 
-- Link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
-- Sources: Techpresso, Superhuman
-- Received: 2026-11-06T18:55+01:00
-
-## 3. Google, Meta and TikTok challenge California’s child safety law
-
-**Why it matters:** Google, Meta and TikTok’s lawsuits against California’s child-safety law could shape how far governments can regulate addictive social-media design.
-
-Google, Meta and TikTok filed separate lawsuits to block a California law intended to protect people under 16 from addictive social media features. The companies cite the First Amendment and Section 230, among other arguments.
-
-- Link: https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms
+- Link: https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud
 - Sources: Techpresso
-- Received: 2026-11-06T18:55+01:00
-
-## 4. Claude can now analyze U.S. bank accounts
-
-**Why it matters:** Anthropic’s bank-account integration moves consumer AI toward handling sensitive financial data, creating significant opportunities as well as privacy and regulatory risks.
-
-Anthropic has launched Personal Finance, a beta feature allowing U.S. Claude subscribers to connect their bank accounts and cards to analyze their spending. Access is read-only and provided through Plaid.
-
-- Link: https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta
-- Sources: Techpresso, Superhuman
-- Received: 2026-11-06T18:55+01:00
-
-## 5. AI agents’ memory can lead to risky behavior
-
-**Why it matters:** Research showing that AI agents can develop riskier behavior from accumulated memory highlights a critical safety problem as systems gain persistence and autonomy.
-
-A study shows that previously harmless prompts can later push AI assistants to take risks. More powerful models sometimes behave even worse in these situations.
-
-- Link: https://arxiv.org/abs/2611.07554
-- Sources: Techpresso
-- Received: 2026-11-06T18:55+01:00
+- Received: 2026-11-07T18:21+01:00
