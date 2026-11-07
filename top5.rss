@@ -1,52 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — Top 5 news of the day — 2026-11-06</title>
+  <title>NewsCenter — Top 5 news of the day — 2026-11-07</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 128 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 164 news received.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 06 Nov 2026 18:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 05:25:00 GMT</lastBuildDate>
   <item>
     <title>1. AI Stocks Fall After the U.S. Elections</title>
     <link>https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html</link>
-    <guid isPermaLink="false">2026-11-06:g4832</guid>
-    <description>Why it matters: The post-election 5.5% Nasdaq drop and sharp declines in AI infrastructure stocks show that resistance to data-center expansion is already affecting technology valuations and could constrain future computing capacity. The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.</description>
+    <guid isPermaLink="false">2026-11-07:g4832</guid>
+    <description>Why it matters: The 5.5% Nasdaq drop and sharp declines in AI-related stocks signal that election-driven resistance to data-center expansion could materially raise infrastructure costs and slow the AI buildout. The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.</description>
     <pubDate>Fri, 06 Nov 2026 10:04:00 GMT</pubDate>
     <category>Vision IA</category>
   </item>
   <item>
-    <title>2. Anthropic Gives METR Internal Access to Measure AI Progress</title>
-    <link>https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23</link>
-    <guid isPermaLink="false">2026-11-06:g4839</guid>
-    <description>Why it matters: METR’s finding that AI capabilities on well-specified tasks are advancing roughly twice as fast as a year ago could materially change companies’ automation plans, risk assessments and investment timelines. Anthropic gave METR internal access, and the organization estimates that AI capabilities on well-specified tasks are advancing about twice as fast as they were a year ago.</description>
-    <pubDate>Fri, 06 Nov 2026 11:08:00 GMT</pubDate>
-    <category>The Neuron</category>
+    <title>2. Apple beats forecasts with record quarterly results</title>
+    <link>https://us.list-manage.com/I1wZjuyC0mV?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
+    <guid isPermaLink="false">2026-11-07:g4445</guid>
+    <description>Why it matters: Apple’s record $114.5 billion quarter, above expectations, demonstrates continued strength in its core business and provides a major market benchmark for consumer technology demand. Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.</description>
+    <pubDate>Sat, 07 Nov 2026 00:09:00 GMT</pubDate>
+    <category>AppleInsider</category>
   </item>
   <item>
-    <title>3. OpenAI launches GPT-6 Cyber, a model specialized in hacking</title>
-    <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
-    <guid isPermaLink="false">2026-11-06:g4805</guid>
-    <description>Why it matters: OpenAI’s specialized GPT-6 Cyber substantially improves automated vulnerability discovery and exploit development, raising the urgency of defensive security and responsible access controls. GPT-6 Cyber is a version of GPT-6 Astra designed to identify security vulnerabilities and write exploits. It scored 48.5% on ExploitGym, compared with 32.1% for GPT-5.6 Cyber, but access remains limited through Daybreak Red.</description>
-    <pubDate>Fri, 06 Nov 2026 11:08:00 GMT</pubDate>
-    <category>The Neuron</category>
-    <category>Vision IA</category>
-  </item>
-  <item>
-    <title>4. Baidu opens the files for its ERNIE 5.5 Flash base model</title>
-    <link>https://ernie.baidu.com/release/ernie-5-5-flash-base/</link>
-    <guid isPermaLink="false">2026-11-06:g4808</guid>
-    <description>Why it matters: Baidu’s release of a 280-billion-parameter, million-token-context model gives researchers and developers a powerful adaptable Chinese foundation model and intensifies global competition over open AI systems. Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.</description>
-    <pubDate>Fri, 06 Nov 2026 11:08:00 GMT</pubDate>
+    <title>3. OpenAI launches GPT-6 Cyber, specialized in exploit research</title>
+    <link>https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google</link>
+    <guid isPermaLink="false">2026-11-07:g4805</guid>
+    <description>Why it matters: OpenAI’s launch of GPT-6 Cyber highlights the accelerating commercialization of AI for exploit research, raising both cybersecurity risks and competitive pressure on model providers. OpenAI is launching GPT-6 Cyber, with improved exploit research capabilities and a higher API price than Anthropic and Google.</description>
+    <pubDate>Fri, 06 Nov 2026 17:55:00 GMT</pubDate>
+    <category>Techpresso</category>
     <category>The Neuron</category>
     <category>Vision IA</category>
   </item>
   <item>
-    <title>5. Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division</title>
+    <title>4. Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division</title>
     <link>https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal</link>
-    <guid isPermaLink="false">2026-11-06:g4824</guid>
-    <description>Why it matters: China’s block on SoftBank’s acquisition of ABB’s robotics division underscores the strategic and geopolitical importance of industrial automation and the growing barriers to cross-border technology deals. China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.</description>
+    <guid isPermaLink="false">2026-11-07:g4824</guid>
+    <description>Why it matters: China’s veto of SoftBank’s acquisition of ABB’s robotics division shows that industrial robotics is becoming a strategic asset subject to increasingly aggressive geopolitical controls. China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.</description>
     <pubDate>Fri, 06 Nov 2026 10:04:00 GMT</pubDate>
     <category>Vision IA</category>
+  </item>
+  <item>
+    <title>5. Google will disable its AI services for students by default</title>
+    <link>https://www.businessinsider.com/google-search-schools-ai-ban-education-2026-11</link>
+    <guid isPermaLink="false">2026-11-07:g4555</guid>
+    <description>Why it matters: Google’s decision to disable AI services for students by default at schools’ request shows how education customers and regulators are pushing vendors toward stricter controls on generative AI. Google plans to disable its AI services for students by default next year, at schools’ request. The measure will include Google Search, which is considered an AI product.</description>
+    <pubDate>Fri, 06 Nov 2026 11:15:00 GMT</pubDate>
+    <category>Business Insider</category>
+    <category>TechnologyAdvice</category>
   </item>
 </channel>
 </rss>
