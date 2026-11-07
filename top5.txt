@@ -1,10 +1,10 @@
-# Top 5 news of the day — 2026-11-06
+# Top 5 news of the day — 2026-11-07
 
-Period: 2026-11-05T19:25+01:00 → 2026-11-06T19:25+01:00 · 128 news received
+Period: 2026-11-06T06:25+01:00 → 2026-11-07T06:25+01:00 · 164 news received
 
 ## 1. AI Stocks Fall After the U.S. Elections
 
-**Why it matters:** The post-election 5.5% Nasdaq drop and sharp declines in AI infrastructure stocks show that resistance to data-center expansion is already affecting technology valuations and could constrain future computing capacity.
+**Why it matters:** The 5.5% Nasdaq drop and sharp declines in AI-related stocks signal that election-driven resistance to data-center expansion could materially raise infrastructure costs and slow the AI buildout.
 
 The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.
 
@@ -12,42 +12,42 @@ The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double
 - Sources: Vision IA
 - Received: 2026-11-06T11:04+01:00
 
-## 2. Anthropic Gives METR Internal Access to Measure AI Progress
+## 2. Apple beats forecasts with record quarterly results
 
-**Why it matters:** METR’s finding that AI capabilities on well-specified tasks are advancing roughly twice as fast as a year ago could materially change companies’ automation plans, risk assessments and investment timelines.
+**Why it matters:** Apple’s record $114.5 billion quarter, above expectations, demonstrates continued strength in its core business and provides a major market benchmark for consumer technology demand.
 
-Anthropic gave METR internal access, and the organization estimates that AI capabilities on well-specified tasks are advancing about twice as fast as they were a year ago.
+Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.
 
-- Link: https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23
-- Sources: The Neuron
-- Received: 2026-11-06T12:08+01:00
+- Link: https://us.list-manage.com/I1wZjuyC0mV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
+- Sources: AppleInsider
+- Received: 2026-11-07T01:09+01:00
 
-## 3. OpenAI launches GPT-6 Cyber, a model specialized in hacking
+## 3. OpenAI launches GPT-6 Cyber, specialized in exploit research
 
-**Why it matters:** OpenAI’s specialized GPT-6 Cyber substantially improves automated vulnerability discovery and exploit development, raising the urgency of defensive security and responsible access controls.
+**Why it matters:** OpenAI’s launch of GPT-6 Cyber highlights the accelerating commercialization of AI for exploit research, raising both cybersecurity risks and competitive pressure on model providers.
 
-GPT-6 Cyber is a version of GPT-6 Astra designed to identify security vulnerabilities and write exploits. It scored 48.5% on ExploitGym, compared with 32.1% for GPT-5.6 Cyber, but access remains limited through Daybreak Red.
+OpenAI is launching GPT-6 Cyber, with improved exploit research capabilities and a higher API price than Anthropic and Google.
 
-- Link: https://openai.com/index/introducing-gpt-6-cyber/
-- Sources: The Neuron, Vision IA
-- Received: 2026-11-06T12:08+01:00
+- Link: https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google
+- Sources: Techpresso, The Neuron, Vision IA
+- Received: 2026-11-06T18:55+01:00
 
-## 4. Baidu opens the files for its ERNIE 5.5 Flash base model
+## 4. Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division
 
-**Why it matters:** Baidu’s release of a 280-billion-parameter, million-token-context model gives researchers and developers a powerful adaptable Chinese foundation model and intensifies global competition over open AI systems.
-
-Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.
-
-- Link: https://ernie.baidu.com/release/ernie-5-5-flash-base/
-- Sources: The Neuron, Vision IA
-- Received: 2026-11-06T12:08+01:00
-
-## 5. Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division
-
-**Why it matters:** China’s block on SoftBank’s acquisition of ABB’s robotics division underscores the strategic and geopolitical importance of industrial automation and the growing barriers to cross-border technology deals.
+**Why it matters:** China’s veto of SoftBank’s acquisition of ABB’s robotics division shows that industrial robotics is becoming a strategic asset subject to increasingly aggressive geopolitical controls.
 
 China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.
 
 - Link: https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal
 - Sources: Vision IA
 - Received: 2026-11-06T11:04+01:00
+
+## 5. Google will disable its AI services for students by default
+
+**Why it matters:** Google’s decision to disable AI services for students by default at schools’ request shows how education customers and regulators are pushing vendors toward stricter controls on generative AI.
+
+Google plans to disable its AI services for students by default next year, at schools’ request. The measure will include Google Search, which is considered an AI product.
+
+- Link: https://www.businessinsider.com/google-search-schools-ai-ban-education-2026-11
+- Sources: Business Insider, TechnologyAdvice
+- Received: 2026-11-06T12:15+01:00
