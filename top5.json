@@ -1,9 +1,54 @@
 {
   "date": "2026-11-07",
-  "news_count": 81,
+  "news_count": 54,
   "top5": [
     {
       "rank": 1,
+      "id": "g5015",
+      "title": "OpenAI reportedly raises an additional $11 billion",
+      "description": "OpenAI reportedly raised an additional $11 billion, giving it a valuation of $1.25 trillion.",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI’s reported $11 billion raise at a $1.25 trillion valuation underscores the enormous capital requirements and market expectations surrounding frontier AI."
+    },
+    {
+      "rank": 2,
+      "id": "g5014",
+      "title": "AMD now defines itself as a data center-focused company",
+      "description": "CEO Lisa Su says server chips now define AMD, with the data center segment accounting for about 63% of third-quarter 2026 revenue. Quarterly revenue reached $13.4 billion, while gaming sales fell 40%.",
+      "link": "https://www.techspot.com/news/114475-after-amd-gaming-revenue-crashes-40-ceo-lisa.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "AMD’s shift toward a data-center identity, with that segment generating 63% of revenue, highlights how AI infrastructure is reshaping the chip industry."
+    },
+    {
+      "rank": 3,
+      "id": "g5011",
+      "title": "Fox finalizes $22 billion acquisition of Roku",
+      "description": "Fox has completed its $22 billion acquisition of Roku, strengthening its position in streaming and connected TV. The deal gives Fox direct access to more than 100 million households and is expected to improve ad targeting.",
+      "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Fox’s $22 billion acquisition of Roku significantly strengthens its position in connected-TV distribution, advertising, and access to more than 100 million households."
+    },
+    {
+      "rank": 4,
       "id": "g4445",
       "title": "Apple beats forecasts with record quarterly results",
       "description": "Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.",
@@ -15,74 +60,27 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Apple’s record $114.5 billion quarter confirms exceptional demand and sets a major benchmark for the consumer technology market."
-    },
-    {
-      "rank": 2,
-      "id": "g4806",
-      "title": "Google unveils Gemini Omni 1.2 Flash, faster and more affordable",
-      "description": "Gemini Omni 1.2 Flash is presented as a fast, affordable model capable of processing longer clips.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sources": [
-        "Techpresso",
-        "Superhuman"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Google’s faster, cheaper Gemini Omni 1.2 Flash intensifies competition in enterprise AI by improving the economics of high-volume, long-context workloads."
-    },
-    {
-      "rank": 3,
-      "id": "g4944",
-      "title": "Google, Meta and TikTok challenge California’s child safety law",
-      "description": "Google, Meta and TikTok filed separate lawsuits to block a California law intended to protect people under 16 from addictive social media features. The companies cite the First Amendment and Section 230, among other arguments.",
-      "link": "https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Google, Meta and TikTok’s lawsuits against California’s child-safety law could shape how far governments can regulate addictive social-media design."
-    },
-    {
-      "rank": 4,
-      "id": "g4807",
-      "title": "Claude can now analyze U.S. bank accounts",
-      "description": "Anthropic has launched Personal Finance, a beta feature allowing U.S. Claude subscribers to connect their bank accounts and cards to analyze their spending. Access is read-only and provided through Plaid.",
-      "link": "https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta",
-      "sources": [
-        "Techpresso",
-        "Superhuman"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Anthropic’s bank-account integration moves consumer AI toward handling sensitive financial data, creating significant opportunities as well as privacy and regulatory risks."
+      "why": "Apple’s record $114.5 billion quarterly revenue shows continuing strength in its core business despite supply and cost pressures."
     },
     {
       "rank": 5,
-      "id": "g4960",
-      "title": "AI agents’ memory can lead to risky behavior",
-      "description": "A study shows that previously harmless prompts can later push AI assistants to take risks. More powerful models sometimes behave even worse in these situations.",
-      "link": "https://arxiv.org/abs/2611.07554",
+      "id": "g5016",
+      "title": "U.S. charges three men in CEO voice scam",
+      "description": "Three men are facing charges in the United States over a $129 million fraud scheme that allegedly used AI to imitate the voices of corporate executives.",
+      "link": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
       "sources": [
         "Techpresso"
       ],
-      "received_at": "2026-11-06T18:55+01:00",
+      "received_at": "2026-11-07T18:21+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Research showing that AI agents can develop riskier behavior from accumulated memory highlights a critical safety problem as systems gain persistence and autonomy."
+      "why": "U.S. charges over a $129 million executive-voice fraud scheme demonstrate that AI-enabled impersonation is becoming a material corporate-security and financial risk."
     }
   ],
   "period": {
-    "from": "2026-11-06T13:25+01:00",
-    "to": "2026-11-07T13:25+01:00"
+    "from": "2026-11-06T19:25+01:00",
+    "to": "2026-11-07T19:25+01:00"
   },
-  "generated_at": "2026-11-07T13:25+01:00"
+  "generated_at": "2026-11-07T19:25+01:00"
 }
