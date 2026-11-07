@@ -1,11 +1,89 @@
 {
   "date": "2026-11-07",
   "period": {
-    "from": "2026-11-06T13:25+01:00",
-    "to": "2026-11-07T13:25+01:00"
+    "from": "2026-11-06T19:25+01:00",
+    "to": "2026-11-07T19:25+01:00"
   },
-  "news_count": 81,
+  "news_count": 54,
   "news": [
+    {
+      "id": "g5013",
+      "title": "The iPhone Duo surpasses 100,000 optimized apps",
+      "description": "Apple says the iPhone Duo now has more than 100,000 apps adapted to its foldable display, with thousands of new apps added every day. Microsoft Word, Outlook, Zoom, Etsy, Goodnotes, and sports apps have recently joined the list.",
+      "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g5015",
+      "title": "OpenAI reportedly raises an additional $11 billion",
+      "description": "OpenAI has reportedly raised an additional $11 billion, at a valuation of $1.25 trillion.",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5017",
+      "title": "AST SpaceMobile wants to build its own rockets to catch up with Starlink Mobile",
+      "description": "AST SpaceMobile plans to build its own rockets in order to catch up with Starlink Mobile.",
+      "link": "https://www.pcmag.com/news/ast-spacemobile-to-build-its-own-rockets-to-catch-up-with-starlink-mobile",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g5025",
+      "title": "Elon Musk says government contracts will account for less than 10% of SpaceX revenue",
+      "description": "Elon Musk says government activities will account for less than 10% of SpaceX’s revenue.",
+      "link": "https://thenextweb.com/news/spacex-government-revenue-under-10-percent-musk-anthropic",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g5026",
+      "title": "Lawsuit claims a woman used ChatGPT to plan her husband’s murder",
+      "description": "According to a lawsuit, a man introduced his wife to ChatGPT, after which she allegedly used the service to plan his murder.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4987",
+      "title": "BET president uses AI with constant human oversight",
+      "description": "Louis Carr says he regularly tests ChatGPT, Claude, and other AI tools while emphasizing the need for a human editor. BET has used AI, among other things, to arrange seating and verify tributes at the BET Awards.",
+      "link": "https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/786805be89ea45cba81930c00341ff0a",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-07T13:30+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
     {
       "id": "g4966",
       "title": "Early reviews praise the MacBook Pro PROLED’s display",
@@ -111,136 +189,368 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
-      "id": "g4807",
-      "title": "Claude can now analyze U.S. bank accounts",
-      "description": "Anthropic has launched Personal Finance, a beta feature allowing U.S. Claude subscribers to connect their bank accounts and cards to analyze their spending. Access is read-only and provided through Plaid.",
-      "link": "https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta",
+      "id": "g5009",
+      "title": "AI solves an 18-year-old quantum computing puzzle",
+      "description": "Research company PSI says it solved the Aaronson-Ambainis conjecture using an automated system that produced a proof accepted by Lean in three days. The result has not yet undergone a full independent academic review.",
+      "link": "https://interestingengineering.com/culture/psi-research-system-aaronson-ambainis-quantum-conjecture",
       "sources": [
-        "Techpresso",
-        "Superhuman"
+        "Techpresso"
       ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g4941",
-      "title": "The iPhone keyboard hides a list of blocked words",
-      "description": "The iPhone keyboard keeps a hidden list of around 100,000 words and phrases that it does not suggest, including political terms. The list does not prevent typing, but disables autocomplete and makes swipe typing more difficult.",
-      "link": "https://thenextweb.com/news/apple-iphone-keyboard-hidden-list",
+      "id": "g5010",
+      "title": "Amazon lets some customers shop by text with Alexa",
+      "description": "Amazon is allowing a small group of invited U.S. customers to text its Alexa for Shopping agent to search for products, place orders, and track prices. Access is expected to expand to millions of people in the coming weeks.",
+      "link": "https://thenextweb.com/news/amazon-alexa-for-shopping-text-message-agent",
       "sources": [
         "Techpresso"
       ],
-      "received_at": "2026-11-06T18:55+01:00",
+      "received_at": "2026-11-07T18:21+01:00",
       "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g4942",
-      "title": "Falling tech stocks threaten Anthropic’s IPO",
-      "description": "The sharp decline in tech stocks has reduced the chances that Anthropic will file its IPO plans before the end of November. According to Kalshi, the probability of a filing before November 30 fell from 84% to 60%.",
-      "link": "https://finance.yahoo.com/technology/article/anthropics-ipo-plans-run-up-against-a-battered-wall-street-192138177.html",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g4948",
-      "title": "Xbox speeds up its PC app loading times",
-      "description": "Xbox is joining the race for faster PC launchers and has improved its app’s loading time.",
-      "link": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g4806",
-      "title": "Google unveils Gemini Omni 1.2 Flash, faster and more affordable",
-      "description": "Gemini Omni 1.2 Flash is presented as a fast, affordable model capable of processing longer clips.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sources": [
-        "Techpresso",
-        "Superhuman"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g4805",
-      "title": "OpenAI launches GPT-6 Cyber, specialized in exploit research",
-      "description": "OpenAI is launching GPT-6 Cyber, with improved exploit research capabilities and a higher API price than Anthropic and Google.",
-      "link": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google",
+      "id": "g5011",
+      "title": "Fox finalizes $22 billion acquisition of Roku",
+      "description": "Fox has completed its $22 billion acquisition of Roku, strengthening its position in streaming and connected TV. The deal gives Fox direct access to more than 100 million households and is expected to improve ad targeting.",
+      "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
       "sources": [
         "Techpresso"
       ],
-      "received_at": "2026-11-06T18:55+01:00",
+      "received_at": "2026-11-07T18:21+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4918",
-      "title": "Cyclon opens preorders for a phone with an AI-focused operating system",
-      "description": "Cyclon has opened preorders for a mobile phone running an operating system designed around artificial intelligence.",
-      "link": "https://archive.superhuman.ai/2117300841036353559",
+      "id": "g5012",
+      "title": "Microsoft ends its AI cloud contract with Oracle",
+      "description": "Microsoft will not renew the 2023 contract to rent AI computing power from Oracle, partly because the hardware relied on older Nvidia chips. Oracle nevertheless says demand for its AI infrastructure, including older GPUs, remains strong.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-falls-4-microsoft-reportedly-181718577.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5014",
+      "title": "AMD now defines itself as a data center-focused company",
+      "description": "CEO Lisa Su says server chips now define AMD, with the data center segment accounting for about 63% of third-quarter 2026 revenue. Quarterly revenue reached $13.4 billion, while gaming sales fell 40%.",
+      "link": "https://www.techspot.com/news/114475-after-amd-gaming-revenue-crashes-40-ceo-lisa.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5016",
+      "title": "U.S. indicts three men in CEO voice scam",
+      "description": "Three men are facing charges in the United States over a $129 million fraud that allegedly used AI to imitate the voices of corporate executives.",
+      "link": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5018",
+      "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen",
+      "description": "Six pallets of Nvidia GPUs valued at $11.4 million were stolen during a cargo burglary in California.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5019",
+      "title": "Online magazine Salon announces its closure",
+      "description": "Online magazine Salon, one of the earliest iconic media outlets associated with internet discussions, says it will shut down.",
+      "link": "https://apnews.com/article/salon-media-online-news-shutdown-387aebeaf5d2ff80450bfba780ac9d6c",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5020",
+      "title": "First 200 mm single-crystal diamond produced in the United States",
+      "description": "The first 200 mm single-crystal diamond was grown in the United States. It could help advance next-generation chip development.",
+      "link": "https://interestingengineering.com/innovation/diamond-foundry-grows-200mm-diamond-chips",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5021",
+      "title": "Google DeepMind agents expose weaknesses in old encryption",
+      "description": "Google DeepMind agents have exposed weaknesses in older encryption methods, with a claimed speed 1,600 times faster.",
+      "link": "https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5022",
+      "title": "Meta launches Spaces for collaboration with its Muse agent",
+      "description": "Meta is introducing Spaces, a new way to collaborate with its Muse agent.",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5023",
+      "title": "Alphabet reveals a $548 million stake in Qualcomm",
+      "description": "Alphabet disclosed that it holds a $548 million stake in chipmaker Qualcomm.",
+      "link": "https://thenextweb.com/news/alphabet-discloses-548m-stake-in-chipmaker-qualcomm",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5024",
+      "title": "AI teddy bear for children produced a self-harm response",
+      "description": "The BBC found that an AI-equipped teddy bear intended for three-year-old children spontaneously gave a response related to self-harm.",
+      "link": "https://thenextweb.com/news/ai-teddy-for-three-year-olds-gave-unprompted-self-harm-reply-bbc-finds",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5027",
+      "title": "Crusoe resells struggling Wyoming data center project to Google",
+      "description": "Crusoe is selling Google a troubled data center project in Wyoming.",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5028",
+      "title": "Chainalysis says hackers stole the credentials of all its customers",
+      "description": "Chainalysis says hackers stole the credentials and access tokens of all its customers.",
+      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5029",
+      "title": "TSMC considers entering AI memory chips at Nvidia’s request",
+      "description": "TSMC is considering entering the market for AI memory chips at Nvidia’s request.",
+      "link": "https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4435",
+      "title": "What is known about the victims of the Learjet crash",
+      "description": "Adam Robinson, founder of a technology company in Austin, died with his wife Helen Sharp, their children, their friends Rachel Reed and Charmi Fehr, and their nanny Ana María Ramírez Cetina when their private jet crashed in Florida.",
+      "link": "https://l.businessinsider.com/a/zc/21432/d69463b70d994cc99521c53b5525969d/7695dddf1f224baa802c119891f0b1e7",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-07T18:00+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4994",
+      "title": "MIT teaches robots to correct false memories",
+      "description": "MIT researchers developed a system that flags uncertain descriptions of objects, compares images taken from different angles, and corrects a robot’s memory errors. In tests, it resolved ambiguities involving about 92% of objects in the environment.",
+      "link": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
       "sources": [
         "Superhuman"
       ],
-      "received_at": "2026-11-06T15:12+01:00",
+      "received_at": "2026-11-07T16:06+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4698",
-      "title": "OpenAI launches ChatGPT Images 2.6 and enables photo-to-GIF conversion",
-      "description": "ChatGPT Images 2.6 can create GIFs from any photo and has risen near the top of Arena’s text-to-image rankings.",
-      "link": "https://openai.com/index/introducing-images-2-6/",
+      "id": "g4785",
+      "title": "Waymo will end its exclusive agreement with Uber",
+      "description": "Waymo plans to let passengers in Austin and Atlanta book rides directly through its own app starting in January 2028. The company says its customers want a more consistent experience and a direct relationship with Waymo.",
+      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
       "sources": [
         "Superhuman"
       ],
-      "received_at": "2026-11-06T15:12+01:00",
+      "received_at": "2026-11-07T16:06+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4598",
-      "title": "Cat Wu leaves Anthropic to join OpenAI",
-      "description": "Cat Wu has left Anthropic to join OpenAI, marking the fourth key departure from the Claude Code team in a few weeks.",
-      "link": "https://archive.superhuman.ai/2118137612577968402",
+      "id": "g4822",
+      "title": "Agility Robotics finalizes merger and prepares for Nasdaq listing",
+      "description": "Agility Robotics has finalized its merger with Churchill Capital Corp XI. The deal paves the way for the maker of Digit to list on the Nasdaq under the ticker AGLT.",
+      "link": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
       "sources": [
         "Superhuman"
       ],
-      "received_at": "2026-11-06T15:12+01:00",
+      "received_at": "2026-11-07T16:06+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g4427",
-      "title": "OpenAI’s personal agent receives five new features",
-      "description": "OpenAI delivered five improvements to its personal agent this week, including the ability to share any item on an iPhone.",
-      "link": "https://archive.superhuman.ai/2118103057980690771",
+      "id": "g5001",
+      "title": "Tutor Intelligence raises $75 million to expand its robot fleet",
+      "description": "Tutor Intelligence raised $75 million in a round led by Andreessen Horowitz. The company wants to expand its robot fleet, which learns from real-world industrial assignments with help from remote human operators.",
+      "link": "https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-complete-business-combination",
       "sources": [
         "Superhuman"
       ],
-      "received_at": "2026-11-06T15:12+01:00",
+      "received_at": "2026-11-07T16:06+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
+    },
+    {
+      "id": "g5002",
+      "title": "RoboScience raises several hundred million yuan",
+      "description": "Beijing-based RoboScience has reportedly completed a new funding round worth several hundred million yuan. The company wants to develop its robotic AI and expand trials in logistics, retail, and industry.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tutor-intelligence-raises-75-million-160000524.html",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-07T16:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5003",
+      "title": "Curbie automates taking out the trash",
+      "description": "Revere Robotics is developing Curbie, a small robot that attaches to an ordinary trash bin, takes it to the curb, and returns it after collection. The robot is still being field-tested, with no price or launch date announced.",
+      "link": "https://therobotdaily.com/roboscience-series-a2-funding",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-07T16:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4986",
+      "title": "Frequent traveler reveals her method for choosing the best seat",
+      "description": "A frequent traveler shares her strategy for choosing the best seat on a plane and traveling more comfortably, even in economy class.",
+      "link": "https://www.businessinsider.com/best-seats-plane-rows-to-avoid-frequent-flyer-tips-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-07T13:30+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4988",
+      "title": "Dermatologists recommend washing your face less often",
+      "description": "According to dermatologist Ariel Ostad, rinsing your face with water is often enough. Harsh scrubs can damage the skin’s natural protective barrier.",
+      "link": "https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/5bbcd22a2c7c4fc5b79958d3f6d21310",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-07T13:30+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4989",
+      "title": "John Turturro looks back on his most memorable roles",
+      "description": "John Turturro, who has more than 100 film and television roles, discusses his collaborations with Spike Lee and the Coen brothers, as well as several memorable roles from his career.",
+      "link": "https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/14584428f0ec41dcaa2b5f7e7b1d05fa",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-07T13:30+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4990",
+      "title": "Flight attendant prefers keeping airplane window shades open",
+      "description": "Leanna Coy believes open shades allow passengers to enjoy the view and better see the outside environment, which reassures her. She notes, however, that the decision is not hers to make.",
+      "link": "https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/21840264783642ac8b8b6faa86cb7222",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-07T13:30+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4991",
+      "title": "Joe Manganiello reveals his habits for staying healthy",
+      "description": "After suffering from chronic autoimmune problems for seven years, Joe Manganiello describes his health habits, including testosterone-free workouts and flotation sessions.",
+      "link": "https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/21840264783642ac8b8b6faa86cb7222",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-07T13:30+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g4969",
@@ -394,669 +704,6 @@
         "GPT Central"
       ],
       "received_at": "2026-11-06T19:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4852",
-      "title": "Tesla to reduce Cybertruck production by mid-2027",
-      "description": "Tesla will stop manufacturing the Cybertruck at its Texas plant by mid-2027 to free up space for the Cybercab robotaxi. The pickup has sold around 71,000 units, far below the initial target of 250,000 per year.",
-      "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4943",
-      "title": "Thinking Machines unveils a leading open-weight AI model",
-      "description": "Thinking Machines has launched Inkling 2 Small, a 594-billion-parameter open-weight model that processes text and images. The company plans to release its weights under the Apache 2.0 license after external safety testing.",
-      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4944",
-      "title": "Google, Meta and TikTok challenge California’s child safety law",
-      "description": "Google, Meta and TikTok filed separate lawsuits to block a California law intended to protect people under 16 from addictive social media features. The companies cite the First Amendment and Section 230, among other arguments.",
-      "link": "https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4945",
-      "title": "The New York Times reportedly wants to buy Letterboxd for 330 million dollars",
-      "description": "The New York Times Company is reportedly seeking to acquire Letterboxd for 330 million dollars.",
-      "link": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4821",
-      "title": "Meta adds real-time voice chat and animated avatars to Muse",
-      "description": "Meta is adding real-time voice chat and animated avatars to its Muse app.",
-      "link": "https://thenextweb.com/news/meta-muse-ai-voice-chat-animated-avatars",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4947",
-      "title": "Parents sue Google after alleged teenager suicide",
-      "description": "The parents of a 13-year-old are suing Google, claiming that their son allegedly used AI to plan his suicide.",
-      "link": "https://www.euronews.com/2026/11/06/parents-sue-google-after-13-year-old-allegedly-used-ai-to-plan-suicide",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4949",
-      "title": "Protesters enter Microsoft data center construction site",
-      "description": "Protesters entered the construction site of a Microsoft data center being built in Amsterdam.",
-      "link": "https://thenextweb.com/news/microsoft-data-centre-amsterdam-protest",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4950",
-      "title": "FAA begins phasing out air traffic control floppy disks",
-      "description": "The Federal Aviation Administration is finally beginning to remove the floppy disks used in air traffic control.",
-      "link": "https://www.engadget.com/2308330/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4951",
-      "title": "TikTok faces a potential European fine over its feed’s “rabbit hole” effect",
-      "description": "TikTok faces a possible European Union fine over the “rabbit hole”-like effect of its “For You” feed.",
-      "link": "https://thenextweb.com/news/eu-tiktok-rabbit-hole-for-you-feed-dsa",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4820",
-      "title": "Airbnb plans an AI-powered travel agent for 2027",
-      "description": "Airbnb announced the launch of an AI-powered travel agent during the first half of 2027.",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4954",
-      "title": "Zipline reaches a 21.5 billion dollar valuation",
-      "description": "Zipline reaches a valuation of 21.5 billion dollars as Walmart increases its investment in drone delivery.",
-      "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4817",
-      "title": "Perplexity turns its “teammates” into AI agents",
-      "description": "Perplexity’s “teammates” are AI agents designed to handle everyday professional tasks.",
-      "link": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4956",
-      "title": "Sony revives the original Walkman earbuds with USB-C",
-      "description": "Sony is relaunching the original Walkman earbuds with a USB-C port.",
-      "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4958",
-      "title": "Blue Origin develops a rocket engine that is four times cheaper",
-      "description": "Blue Origin says it is building a higher-performing rocket engine at one-quarter the cost.",
-      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4959",
-      "title": "Congress summons Nvidia chief over suspected Chinese espionage",
-      "description": "Nvidia CEO Jensen Huang has been summoned by the U.S. Congress over concerns related to Chinese espionage.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4960",
-      "title": "AI agents’ memory can lead to risky behavior",
-      "description": "A study shows that previously harmless prompts can later push AI assistants to take risks. More powerful models sometimes behave even worse in these situations.",
-      "link": "https://arxiv.org/abs/2611.07554",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4961",
-      "title": "Generative search engines favor dominant brands",
-      "description": "Generative search engines cite dominant brands 1.4 to 2.8 times more often than average brands. This trend creates a bias favoring already well-known players that content optimization alone cannot correct.",
-      "link": "https://arxiv.org/abs/2611.07614",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4962",
-      "title": "Personal AI agents fall for scams",
-      "description": "A fraud-based test shows that the seven leading AI models are fooled in 7% to 35% of cases. Fake images and audio recordings further increase their success rate.",
-      "link": "https://arxiv.org/abs/2611.08281",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4938",
-      "title": "Disney employees question executives about possible layoffs",
-      "description": "During a town hall, employees in Disney’s technology division asked management for explanations following reports of another wave of layoffs. Several employees told Business Insider that morale was declining.",
-      "link": "https://l.businessinsider.com/a/zc/21432/63b86a9b365447a18856be6c58c5e311/c2f1f557c060406abbf4a3726a33283d",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-06T17:23+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4934",
-      "title": "The new rules of AI-powered search",
-      "description": "Shoppers using AI-powered search consult nearly three times as many touchpoints before buying. Google vice president Brendon Kraham outlines three priorities for capturing discovery and generating conversions.",
-      "link": "https://c.gle/AGSJxQzCXYsKMeLs2YAFiOkUzgZuIIHIySP8LXnz8r6YTDM2LpGIwzk-2CpMdLgpbdcFIva_P77e3Q2-67cwFuWrf79RIu-NQ-qYDrWNjcLCo47-D4IYMb6CNAavd_735iBmkwnetHNpDzqnhsUB375fOeDjLK1I8fZIVqT_xD7zPgEhMnRU1wismdrXuJ6dLxP8BJ_3FI2xbicCWA0VLpwcGpndF9ro8GNqf8aMbMQM3BVPhlS0CdDFG89Hay1sfQ2C6_lXzykO-_slDCfAz0wlbxsacBC2fe1b9dYRC7sUH8X7QqadSnUycEAGaNq0ybJ7ZXA",
-      "sources": [
-        "Think with Google"
-      ],
-      "received_at": "2026-11-06T16:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4935",
-      "title": "Google’s paid advertising strategy on YouTube",
-      "description": "The article presents Google’s paid advertising strategy on YouTube.",
-      "link": "https://c.gle/AGSJxQxFfRY6JdnzH4JX-Pj_qMEEZtfePgyL2pTi2XEov1cwGgLO7vgX0H2AMNv3WPPY16zNx6lh_02UOcdv1V1DbSvG4-AwDLL1kC8r0JG6GTad7NqPoCmuKqIJN9rSINoU3LqXa1c_Dl8tvHrWl5M0xc1cVUgJV186jdOeRfEIgNy3WPHsPZgqe-nLE27EA41iBvvxzOytkDPVNnWfDngYkMS65ONGLCAxy5f00pGjOtNX2dDKfFmr5eAdhH4Y1VLIMuBY0DDg8bRKCoJql1SD9PTdw1afF4XJ_ABNNQVxGI87ntSOVwqyNDzogsXE02tl",
-      "sources": [
-        "Think with Google"
-      ],
-      "received_at": "2026-11-06T16:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4936",
-      "title": "How Wayfair turned creator trust into ROI",
-      "description": "This case study shows how Wayfair built trust with creators to generate a return on investment during the holidays.",
-      "link": "https://consent.google.com/m?continue=https://business.google.com/us/think/search-and-video/visual-storytelling-holiday-marketing-roi/&gl=CH&m=0&pc=acm&cm=2&hl=en&src=1",
-      "sources": [
-        "Think with Google"
-      ],
-      "received_at": "2026-11-06T16:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4937",
-      "title": "Five trends driving post-holiday sales",
-      "description": "The article presents five trends driving sales after the holiday season.",
-      "link": "https://c.gle/AGSJxQxq7sg0UBZDgSFLkZN-4KeF4CNiZO0i91HGzMoN179tUkd29WiXyy3q0P_eQB_i9Xmy3VReGdhn8nMMqVZ8D0I4kFsQ79VoN1JGato9gIzmDVCH-IcYL2leberUm3A0elGG8UyoRVCtn38KEDDbonPoYBq83thFGEMCI008JnQYz7TjG5LlDWBCA0J8RQ1xIgnr89w3zQj3AhL9w5ZMPqA1xNCsz4SQANpQwBSHkTX49DHApNbSSCRnq_7UUvib8GT2TJFNDC6_sRv97pAocfpJo0muZFD-NiycuHWovF99nasPymuSSYQ2KczEEN0vXw",
-      "sources": [
-        "Think with Google"
-      ],
-      "received_at": "2026-11-06T16:55+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4923",
-      "title": "Early Model 3 owners report on their vehicles’ reliability",
-      "description": "An owner who bought one of the first Model 3 vehicles in 2018 says the car has performed very well. The only major repairs involved the air-conditioning fan, in addition to replacing the tires.",
-      "link": "https://www.teslaownersonline.com/threads/2018-model-3-owners.39840/?post_id=479274#post-479274",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4924",
-      "title": "Model 3 owner expects the traction battery to last a long time",
-      "description": "According to one owner, alarming claims about electric-vehicle batteries are unfounded, and it should be a long time before a traction battery needs replacing. The owner says their Model 3 Long Range has reached eight years and six months.",
-      "link": "https://www.teslaownersonline.com/threads/a-battery-question.39798/page-2?post_id=479406#post-479406",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4925",
-      "title": "Interest-rate discrepancy reported between Tesla approval and payment",
-      "description": "A buyer says Tesla approved an annual rate of 1.99 % fourteen days earlier, but the displayed rate rose to 2.49 % at the time of delivery payment.",
-      "link": "https://www.teslaownersonline.com/threads/tesla-approved-apr-1-99-14-days-ago-but-when-i-completed-payment-process-for-delivery-it-is-2-49.39750/?post_id=479344#post-479344",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4926",
-      "title": "Debate contrasts paying cash for a cheaper car with replacing it",
-      "description": "One participant says the point made by advocates of paying cash is not that people should keep any car indefinitely, but that they can buy a cheaper vehicle and keep it longer.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOsidimQGAwZZqh5qGOYXHGYeVWzLolPxFsslTm-NJpscnTLJBjtK7WzC2aSHDGiVU73fJP66FTaYpyWg_C80lHApS7WXzsGuXwmjvmub98B5_Sly9agjChDE18jPx1q_4OfKdp9E-s42kv8jyn0p43Qmjy9s6SPZng8p9u9svvFgCz1YomIlM1VE9n6oyb6ruotVCXCF34K69fS1tzciWscg-td_kLzoBECBqhebKZtYQ/4vi/JYuS8F4jRrypNKG-di0t7Q/h36/h001.KSaw8Or9PiBHrBMKr-MDLN9-XVz921BQ3WXYhn6CeaA",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4927",
-      "title": "Tesla owner describes the limits of sensors needed for driving",
-      "description": "One participant finds it surprising to think that vision, radar, and lidar are needed to replicate human driving, when humans use at most two cameras and no radar or lidar.",
-      "link": "https://www.teslaownersonline.com/threads/daylight-savings-adjusted.39782/?post_id=479272#post-479272",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4928",
-      "title": "Solar charging becomes available with a complete Tesla installation",
-      "description": "A user with solar panels and a Tesla Powerwall says an option allows the car to be charged using solar energy. A new setting also enables charging from any source up to a certain limit.",
-      "link": "https://www.teslaownersonline.com/threads/daylight-savings-adjusted.39782/?post_id=479272#post-479272",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4929",
-      "title": "Tesla update 2026.38.6 is offered for installation",
-      "description": "A user received a notification saying that a software update was ready to install. The listed version is 2026.38.6, but the user has not installed it yet.",
-      "link": "https://www.teslaownersonline.com/threads/software-build-2026-38.39412/page-3?post_id=479456#post-479456",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4930",
-      "title": "Model 3 Performance reports compressor and low-pressure errors",
-      "description": "The owner of a 2019 Model 3 Performance asks whether other users have encountered the “VCFRONT_a160_compressorInhibited” and “lowSuctionPressure” errors.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsugBYO94zJYO4qtQMHlqWpcu01hZmDi41PrbdgZg_K6e1vQZP4wguGI-jh7i-NXdNpo0G5bBu17lLMA-y_Coh643xtGLTWD5cHCFL0nH-nKoonIfSj60M8-TWjwE0fgbZHNZZH3AaaZaAhABtmOtqmvMrWaDXBKDeg2M8pTzxLyHqCovSX2jxcCq4u2WY7At7_n1B-SZAnzM8rf3e55IymjTO7U6KqRQzxjKaicQslnfv836wYDn4pyTZchB-c15eeGlF_5H9g8X-sX2ikJy37l0GRwHVIbLaxYB6nHhZ6zlly1F3zDNlG2jlFJJkzCbCztyh1z2mwCu9F0zZa2JeVBDZCov9ni52trdmlDwCfWgWYnM_MqI6AUcI3pjhxiYJffUGgd-nbGCj_-sasWmjwrGbIWUxNnyIdiOiT_iWCbA/4vi/JYuS8F4jRrypNKG-di0t7Q/h58/h001.WROMXlWF251p3yoSaooAFTdcYYiDoFNsq6-3ugv4m4A",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4931",
-      "title": "Inconsistencies in FSD mode can make some trips easier",
-      "description": "A user says they also experience inconsistencies in FSD mode, but take advantage of them to make driving easier. Certain areas along the route are affected by map data.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOsidimQGAwZZqh5qGOYXHGY406erJnoD2LtJv4d5vRfCbHl329kUAjunctf7IFN4my0n9paKLOK-ZbZ9QTT1Tv0-MAdyZbdKH9fP7adkY5rBwo8h9rfHfmFsI2EgeLyLbbyT4I6rxy6AZ-sxj35PnTW5Rato_fEidGuhasoq0CmsXPkdCAj-x1JVS0jxYBWy54RdqmSnrpTpE3cM8ETOmqJ8zGLBWeJq7kS8jwyFpFVHQ/4vi/JYuS8F4jRrypNKG-di0t7Q/h67/h001.TQzvrBls4RspCP49oJZ1p4saHT2XJRG181v09xi604c",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4932",
-      "title": "Post-rear-end-crash repair estimate could change",
-      "description": "One participant points out that a repair shop can estimate only the visible damage after a crash. As with most cars, additional damage may be discovered during disassembly.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsjnsl4WVI_qAVNuPfcxiDZJ7IjqEPoNK4oyeED12SsA4aW9JnrtnQmLnb5w5gf7HkDrNECRmV8rnQJvwj38PDGcIwWsw4ELntfQss4gw5Q5iBLehrJPW58oiKQo-tWIoetJ2lNFUlc1CNSU4mZU2Oj7nqQyMVO_NRBLmvxKN-pDsntPyEKjp1F_w2bwYqcIopubGKf3_lrPYl_8_aaklaG5ZEcfqXnkCcnhBCRCrbDTow2hLPQWLoKw7n-FVsdFqr7rdjgRKF9BLYxfJuGPEViVu7Y3eyWfu2qXmHwF6vBrsPdjw8FTVpg05MAvfFnV0x/4vi/JYuS8F4jRrypNKG-di0t7Q/h78/h001.oLgVk0WGVRcMKzrelaU7RKQDQLSsBxTz73tBraPswY0",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4933",
-      "title": "Owner recounts a trip without access to Superchargers",
-      "description": "An owner describes a two-and-a-half-hour trip to pick up their Lucid Air from a repair shop in Grand Rapids, Michigan. They made the journey with their son in a Model Y, without access to DC fast chargers.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsX9fUellXUT2pNX3r7rt1fsrXfinl_CY-A4i9k7Z9_mP5Dw5goBFRWPH7UILC9Qh3qeKcgUazljcZF6R0SYzjH94u8AKM6nv9kDD-UgIIL0dMDvtBVR654hdGqXVKgrJ70qyrqxY5ie8z9uqTzMYu_7yjkdXYfI8VlynJaK68xzveUchNjH6k060qsRBZxmQcOKucw0ZeMcmAktyCncGmT-R_XjDyj6ngh953EXcKzxwD7CV5kMRjb-mICmNtvg8Fg6vPpfi772jmQOJPf_v2YCzEcO1_b-WfPNbRE0NGle2DWH78in_I4aL3YQ1udfJOqTrMzi3uGuYjIcG3LS3l8Q/4vi/JYuS8F4jRrypNKG-di0t7Q/h84/h001.BGPGpCcgcT_X_BIK_4Facuo5Yu_MN46jWYf5pgv9_b4",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-06T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4819",
-      "title": "Aina unveils a smart ring with a display and proactive AI",
-      "description": "Hardware startup Aina has introduced a ring that can connect to devices, learn the user’s schedule, and suggest actions for approval. It can also receive voice instructions, control devices, play music, and take calls; initial deliveries are expected in early 2027.",
-      "link": "https://archive.superhuman.ai/2118372390728319238",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-06T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4916",
-      "title": "U.S. elections raise concerns about slowing AI growth",
-      "description": "Democrats regained the House and Senate while advocating, among other measures, stronger oversight of the AI sector, while several data-center projects were restricted. After an initial rise, the market experienced one of the worst daily declines in U.S. history, with some investors fearing further measures against AI.",
-      "link": "https://archive.superhuman.ai/2118399188195234249",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-06T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4917",
-      "title": "Subvocal unveils glasses that can capture silent whispers",
-      "description": "Subvocal’s smart glasses capture silent whispers to enable text dictation without speaking aloud.",
-      "link": "https://archive.superhuman.ai/2116198463847408066",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-06T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4919",
-      "title": "Apple and Goldman Sachs restrict employees’ AI use",
-      "description": "Apple is seeking to reduce costs, while Goldman Sachs is concerned that non-engineering employees are creating their own projects with vibe coding.",
-      "link": null,
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-06T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4901",
-      "title": "Google enhances its Agentic Data Cloud for AI agents",
-      "description": "Google Cloud is adding a borderless Lakehouse based on Apache Iceberg, an enriched knowledge catalog, and specialized infrastructure for AI agents. The updates aim to provide secure, real-time access to distributed data while reducing token costs and improving query performance.",
-      "link": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4902",
-      "title": "Microsoft expands Copilot Chat’s undisclosed limits",
-      "description": "Microsoft is increasing Copilot Chat usage caps for businesses without a paid Microsoft 365 Copilot license, without disclosing the limits or allowing administrators to change them. The rollout began on November 2 for small organizations and will reach those with more than 2,000 seats on November 9.",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4736",
-      "title": "Apple is reportedly cutting employees’ AI budgets",
-      "description": "Apple is reportedly reducing the credits it gives employees to use third-party AI tools, with proposed daily caps of 100 dollars for engineers and 25 dollars for other employees. Some teams are also reportedly being encouraged to use less expensive or locally hosted models, without official confirmation from Apple.",
-      "link": "https://www.itpro.com/technology/artificial-intelligence/apple-set-to-cap-employee-ai-use-amid-rising-costs",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4904",
-      "title": "AI increases the cost of accumulated technical debt",
-      "description": "AI-assisted vulnerability discovery is making exploits much cheaper and faster to develop, while remediation remains limited to human speed. Organizations should audit deferred security tickets, remove unused exposed systems, and regularly reassess accepted risks.",
-      "link": "https://hitesh.in/2026/ai-raised-the-interest-on-technical-debt/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4905",
-      "title": "Basic vulnerabilities remain at the heart of many attacks",
-      "description": "Despite the apparent complexity of some security incidents, entry points often rely on basic flaws such as missing access controls, unpatched firmware, or exposed credentials. Development tools and internal agents can worsen these risks if access layers and operational security are not rigorously managed.",
-      "link": "https://techtrenches.dev/p/who-checks-the-boring-layer",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4906",
-      "title": "MariaDB launches a unified platform for agentic enterprises",
-      "description": "MariaDB presents Enterprise Platform 2027, a unified database for AI agents and enterprise workloads, integrating transactions, real-time analytics, vector search, and AI tools. It notably announces a 56 % increase in maximum throughput compared with version 11.8 and active-active multiregion scalability.",
-      "link": "https://mariadb.com/resources/blog/introducing-mariadb-enterprise-platform-2027-one-foundation-for-the-agentic-enterprise",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4907",
-      "title": "Confluent makes real-time SQL queries available on Kafka data",
-      "description": "Confluent is making Lightning Tables generally available on AWS, allowing applications to continuously query updated Kafka data through SQL and APIs without a separate serving database. The feature is part of its Streamhouse architecture, which combines streaming, processing, governance, and querying.",
-      "link": "https://www.confluent.io/press-release/confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4908",
-      "title": "EXACT combines TDD and AI agents without sacrificing quality",
-      "description": "The EXACT method combines test-driven development with agentic AI tools by using example mapping, natural-language test lists, and predictive TDD. Experiments show that it improves code correctness and quality compared with unguided vibe coding or simple TDD prompts.",
-      "link": "https://coding-is-like-cooking.info/2026/11/how-to-use-test-driven-development-with-ai-agents-without-lowering-code-quality/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4909",
-      "title": "Google details the failure of its backup generators in London",
-      "description": "According to Google’s incident report, the outage in London in October was caused by a voltage-detection failure and an incorrectly configured controller, preventing the backup generators from starting. With one power supply already under repair, the batteries eventually ran out after the other supply failed.",
-      "link": "https://assets.theregister.com/2026/11/05/20265/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4910",
-      "title": "The next ERPs should prioritize business outcomes",
-      "description": "The next generation of enterprise resource planning software should shift from improving productivity to delivering business outcomes through agentic applications.",
-      "link": "https://diginomica.com/why-next-generation-erp-all-about-outcomes",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4911",
-      "title": "Google launches AlloyDB Express for rapid testing and prototyping",
-      "description": "AlloyDB Express can be provisioned in under two seconds and automatically scales to zero during idle periods. It includes enterprise AI features such as vector search and direct access to Gemini models.",
-      "link": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-06T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4900",
-      "title": "Reusable skills are becoming the primary asset of agentic AI",
-      "description": "Models and agents will evolve, but companies can preserve their expertise by encoding expert workflows as reusable Skills. These Skills capture judgment, exceptions, and escalation rules beyond a simple standardized procedure.",
-      "link": "https://www.linkedin.com/comm/pulse/agentic-intelligence-64-pascal-bornet-wiv8e?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3ByNoH2bvUQIym11JHxwNytg%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=0gacFlGegqeYw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mw4xdkxl~u1-null-null&eid=5135t-mw4xdkxl-u1",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-06T14:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4873",
-      "title": "Plan AI by capabilities rather than dates",
-      "description": "AI roadmaps should define readiness criteria—quality, cost, reliability, and security—instead of setting fixed deadlines. Agents should gradually receive more responsibility once they meet those criteria.",
-      "link": "https://www.linkedin.com/comm/pulse/irreplaceable-ai-249-pascal-bornet-gn1me?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3Bzm9upgO0Rl6ps%2BHB0CHhMw%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=0Qi2ZymdnUeIw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mw4xcm7j~as-null-null&eid=5135t-mw4xcm7j-as",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-06T14:12+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
