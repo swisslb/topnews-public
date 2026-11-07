@@ -1,20 +1,10 @@
 # Top 5 news of the day — 2026-11-07
 
-Period: 2026-11-06T06:25+01:00 → 2026-11-07T06:25+01:00 · 164 news received
+Period: 2026-11-06T13:25+01:00 → 2026-11-07T13:25+01:00 · 81 news received
 
-## 1. AI Stocks Fall After the U.S. Elections
+## 1. Apple beats forecasts with record quarterly results
 
-**Why it matters:** The 5.5% Nasdaq drop and sharp declines in AI-related stocks signal that election-driven resistance to data-center expansion could materially raise infrastructure costs and slow the AI buildout.
-
-The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.
-
-- Link: https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html
-- Sources: Vision IA
-- Received: 2026-11-06T11:04+01:00
-
-## 2. Apple beats forecasts with record quarterly results
-
-**Why it matters:** Apple’s record $114.5 billion quarter, above expectations, demonstrates continued strength in its core business and provides a major market benchmark for consumer technology demand.
+**Why it matters:** Apple’s record $114.5 billion quarter confirms exceptional demand and sets a major benchmark for the consumer technology market.
 
 Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.
 
@@ -22,32 +12,42 @@ Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, 
 - Sources: AppleInsider
 - Received: 2026-11-07T01:09+01:00
 
-## 3. OpenAI launches GPT-6 Cyber, specialized in exploit research
+## 2. Google unveils Gemini Omni 1.2 Flash, faster and more affordable
 
-**Why it matters:** OpenAI’s launch of GPT-6 Cyber highlights the accelerating commercialization of AI for exploit research, raising both cybersecurity risks and competitive pressure on model providers.
+**Why it matters:** Google’s faster, cheaper Gemini Omni 1.2 Flash intensifies competition in enterprise AI by improving the economics of high-volume, long-context workloads.
 
-OpenAI is launching GPT-6 Cyber, with improved exploit research capabilities and a higher API price than Anthropic and Google.
+Gemini Omni 1.2 Flash is presented as a fast, affordable model capable of processing longer clips.
 
-- Link: https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google
-- Sources: Techpresso, The Neuron, Vision IA
+- Link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
+- Sources: Techpresso, Superhuman
 - Received: 2026-11-06T18:55+01:00
 
-## 4. Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division
+## 3. Google, Meta and TikTok challenge California’s child safety law
 
-**Why it matters:** China’s veto of SoftBank’s acquisition of ABB’s robotics division shows that industrial robotics is becoming a strategic asset subject to increasingly aggressive geopolitical controls.
+**Why it matters:** Google, Meta and TikTok’s lawsuits against California’s child-safety law could shape how far governments can regulate addictive social-media design.
 
-China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.
+Google, Meta and TikTok filed separate lawsuits to block a California law intended to protect people under 16 from addictive social media features. The companies cite the First Amendment and Section 230, among other arguments.
 
-- Link: https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal
-- Sources: Vision IA
-- Received: 2026-11-06T11:04+01:00
+- Link: https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms
+- Sources: Techpresso
+- Received: 2026-11-06T18:55+01:00
 
-## 5. Google will disable its AI services for students by default
+## 4. Claude can now analyze U.S. bank accounts
 
-**Why it matters:** Google’s decision to disable AI services for students by default at schools’ request shows how education customers and regulators are pushing vendors toward stricter controls on generative AI.
+**Why it matters:** Anthropic’s bank-account integration moves consumer AI toward handling sensitive financial data, creating significant opportunities as well as privacy and regulatory risks.
 
-Google plans to disable its AI services for students by default next year, at schools’ request. The measure will include Google Search, which is considered an AI product.
+Anthropic has launched Personal Finance, a beta feature allowing U.S. Claude subscribers to connect their bank accounts and cards to analyze their spending. Access is read-only and provided through Plaid.
 
-- Link: https://www.businessinsider.com/google-search-schools-ai-ban-education-2026-11
-- Sources: Business Insider, TechnologyAdvice
-- Received: 2026-11-06T12:15+01:00
+- Link: https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta
+- Sources: Techpresso, Superhuman
+- Received: 2026-11-06T18:55+01:00
+
+## 5. AI agents’ memory can lead to risky behavior
+
+**Why it matters:** Research showing that AI agents can develop riskier behavior from accumulated memory highlights a critical safety problem as systems gain persistence and autonomy.
+
+A study shows that previously harmless prompts can later push AI assistants to take risks. More powerful models sometimes behave even worse in these situations.
+
+- Link: https://arxiv.org/abs/2611.07554
+- Sources: Techpresso
+- Received: 2026-11-06T18:55+01:00
