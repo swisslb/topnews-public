@@ -1,22 +1,83 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "period": {
-    "from": "2026-11-05T19:25+01:00",
-    "to": "2026-11-06T19:25+01:00"
+    "from": "2026-11-06T06:25+01:00",
+    "to": "2026-11-07T06:25+01:00"
   },
-  "news_count": 128,
+  "news_count": 164,
   "news": [
     {
       "id": "g4807",
-      "title": "Claude launches a personal finance hub connected to bank accounts",
-      "description": "Anthropic is rolling out a U.S. beta tab called “Personal Finance” that lets users connect Claude to bank accounts and cards to ask questions about their finances. The tool can reveal trends and explore scenarios, but cannot move, manage, or invest money.",
-      "link": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+      "title": "Claude can now analyze U.S. bank accounts",
+      "description": "Anthropic launched Personal Finance, a beta feature that allows U.S. Claude subscribers to connect their bank accounts and cards to analyze their spending. Access is read-only and goes through Plaid.",
+      "link": "https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta",
       "sources": [
+        "Techpresso",
         "Superhuman",
         "The Neuron",
         "Vision IA"
       ],
-      "received_at": "2026-11-06T15:12+01:00",
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4805",
+      "title": "OpenAI launches GPT-6 Cyber, specialized in exploit research",
+      "description": "OpenAI is launching GPT-6 Cyber, with improved exploit-research capabilities and an API price higher than those of Anthropic and Google.",
+      "link": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google",
+      "sources": [
+        "Techpresso",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4821",
+      "title": "Meta adds real-time voice chat and animated avatars to Muse",
+      "description": "Meta is adding real-time voice chat and animated avatars to its Muse app.",
+      "link": "https://thenextweb.com/news/meta-muse-ai-voice-chat-animated-avatars",
+      "sources": [
+        "Techpresso",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4820",
+      "title": "Airbnb plans an AI-powered travel agent for 2027",
+      "description": "Airbnb announced the launch of an AI-powered travel agent during the first half of 2027.",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "sources": [
+        "Techpresso",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4806",
+      "title": "Google introduces Gemini Omni 1.2 Flash, faster and more affordable",
+      "description": "Gemini Omni 1.2 Flash is presented as a fast, affordable model capable of processing longer clips.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "sources": [
+        "Techpresso",
+        "Superhuman",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
       "covered_by": 3,
       "favorite": false,
       "followed_topic": null
@@ -37,29 +98,172 @@
       "followed_topic": null
     },
     {
-      "id": "g4805",
-      "title": "OpenAI launches GPT-6 Cyber, a model specialized in hacking",
-      "description": "GPT-6 Cyber is a version of GPT-6 Astra designed to identify security vulnerabilities and write exploits. It scored 48.5% on ExploitGym, compared with 32.1% for GPT-5.6 Cyber, but access remains limited through Daybreak Red.",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "id": "g4966",
+      "title": "Early reviews praise the MacBook Pro PROLED’s display",
+      "description": "Early reviews of the MacBook Pro PROLED praise its display but criticize its price and give little attention to the touchscreen.",
+      "link": "https://us.list-manage.com/NoFhcfAwneU?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
       "sources": [
-        "The Neuron",
-        "Vision IA"
+        "AppleInsider"
       ],
-      "received_at": "2026-11-06T12:08+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4967",
+      "title": "Early deliveries reveal Apple’s new Macs",
+      "description": "The first iPad mini, MacBook Pro and iMac units began shipping to customers on Friday, offering a closer look at the devices.",
+      "link": "https://appleinsider.com/articles/26/11/06/apples-first-deliveries-offer-a-closer-look-at-new-ipad-mini-macbook-pros-and-imac",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4968",
+      "title": "The iPhone 20 could drop the Action button",
+      "description": "According to a source with a mixed track record, the iPhone 20 lineup could drop the Action button.",
+      "link": "https://appleinsider.com/articles/26/11/06/iphone-20-range-rumored-to-ditch-action-button",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4970",
+      "title": "The iPhone 18e is not expected to receive a major redesign",
+      "description": "A Weibo leaker claims that the iPhone 18e will not receive any significant design changes.",
+      "link": "https://appleinsider.com/articles/26/11/03/iphone-18e-isnt-going-to-get-a-dramatic-overhaul",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4971",
+      "title": "The iPhone 18 could have a larger battery and a higher price",
+      "description": "According to another source, the standard iPhone 18 would feature a larger battery and a higher price.",
+      "link": "https://appleinsider.com/articles/26/11/04/iphone-18-rumored-to-get-larger-battery-higher-price",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4975",
+      "title": "Siri handles more than 2.5 billion requests every day",
+      "description": "Siri receives more than 2.5 billion daily requests, putting Apple’s AI overhaul into perspective.",
+      "link": "https://appleinsider.com/articles/26/11/02/over-25-billion-daily-siri-requests-put-apples-ai-overhaul-in-perspective",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4806",
-      "title": "Google launches Gemini Omni 1.2 Flash, a lower-cost video model",
-      "description": "Gemini Omni 1.2 Flash can create 15-second videos in Gemini, with smoother camera movements, more cinematic controls, and less visual drift. For developers, API pricing is down 30%, to 0.07 dollar per second for 720p video.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "id": "g4446",
+      "title": "Apple still cannot meet demand for the iPhone Duo",
+      "description": "Apple is unable to meet demand for the iPhone Duo, while Mac and iPad supplies will remain limited through the end of 2026.",
+      "link": "https://appleinsider.com/articles/26/11/02/apple-still-cant-meet-iphone-duo-demand-and-ternus-wont-say-when-it-will",
       "sources": [
-        "Superhuman",
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4978",
+      "title": "Mac and iPad supplies will remain limited through the end of 2026",
+      "description": "Apple expects supply constraints for Macs and iPads at least through the end of 2026.",
+      "link": "https://appleinsider.com/articles/26/11/02/mac-ipad-will-be-constrained-at-least-through-the-end-of-2026",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4852",
+      "title": "Tesla will cut Cybertruck production by mid-2027",
+      "description": "Tesla will stop making the Cybertruck at its Texas factory by mid-2027 to free up space for the Cybercab robotaxi. The pickup has sold about 71,000 units, far below the initial target of 250,000 per year.",
+      "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
+      "sources": [
+        "Techpresso",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4941",
+      "title": "The iPhone keyboard hides a list of blocked words",
+      "description": "The iPhone keyboard retains a hidden list of around 100,000 words and phrases that it does not suggest, including political terms. The list does not prevent typing but disables autocorrect suggestions and makes swipe typing more difficult.",
+      "link": "https://thenextweb.com/news/apple-iphone-keyboard-hidden-list",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4942",
+      "title": "The tech stock slump threatens Anthropic’s IPO",
+      "description": "The sharp decline in tech stocks has reduced the chances that Anthropic will file its IPO plans before the end of November. According to Kalshi, the probability of a filing before November 30 fell from 84% to 60%.",
+      "link": "https://finance.yahoo.com/technology/article/anthropics-ipo-plans-run-up-against-a-battered-wall-street-192138177.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g4948",
+      "title": "Xbox speeds up its PC app’s loading time",
+      "description": "Xbox is joining the race for faster PC launchers and has improved its app’s loading time.",
+      "link": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g4817",
+      "title": "Perplexity turns its “teammates” into AI agents",
+      "description": "Perplexity’s “teammates” are AI agents designed to carry out everyday professional tasks.",
+      "link": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+      "sources": [
+        "Techpresso",
         "Vision IA"
       ],
-      "received_at": "2026-11-06T15:12+01:00",
+      "received_at": "2026-11-06T18:55+01:00",
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null
@@ -91,7 +295,7 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4720",
+      "id": "g4598",
       "title": "Cat Wu leaves Anthropic to join OpenAI",
       "description": "Cat Wu has left Anthropic to join OpenAI, marking the fourth key departure from the Claude Code team in a few weeks.",
       "link": "https://archive.superhuman.ai/2118137612577968402",
@@ -289,34 +493,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g4820",
-      "title": "Airbnb is preparing an AI travel agent for the first half of 2027",
-      "description": "Airbnb announced that its AI travel agent will arrive in the first half of 2027. It will build maps, comparisons, calendars and itineraries tailored to each request.",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T12:08+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4821",
-      "title": "Meta makes its Muse agent capable of interruptible voice conversations",
-      "description": "Meta’s Muse can now hold interruptible voice conversations, while an animated avatar reacts in real time. The feature is available on mobile, the web and Mac in the United States.",
-      "link": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T12:08+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4808",
       "title": "Baidu opens the files for its ERNIE 5.5 Flash base model",
       "description": "Baidu is providing researchers with the open files for a 280-billion-parameter model, with 14 billion activated per token. ERNIE 5.5 Flash base has a one-million-token context window and can be fine-tuned.",
@@ -420,6 +596,344 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4969",
+      "title": "Apple envisions smart locks with adaptive unlocking",
+      "description": "An Apple patent describes locks that can automatically unlock based on the user’s approach.",
+      "link": "https://appleinsider.com/articles/26/11/05/future-apple-smart-locks-could-be-even-smarter-about-when-to-automatically-unlock",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4972",
+      "title": "A nine-inch HomeView Ultra is expected in 2027 or 2028",
+      "description": "Apple could launch a nine-inch HomeView Ultra in 2027 or 2028.",
+      "link": "https://appleinsider.com/articles/26/11/02/nine-inch-homeview-ultra-again-rumored-for-2027-or-2028",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4445",
+      "title": "Apple beats forecasts with record quarterly results",
+      "description": "Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.",
+      "link": "https://us.list-manage.com/I1wZjuyC0mV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4976",
+      "title": "Higher memory costs weigh on Apple’s results",
+      "description": "Apple warned that an imminent increase in memory prices could raise the cost of its products.",
+      "link": "https://appleinsider.com/articles/26/11/02/apples-earnings-was-all-about-unprecedented-memory-costs",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4979",
+      "title": "Apple must disclose details of its donation to Trump’s ballroom",
+      "description": "Apple reportedly donated 25 million dollars to Donald Trump’s White House ballroom project. A Senate subcommittee is now requesting documents related to the donation.",
+      "link": "https://us.list-manage.com/h5DKCGdHwrV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4980",
+      "title": "Rave’s lawsuit against Apple is transferred to California",
+      "description": "Rave’s lawsuit against Apple, accusing the company of copying SharePlay features and removing Rave from the App Store, has been transferred to California.",
+      "link": "https://appleinsider.com/articles/26/11/05/raves-anti-sherlocking-suit-delayed-as-apple-gets-it-moved-to-california",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4981",
+      "title": "The Supreme Court will hear Apple v. Epic in January 2027",
+      "description": "The United States Supreme Court will hear arguments in the case involving Epic Games and Apple in January 2027.",
+      "link": "https://appleinsider.com/articles/26/11/03/supreme-court-wont-hear-apple-epics-case-until-january-2027",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4982",
+      "title": "HomePod mini 2 slightly improves sound and connectivity",
+      "description": "The HomePod mini 2 offers slightly better sound and expanded connectivity, but costs 50 dollars more than the original model and may not justify an upgrade.",
+      "link": "https://us.list-manage.com/jbKqq1Qp_Y_?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4983",
+      "title": "Siri Recaps and Live Rewind deemed controversial and of little use",
+      "description": "After testing, Siri Recaps and Live Rewind are described as controversial and useless technologies, despite Apple’s usual privacy and security measures.",
+      "link": "https://appleinsider.com/articles/26/11/05/hands-on-siri-recaps-live-rewind-are-controversial-unnecessary-technologies",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-07T01:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4963",
+      "title": "Walmart wants AI assistants to shop for you",
+      "description": "Last month, Walmart announced that AI assistants will be able to shop for you, with spending limits and approvals that you set. AI is thus moving from answering questions to carrying out tasks.",
+      "link": null,
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-06T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4964",
+      "title": "A prompt for controlling actions performed by AI",
+      "description": "Instead of asking AI to freely process an inbox, have it list every action and classify it as READ, DRAFT or ACT. AI can perform reading and preparation steps, but must stop and request confirmation before any action that sends, publishes, pays, deletes or changes something.",
+      "link": null,
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-06T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4965",
+      "title": "AI Bootcamp: applying a rule to secure AI actions",
+      "description": "The chapter explains how to turn advice into action, choose tasks based on the cost of failure, and distinguish a bad answer from a bad action. It also shows how to prevent a hostile page from passing its instructions to the assistant.",
+      "link": "https://reviews.thecentral.ai/r/aibootcamp",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-06T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4943",
+      "title": "Thinking Machines introduces a leading open-weight AI model",
+      "description": "Thinking Machines launched Inkling 2 Small, an open-weight model with 594 billion parameters that processes text and images. The company plans to release its weights under the Apache 2.0 license after external safety testing.",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4944",
+      "title": "Google, Meta and TikTok challenge California’s child safety law",
+      "description": "Google, Meta and TikTok filed separate lawsuits to block a California law designed to protect people under 16 from addictive social media features. The companies cite, among other things, the First Amendment and Section 230.",
+      "link": "https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4945",
+      "title": "The New York Times reportedly wants to buy Letterboxd for 330 million dollars",
+      "description": "The New York Times Company is reportedly seeking to acquire Letterboxd for 330 million dollars.",
+      "link": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4947",
+      "title": "Parents sue Google after alleged teen suicide",
+      "description": "The parents of a 13-year-old are suing Google, claiming that their son may have used AI to prepare for his suicide.",
+      "link": "https://www.euronews.com/2026/11/06/parents-sue-google-after-13-year-old-allegedly-used-ai-to-plan-suicide",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4949",
+      "title": "Protesters enter the site of a Microsoft data center",
+      "description": "Protesters entered the construction site of a Microsoft data center being built in Amsterdam.",
+      "link": "https://thenextweb.com/news/microsoft-data-centre-amsterdam-protest",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4950",
+      "title": "The FAA is gradually phasing out air traffic control floppy disks",
+      "description": "The Federal Aviation Administration is finally beginning to remove the floppy disks used in air traffic control.",
+      "link": "https://www.engadget.com/2308330/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4951",
+      "title": "TikTok faces a possible European fine over its feed’s “rabbit hole” effect",
+      "description": "TikTok faces a possible European Union fine over the “rabbit hole” effect of its “For You” feed.",
+      "link": "https://thenextweb.com/news/eu-tiktok-rabbit-hole-for-you-feed-dsa",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4954",
+      "title": "Zipline reaches a valuation of 21.5 billion dollars",
+      "description": "Zipline reached a valuation of 21.5 billion dollars as Walmart increases its investment in drone delivery.",
+      "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4956",
+      "title": "Sony revives the original Walkman earbuds with USB-C",
+      "description": "Sony is relaunching the original Walkman earbuds with a USB-C port.",
+      "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4958",
+      "title": "Blue Origin develops a rocket engine that costs four times less",
+      "description": "Blue Origin says it is building a higher-performance rocket engine at one-quarter the cost.",
+      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4959",
+      "title": "Congress summons Nvidia chief over Chinese espionage suspicions",
+      "description": "Nvidia CEO Jensen Huang is summoned by the U.S. Congress over concerns related to Chinese espionage.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4960",
+      "title": "AI agents’ memory can trigger risky behavior",
+      "description": "A study shows that previously harmless prompts can later push AI assistants to take risks. More powerful models sometimes behave even worse in these situations.",
+      "link": "https://arxiv.org/abs/2611.07554",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4961",
+      "title": "Generative search engines favor dominant brands",
+      "description": "Generative search engines cite dominant brands 1.4 to 2.8 times more often than average brands. This trend creates a bias in favor of already well-known players that content optimization alone cannot correct.",
+      "link": "https://arxiv.org/abs/2611.07614",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g4962",
+      "title": "Personal AI agents fall for scams",
+      "description": "A fraud-based test shows that the seven leading AI models are fooled in 7% to 35% of cases. Fake images and audio recordings further increase their success rate.",
+      "link": "https://arxiv.org/abs/2611.08281",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g4938",
@@ -1137,19 +1651,6 @@
       "followed_topic": null
     },
     {
-      "id": "g4852",
-      "title": "Tesla will gradually halt Cybertruck production",
-      "description": "Elon Musk announced that Tesla will gradually reduce Cybertruck production starting in the middle of next year. The space freed up at the Texas factory will be used to build the Cybercab robotaxi.",
-      "link": "https://l.businessinsider.com/a/zc/21432/da58bd8af58844b0920d2446282720e9/40e25a8be2484b97873b612f79b21ebb",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-06T12:15+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4854",
       "title": "Mira Murati’s startup targets a $5 billion funding round",
       "description": "Mira Murati’s AI startup, Thinking Machines Lab, is seeking to raise $5 billion at a $40 billion pre-money valuation. Accel is leading the round, which could more than triple the company’s valuation.",
@@ -1501,19 +2002,6 @@
       "followed_topic": null
     },
     {
-      "id": "g4817",
-      "title": "Perplexity Launches Teammates, Collaborative AI Agents for Work",
-      "description": "Teammates agents can take on different roles, work in parallel and reuse projects, skills and memories stored in Perplexity. The service relies on Perplexity Computer to handle extended tasks.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g4818",
       "title": "Mistral Adds Managed Agents and Applications to Studio",
       "description": "Mistral is enhancing Studio with managed agents, workflows, observability and agent evaluation. The platform runs on Mistral Large 4 and can be deployed in the cloud, on a private network or on company servers.",
@@ -1665,19 +2153,6 @@
         "TechnologyAdvice"
       ],
       "received_at": "2026-11-06T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4796",
-      "title": "Goldman Sachs names 109 new partners, its largest class since 2010",
-      "description": "The bank promoted 109 executives to partner, one of Wall Street’s most coveted titles. It is the largest class since 2010, and the full list is available.",
-      "link": "https://l.businessinsider.com/a/zc/21432/44aa0e2b333b44b6981478d91fc8f8ae/a8f019e2c16c4fc6b835b538229cc779",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-05T19:37+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
