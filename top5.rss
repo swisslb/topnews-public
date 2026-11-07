@@ -3,51 +3,50 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-07</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 164 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 81 news received.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 07 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. AI Stocks Fall After the U.S. Elections</title>
-    <link>https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html</link>
-    <guid isPermaLink="false">2026-11-07:g4832</guid>
-    <description>Why it matters: The 5.5% Nasdaq drop and sharp declines in AI-related stocks signal that election-driven resistance to data-center expansion could materially raise infrastructure costs and slow the AI buildout. The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.</description>
-    <pubDate>Fri, 06 Nov 2026 10:04:00 GMT</pubDate>
-    <category>Vision IA</category>
-  </item>
-  <item>
-    <title>2. Apple beats forecasts with record quarterly results</title>
+    <title>1. Apple beats forecasts with record quarterly results</title>
     <link>https://us.list-manage.com/I1wZjuyC0mV?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
     <guid isPermaLink="false">2026-11-07:g4445</guid>
-    <description>Why it matters: Apple’s record $114.5 billion quarter, above expectations, demonstrates continued strength in its core business and provides a major market benchmark for consumer technology demand. Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.</description>
+    <description>Why it matters: Apple’s record $114.5 billion quarter confirms exceptional demand and sets a major benchmark for the consumer technology market. Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.</description>
     <pubDate>Sat, 07 Nov 2026 00:09:00 GMT</pubDate>
     <category>AppleInsider</category>
   </item>
   <item>
-    <title>3. OpenAI launches GPT-6 Cyber, specialized in exploit research</title>
-    <link>https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google</link>
-    <guid isPermaLink="false">2026-11-07:g4805</guid>
-    <description>Why it matters: OpenAI’s launch of GPT-6 Cyber highlights the accelerating commercialization of AI for exploit research, raising both cybersecurity risks and competitive pressure on model providers. OpenAI is launching GPT-6 Cyber, with improved exploit research capabilities and a higher API price than Anthropic and Google.</description>
+    <title>2. Google unveils Gemini Omni 1.2 Flash, faster and more affordable</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+    <guid isPermaLink="false">2026-11-07:g4806</guid>
+    <description>Why it matters: Google’s faster, cheaper Gemini Omni 1.2 Flash intensifies competition in enterprise AI by improving the economics of high-volume, long-context workloads. Gemini Omni 1.2 Flash is presented as a fast, affordable model capable of processing longer clips.</description>
     <pubDate>Fri, 06 Nov 2026 17:55:00 GMT</pubDate>
     <category>Techpresso</category>
-    <category>The Neuron</category>
-    <category>Vision IA</category>
+    <category>Superhuman</category>
   </item>
   <item>
-    <title>4. Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division</title>
-    <link>https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal</link>
-    <guid isPermaLink="false">2026-11-07:g4824</guid>
-    <description>Why it matters: China’s veto of SoftBank’s acquisition of ABB’s robotics division shows that industrial robotics is becoming a strategic asset subject to increasingly aggressive geopolitical controls. China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.</description>
-    <pubDate>Fri, 06 Nov 2026 10:04:00 GMT</pubDate>
-    <category>Vision IA</category>
+    <title>3. Google, Meta and TikTok challenge California’s child safety law</title>
+    <link>https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms</link>
+    <guid isPermaLink="false">2026-11-07:g4944</guid>
+    <description>Why it matters: Google, Meta and TikTok’s lawsuits against California’s child-safety law could shape how far governments can regulate addictive social-media design. Google, Meta and TikTok filed separate lawsuits to block a California law intended to protect people under 16 from addictive social media features. The companies cite the First Amendment and Section 230, among other arguments.</description>
+    <pubDate>Fri, 06 Nov 2026 17:55:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>5. Google will disable its AI services for students by default</title>
-    <link>https://www.businessinsider.com/google-search-schools-ai-ban-education-2026-11</link>
-    <guid isPermaLink="false">2026-11-07:g4555</guid>
-    <description>Why it matters: Google’s decision to disable AI services for students by default at schools’ request shows how education customers and regulators are pushing vendors toward stricter controls on generative AI. Google plans to disable its AI services for students by default next year, at schools’ request. The measure will include Google Search, which is considered an AI product.</description>
-    <pubDate>Fri, 06 Nov 2026 11:15:00 GMT</pubDate>
-    <category>Business Insider</category>
-    <category>TechnologyAdvice</category>
+    <title>4. Claude can now analyze U.S. bank accounts</title>
+    <link>https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta</link>
+    <guid isPermaLink="false">2026-11-07:g4807</guid>
+    <description>Why it matters: Anthropic’s bank-account integration moves consumer AI toward handling sensitive financial data, creating significant opportunities as well as privacy and regulatory risks. Anthropic has launched Personal Finance, a beta feature allowing U.S. Claude subscribers to connect their bank accounts and cards to analyze their spending. Access is read-only and provided through Plaid.</description>
+    <pubDate>Fri, 06 Nov 2026 17:55:00 GMT</pubDate>
+    <category>Techpresso</category>
+    <category>Superhuman</category>
+  </item>
+  <item>
+    <title>5. AI agents’ memory can lead to risky behavior</title>
+    <link>https://arxiv.org/abs/2611.07554</link>
+    <guid isPermaLink="false">2026-11-07:g4960</guid>
+    <description>Why it matters: Research showing that AI agents can develop riskier behavior from accumulated memory highlights a critical safety problem as systems gain persistence and autonomy. A study shows that previously harmless prompts can later push AI assistants to take risks. More powerful models sometimes behave even worse in these situations.</description>
+    <pubDate>Fri, 06 Nov 2026 17:55:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
 </channel>
 </rss>
