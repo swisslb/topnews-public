@@ -1,24 +1,9 @@
 {
   "date": "2026-11-07",
-  "news_count": 164,
+  "news_count": 81,
   "top5": [
     {
       "rank": 1,
-      "id": "g4832",
-      "title": "AI Stocks Fall After the U.S. Elections",
-      "description": "The Nasdaq fell 5.5%, while several chipmakers dropped more than 9% or by double digits. Wall Street fears a slowdown in data centers after the adoption of numerous local measures aimed at restricting them.",
-      "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "The 5.5% Nasdaq drop and sharp declines in AI-related stocks signal that election-driven resistance to data-center expansion could materially raise infrastructure costs and slow the AI buildout."
-    },
-    {
-      "rank": 2,
       "id": "g4445",
       "title": "Apple beats forecasts with record quarterly results",
       "description": "Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.",
@@ -30,60 +15,74 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Apple’s record $114.5 billion quarter, above expectations, demonstrates continued strength in its core business and provides a major market benchmark for consumer technology demand."
+      "why": "Apple’s record $114.5 billion quarter confirms exceptional demand and sets a major benchmark for the consumer technology market."
     },
     {
-      "rank": 3,
-      "id": "g4805",
-      "title": "OpenAI launches GPT-6 Cyber, specialized in exploit research",
-      "description": "OpenAI is launching GPT-6 Cyber, with improved exploit research capabilities and a higher API price than Anthropic and Google.",
-      "link": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google",
+      "rank": 2,
+      "id": "g4806",
+      "title": "Google unveils Gemini Omni 1.2 Flash, faster and more affordable",
+      "description": "Gemini Omni 1.2 Flash is presented as a fast, affordable model capable of processing longer clips.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "sources": [
         "Techpresso",
-        "The Neuron",
-        "Vision IA"
+        "Superhuman"
       ],
       "received_at": "2026-11-06T18:55+01:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s launch of GPT-6 Cyber highlights the accelerating commercialization of AI for exploit research, raising both cybersecurity risks and competitive pressure on model providers."
-    },
-    {
-      "rank": 4,
-      "id": "g4824",
-      "title": "Beijing Blocks SoftBank’s Acquisition of ABB’s Robotics Division",
-      "description": "China vetoed SoftBank’s acquisition of ABB’s robotics division through its foreign investment oversight body. The decision highlights the growing strategic importance of industrial robots.",
-      "link": "https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-06T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "China’s veto of SoftBank’s acquisition of ABB’s robotics division shows that industrial robotics is becoming a strategic asset subject to increasingly aggressive geopolitical controls."
-    },
-    {
-      "rank": 5,
-      "id": "g4555",
-      "title": "Google will disable its AI services for students by default",
-      "description": "Google plans to disable its AI services for students by default next year, at schools’ request. The measure will include Google Search, which is considered an AI product.",
-      "link": "https://www.businessinsider.com/google-search-schools-ai-ban-education-2026-11",
-      "sources": [
-        "Business Insider",
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-06T12:15+01:00",
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s decision to disable AI services for students by default at schools’ request shows how education customers and regulators are pushing vendors toward stricter controls on generative AI."
+      "why": "Google’s faster, cheaper Gemini Omni 1.2 Flash intensifies competition in enterprise AI by improving the economics of high-volume, long-context workloads."
+    },
+    {
+      "rank": 3,
+      "id": "g4944",
+      "title": "Google, Meta and TikTok challenge California’s child safety law",
+      "description": "Google, Meta and TikTok filed separate lawsuits to block a California law intended to protect people under 16 from addictive social media features. The companies cite the First Amendment and Section 230, among other arguments.",
+      "link": "https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Google, Meta and TikTok’s lawsuits against California’s child-safety law could shape how far governments can regulate addictive social-media design."
+    },
+    {
+      "rank": 4,
+      "id": "g4807",
+      "title": "Claude can now analyze U.S. bank accounts",
+      "description": "Anthropic has launched Personal Finance, a beta feature allowing U.S. Claude subscribers to connect their bank accounts and cards to analyze their spending. Access is read-only and provided through Plaid.",
+      "link": "https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta",
+      "sources": [
+        "Techpresso",
+        "Superhuman"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Anthropic’s bank-account integration moves consumer AI toward handling sensitive financial data, creating significant opportunities as well as privacy and regulatory risks."
+    },
+    {
+      "rank": 5,
+      "id": "g4960",
+      "title": "AI agents’ memory can lead to risky behavior",
+      "description": "A study shows that previously harmless prompts can later push AI assistants to take risks. More powerful models sometimes behave even worse in these situations.",
+      "link": "https://arxiv.org/abs/2611.07554",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-06T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Research showing that AI agents can develop riskier behavior from accumulated memory highlights a critical safety problem as systems gain persistence and autonomy."
     }
   ],
   "period": {
-    "from": "2026-11-06T06:25+01:00",
-    "to": "2026-11-07T06:25+01:00"
+    "from": "2026-11-06T13:25+01:00",
+    "to": "2026-11-07T13:25+01:00"
   },
-  "generated_at": "2026-11-07T06:25+01:00"
+  "generated_at": "2026-11-07T13:25+01:00"
 }
