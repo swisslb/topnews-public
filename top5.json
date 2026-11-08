@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-07",
-  "news_count": 54,
+  "date": "2026-11-08",
+  "news_count": 34,
   "top5": [
     {
       "rank": 1,
       "id": "g5015",
       "title": "OpenAI reportedly raises an additional $11 billion",
-      "description": "OpenAI reportedly raised an additional $11 billion, giving it a valuation of $1.25 trillion.",
+      "description": "OpenAI has reportedly raised an additional $11 billion, at a valuation of $1.25 trillion.",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "sources": [
         "Techpresso"
@@ -15,7 +15,7 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s reported $11 billion raise at a $1.25 trillion valuation underscores the enormous capital requirements and market expectations surrounding frontier AI."
+      "why": "OpenAI’s reported $11 billion financing at a $1.25 trillion valuation underscores the extraordinary capital scale and competitive stakes of the AI industry."
     },
     {
       "rank": 2,
@@ -30,7 +30,7 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "AMD’s shift toward a data-center identity, with that segment generating 63% of revenue, highlights how AI infrastructure is reshaping the chip industry."
+      "why": "AMD’s data-center business now drives most of its revenue, confirming that AI infrastructure—not gaming—is reshaping the company’s strategy and market position."
     },
     {
       "rank": 3,
@@ -45,29 +45,14 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Fox’s $22 billion acquisition of Roku significantly strengthens its position in connected-TV distribution, advertising, and access to more than 100 million households."
+      "why": "Fox’s $22 billion acquisition of Roku significantly strengthens its control over connected-TV distribution, household reach, and advertising data."
     },
     {
       "rank": 4,
-      "id": "g4445",
-      "title": "Apple beats forecasts with record quarterly results",
-      "description": "Apple generated 114.5 billion dollars in revenue in the fourth quarter of 2026, beating Wall Street forecasts and its previous quarterly record from the 2020 holiday season.",
-      "link": "https://us.list-manage.com/I1wZjuyC0mV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-07T01:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Apple’s record $114.5 billion quarterly revenue shows continuing strength in its core business despite supply and cost pressures."
-    },
-    {
-      "rank": 5,
-      "id": "g5016",
-      "title": "U.S. charges three men in CEO voice scam",
-      "description": "Three men are facing charges in the United States over a $129 million fraud scheme that allegedly used AI to imitate the voices of corporate executives.",
-      "link": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
+      "id": "g5029",
+      "title": "TSMC considers entering AI memory chips at Nvidia’s request",
+      "description": "TSMC is considering entering the market for AI memory chips at Nvidia’s request.",
+      "link": "https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia",
       "sources": [
         "Techpresso"
       ],
@@ -75,12 +60,27 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "U.S. charges over a $129 million executive-voice fraud scheme demonstrate that AI-enabled impersonation is becoming a material corporate-security and financial risk."
+      "why": "TSMC’s potential move into AI memory at Nvidia’s request could materially reshape the supply chain for one of the industry’s most constrained components."
+    },
+    {
+      "rank": 5,
+      "id": "g5021",
+      "title": "Google DeepMind agents expose weaknesses in old encryption",
+      "description": "Google DeepMind agents have exposed weaknesses in older encryption methods, with a claimed speed 1,600 times faster.",
+      "link": "https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-07T18:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Google DeepMind’s claimed ability to expose weaknesses in older encryption highlights an emerging cybersecurity and post-quantum migration risk, even though the findings still require scrutiny."
     }
   ],
   "period": {
-    "from": "2026-11-06T19:25+01:00",
-    "to": "2026-11-07T19:25+01:00"
+    "from": "2026-11-07T06:25+01:00",
+    "to": "2026-11-08T06:25+01:00"
   },
-  "generated_at": "2026-11-07T19:25+01:00"
+  "generated_at": "2026-11-08T06:25+01:00"
 }
