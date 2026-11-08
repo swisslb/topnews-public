@@ -1,275 +1,203 @@
 # All newsletter news — 2026-11-08
 
-Period: 2026-11-07T13:25+01:00 → 2026-11-08T13:25+01:00 · 34 news received
+Period: 2026-11-07T19:25+01:00 → 2026-11-08T19:25+01:00 · 25 news received
 
-## 1. The iPhone Duo surpasses 100,000 optimized apps
+## 1. Voyager 1 will become the first human-made object to reach one light-day
 
-Apple says the iPhone Duo now has more than 100,000 apps adapted to its foldable display, with thousands of new apps added every day. Microsoft Word, Outlook, Zoom, Etsy, Goodnotes, and sports apps have recently joined the list.
+On November 18, Voyager 1 will become the first human-made object to be one light-day from Earth, about 16.1 billion kilometers away. A message will take 24 hours to reach it, and its reply will require another 24 hours.
 
-- Link: https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 2. OpenAI reportedly raises an additional $11 billion
-
-OpenAI has reportedly raised an additional $11 billion, at a valuation of $1.25 trillion.
-
-- Link: https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 3. AST SpaceMobile wants to build its own rockets to catch up with Starlink Mobile
-
-AST SpaceMobile plans to build its own rockets in order to catch up with Starlink Mobile.
-
-- Link: https://www.pcmag.com/news/ast-spacemobile-to-build-its-own-rockets-to-catch-up-with-starlink-mobile
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 4. Elon Musk says government contracts will account for less than 10% of SpaceX revenue
-
-Elon Musk says government activities will account for less than 10% of SpaceX’s revenue.
-
-- Link: https://thenextweb.com/news/spacex-government-revenue-under-10-percent-musk-anthropic
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 5. Lawsuit claims a woman used ChatGPT to plan her husband’s murder
-
-According to a lawsuit, a man introduced his wife to ChatGPT, after which she allegedly used the service to plan his murder.
-
-- Link: https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 6. BET president uses AI with constant human oversight
-
-Louis Carr says he regularly tests ChatGPT, Claude, and other AI tools while emphasizing the need for a human editor. BET has used AI, among other things, to arrange seating and verify tributes at the BET Awards.
-
-- Link: https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/786805be89ea45cba81930c00341ff0a
-- Sources: Business Insider
-- Received: 2026-11-07T13:30+01:00
-
-## 7. AI solves an 18-year-old quantum computing puzzle
-
-Research company PSI says it solved the Aaronson-Ambainis conjecture using an automated system that produced a proof accepted by Lean in three days. The result has not yet undergone a full independent academic review.
-
-- Link: https://interestingengineering.com/culture/psi-research-system-aaronson-ambainis-quantum-conjecture
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 8. Amazon lets some customers shop by text with Alexa
-
-Amazon is allowing a small group of invited U.S. customers to text its Alexa for Shopping agent to search for products, place orders, and track prices. Access is expected to expand to millions of people in the coming weeks.
-
-- Link: https://thenextweb.com/news/amazon-alexa-for-shopping-text-message-agent
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 9. Fox finalizes $22 billion acquisition of Roku
-
-Fox has completed its $22 billion acquisition of Roku, strengthening its position in streaming and connected TV. The deal gives Fox direct access to more than 100 million households and is expected to improve ad targeting.
-
-- Link: https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 10. Microsoft ends its AI cloud contract with Oracle
-
-Microsoft will not renew the 2023 contract to rent AI computing power from Oracle, partly because the hardware relied on older Nvidia chips. Oracle nevertheless says demand for its AI infrastructure, including older GPUs, remains strong.
-
-- Link: https://finance.yahoo.com/technology/ai/articles/oracle-falls-4-microsoft-reportedly-181718577.html
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 11. AMD now defines itself as a data center-focused company
-
-CEO Lisa Su says server chips now define AMD, with the data center segment accounting for about 63% of third-quarter 2026 revenue. Quarterly revenue reached $13.4 billion, while gaming sales fell 40%.
-
-- Link: https://www.techspot.com/news/114475-after-amd-gaming-revenue-crashes-40-ceo-lisa.html
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 12. U.S. indicts three men in CEO voice scam
-
-Three men are facing charges in the United States over a $129 million fraud that allegedly used AI to imitate the voices of corporate executives.
-
-- Link: https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 13. Six pallets of Nvidia GPUs worth $11.4 million stolen
-
-Six pallets of Nvidia GPUs valued at $11.4 million were stolen during a cargo burglary in California.
-
-- Link: https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 14. Online magazine Salon announces its closure
-
-Online magazine Salon, one of the earliest iconic media outlets associated with internet discussions, says it will shut down.
-
-- Link: https://apnews.com/article/salon-media-online-news-shutdown-387aebeaf5d2ff80450bfba780ac9d6c
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 15. First 200 mm single-crystal diamond produced in the United States
-
-The first 200 mm single-crystal diamond was grown in the United States. It could help advance next-generation chip development.
-
-- Link: https://interestingengineering.com/innovation/diamond-foundry-grows-200mm-diamond-chips
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 16. Google DeepMind agents expose weaknesses in old encryption
-
-Google DeepMind agents have exposed weaknesses in older encryption methods, with a claimed speed 1,600 times faster.
-
-- Link: https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 17. Meta launches Spaces for collaboration with its Muse agent
-
-Meta is introducing Spaces, a new way to collaborate with its Muse agent.
-
-- Link: https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 18. Alphabet reveals a $548 million stake in Qualcomm
-
-Alphabet disclosed that it holds a $548 million stake in chipmaker Qualcomm.
-
-- Link: https://thenextweb.com/news/alphabet-discloses-548m-stake-in-chipmaker-qualcomm
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 19. AI teddy bear for children produced a self-harm response
-
-The BBC found that an AI-equipped teddy bear intended for three-year-old children spontaneously gave a response related to self-harm.
-
-- Link: https://thenextweb.com/news/ai-teddy-for-three-year-olds-gave-unprompted-self-harm-reply-bbc-finds
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 20. Crusoe resells struggling Wyoming data center project to Google
-
-Crusoe is selling Google a troubled data center project in Wyoming.
-
-- Link: https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 21. Chainalysis says hackers stole the credentials of all its customers
-
-Chainalysis says hackers stole the credentials and access tokens of all its customers.
-
-- Link: https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 22. TSMC considers entering AI memory chips at Nvidia’s request
-
-TSMC is considering entering the market for AI memory chips at Nvidia’s request.
-
-- Link: https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia
-- Sources: Techpresso
-- Received: 2026-11-07T18:21+01:00
-
-## 23. What is known about the victims of the Learjet crash
-
-Adam Robinson, founder of a technology company in Austin, died with his wife Helen Sharp, their children, their friends Rachel Reed and Charmi Fehr, and their nanny Ana María Ramírez Cetina when their private jet crashed in Florida.
-
-- Link: https://l.businessinsider.com/a/zc/21432/d69463b70d994cc99521c53b5525969d/7695dddf1f224baa802c119891f0b1e7
-- Sources: Business Insider
-- Received: 2026-11-07T18:00+01:00
-
-## 24. MIT teaches robots to correct false memories
-
-MIT researchers developed a system that flags uncertain descriptions of objects, compares images taken from different angles, and corrects a robot’s memory errors. In tests, it resolved ambiguities involving about 92% of objects in the environment.
-
-- Link: https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105
+- Link: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/
 - Sources: Superhuman
-- Received: 2026-11-07T16:06+01:00
+- Received: 2026-11-08T18:03+01:00
 
-## 25. Waymo will end its exclusive agreement with Uber
+## 2. Ultrafine Martian dust could threaten future astronauts
 
-Waymo plans to let passengers in Austin and Atlanta book rides directly through its own app starting in January 2028. The company says its customers want a more consistent experience and a direct relationship with Waymo.
+The Perseverance rover detected particles about 100 nanometers in size clinging to samples of spacesuit material. They can penetrate deep into the lungs and could inform the design of future spacesuits and Martian bases.
 
-- Link: https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/
+- Link: https://archive.superhuman.ai/2117439321817133069
 - Sources: Superhuman
-- Received: 2026-11-07T16:06+01:00
+- Received: 2026-11-08T18:03+01:00
 
-## 26. Agility Robotics finalizes merger and prepares for Nasdaq listing
+## 3. A meteorite reveals one of the oldest known fragments of Mars
 
-Agility Robotics has finalized its merger with Churchill Capital Corp XI. The deal paves the way for the maker of Digit to list on the Nasdaq under the ticker AGLT.
+The Saharan meteorite Teghaza 001 formed more than 4.1 billion years ago. Its minerals preserve clues about ancient interactions between water and rock on Mars.
 
-- Link: https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/
+- Link: https://www.jpl.nasa.gov/news/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/
 - Sources: Superhuman
-- Received: 2026-11-07T16:06+01:00
+- Received: 2026-11-08T18:03+01:00
 
-## 27. Tutor Intelligence raises $75 million to expand its robot fleet
+## 4. CERN observes an extremely rare particle transformation
 
-Tutor Intelligence raised $75 million in a round led by Andreessen Horowitz. The company wants to expand its robot fleet, which learns from real-world industrial assignments with help from remote human operators.
+CERN physicists found evidence of a beauty-quark particle transforming into two muons. Expected to occur in about one case in ten billion, this observation opens a new way to test the fundamental laws of physics.
 
-- Link: https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-complete-business-combination
+- Link: https://www.birmingham.ac.uk/news/2026/physicists-uncover-evidence-of-one-of-natures-rarest-particle-decays
 - Sources: Superhuman
-- Received: 2026-11-07T16:06+01:00
+- Received: 2026-11-08T18:03+01:00
 
-## 28. RoboScience raises several hundred million yuan
+## 5. Traces of blood preserved in dinosaur bones
 
-Beijing-based RoboScience has reportedly completed a new funding round worth several hundred million yuan. The company wants to develop its robotic AI and expand trials in logistics, retail, and industry.
+A team led by Curtin University identified mineralized red blood cells and blood-related molecules in 115-million-year-old dinosaur bones found in Brazil. The presence of heme could help researchers learn about these animals’ metabolism and physiology.
 
-- Link: https://finance.yahoo.com/technology/ai/articles/tutor-intelligence-raises-75-million-160000524.html
+- Link: https://www.curtin.edu.au/news/media-release/dinosaur-blood-oldest-discovery-rewrites-what-fossils-can-reveal-about-the-past/
 - Sources: Superhuman
-- Received: 2026-11-07T16:06+01:00
+- Received: 2026-11-08T18:03+01:00
 
-## 29. Curbie automates taking out the trash
+## 6. The Bambu Lab H3C changes materials in six seconds
 
-Revere Robotics is developing Curbie, a small robot that attaches to an ordinary trash bin, takes it to the curb, and returns it after collection. The robot is still being field-tested, with no price or launch date announced.
+This desktop 3D printer has nine printing tools and can change materials in six seconds. It makes it easier to combine multiple colors and materials in a single creation.
 
-- Link: https://therobotdaily.com/roboscience-series-a2-funding
+- Link: https://blog.bambulab.com/tool-changer-game-changer-bambu-lab-presents-h3c-the-defining-new-generation-of-3d-printers/
 - Sources: Superhuman
-- Received: 2026-11-07T16:06+01:00
+- Received: 2026-11-08T18:03+01:00
 
-## 30. Frequent traveler reveals her method for choosing the best seat
+## 7. The Galaxy Ring can now detect signs of sleep apnea
 
-A frequent traveler shares her strategy for choosing the best seat on a plane and traveling more comfortably, even in economy class.
+A new feature flags signs of sleep apnea and measures breathing disruptions using data from just two nights.
 
-- Link: https://www.businessinsider.com/best-seats-plane-rows-to-avoid-frequent-flyer-tips-2026-11
+- Link: https://www.samsungmobilepress.com/articles/upgraded-sleep-apnea-feature-galaxy-ring-us-korea-approvals
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 8. Casio turns its CRW-002 digital watch into a ring
+
+Casio’s classic digital watch has been miniaturized to fit on a finger. The small metal ring includes a functional digital display, a stopwatch and a light.
+
+- Link: https://www.casio.com/my/watches/casio/casio-ring-watch/crw-002/
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 9. Peak Design is preparing a 5,000 mAh magnetic travel battery
+
+This 5,000 mAh magnetic wireless battery includes a kickstand that holds the phone while it charges. It is currently listed as coming soon.
+
+- Link: https://www.peakdesign.com/eu/products/kickstand-travel-battery
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 10. The ozone layer remains on track for sustained recovery
+
+According to NASA and NOAA, Earth’s protective ozone layer is expected to continue recovering over the long term. The Antarctic hole could disappear by around the 2070s thanks to international restrictions on ozone-depleting substances.
+
+- Link: https://science.nasa.gov/earth/2026-ozone-hole/
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 11. Two experimental vaccines tested against Bundibugyo Ebola
+
+WHO experts recommended adding two vaccines to a clinical trial: one developed by Oxford with the Serum Institute of India and one by Moderna. Testing will begin after national approvals to assess their protection during an outbreak.
+
+- Link: https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 12. A gut-bacteria treatment reduces infections
+
+In a small randomized trial, the cultured gut-bacteria treatment SER-155 reduced bloodstream infections in blood cancer patients receiving stem-cell transplants. Infections affected 10% of treated patients versus 42.9% of those receiving a placebo, but larger trials are needed.
+
+- Link: https://ir.serestherapeutics.com/news-releases/news-release-details/seres-therapeutics-announces-publication-ser-155-phase-1b
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 13. A gallium needle softens inside the body after piercing the skin
+
+Developed in South Korea, this needle remains solid enough to pierce the skin before softening inside the body to improve safety.
+
+- Link: https://www.reddit.com/r/Damnthatsinteresting/comments/1xkztc3/gallium_needle_developed_by_kaistsouth_korea/
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 14. NASA tracked changes in the Moon’s color for ten years
+
+A NASA image shows how the Moon’s color changed over time across a ten-year period.
+
+- Link: https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 15. The pyramids of the Kingdom of Kush testify to a powerful ancient empire
+
+The Kingdom of Kush was powerful enough to conquer Egypt at its peak. Its 2,000-year-old pyramids are featured in the newsletter.
+
+- Link: https://www.reddit.com/r/Damnthatsinteresting/comments/1xkabzu/these_pyramids_are_not_in_egypt_they_were_built/
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 16. NASA photographed a region of the Sun that looks like a smiling face
+
+NASA captured images of the Sun that make it appear to be smiling; one post received 32,000 likes.
+
+- Link: https://www.reddit.com/r/interestingasfuck/comments/1xmqi56/nasa_took_a_photo_of_the_sun_smiling_at_earth_on/
+- Sources: Superhuman
+- Received: 2026-11-08T18:03+01:00
+
+## 17. Employers turn against AI at work after being overwhelmed by mediocre content
+
+The campaign against AI-generated content in the workplace now has a powerful ally. Executives liked AI at work until they were overwhelmed by mediocre content.
+
+- Link: https://l.businessinsider.com/a/zc/21432/a311e9bfe73b4715b2ed1bca07340a8b/89f68c0f48e94bd7a904b29563c3e4d3
 - Sources: Business Insider
-- Received: 2026-11-07T13:30+01:00
+- Received: 2026-11-08T18:00+01:00
 
-## 31. Dermatologists recommend washing your face less often
+## 18. GoDaddy CEO refuses to read professional writing produced with AI
 
-According to dermatologist Ariel Ostad, rinsing your face with water is often enough. Harsh scrubs can damage the skin’s natural protective barrier.
+The GoDaddy CEO says he will not read professional writing produced with AI. The article explains how he can identify it.
 
-- Link: https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/5bbcd22a2c7c4fc5b79958d3f6d21310
+- Link: https://www.businessinsider.com/godaddy-ceo-says-wont-read-work-written-ai-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f
 - Sources: Business Insider
-- Received: 2026-11-07T13:30+01:00
+- Received: 2026-11-08T18:00+01:00
 
-## 32. John Turturro looks back on his most memorable roles
+## 19. GoDaddy CEO refuses to read AI-written copy
 
-John Turturro, who has more than 100 film and television roles, discusses his collaborations with Spike Lee and the Coen brothers, as well as several memorable roles from his career.
+The GoDaddy CEO says he does not read professional writing produced with AI and explains how he spots it.
 
-- Link: https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/14584428f0ec41dcaa2b5f7e7b1d05fa
+- Link: https://www.businessinsider.com/godaddy-ceo-says-wont-read-work-written-ai-2026-11
 - Sources: Business Insider
-- Received: 2026-11-07T13:30+01:00
+- Received: 2026-11-08T12:31+01:00
 
-## 33. Flight attendant prefers keeping airplane window shades open
+## 20. Democrats adopt a Mamdani-inspired cost-of-living message
 
-Leanna Coy believes open shades allow passengers to enjoy the view and better see the outside environment, which reassures her. She notes, however, that the decision is not hers to make.
+After the 2026 midterm elections, Zohran Mamdani is strongly influencing American politics. His focus on affordability has become a guiding principle for Democrats.
 
-- Link: https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/21840264783642ac8b8b6faa86cb7222
+- Link: https://l.businessinsider.com/a/zc/21432/40de5cffbf4f48c2848307e9204f3ce0/6745736dae124202ae7984ca78c2ae4d
 - Sources: Business Insider
-- Received: 2026-11-07T13:30+01:00
+- Received: 2026-11-08T12:31+01:00
 
-## 34. Joe Manganiello reveals his habits for staying healthy
+## 21. Tech entrepreneur Adam Robinson, an advocate for bootstrapped founders, dies in crash
 
-After suffering from chronic autoimmune problems for seven years, Joe Manganiello describes his health habits, including testosterone-free workouts and flotation sessions.
+Adam Robinson, who died at 45 in a Learjet crash in Florida with his wife and two children, was known in tech as a supporter of founders building companies without venture capital. His career took him from Wall Street to tech startups.
 
-- Link: https://l.businessinsider.com/a/zc/21432/73cec4dbb3d147498330d229f1ea9585/21840264783642ac8b8b6faa86cb7222
+- Link: https://www.businessinsider.com/adam-robinson-florida-learjet-crash-tech-community-2026-11
 - Sources: Business Insider
-- Received: 2026-11-07T13:30+01:00
+- Received: 2026-11-08T12:31+01:00
+
+## 22. Helen Sharp dies at 40 in Learjet crash
+
+Helen Sharp died at 40 in the Learjet crash. Her friends say she lived life to the fullest.
+
+- Link: https://www.businessinsider.com/helen-sharp-florida-learjet-crash-victim-2026-11
+- Sources: Business Insider
+- Received: 2026-11-08T12:31+01:00
+
+## 23. The blue wave deals a major blow to the tech right
+
+Elon Musk spent 446 million dollars to help elect Republicans in the midterm elections, but Democrats won a sweeping victory. The result also signaled a rejection of data centers, Silicon Valley elites and their vision of the future.
+
+- Link: https://l.businessinsider.com/a/zc/21432/40de5cffbf4f48c2848307e9204f3ce0/7a20ca16bb4d457a9e5be1994af8c155
+- Sources: Business Insider
+- Received: 2026-11-08T12:31+01:00
+
+## 24. Boulder temporarily allows Airbnb listings before Sundance, sending prices soaring
+
+Boulder created a three-week exemption from its ban on investor-owned Airbnbs to address a housing shortage during the Sundance festival. Some hosts are asking nearly 10,000 dollars per night.
+
+- Link: https://l.businessinsider.com/a/zc/21432/40de5cffbf4f48c2848307e9204f3ce0/cf47433890ca418f846441075ff72009
+- Sources: Business Insider
+- Received: 2026-11-08T12:31+01:00
+
+## 25. Wall Street’s young talent develops the key skills of the AI era
+
+The annual Rising Stars of Wall Street list highlights young finance professionals playing important roles in investing, trading and dealmaking. Several say judgment, technical fundamentals, human relationships and AI proficiency will be decisive.
+
+- Link: https://l.businessinsider.com/a/zc/21432/01a69f3e5dce417a9e79e65e4dd8a7e7/9bfb1c4fd80540bca0fcbe5e137bdfee
+- Sources: Business Insider
+- Received: 2026-11-08T12:31+01:00
