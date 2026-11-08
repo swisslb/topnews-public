@@ -1,6 +1,6 @@
 # All newsletter news — 2026-11-08
 
-Period: 2026-11-07T06:25+01:00 → 2026-11-08T06:25+01:00 · 34 news received
+Period: 2026-11-07T13:25+01:00 → 2026-11-08T13:25+01:00 · 34 news received
 
 ## 1. The iPhone Duo surpasses 100,000 optimized apps
 
