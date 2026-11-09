@@ -1,53 +1,53 @@
-# Top 5 news of the day — 2026-11-08
+# Top 5 news of the day — 2026-11-09
 
-Period: 2026-11-07T19:25+01:00 → 2026-11-08T19:25+01:00 · 25 news received
+Period: 2026-11-08T06:25+01:00 → 2026-11-09T06:25+01:00 · 39 news received
 
-## 1. The blue wave deals a major blow to the tech right
+## 1. American voters reject data center projects
 
-**Why it matters:** The Democrats’ sweeping midterm victory, despite $446 million in spending by Elon Musk, could reshape U.S. policy toward data centers, Silicon Valley and technology investment.
+**Why it matters:** Voter opposition to data centers signals a growing infrastructure and permitting constraint that could raise costs and slow AI expansion.
 
-Elon Musk spent 446 million dollars to elect Republicans in the midterm elections, but Democrats won a sweeping victory. The result also signaled a rejection of data centers, Silicon Valley elites and their vision of the future.
+In Alhambra, California, 83% of voters supported banning data centers, while in Wells, Maine, 82% approved a 180-day pause. OpenAI now proposes paying for electricity and infrastructure, publishing more information, and investing locally to win residents’ support.
 
-- Link: https://l.businessinsider.com/a/zc/21432/40de5cffbf4f48c2848307e9204f3ce0/7a20ca16bb4d457a9e5be1994af8c155
-- Sources: Business Insider
-- Received: 2026-11-08T12:31+01:00
+- Link: https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/
+- Sources: The Neuron
+- Received: 2026-11-08T20:34+01:00
 
-## 2. Bosses turn against AI at work after being overwhelmed by mediocre content
+## 2. OpenAI launches GPT-6 Cyber to research vulnerabilities
 
-**Why it matters:** Growing executive backlash against mediocre AI-generated work could slow enterprise AI adoption and force companies to rethink productivity, quality controls and workplace policy.
+**Why it matters:** OpenAI’s launch of GPT-6 Cyber marks a significant advance in AI-assisted vulnerability discovery and raises new cybersecurity and misuse concerns.
 
-The campaign against AI-generated content at work now has a powerful ally. Executives liked AI in the workplace until they were overwhelmed by mediocre content.
+OpenAI has launched GPT-6 Cyber, a restricted model capable of finding software vulnerabilities and building exploits for authorized security testers.
+
+- Link: https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTd9lmDtqtWyQ7Lh7RhQOIhfPz8ATn-XvNP3C3gw0mJefPlg_-a_NSTJvN9iyJ9z92FakyXgjm7gQmzVEBUBz9g2v2lW6zVl2etwshCJtW4HHUu2qZvK38E6lsqrPsW8e_X-4645cPBkWAgPaiatHS-VuRZo-w9RVpcFTbFwJE-MhGHmtTapCY9RxFrNzEwtxmqHWQgcUzHYX_li-UOzSn3pBWix3smjCuIbzqko4q5Vmg62p5jsLUAaBkHuBPX6N7ONia0T1FkBzKLRPpxWou5SibhGKX3aW1ubSXkX8d9Pb47CdK26LTTp5FxeAYmp9amksmrGU5AVK9ZtyPqKKIbKfHb0B9vroLY6v3HSCX6M4RSPFs9VYJ0GYNR2ldLs3vIMPIV8lJ9Y3nljXMb6GYjEzVAhw6ZhfKTPyHTWYlovkdbkp_BgaGURBM1sJHEimGBEX-v_m3AnPx9qtVX4_vBu2m7ieZQfs3iRTqJTnBKf5-OJz-ZsT1q6JGNMIhEalXsXhCOnyHITLDEGN5K2qggcTeRcUCRdqGF5m3Po5do_SLfWDUlHcJvqE_mrUqbAWmi-ngKLpBkqo6kh_ERZyDjgR9kRVGhg4G_hKTX_qVZV3WpOVWfvG2coQU6P3sNU9fLtND5pakfiAnBNdcnT67gtPWCrBf9_TjqKaBi8Ug1h6BHJN0eLSAlhid0UiQZWmyEgMB93D6eLnxYFh4lj1k32WAZOnTudkXFni5hOUzRpojYDfcM4yqINX3pdE722oLMLqc7Zmeydz7k-K5zkt-E1/4vk/jcH-GOjhRuuFaZR6yKt1Pg/h27/h001.5nl_j1bwXJ5U-EEEAjZsM-BOn-OVMXNw2YW1Q6AqUiM
+- Sources: The Neuron
+- Received: 2026-11-08T20:34+01:00
+
+## 3. Employers turn against AI at work after being overwhelmed by mediocre content
+
+**Why it matters:** Employers’ backlash against mediocre AI-generated content could slow workplace adoption and shift demand toward higher-quality, human-supervised AI use.
+
+The campaign against AI-generated content in the workplace now has a powerful ally. Executives liked AI at work until they were overwhelmed by mediocre content.
 
 - Link: https://l.businessinsider.com/a/zc/21432/a311e9bfe73b4715b2ed1bca07340a8b/89f68c0f48e94bd7a904b29563c3e4d3
 - Sources: Business Insider
 - Received: 2026-11-08T18:00+01:00
 
-## 3. Two experimental vaccines tested against Bundibugyo Ebola
+## 4. Google announces new AI controls for schools
 
-**Why it matters:** Two experimental vaccines entering an Ebola clinical trial could materially improve outbreak preparedness if they demonstrate protection against the Bundibugyo strain.
+**Why it matters:** Google’s new AI controls for schools could shape how education systems balance access to productivity tools with concerns about AI governance and classroom use.
 
-WHO experts recommended adding two vaccines to a clinical trial: one developed by Oxford with the Serum Institute of India and one by Moderna. Testing will begin after national approvals to assess their protection during an outbreak.
+Google announced new school-related AI controls, raising the question of whether schools will be able to keep Search while rejecting its AI features.
 
-- Link: https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances
-- Sources: Superhuman
-- Received: 2026-11-08T18:03+01:00
+- Link: https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTf9zQL1RNhABYIGWXvUNq4n9reRLhduM8WUzyfzDtRndmj2_TlYNowAr-oE01fvB7402Z62mXND6UQ3OI86Wfkrxsw_0ZSiOH8luCnji0CXyENXJouHp2LKWPgzRMaPDgL_ywJGbsjhlHzUkUuCHMZ0gmOlbLW1fy_NMqmTJZrCwv72Dp_WF5krZFc4kTMZTeim-cFuN9mE-645Ah7mGCvgssMmmVEbBAgV6XzHJbuvZUtiq1hP6ZJg1OK90f80zeSTLUCKo_yCjoVvOBV9edxFElHRjxCTbvUzfZQc9izAy3JHS8GQb_Bg3HIeYjMexPSGu-ma4xm_rkd0bnRaB2CzzzL1-dxY49yOm4Ye_0fQE49JiM66915QcnOGGtxU74kfap_N2FO2amA0XmY_tBx0Xn1lxJPk03RSLIywu3rnzmgXy9QlpYA4upM9MzYL1G7OjbcWfws-UWgy3wH8m-0yoCiJBdCH4MFNBCue7A2qgDgp0xhE4tkZWwHKrph_oigFJE4qZzIDKTdG-B1ft12O09H1CKK6QGPMwaaBk5DcCOzFUDHWiP1buPKu9WLOklrGyWFnYWAj5mYdavZlTGJC2qWXA49rvhkfuw9dEFThggbVcR-tg15s53HmxPK7aNXg8JYuyKdfsKr6QwzSFvcSD3URQ2lK0G15B-GdISXCXonwrKOg7WH2deWZZl4l84-vt-emSEaOeLJ6XVa5uzHUFhp_N_GkZpcCACtlCOtkyg5rQkPozaED9C2gHpBNLSc/4vk/jcH-GOjhRuuFaZR6yKt1Pg/h29/h001.kwWeDcJB2sh4Hi3-pNhaOiQC_c75cBWsTb1oesct2yw
+- Sources: The Neuron
+- Received: 2026-11-08T20:34+01:00
 
-## 4. The ozone layer remains on track for a lasting recovery
+## 5. A gut-bacteria treatment reduces infections
 
-**Why it matters:** The ozone layer’s projected recovery shows that coordinated international regulation can reverse a major environmental crisis and offers a model for other global policy challenges.
+**Why it matters:** A gut-bacteria treatment that sharply reduced infections in high-risk transplant patients shows promising clinical potential, though larger trials are still needed.
 
-According to NASA and NOAA, Earth’s protective ozone layer should continue recovering over the long term. The Antarctic hole could disappear around the 2070s thanks to international restrictions on ozone-depleting substances.
+In a small randomized trial, the cultured gut-bacteria treatment SER-155 reduced bloodstream infections in blood cancer patients receiving stem-cell transplants. Infections affected 10% of treated patients versus 42.9% of those receiving a placebo, but larger trials are needed.
 
-- Link: https://science.nasa.gov/earth/2026-ozone-hole/
-- Sources: Superhuman
-- Received: 2026-11-08T18:03+01:00
-
-## 5. CERN observes an extremely rare particle transformation
-
-**Why it matters:** CERN’s observation of an exceptionally rare beauty-quark decay provides a powerful new test of fundamental physics and could reveal deviations from the Standard Model.
-
-CERN physicists found evidence of a beauty-quark particle transforming into two muons. Expected in roughly one case per ten billion, this observation opens a new way to test the fundamental laws of physics.
-
-- Link: https://www.birmingham.ac.uk/news/2026/physicists-uncover-evidence-of-one-of-natures-rarest-particle-decays
+- Link: https://ir.serestherapeutics.com/news-releases/news-release-details/seres-therapeutics-announces-publication-ser-155-phase-1b
 - Sources: Superhuman
 - Received: 2026-11-08T18:03+01:00
