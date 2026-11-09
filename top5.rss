@@ -3,48 +3,51 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-09</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 39 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 88 news received.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 09 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. American voters reject data center projects</title>
+    <title>1. OpenAI raises $11 billion, while Anthropic prepares to go public</title>
+    <link>https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/</link>
+    <guid isPermaLink="false">2026-11-09:g5015</guid>
+    <description>Why it matters: OpenAI’s $11 billion financing and Anthropic’s planned IPO underscore the extraordinary capital demands and increasingly concentrated market power of frontier AI. OpenAI raised approximately $11 billion at a valuation of $1.25 trillion, below its initial targets. Anthropic, meanwhile, is preparing a Nasdaq listing at an estimated valuation of around $1.5 trillion.</description>
+    <pubDate>Mon, 09 Nov 2026 10:02:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>2. Nvidia investigates possible espionage operation targeting Jensen Huang</title>
+    <link>https://www.businessinsider.com/nvidia-jensen-huang-investigation-chinese-spy-2026-11</link>
+    <guid isPermaLink="false">2026-11-09:g5079</guid>
+    <description>Why it matters: A possible foreign intelligence operation targeting Nvidia’s CEO could affect leadership, security, investor confidence, and the broader AI supply chain. Nvidia’s board of directors is investigating whether its CEO Jensen Huang was the target of a foreign intelligence operation. The matter could have major repercussions for Nvidia and the artificial intelligence sector.</description>
+    <pubDate>Mon, 09 Nov 2026 11:26:00 GMT</pubDate>
+    <category>Business Insider</category>
+    <category>Vision IA</category>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>3. Coding agents fail at nearly three out of four real-world tasks</title>
+    <link>https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/</link>
+    <guid isPermaLink="false">2026-11-09:g4811</guid>
+    <description>Why it matters: Real-world benchmark results showing coding agents solve only about one in four tasks challenge inflated capability claims and highlight the gap between demos and dependable enterprise automation. Alibaba’s Co-Design Bench benchmark, based on real user requests, shows that GPT-6 Astra fully solves only 26.4% of tasks. Yet the same models score more than 99% on older benchmarks.</description>
+    <pubDate>Mon, 09 Nov 2026 10:02:00 GMT</pubDate>
+    <category>Vision IA</category>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>4. American voters reject data center projects</title>
     <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/</link>
     <guid isPermaLink="false">2026-11-09:g4659</guid>
-    <description>Why it matters: Voter opposition to data centers signals a growing infrastructure and permitting constraint that could raise costs and slow AI expansion. In Alhambra, California, 83% of voters supported banning data centers, while in Wells, Maine, 82% approved a 180-day pause. OpenAI now proposes paying for electricity and infrastructure, publishing more information, and investing locally to win residents’ support.</description>
+    <description>Why it matters: Voter rejection of data-center projects signals growing political resistance to the infrastructure needed for AI expansion and raises costs and permitting risks. In Alhambra, California, 83% of voters supported banning data centers, while in Wells, Maine, 82% approved a 180-day pause. OpenAI now proposes paying for electricity and infrastructure, publishing more information, and investing locally to win residents’ support.</description>
     <pubDate>Sun, 08 Nov 2026 19:34:00 GMT</pubDate>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>2. OpenAI launches GPT-6 Cyber to research vulnerabilities</title>
-    <link>https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTd9lmDtqtWyQ7Lh7RhQOIhfPz8ATn-XvNP3C3gw0mJefPlg_-a_NSTJvN9iyJ9z92FakyXgjm7gQmzVEBUBz9g2v2lW6zVl2etwshCJtW4HHUu2qZvK38E6lsqrPsW8e_X-4645cPBkWAgPaiatHS-VuRZo-w9RVpcFTbFwJE-MhGHmtTapCY9RxFrNzEwtxmqHWQgcUzHYX_li-UOzSn3pBWix3smjCuIbzqko4q5Vmg62p5jsLUAaBkHuBPX6N7ONia0T1FkBzKLRPpxWou5SibhGKX3aW1ubSXkX8d9Pb47CdK26LTTp5FxeAYmp9amksmrGU5AVK9ZtyPqKKIbKfHb0B9vroLY6v3HSCX6M4RSPFs9VYJ0GYNR2ldLs3vIMPIV8lJ9Y3nljXMb6GYjEzVAhw6ZhfKTPyHTWYlovkdbkp_BgaGURBM1sJHEimGBEX-v_m3AnPx9qtVX4_vBu2m7ieZQfs3iRTqJTnBKf5-OJz-ZsT1q6JGNMIhEalXsXhCOnyHITLDEGN5K2qggcTeRcUCRdqGF5m3Po5do_SLfWDUlHcJvqE_mrUqbAWmi-ngKLpBkqo6kh_ERZyDjgR9kRVGhg4G_hKTX_qVZV3WpOVWfvG2coQU6P3sNU9fLtND5pakfiAnBNdcnT67gtPWCrBf9_TjqKaBi8Ug1h6BHJN0eLSAlhid0UiQZWmyEgMB93D6eLnxYFh4lj1k32WAZOnTudkXFni5hOUzRpojYDfcM4yqINX3pdE722oLMLqc7Zmeydz7k-K5zkt-E1/4vk/jcH-GOjhRuuFaZR6yKt1Pg/h27/h001.5nl_j1bwXJ5U-EEEAjZsM-BOn-OVMXNw2YW1Q6AqUiM</link>
-    <guid isPermaLink="false">2026-11-09:g4805</guid>
-    <description>Why it matters: OpenAI’s launch of GPT-6 Cyber marks a significant advance in AI-assisted vulnerability discovery and raises new cybersecurity and misuse concerns. OpenAI has launched GPT-6 Cyber, a restricted model capable of finding software vulnerabilities and building exploits for authorized security testers.</description>
-    <pubDate>Sun, 08 Nov 2026 19:34:00 GMT</pubDate>
+    <title>5. U.S. AI safety testing center informally reports to the White House</title>
+    <link>https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13</link>
+    <guid isPermaLink="false">2026-11-09:g5080</guid>
+    <description>Why it matters: The U.S. AI safety testing center’s informal reporting relationship with the White House suggests tighter political oversight of AI evaluation despite unresolved governance gaps. The U.S. government center responsible for testing AI safety has begun informally reporting to a White House office. It still has no permanent director.</description>
+    <pubDate>Mon, 09 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
-  </item>
-  <item>
-    <title>3. Employers turn against AI at work after being overwhelmed by mediocre content</title>
-    <link>https://l.businessinsider.com/a/zc/21432/a311e9bfe73b4715b2ed1bca07340a8b/89f68c0f48e94bd7a904b29563c3e4d3</link>
-    <guid isPermaLink="false">2026-11-09:g5040</guid>
-    <description>Why it matters: Employers’ backlash against mediocre AI-generated content could slow workplace adoption and shift demand toward higher-quality, human-supervised AI use. The campaign against AI-generated content in the workplace now has a powerful ally. Executives liked AI at work until they were overwhelmed by mediocre content.</description>
-    <pubDate>Sun, 08 Nov 2026 17:00:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>4. Google announces new AI controls for schools</title>
-    <link>https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTf9zQL1RNhABYIGWXvUNq4n9reRLhduM8WUzyfzDtRndmj2_TlYNowAr-oE01fvB7402Z62mXND6UQ3OI86Wfkrxsw_0ZSiOH8luCnji0CXyENXJouHp2LKWPgzRMaPDgL_ywJGbsjhlHzUkUuCHMZ0gmOlbLW1fy_NMqmTJZrCwv72Dp_WF5krZFc4kTMZTeim-cFuN9mE-645Ah7mGCvgssMmmVEbBAgV6XzHJbuvZUtiq1hP6ZJg1OK90f80zeSTLUCKo_yCjoVvOBV9edxFElHRjxCTbvUzfZQc9izAy3JHS8GQb_Bg3HIeYjMexPSGu-ma4xm_rkd0bnRaB2CzzzL1-dxY49yOm4Ye_0fQE49JiM66915QcnOGGtxU74kfap_N2FO2amA0XmY_tBx0Xn1lxJPk03RSLIywu3rnzmgXy9QlpYA4upM9MzYL1G7OjbcWfws-UWgy3wH8m-0yoCiJBdCH4MFNBCue7A2qgDgp0xhE4tkZWwHKrph_oigFJE4qZzIDKTdG-B1ft12O09H1CKK6QGPMwaaBk5DcCOzFUDHWiP1buPKu9WLOklrGyWFnYWAj5mYdavZlTGJC2qWXA49rvhkfuw9dEFThggbVcR-tg15s53HmxPK7aNXg8JYuyKdfsKr6QwzSFvcSD3URQ2lK0G15B-GdISXCXonwrKOg7WH2deWZZl4l84-vt-emSEaOeLJ6XVa5uzHUFhp_N_GkZpcCACtlCOtkyg5rQkPozaED9C2gHpBNLSc/4vk/jcH-GOjhRuuFaZR6yKt1Pg/h29/h001.kwWeDcJB2sh4Hi3-pNhaOiQC_c75cBWsTb1oesct2yw</link>
-    <guid isPermaLink="false">2026-11-09:g4555</guid>
-    <description>Why it matters: Google’s new AI controls for schools could shape how education systems balance access to productivity tools with concerns about AI governance and classroom use. Google announced new school-related AI controls, raising the question of whether schools will be able to keep Search while rejecting its AI features.</description>
-    <pubDate>Sun, 08 Nov 2026 19:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>5. A gut-bacteria treatment reduces infections</title>
-    <link>https://ir.serestherapeutics.com/news-releases/news-release-details/seres-therapeutics-announces-publication-ser-155-phase-1b</link>
-    <guid isPermaLink="false">2026-11-09:g5053</guid>
-    <description>Why it matters: A gut-bacteria treatment that sharply reduced infections in high-risk transplant patients shows promising clinical potential, though larger trials are still needed. In a small randomized trial, the cultured gut-bacteria treatment SER-155 reduced bloodstream infections in blood cancer patients receiving stem-cell transplants. Infections affected 10% of treated patients versus 42.9% of those receiving a placebo, but larger trials are needed.</description>
-    <pubDate>Sun, 08 Nov 2026 17:03:00 GMT</pubDate>
-    <category>Superhuman</category>
   </item>
 </channel>
 </rss>
