@@ -1,32 +1,31 @@
 {
   "date": "2026-11-10",
-  "news_count": 112,
+  "news_count": 118,
   "top5": [
     {
       "rank": 1,
       "id": "g5079",
-      "title": "Could Jensen Huang lose his position at Nvidia?",
-      "description": "Jensen Huang has made Nvidia indispensable to the rise of AI. After an affair was revealed and the board of directors launched an investigation, Donald Trump and tech executives are questioning his future at the helm of the company.",
-      "link": "https://l.businessinsider.com/a/zc/21432/566f587228cc498eb3cf216a9e96d467/2d13fefe72e742479be86fea28f3e427",
+      "title": "Jensen Huang reportedly prepared crisis management ahead of personal revelation",
+      "description": "According to Wired, the Nvidia chief reportedly hired a scandal-specialist agency at least a year before acknowledging an affair with a former Megaspeed executive. Nvidia’s board has launched an independent investigation into the company’s possible ties to China.",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "sources": [
+        "Vision IA",
         "Business Insider",
         "Techpresso",
         "Superhuman",
-        "TLDR",
-        "Vision IA",
-        "The Neuron"
+        "TLDR"
       ],
-      "received_at": "2026-11-09T20:29+01:00",
-      "covered_by": 6,
+      "received_at": "2026-11-10T11:05+01:00",
+      "covered_by": 5,
       "favorite": false,
       "followed_topic": null,
-      "why": "A potential leadership crisis at Nvidia could affect the company at the center of the AI infrastructure boom and unsettle markets."
+      "why": "Nvidia’s board investigation into potential China ties and CEO-related governance issues could affect investor confidence, leadership stability, and the geopolitics of the AI-chip market."
     },
     {
       "rank": 2,
-      "id": "g5015",
+      "id": "g4885",
       "title": "OpenAI reportedly raising $11 billion at a $1.25 trillion valuation",
-      "description": "OpenAI has reportedly secured $11 billion in a funding round that could reach $20 billion, valuing the company at $1.25 trillion. The deal, smaller than expected, comes amid increased scrutiny of infrastructure spending and AI profitability.",
+      "description": "OpenAI has reportedly secured $11 billion in a round that could reach $20 billion, valuing the company at $1.25 trillion. The deal, smaller than expected, comes amid increased scrutiny of infrastructure spending and AI profitability.",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "sources": [
         "TLDR IT"
@@ -35,41 +34,40 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s reported $11 billion financing at a $1.25 trillion valuation would reset expectations for AI-company funding, valuation and profitability."
+      "why": "OpenAI’s reported $11 billion financing at a $1.25 trillion valuation signals both the extraordinary capital intensity of frontier AI and growing scrutiny over whether that spending can generate sustainable returns."
     },
     {
       "rank": 3,
-      "id": "g5111",
-      "title": "Google invests $17 billion in a data center campus",
-      "description": "Google announced a $17 billion investment in its first data center in Wyoming, on a campus previously developed by Crusoe. The project will use natural-gas fuel cells, carbon capture and air cooling.",
-      "link": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+      "id": "g5204",
+      "title": "Google adds two specialized chips to its TPU 8 lineup",
+      "description": "The TPU 8tx encrypts sensitive data while it is being processed, while the TPU 8i Max doubles computing power and memory by combining two chips. Google now has nearly 100 external customers for its TPUs.",
+      "link": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
       "sources": [
-        "TLDR IT",
-        "Vision IA"
+        "Vision IA",
+        "Techpresso"
       ],
-      "received_at": "2026-11-09T14:51+01:00",
+      "received_at": "2026-11-10T11:05+01:00",
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s planned $17 billion Wyoming data-center campus underscores the scale of AI infrastructure investment and the growing importance of alternative power and cooling systems."
+      "why": "Google’s new TPU variants strengthen its vertically integrated challenge to Nvidia while expanding secure and higher-capacity AI infrastructure for nearly 100 external customers."
     },
     {
       "rank": 4,
       "id": "g5110",
       "title": "Apple wants to turn Siri into a more autonomous assistant",
-      "description": "Apple is working to make Siri an assistant capable of pursuing goals, deciding on next steps and independently carrying out certain tasks. The change could arrive as early as next year, according to Bloomberg.",
+      "description": "Apple is working to make Siri an assistant capable of pursuing goals, deciding on next steps, and independently carrying out certain tasks. The change could arrive as early as next year, according to Bloomberg.",
       "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
       "sources": [
         "Techpresso",
         "Superhuman",
-        "TLDR",
-        "Vision IA"
+        "TLDR"
       ],
       "received_at": "2026-11-09T18:55+01:00",
-      "covered_by": 4,
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "A more autonomous Siri could materially reshape Apple’s AI strategy and determine whether it can catch up in consumer-facing AI assistants."
+      "why": "Apple’s planned shift toward an autonomous, goal-oriented Siri could reshape the company’s product strategy and intensify competition to make AI assistants operational rather than merely conversational."
     },
     {
       "rank": 5,
@@ -84,12 +82,12 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "UK regulators’ warning that companies remain liable for autonomous agents’ mistakes establishes a key accountability principle for enterprise AI deployment."
+      "why": "Warnings from four UK regulators make clear that companies remain legally responsible for mistakes made by autonomous AI agents, raising the compliance and deployment stakes for enterprise adopters."
     }
   ],
   "period": {
-    "from": "2026-11-09T06:25+01:00",
-    "to": "2026-11-10T06:25+01:00"
+    "from": "2026-11-09T13:25+01:00",
+    "to": "2026-11-10T13:25+01:00"
   },
-  "generated_at": "2026-11-10T06:25+01:00"
+  "generated_at": "2026-11-10T13:25+01:00"
 }
