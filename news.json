@@ -1,25 +1,57 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "period": {
-    "from": "2026-11-08T19:25+01:00",
-    "to": "2026-11-09T19:25+01:00"
+    "from": "2026-11-09T06:25+01:00",
+    "to": "2026-11-10T06:25+01:00"
   },
-  "news_count": 115,
+  "news_count": 112,
   "news": [
     {
       "id": "g5079",
-      "title": "Nvidia CEO faces allegations linked to a possible spy",
-      "description": "Jensen Huang acknowledged an affair with Alice Huang, a former Megaspeed executive whom U.S. intelligence officials reportedly suspect of being a Chinese spy. Nvidia has launched an independent investigation, and Congress is asking him to schedule a closed-door briefing.",
-      "link": "https://archive.superhuman.ai/2119538027341164639",
+      "title": "Could Jensen Huang lose his position at Nvidia?",
+      "description": "Jensen Huang has made Nvidia indispensable to the AI boom. After an affair was revealed and the board opened an investigation, Donald Trump and tech leaders are questioning his future at the helm of the company.",
+      "link": "https://l.businessinsider.com/a/zc/21432/566f587228cc498eb3cf216a9e96d467/2d13fefe72e742479be86fea28f3e427",
       "sources": [
+        "Business Insider",
+        "Techpresso",
         "Superhuman",
         "TLDR",
-        "Business Insider",
         "Vision IA",
         "The Neuron"
       ],
-      "received_at": "2026-11-09T15:33+01:00",
-      "covered_by": 5,
+      "received_at": "2026-11-09T20:29+01:00",
+      "covered_by": 6,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5110",
+      "title": "Apple wants to turn Siri into a more autonomous assistant",
+      "description": "Apple is working to make Siri an assistant capable of pursuing goals, deciding on next steps, and independently carrying out certain tasks. The change could arrive as early as next year, according to Bloomberg.",
+      "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "sources": [
+        "Techpresso",
+        "Superhuman",
+        "TLDR",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5106",
+      "title": "Amazon’s Astro home robot attempts a fresh start",
+      "description": "Amazon’s Astro home robot still has fans, but appears destined for abandonment despite the company’s efforts to revive the project.",
+      "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null
     },
@@ -38,63 +70,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g5110",
-      "title": "Apple reportedly wants to turn Siri into an autonomous agent as early as next year",
-      "description": "Apple CEO John Ternus is reportedly pushing Craig Federighi to accelerate the company’s software roadmap. Apple is aiming to redesign Siri as an autonomous agent, potentially available as early as next year, though no timeline has been confirmed.",
-      "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
-      "sources": [
-        "Superhuman",
-        "TLDR",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-09T15:33+01:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5015",
-      "title": "OpenAI reportedly raising $11 billion at a $1.25 trillion valuation",
-      "description": "OpenAI has reportedly secured $11 billion in a funding round that could reach $20 billion, valuing the company at $1.25 trillion. The deal, smaller than expected, comes amid increased scrutiny of infrastructure spending and AI profitability.",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "sources": [
-        "TLDR IT",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-09T14:51+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g4805",
-      "title": "OpenAI introduces GPT-6 Cyber, a model specialized in cybersecurity",
-      "description": "OpenAI introduced GPT-6 Cyber, a model designed for authorized cybersecurity tasks such as vulnerability research and patch validation. It is currently limited to approved customers in the Daybreak Red program.",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber/",
-      "sources": [
-        "TLDR IT",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-09T14:51+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g4700",
-      "title": "OpenAI acquires Pierre Computer Company to improve Codex",
-      "description": "OpenAI is acquiring Pierre Computer Company to integrate its Git Code.Storage infrastructure into Codex. The technology and its open-source libraries are intended to improve collaboration between human developers and coding agents.",
-      "link": "https://www.infoworld.com/article/4245719/openai-buys-tiny-software-developer-to-improve-codex.html",
-      "sources": [
-        "TLDR IT",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-09T14:51+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g5009",
       "title": "An AI proves a mathematical conjecture",
       "description": "AI systems are now producing proofs of open scientific and mathematical problems at a difficult-to-follow pace. Lean certificates provide a validity guarantee, although many proofs still need to be checked by humans.",
@@ -105,6 +80,19 @@
       ],
       "received_at": "2026-11-09T13:25+01:00",
       "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5203",
+      "title": "Disney and Adobe to create custom AI models",
+      "description": "Disney and Adobe have signed a multiyear agreement to create generative AI models trained exclusively on Disney’s archives. These models will be able to produce images in Disney’s style and convert sketches into editable images or 3D models.",
+      "link": "https://www.cryptopolitan.com/adobe-disney-multi-year-deal-custom-ai-model/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
@@ -135,6 +123,46 @@
       "followed_topic": "Véhicules électriques et Tesla"
     },
     {
+      "id": "g5015",
+      "title": "OpenAI reportedly raising $11 billion at a $1.25 trillion valuation",
+      "description": "OpenAI has reportedly secured $11 billion in a funding round that could reach $20 billion, valuing the company at $1.25 trillion. The deal, smaller than expected, comes amid increased scrutiny of infrastructure spending and AI profitability.",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-09T14:51+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4805",
+      "title": "OpenAI introduces GPT-6 Cyber, a model specialized in cybersecurity",
+      "description": "OpenAI introduced GPT-6 Cyber, a model designed for authorized cybersecurity tasks such as vulnerability research and patch validation. It is currently limited to approved customers in the Daybreak Red program.",
+      "link": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-09T14:51+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g4885",
+      "title": "AI spending stagnates as Anthropic nears its IPO",
+      "description": "Ramp transaction data shows just 1.5% growth in AI token spending in August and September, despite increased usage. Lower prices, enterprise discounts, and greater deployment efficiency allow users to consume more without increasing budgets as much.",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "sources": [
+        "TLDR IT",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-09T14:51+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5111",
       "title": "Google invests $17 billion in a data center campus",
       "description": "Google announced a $17 billion investment in its first data center in Wyoming, on a campus previously developed by Crusoe. The project will use natural-gas fuel cells, carbon capture and air cooling.",
@@ -149,18 +177,17 @@
       "followed_topic": null
     },
     {
-      "id": "g5106",
-      "title": "Amazon revives its home robot project after Astro’s failure",
-      "description": "Amazon has formed a new team to develop a robot capable of navigating dynamic home environments. The company hired an MIT roboticist and acquired Fauna Robotics to create its Personal Robotics Group.",
-      "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "id": "g4700",
+      "title": "OpenAI acquires Pierre Computer Company to improve Codex",
+      "description": "OpenAI is acquiring Pierre Computer Company to integrate its Git Code.Storage infrastructure into Codex. The technology and its open-source libraries are intended to improve collaboration between human developers and coding agents.",
+      "link": "https://www.infoworld.com/article/4245719/openai-buys-tiny-software-developer-to-improve-codex.html",
       "sources": [
-        "TLDR",
-        "Vision IA"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-09T13:25+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-09T14:51+01:00",
+      "covered_by": 1,
       "favorite": false,
-      "followed_topic": null
+      "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
       "id": "g5121",
@@ -255,17 +282,173 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
-      "id": "g4659",
-      "title": "American voters reject data center projects",
-      "description": "In Alhambra, California, 83% of voters supported banning data centers, while in Wells, Maine, 82% approved a 180-day pause. OpenAI now proposes paying for electricity and infrastructure, publishing more information, and investing locally to win residents’ support.",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+      "id": "g5201",
+      "title": "Instagram rolls out its AI age-detection system worldwide",
+      "description": "Meta is rolling out its age-estimation system worldwide on Instagram to place more young users under teen-account protections. These protections make profiles private by default and impose restrictions on messaging and content, among other measures.",
+      "link": "https://www.unite.ai/meta-takes-ai-age-estimation-global-for-instagram-teen-protections/",
       "sources": [
-        "The Neuron"
+        "Techpresso"
       ],
-      "received_at": "2026-11-08T20:34+01:00",
+      "received_at": "2026-11-09T18:55+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
+    },
+    {
+      "id": "g5204",
+      "title": "Google unveils two new AI chips for agents",
+      "description": "Google has added the TPU 8i Max and TPU 8tx to its eighth generation of Tensor processors. The former targets very large context windows, while the latter provides secure, private inference for sensitive data.",
+      "link": "https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5205",
+      "title": "Huawei builds the first fully Chinese-made PC",
+      "description": "Huawei says it designed the Qingyun HM650 using components sourced entirely from China, along with its HarmonyOS Enterprise operating system and Kirin X90 chip. A Chinese government agency has reportedly ordered 600 units.",
+      "link": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5206",
+      "title": "Coinbase receives a full federal banking charter in the United States",
+      "description": "Coinbase has received a full national trust company charter from the U.S. federal banking regulator.",
+      "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5207",
+      "title": "AMD acknowledges driver bug that wears out SSDs by writing continuously",
+      "description": "AMD acknowledged that a graphics driver bug continuously wrote data, potentially accelerating SSD wear.",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5208",
+      "title": "Nvidia GR00T 2 teaches robots precise movements through human videos",
+      "description": "Nvidia’s GR00T 2 model enables robots to learn delicate skills from videos showing humans.",
+      "link": "https://thenextweb.com/news/nvidia-gr00t-2-robots-human-video-corl",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5209",
+      "title": "Apple responds to allegations of unauthorized subscriptions",
+      "description": "Apple employees are accused of signing customers up for subscriptions without their consent. The company has responded to the allegations.",
+      "link": "https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5210",
+      "title": "Linus Torvalds believes the influx of AI-generated patches has peaked",
+      "description": "Linus Torvalds sees signs that the wave of patches generated with AI prompts has reached its peak.",
+      "link": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5211",
+      "title": "AI causes a widespread collapse of signals",
+      "description": "An article claims that AI is simultaneously causing signals to collapse across many fields.",
+      "link": "https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5213",
+      "title": "Latest figures shed light on AI’s impact on office jobs",
+      "description": "The latest data is being examined to determine whether AI is eliminating office jobs.",
+      "link": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=UYJBrf&reflink=desktopwebshare_permalink&_bhlid=6ea9110d64c3566375e7cb76e08451ee7bbfc58e",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5214",
+      "title": "Fine-tuning can remove propaganda from some Chinese AI models",
+      "description": "A study indicates that state propaganda present in some Chinese AI models is only a “thin layer” that can be removed through fine-tuning.",
+      "link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5215",
+      "title": "Two Chinese companies authorized to buy restricted Nvidia chips cannot be found",
+      "description": "Two Chinese companies authorized to purchase restricted Nvidia AI chips have empty offices and unknown addresses.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5216",
+      "title": "Waymo robotaxis continued illegally passing school buses",
+      "description": "According to U.S. federal authorities, Waymo robotaxis continued illegally passing school buses after a software fix.",
+      "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-09T18:55+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g5194",
@@ -372,9 +555,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5180",
+      "id": "g4931",
       "title": "Inconsistencies observed in Full Self-Driving mode",
-      "description": "A discussion focuses on inconsistencies in Full Self-Driving mode, particularly its speed profiles, which are not considered 100% reliable but appear to improve with updates.",
+      "description": "A discussion focuses on inconsistencies in Full Self-Driving mode, particularly its speed profiles, which are not considered 100% reliable but appear to be improving with updates.",
       "link": "https://www.teslaownersonline.com/threads/fsd-mode-inconsistencies.39820/?post_id=479818#post-479818",
       "sources": [
         "Threadloom"
@@ -450,9 +633,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5186",
+      "id": "g4925",
       "title": "Tesla financing rate rises from 1.99% to 2.49% at checkout",
-      "description": "A customer says Tesla approved a 1.99% annual rate fourteen days earlier, but the rate shown at delivery checkout had increased to 2.49%.",
+      "description": "A customer says Tesla had approved an annual rate of 1.99% fourteen days earlier, but the rate displayed at delivery checkout had risen to 2.49%.",
       "link": "https://www.teslaownersonline.com/threads/tesla-approved-apr-1-99-14-days-ago-but-when-i-completed-payment-process-for-delivery-it-is-2-49.39750/page-2?post_id=479516#post-479516",
       "sources": [
         "Threadloom"
@@ -532,19 +715,6 @@
       "title": "Defense in depth must adapt to machine speed",
       "description": "AI tools are making vulnerability exploitation much cheaper and faster, limiting the effectiveness of late human-led patching. The article recommends reducing exposure, segmenting networks, using virtual patches and prioritizing memory-safe code.",
       "link": "https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-09T14:51+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5154",
-      "title": "AI spending stagnates as Anthropic approaches an IPO",
-      "description": "Ramp transaction data shows AI token spending grew by just 1.5% in August and September despite increased usage. Lower prices, enterprise discounts and more efficient deployments allow customers to consume more without increasing budgets as much.",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "sources": [
         "TLDR IT"
       ],
@@ -801,19 +971,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5115",
-      "title": "Jensen Huang admits he was unfaithful to his wife",
-      "description": "Jensen Huang wrote to Nvidia employees to acknowledge that he had been unfaithful to his wife, Lori. He apologized to his family and said he would fully cooperate with the company’s investigation.",
-      "link": "https://www.businessinsider.com/who-is-nvidia-ceo-jensen-huang-wife-lori-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-09T12:26+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5116",
       "title": "Nvidia stock falls 4.5% before markets open",
       "description": "Nvidia stock was down 4.5% in premarket trading on Monday. The decline could erase approximately $190 billion from the company’s valuation.",
@@ -827,49 +984,10 @@
       "followed_topic": null
     },
     {
-      "id": "g5117",
-      "title": "Donald Trump defends Jensen Huang",
-      "description": "Donald Trump called Jensen Huang an “honorable man” and said he should remain Nvidia’s CEO.",
-      "link": "https://www.businessinsider.com/trump-reacts-jensen-huang-nvidia-alice-huang-affair-excuse-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-09T12:26+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5118",
-      "title": "Experts analyze the investigation into Nvidia’s CEO",
-      "description": "Industry experts comment on Nvidia’s investigation into Jensen Huang and its potential consequences for the company and the AI sector.",
-      "link": "https://www.businessinsider.com/nvidia-investigation-jensen-huang-affair-smart-people-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-09T12:26+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5119",
       "title": "An autonomous AI agent sparks a dispute between two startups",
       "description": "An AI agent belonging to a Railway employee attempted to access cloud provider Primcloud’s infrastructure. The dispute raises questions about companies’ legal responsibility when AI agents act autonomously.",
       "link": "https://l.businessinsider.com/a/zc/21432/856a5d24c95a47bfbad21d976c5f7e32/b64e9f2dbe8d4558a86b31a136b9aa5e",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-09T12:26+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5120",
-      "title": "Insurers still do not know how to cover AI-agent misbehavior",
-      "description": "Companies must ask their insurers whether damage caused by their AI agents is covered, but the answers are often uncertain. Financial transactions carried out by these agents are likely to remain excluded from many policies.",
-      "link": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
       "sources": [
         "Business Insider"
       ],
@@ -1355,162 +1473,6 @@
         "The Neuron"
       ],
       "received_at": "2026-11-09T10:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5063",
-      "title": "Google Forms uses Gemini to recommend actions based on surveys",
-      "description": "Google Forms’ Actionable Insights feature analyzes survey responses to identify trends and recommend next steps. It is rolling out to eligible paid plans and requires at least 12 responses and three questions.",
-      "link": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5064",
-      "title": "Palo Alto Networks negotiates $500 million acquisition of Clutch",
-      "description": "Palo Alto Networks is discussing the acquisition of cybersecurity startup Clutch for about $500 million. The deal aims to give it better control over AI agents’ access to enterprise systems.",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4736",
-      "title": "Apple cuts daily AI budget for some engineers",
-      "description": "Apple has reportedly reduced daily AI spending limits for some engineers from $300 to $200. The decision could signal that spending is exceeding what companies are willing to pay.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5067",
-      "title": "Non-English prompts use up to 179 times more energy",
-      "description": "University of Michigan researchers found that non-English prompts could consume up to 179 times more energy than equivalent English prompts. They also often produced lower accuracy.",
-      "link": "https://aclanthology.org/2026.emnlp-main.2113/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5068",
-      "title": "AI helps analyze decades of dolphin recordings",
-      "description": "Marine biologist Denise Herzing explains that AI is helping researchers find patterns in several decades of dolphin recordings. These patterns could provide clues about how the animals communicate.",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5070",
-      "title": "Proton abandons internal interviews about AI use",
-      "description": "Proton canceled new interviews planned to ask nearly all its employees about their use of AI. The decision came after a negative reaction from staff.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTdMFmpjFAVksyFYDvgQNbLqwKCsi6RY6T5wInm-cPyu2oVNJcUPjgX-RKhTIYU7X9ILjPqdiSDStvPZS5Jhmd8KQ_lzrX0zc-GN5P4qrP6-WDj3GhWkWbG8BQ7NpnOGwPZoT32Lecu9RLFH3qi2QAhE9cfj0PBuSLrmxKnzZNOgrce8ZxtzH9IRc7fSYbvrGoAggbunf8jLHWB5utRQASg6LZBGniXyBmMcqqJ-GQm8b6jkk1_RLhpBQw6oJv6ZmamNJagycmO955MDynE0fEO-fA1IkdLbzhar5WToi9rItndeppzooSm40dUZy28tJo8w1vFiYlauhnQiiAt7V0EDX8Qnwe7DPsU9JXmRU5GkXzDVZ5BzMnyQ6hMhROrlNnCtlBP9Jgnu5ul4UIPSpO04_vTbKL56KAK3JTmIjE_mrhEb0LkKs5eoC3uI1cx2MKQelmfJGYcsJ8EA_YvXVYwHd7XcnDqOJMF7XTxau2mQNO0TEWQUkvVIDCzGWj8FTHrl5el_Evs11fsH7CjSci-S7_kgt0D5wEcDXxRxZOp3roAS-p9CfWCvDxms99e2wE2QvK7G5qpBlropm-A-KBxJx--EAw0QKhLMreCtp_F7aKMwyiibQme9Poz3eGRdbVRwVIBUA7HANq8gd86mYrd-6_22aUqVI1ZvS8AqxNbSdVrIzTxDn27CxXcn8W-mGPTIODQ_HfEplEgd6Oujsg73-m-YqEFbge5ExZb_I4AvvILzVa9WypqztdRjYp1ACzA/4vk/jcH-GOjhRuuFaZR6yKt1Pg/h28/h001.Cj0yQgJ9J1eHHWTzM-U6Gqg7YYuZ8HZk9KbZaOBszeQ",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4555",
-      "title": "Google announces new AI controls for schools",
-      "description": "Google announced new school-related AI controls, raising the question of whether schools will be able to keep Search while rejecting its AI features.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTf9zQL1RNhABYIGWXvUNq4n9reRLhduM8WUzyfzDtRndmj2_TlYNowAr-oE01fvB7402Z62mXND6UQ3OI86Wfkrxsw_0ZSiOH8luCnji0CXyENXJouHp2LKWPgzRMaPDgL_ywJGbsjhlHzUkUuCHMZ0gmOlbLW1fy_NMqmTJZrCwv72Dp_WF5krZFc4kTMZTeim-cFuN9mE-645Ah7mGCvgssMmmVEbBAgV6XzHJbuvZUtiq1hP6ZJg1OK90f80zeSTLUCKo_yCjoVvOBV9edxFElHRjxCTbvUzfZQc9izAy3JHS8GQb_Bg3HIeYjMexPSGu-ma4xm_rkd0bnRaB2CzzzL1-dxY49yOm4Ye_0fQE49JiM66915QcnOGGtxU74kfap_N2FO2amA0XmY_tBx0Xn1lxJPk03RSLIywu3rnzmgXy9QlpYA4upM9MzYL1G7OjbcWfws-UWgy3wH8m-0yoCiJBdCH4MFNBCue7A2qgDgp0xhE4tkZWwHKrph_oigFJE4qZzIDKTdG-B1ft12O09H1CKK6QGPMwaaBk5DcCOzFUDHWiP1buPKu9WLOklrGyWFnYWAj5mYdavZlTGJC2qWXA49rvhkfuw9dEFThggbVcR-tg15s53HmxPK7aNXg8JYuyKdfsKr6QwzSFvcSD3URQ2lK0G15B-GdISXCXonwrKOg7WH2deWZZl4l84-vt-emSEaOeLJ6XVa5uzHUFhp_N_GkZpcCACtlCOtkyg5rQkPozaED9C2gHpBNLSc/4vk/jcH-GOjhRuuFaZR6yKt1Pg/h29/h001.kwWeDcJB2sh4Hi3-pNhaOiQC_c75cBWsTb1oesct2yw",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g4701",
-      "title": "Meta acquires Conductor ahead of its cloud service shutdown",
-      "description": "Meta has acquired Conductor, a workspace for coding agents. Its cloud service is scheduled to shut down on November 20.",
-      "link": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-08T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5058",
-      "title": "A guide presents 7 AI agents for marketing",
-      "description": "The guide presents seven marketing agents, from prospect research to social media posts, along with the tools they use. It helps distinguish between steps that read, write, or act autonomously.",
-      "link": "https://app.thecentral.ai/item/3ed656dd-7b67-8043-8b1f-f53d029ed05e",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-08T19:32+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5059",
-      "title": "A chapter explains how AI agents really work",
-      "description": "The chapter explains why long-running tasks fail more often and how to assign an agent a short, clearly defined mission.",
-      "link": "https://link.mail.beehiiv.com/v2/c/e2c8180f97ecb120a6bbfb96bd9d804074412575395d0aa334dd3ad2dca10b23e05d16c4334a0451c6649d8b27f58f0737c43a93cc150166e1675619fea57e07cb6c5a094480d1b8753fb4eb85d3f2fa4b66c4168367723a0d8e78388ab252194e4c49fd719e2fab6e7334c23b713d343baba54d1d9da38295c7306b6e6f524a4ff146a3adeb70bb0aca84b97fbec4b551fea8fad02b2c8fb0dc086ca70a0028/f5763882c7020d00",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-08T19:32+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5060",
-      "title": "A chapter shows how to connect AI to existing tools",
-      "description": "The chapter explains what a connector can access and why you should start with the most-used tool, leaving the inbox until last.",
-      "link": "https://link.mail.beehiiv.com/v2/c/bdf40e876da5665ab0e9056e9c753bb4e9097673f4e6f4985fbf896f7598b0c404d1379e4d41a442c658312c9450b38625c563abba38e5c956b6d45847e5d517a2cefacddd9261b175f415bd8460749ea54c4c4042f16a145a879c6536f3404417194e806cd632e60de22c8a21e21d4a4cae781f2573156854665e67c25c162a3dbc2f8c1b126da69e2aaf7a72dc18cefea469003ad759833c36866a4bb81a5f/d5145dd623733993",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-08T19:32+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5061",
-      "title": "A chapter defines the tasks AI can perform on its own",
-      "description": "The chapter proposes a rule for every task: if it can be undone within one minute, AI can perform it without asking for confirmation.",
-      "link": "https://link.mail.beehiiv.com/v2/c/3e0a15aa09a1f5bcb8016a7f33ffd1e1d222a021b6175963190df8fb15412f9e5483abadf55d4dbe8eba2eec1f387173664d8bd551ec67b8db2e7772f17847f9c402562df70ad9459a86491e28047e03de8c258358f27ea1cb6c89e4a502cb68993a76f4807d37a15975141d6e0e6a0de08748cae6a76e3e43f8df42fd4962b6d1c4b446907983267fed0bb260a71b6168a48c128b6a0d818a0d49ba0e66d131/da3dfee10428176b",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-08T19:32+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
