@@ -1,93 +1,94 @@
 {
   "date": "2026-11-10",
-  "news_count": 118,
+  "news_count": 107,
   "top5": [
     {
       "rank": 1,
-      "id": "g5079",
-      "title": "Jensen Huang reportedly prepared crisis management ahead of personal revelation",
-      "description": "According to Wired, the Nvidia chief reportedly hired a scandal-specialist agency at least a year before acknowledging an affair with a former Megaspeed executive. Nvidia’s board has launched an independent investigation into the company’s possible ties to China.",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "id": "g5204",
+      "title": "Google unveils two new TPU chips and increases pressure on Nvidia",
+      "description": "Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.",
+      "link": "https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111",
       "sources": [
-        "Vision IA",
-        "Business Insider",
-        "Techpresso",
         "Superhuman",
-        "TLDR"
+        "TLDR IT",
+        "TLDR",
+        "Vision IA"
       ],
-      "received_at": "2026-11-10T11:05+01:00",
-      "covered_by": 5,
+      "received_at": "2026-11-10T15:10+01:00",
+      "covered_by": 4,
       "favorite": false,
       "followed_topic": null,
-      "why": "Nvidia’s board investigation into potential China ties and CEO-related governance issues could affect investor confidence, leadership stability, and the geopolitics of the AI-chip market."
+      "why": "Google’s new TPUs could materially intensify competition with Nvidia and reshape the economics and supply chain of AI infrastructure when they ship."
     },
     {
       "rank": 2,
-      "id": "g4885",
-      "title": "OpenAI reportedly raising $11 billion at a $1.25 trillion valuation",
-      "description": "OpenAI has reportedly secured $11 billion in a round that could reach $20 billion, valuing the company at $1.25 trillion. The deal, smaller than expected, comes amid increased scrutiny of infrastructure spending and AI profitability.",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-09T14:51+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s reported $11 billion financing at a $1.25 trillion valuation signals both the extraordinary capital intensity of frontier AI and growing scrutiny over whether that spending can generate sustainable returns."
-    },
-    {
-      "rank": 3,
-      "id": "g5204",
-      "title": "Google adds two specialized chips to its TPU 8 lineup",
-      "description": "The TPU 8tx encrypts sensitive data while it is being processed, while the TPU 8i Max doubles computing power and memory by combining two chips. Google now has nearly 100 external customers for its TPUs.",
-      "link": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
-      "sources": [
-        "Vision IA",
-        "Techpresso"
-      ],
-      "received_at": "2026-11-10T11:05+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Google’s new TPU variants strengthen its vertically integrated challenge to Nvidia while expanding secure and higher-capacity AI infrastructure for nearly 100 external customers."
-    },
-    {
-      "rank": 4,
-      "id": "g5110",
-      "title": "Apple wants to turn Siri into a more autonomous assistant",
-      "description": "Apple is working to make Siri an assistant capable of pursuing goals, deciding on next steps, and independently carrying out certain tasks. The change could arrive as early as next year, according to Bloomberg.",
-      "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "id": "g5224",
+      "title": "Anthropic unveils its Claude Fable 5.2 and Mythos 5.2 models",
+      "description": "Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.",
+      "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
       "sources": [
         "Techpresso",
         "Superhuman",
-        "TLDR"
+        "TLDR",
+        "Vision IA",
+        "The Neuron"
       ],
-      "received_at": "2026-11-09T18:55+01:00",
-      "covered_by": 3,
+      "received_at": "2026-11-10T18:13+01:00",
+      "covered_by": 5,
       "favorite": false,
       "followed_topic": null,
-      "why": "Apple’s planned shift toward an autonomous, goal-oriented Siri could reshape the company’s product strategy and intensify competition to make AI assistants operational rather than merely conversational."
+      "why": "Anthropic’s faster, cheaper Claude models could accelerate enterprise AI adoption while increasing competitive and pricing pressure across the frontier-model market."
     },
     {
-      "rank": 5,
-      "id": "g5165",
-      "title": "Companies remain responsible for their AI agents’ mistakes",
-      "description": "Four UK regulators have warned that organizations remain responsible for the autonomous AI agents they deploy.",
-      "link": "https://www.infoworld.com/article/4245776/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-3.html",
+      "rank": 3,
+      "id": "g5242",
+      "title": "AI data center boom prompts political backlash in the United States",
+      "description": "Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.",
+      "link": "https://technologyadvice.com",
       "sources": [
-        "TLDR IT"
+        "TechnologyAdvice"
       ],
-      "received_at": "2026-11-09T14:51+01:00",
+      "received_at": "2026-11-10T10:33+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Warnings from four UK regulators make clear that companies remain legally responsible for mistakes made by autonomous AI agents, raising the compliance and deployment stakes for enterprise adopters."
+      "why": "Political opposition to AI data centers threatens to slow capacity expansion, raise infrastructure costs and change where future computing power is built."
+    },
+    {
+      "rank": 4,
+      "id": "g5227",
+      "title": "OpenAI creates a kill switch for its research models",
+      "description": "OpenAI developed Control Room, a system capable of cutting off a research AI model’s access to its outputs. It tracks training, evaluations and data processing, but a cached authorization can delay shutdown by 35 seconds.",
+      "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents",
+      "sources": [
+        "Techpresso",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-10T18:13+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI’s Control Room represents a significant step toward operational governance of powerful research models, although its 35-second shutdown delay exposes residual safety risk."
+    },
+    {
+      "rank": 5,
+      "id": "g5259",
+      "title": "Claude reveals more than 100 vulnerabilities in UK government projects",
+      "description": "Using Claude Opus and Sonnet, a researcher found vulnerabilities in roughly two-thirds of 349 public projects belonging to 33 UK organizations. One vulnerability provided read and write access to SharePoint and OneDrive spaces containing HR files.",
+      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-10T11:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Claude’s discovery of vulnerabilities across roughly two-thirds of tested UK public-sector projects highlights the urgent cyber risk created by AI-assisted vulnerability research."
     }
   ],
   "period": {
-    "from": "2026-11-09T13:25+01:00",
-    "to": "2026-11-10T13:25+01:00"
+    "from": "2026-11-09T19:25+01:00",
+    "to": "2026-11-10T19:25+01:00"
   },
-  "generated_at": "2026-11-10T13:25+01:00"
+  "generated_at": "2026-11-10T19:25+01:00"
 }
