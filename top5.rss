@@ -3,55 +3,53 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-10</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 112 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 118 news received.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 10 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. Could Jensen Huang lose his position at Nvidia?</title>
-    <link>https://l.businessinsider.com/a/zc/21432/566f587228cc498eb3cf216a9e96d467/2d13fefe72e742479be86fea28f3e427</link>
+    <title>1. Jensen Huang reportedly prepared crisis management ahead of personal revelation</title>
+    <link>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</link>
     <guid isPermaLink="false">2026-11-10:g5079</guid>
-    <description>Why it matters: A potential leadership crisis at Nvidia could affect the company at the center of the AI infrastructure boom and unsettle markets. Jensen Huang has made Nvidia indispensable to the rise of AI. After an affair was revealed and the board of directors launched an investigation, Donald Trump and tech executives are questioning his future at the helm of the company.</description>
-    <pubDate>Mon, 09 Nov 2026 19:29:00 GMT</pubDate>
+    <description>Why it matters: Nvidia’s board investigation into potential China ties and CEO-related governance issues could affect investor confidence, leadership stability, and the geopolitics of the AI-chip market. According to Wired, the Nvidia chief reportedly hired a scandal-specialist agency at least a year before acknowledging an affair with a former Megaspeed executive. Nvidia’s board has launched an independent investigation into the company’s possible ties to China.</description>
+    <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
+    <category>Vision IA</category>
     <category>Business Insider</category>
     <category>Techpresso</category>
     <category>Superhuman</category>
     <category>TLDR</category>
-    <category>Vision IA</category>
-    <category>The Neuron</category>
   </item>
   <item>
     <title>2. OpenAI reportedly raising $11 billion at a $1.25 trillion valuation</title>
     <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
-    <guid isPermaLink="false">2026-11-10:g5015</guid>
-    <description>Why it matters: OpenAI’s reported $11 billion financing at a $1.25 trillion valuation would reset expectations for AI-company funding, valuation and profitability. OpenAI has reportedly secured $11 billion in a funding round that could reach $20 billion, valuing the company at $1.25 trillion. The deal, smaller than expected, comes amid increased scrutiny of infrastructure spending and AI profitability.</description>
+    <guid isPermaLink="false">2026-11-10:g4885</guid>
+    <description>Why it matters: OpenAI’s reported $11 billion financing at a $1.25 trillion valuation signals both the extraordinary capital intensity of frontier AI and growing scrutiny over whether that spending can generate sustainable returns. OpenAI has reportedly secured $11 billion in a round that could reach $20 billion, valuing the company at $1.25 trillion. The deal, smaller than expected, comes amid increased scrutiny of infrastructure spending and AI profitability.</description>
     <pubDate>Mon, 09 Nov 2026 13:51:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>3. Google invests $17 billion in a data center campus</title>
-    <link>https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/</link>
-    <guid isPermaLink="false">2026-11-10:g5111</guid>
-    <description>Why it matters: Google’s planned $17 billion Wyoming data-center campus underscores the scale of AI infrastructure investment and the growing importance of alternative power and cooling systems. Google announced a $17 billion investment in its first data center in Wyoming, on a campus previously developed by Crusoe. The project will use natural-gas fuel cells, carbon capture and air cooling.</description>
-    <pubDate>Mon, 09 Nov 2026 13:51:00 GMT</pubDate>
-    <category>TLDR IT</category>
+    <title>3. Google adds two specialized chips to its TPU 8 lineup</title>
+    <link>https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/</link>
+    <guid isPermaLink="false">2026-11-10:g5204</guid>
+    <description>Why it matters: Google’s new TPU variants strengthen its vertically integrated challenge to Nvidia while expanding secure and higher-capacity AI infrastructure for nearly 100 external customers. The TPU 8tx encrypts sensitive data while it is being processed, while the TPU 8i Max doubles computing power and memory by combining two chips. Google now has nearly 100 external customers for its TPUs.</description>
+    <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
+    <category>Techpresso</category>
   </item>
   <item>
     <title>4. Apple wants to turn Siri into a more autonomous assistant</title>
     <link>https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/</link>
     <guid isPermaLink="false">2026-11-10:g5110</guid>
-    <description>Why it matters: A more autonomous Siri could materially reshape Apple’s AI strategy and determine whether it can catch up in consumer-facing AI assistants. Apple is working to make Siri an assistant capable of pursuing goals, deciding on next steps and independently carrying out certain tasks. The change could arrive as early as next year, according to Bloomberg.</description>
+    <description>Why it matters: Apple’s planned shift toward an autonomous, goal-oriented Siri could reshape the company’s product strategy and intensify competition to make AI assistants operational rather than merely conversational. Apple is working to make Siri an assistant capable of pursuing goals, deciding on next steps, and independently carrying out certain tasks. The change could arrive as early as next year, according to Bloomberg.</description>
     <pubDate>Mon, 09 Nov 2026 17:55:00 GMT</pubDate>
     <category>Techpresso</category>
     <category>Superhuman</category>
     <category>TLDR</category>
-    <category>Vision IA</category>
   </item>
   <item>
     <title>5. Companies remain responsible for their AI agents’ mistakes</title>
     <link>https://www.infoworld.com/article/4245776/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-3.html</link>
     <guid isPermaLink="false">2026-11-10:g5165</guid>
-    <description>Why it matters: UK regulators’ warning that companies remain liable for autonomous agents’ mistakes establishes a key accountability principle for enterprise AI deployment. Four UK regulators have warned that organizations remain responsible for the autonomous AI agents they deploy.</description>
+    <description>Why it matters: Warnings from four UK regulators make clear that companies remain legally responsible for mistakes made by autonomous AI agents, raising the compliance and deployment stakes for enterprise adopters. Four UK regulators have warned that organizations remain responsible for the autonomous AI agents they deploy.</description>
     <pubDate>Mon, 09 Nov 2026 13:51:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
