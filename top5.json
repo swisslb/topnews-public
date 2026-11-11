@@ -1,9 +1,27 @@
 {
   "date": "2026-11-11",
-  "news_count": 91,
+  "news_count": 111,
   "top5": [
     {
       "rank": 1,
+      "id": "g5347",
+      "title": "Google makes Gemini 4 Carbon available to the general public",
+      "description": "After two weeks of limited availability to cybersecurity defenders, Gemini 4 Carbon is now accessible through Gemini, Search’s AI mode, Antigravity, or the API reserved for AI Ultra subscribers. Google says the model is particularly capable at complex, long-running tasks, precision knowledge, and data analysis.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "sources": [
+        "Superhuman",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-11T15:10+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Google’s release of Gemini 4 Carbon to the public expands access to a model built for complex, long-running tasks and could intensify competition across the AI market."
+    },
+    {
+      "rank": 2,
       "id": "g4885",
       "title": "Anthropic targets a $1.4 trillion valuation for its IPO",
       "description": "According to a regulatory filing, Anthropic could raise $90 billion and reach a $1.4 trillion valuation in its IPO. The company plans to offer its shares at between $70 and $78 and has already secured purchase commitments worth $26 billion.",
@@ -16,38 +34,22 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": "Fusions-acquisitions et marchés financiers",
-      "why": "Anthropic’s planned IPO could raise $90 billion at a valuation of up to $1.4 trillion, making it a defining test of investor appetite for frontier-AI companies and their enormous capital needs."
-    },
-    {
-      "rank": 2,
-      "id": "g5204",
-      "title": "Google unveils two new TPU chips and increases pressure on Nvidia",
-      "description": "Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.",
-      "link": "https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111",
-      "sources": [
-        "Superhuman",
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-10T15:10+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Google’s next-generation TPUs and projected $135 billion in 2028 sales signal a serious alternative to Nvidia and could reshape the AI-chip supply chain and competitive economics."
+      "why": "Anthropic’s planned IPO, potentially valuing the company at $1.4 trillion and raising up to $90 billion, would be a landmark test of investor appetite for AI companies."
     },
     {
       "rank": 3,
-      "id": "g5349",
-      "title": "The U.S. and China create an alert channel for superintelligence",
-      "description": "Washington and Beijing will share their methods for testing models and alert each other in the event of a serious incident. Neither country is committing to slow AI development, however.",
-      "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "id": "g5204",
+      "title": "Google unveils two new eighth-generation TPU chips",
+      "description": "Google presented two new eighth-generation TPU chips, increasing pressure on Nvidia as competition for dedicated AI hardware intensifies.",
+      "link": "https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111",
       "sources": [
-        "Vision IA"
+        "AI Gen Art"
       ],
-      "received_at": "2026-11-11T11:03+01:00",
+      "received_at": "2026-11-11T17:03+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The U.S. and China will establish an alert channel for serious superintelligence incidents, an important first step toward managing geopolitical AI risks despite lacking binding limits."
+      "why": "Google’s eighth-generation TPU launches increase pressure on Nvidia and reinforce the strategic importance of vertically integrated AI compute."
     },
     {
       "rank": 4,
@@ -62,27 +64,27 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Microsoft Research’s finding that fewer than ten dormant neurons can hide a backdoor capable of triggering malicious code exposes a fundamental security risk for deployed AI agents."
+      "why": "Microsoft Research’s Lazarus finding shows that AI agents can be compromised through a backdoor hidden in fewer than ten dormant neurons, creating a serious security risk for enterprise deployments."
     },
     {
       "rank": 5,
-      "id": "g5302",
-      "title": "Companies prepare for the mass arrival of personal AI agents",
-      "description": "Companies are preparing for increased traffic generated by personal AI agents such as Meta’s Muse and Instinct, viewed both as commercial channels and governance challenges. Shopify, Hilton and Rocket are among those adapting their platforms and APIs.",
-      "link": "https://www.constellationr.com/insights/news/enterprises-prep-influx-personal-ai-agents",
+      "id": "g5226",
+      "title": "ChatGPT Enterprise arrives on AWS Marketplace",
+      "description": "OpenAI now offers ChatGPT Enterprise through AWS Marketplace, with purchasing, management, and billing handled through existing AWS accounts. Customers can use their AWS commitments and access specialized offerings for healthcare and finance.",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/",
       "sources": [
         "TLDR IT"
       ],
-      "received_at": "2026-11-10T14:50+01:00",
+      "received_at": "2026-11-11T14:51+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": null,
-      "why": "Companies including Shopify and Hilton are redesigning platforms for traffic from personal AI agents, marking the beginning of a potentially major shift in digital commerce and API governance."
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "Offering ChatGPT Enterprise through AWS Marketplace lowers procurement friction, lets customers use existing cloud commitments, and strengthens OpenAI’s enterprise distribution."
     }
   ],
   "period": {
-    "from": "2026-11-10T13:25+01:00",
-    "to": "2026-11-11T13:25+01:00"
+    "from": "2026-11-10T19:25+01:00",
+    "to": "2026-11-11T19:25+01:00"
   },
-  "generated_at": "2026-11-11T13:25+01:00"
+  "generated_at": "2026-11-11T19:25+01:00"
 }
