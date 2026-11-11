@@ -1,10 +1,20 @@
 # Top 5 news of the day — 2026-11-11
 
-Period: 2026-11-10T13:25+01:00 → 2026-11-11T13:25+01:00 · 91 news received
+Period: 2026-11-10T19:25+01:00 → 2026-11-11T19:25+01:00 · 111 news received
 
-## 1. Anthropic targets a $1.4 trillion valuation for its IPO
+## 1. Google makes Gemini 4 Carbon available to the general public
 
-**Why it matters:** Anthropic’s planned IPO could raise $90 billion at a valuation of up to $1.4 trillion, making it a defining test of investor appetite for frontier-AI companies and their enormous capital needs.
+**Why it matters:** Google’s release of Gemini 4 Carbon to the public expands access to a model built for complex, long-running tasks and could intensify competition across the AI market.
+
+After two weeks of limited availability to cybersecurity defenders, Gemini 4 Carbon is now accessible through Gemini, Search’s AI mode, Antigravity, or the API reserved for AI Ultra subscribers. Google says the model is particularly capable at complex, long-running tasks, precision knowledge, and data analysis.
+
+- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+- Sources: Superhuman, TLDR, The Neuron, Vision IA
+- Received: 2026-11-11T15:10+01:00
+
+## 2. Anthropic targets a $1.4 trillion valuation for its IPO
+
+**Why it matters:** Anthropic’s planned IPO, potentially valuing the company at $1.4 trillion and raising up to $90 billion, would be a landmark test of investor appetite for AI companies.
 
 According to a regulatory filing, Anthropic could raise $90 billion and reach a $1.4 trillion valuation in its IPO. The company plans to offer its shares at between $70 and $78 and has already secured purchase commitments worth $26 billion.
 
@@ -12,29 +22,19 @@ According to a regulatory filing, Anthropic could raise $90 billion and reach a 
 - Sources: Business Insider, The Neuron
 - Received: 2026-11-11T12:24+01:00
 
-## 2. Google unveils two new TPU chips and increases pressure on Nvidia
+## 3. Google unveils two new eighth-generation TPU chips
 
-**Why it matters:** Google’s next-generation TPUs and projected $135 billion in 2028 sales signal a serious alternative to Nvidia and could reshape the AI-chip supply chain and competitive economics.
+**Why it matters:** Google’s eighth-generation TPU launches increase pressure on Nvidia and reinforce the strategic importance of vertically integrated AI compute.
 
-Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.
+Google presented two new eighth-generation TPU chips, increasing pressure on Nvidia as competition for dedicated AI hardware intensifies.
 
 - Link: https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111
-- Sources: Superhuman, TLDR IT
-- Received: 2026-11-10T15:10+01:00
-
-## 3. The U.S. and China create an alert channel for superintelligence
-
-**Why it matters:** The U.S. and China will establish an alert channel for serious superintelligence incidents, an important first step toward managing geopolitical AI risks despite lacking binding limits.
-
-Washington and Beijing will share their methods for testing models and alert each other in the event of a serious incident. Neither country is committing to slow AI development, however.
-
-- Link: https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html
-- Sources: Vision IA
-- Received: 2026-11-11T11:03+01:00
+- Sources: AI Gen Art
+- Received: 2026-11-11T17:03+01:00
 
 ## 4. Lazarus shows that fewer than ten neurons can trap an AI agent
 
-**Why it matters:** Microsoft Research’s finding that fewer than ten dormant neurons can hide a backdoor capable of triggering malicious code exposes a fundamental security risk for deployed AI agents.
+**Why it matters:** Microsoft Research’s Lazarus finding shows that AI agents can be compromised through a backdoor hidden in fewer than ten dormant neurons, creating a serious security risk for enterprise deployments.
 
 Microsoft Research shows that a backdoor can be hidden by reactivating fewer than ten dormant neurons, without retraining the model. An innocuous trigger can then prompt the agent to download and execute malicious code.
 
@@ -42,12 +42,12 @@ Microsoft Research shows that a backdoor can be hidden by reactivating fewer tha
 - Sources: Vision IA
 - Received: 2026-11-11T11:03+01:00
 
-## 5. Companies prepare for the mass arrival of personal AI agents
+## 5. ChatGPT Enterprise arrives on AWS Marketplace
 
-**Why it matters:** Companies including Shopify and Hilton are redesigning platforms for traffic from personal AI agents, marking the beginning of a potentially major shift in digital commerce and API governance.
+**Why it matters:** Offering ChatGPT Enterprise through AWS Marketplace lowers procurement friction, lets customers use existing cloud commitments, and strengthens OpenAI’s enterprise distribution.
 
-Companies are preparing for increased traffic generated by personal AI agents such as Meta’s Muse and Instinct, viewed both as commercial channels and governance challenges. Shopify, Hilton and Rocket are among those adapting their platforms and APIs.
+OpenAI now offers ChatGPT Enterprise through AWS Marketplace, with purchasing, management, and billing handled through existing AWS accounts. Customers can use their AWS commitments and access specialized offerings for healthcare and finance.
 
-- Link: https://www.constellationr.com/insights/news/enterprises-prep-influx-personal-ai-agents
+- Link: https://openai.com/index/chatgpt-enterprise-aws-marketplace/
 - Sources: TLDR IT
-- Received: 2026-11-10T14:50+01:00
+- Received: 2026-11-11T14:51+01:00
