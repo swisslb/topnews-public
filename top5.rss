@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — Top 5 news of the day — 2026-11-10</title>
+  <title>NewsCenter — Top 5 news of the day — 2026-11-11</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 107 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 106 news received.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 10 Nov 2026 18:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 05:25:00 GMT</lastBuildDate>
   <item>
     <title>1. Google unveils two new TPU chips and increases pressure on Nvidia</title>
     <link>https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111</link>
-    <guid isPermaLink="false">2026-11-10:g5204</guid>
-    <description>Why it matters: Google’s new TPUs could materially intensify competition with Nvidia and reshape the economics and supply chain of AI infrastructure when they ship. Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.</description>
+    <guid isPermaLink="false">2026-11-11:g5204</guid>
+    <description>Why it matters: Google’s new TPUs signal a serious expansion of hyperscaler-designed AI chips that could pressure Nvidia’s market share, pricing power, and long-term growth. Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.</description>
     <pubDate>Tue, 10 Nov 2026 14:10:00 GMT</pubDate>
     <category>Superhuman</category>
     <category>TLDR IT</category>
@@ -20,8 +20,8 @@
   <item>
     <title>2. Anthropic unveils its Claude Fable 5.2 and Mythos 5.2 models</title>
     <link>https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html</link>
-    <guid isPermaLink="false">2026-11-10:g5224</guid>
-    <description>Why it matters: Anthropic’s faster, cheaper Claude models could accelerate enterprise AI adoption while increasing competitive and pricing pressure across the frontier-model market. Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.</description>
+    <guid isPermaLink="false">2026-11-11:g5224</guid>
+    <description>Why it matters: Anthropic’s faster and cheaper Claude models intensify competition among frontier AI providers and could accelerate enterprise adoption by lowering inference costs. Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
     <category>Superhuman</category>
@@ -30,29 +30,28 @@
     <category>The Neuron</category>
   </item>
   <item>
-    <title>3. AI data center boom prompts political backlash in the United States</title>
+    <title>3. Meituan releases LongCat-2.5, a very low-cost open-source coding model</title>
+    <link>https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license</link>
+    <guid isPermaLink="false">2026-11-11:g5244</guid>
+    <description>Why it matters: Meituan’s open-weight coding model, priced dramatically below leading rivals, highlights the accelerating commoditization of capable AI and falling software-development costs. Meituan is releasing the weights of LongCat-2.5 under the MIT license, a multimodal model that can analyze screenshots and videos before coding in multiple steps. Its API access is priced at $0.30 per million input tokens, compared with $5 for Claude Opus 5.</description>
+    <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>4. AI data center boom prompts political backlash in the United States</title>
     <link>https://technologyadvice.com</link>
-    <guid isPermaLink="false">2026-11-10:g5242</guid>
-    <description>Why it matters: Political opposition to AI data centers threatens to slow capacity expansion, raise infrastructure costs and change where future computing power is built. Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.</description>
+    <guid isPermaLink="false">2026-11-11:g5242</guid>
+    <description>Why it matters: Political resistance to AI data centers could slow permitting, raise infrastructure costs, and reshape where the industry can add computing capacity. Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
   </item>
   <item>
-    <title>4. OpenAI creates a kill switch for its research models</title>
-    <link>https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents</link>
-    <guid isPermaLink="false">2026-11-10:g5227</guid>
-    <description>Why it matters: OpenAI’s Control Room represents a significant step toward operational governance of powerful research models, although its 35-second shutdown delay exposes residual safety risk. OpenAI developed Control Room, a system capable of cutting off a research AI model’s access to its outputs. It tracks training, evaluations and data processing, but a cached authorization can delay shutdown by 35 seconds.</description>
-    <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
-    <category>Techpresso</category>
+    <title>5. Fireworks AI confirms billing and model data breach</title>
+    <link>https://fireworks.ai/security/bulletins/october-2026-security-incident-update</link>
+    <guid isPermaLink="false">2026-11-11:g5225</guid>
+    <description>Why it matters: The Fireworks AI breach shows that AI infrastructure providers are becoming high-value targets, with exposure of customer data, model weights, and datasets creating significant security and trust risks. Attackers accessed customer billing data, excluding card numbers, as well as model weights and incomplete datasets for some customers. Fireworks links the incident to a group that resells access to stolen AI accounts.</description>
+    <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
-  </item>
-  <item>
-    <title>5. Claude reveals more than 100 vulnerabilities in UK government projects</title>
-    <link>https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/</link>
-    <guid isPermaLink="false">2026-11-10:g5259</guid>
-    <description>Why it matters: Claude’s discovery of vulnerabilities across roughly two-thirds of tested UK public-sector projects highlights the urgent cyber risk created by AI-assisted vulnerability research. Using Claude Opus and Sonnet, a researcher found vulnerabilities in roughly two-thirds of 349 public projects belonging to 33 UK organizations. One vulnerability provided read and write access to SharePoint and OneDrive spaces containing HR files.</description>
-    <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
-    <category>Vision IA</category>
   </item>
 </channel>
 </rss>
