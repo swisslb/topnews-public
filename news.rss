@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — All newsletter news — 2026-11-10</title>
+  <title>NewsCenter — All newsletter news — 2026-11-11</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>Every news received through Laurent's newsletters over the last 24 hours. 107 news received.</description>
+  <description>Every news received through Laurent's newsletters over the last 24 hours. 106 news received.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 10 Nov 2026 18:25:35 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 05:25:13 GMT</lastBuildDate>
   <item>
     <title>Anthropic unveils its Claude Fable 5.2 and Mythos 5.2 models</title>
     <link>https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html</link>
-    <guid isPermaLink="false">2026-11-10:g5224</guid>
-    <description>Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, advertised as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.</description>
+    <guid isPermaLink="false">2026-11-11:g5224</guid>
+    <description>Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
     <category>Superhuman</category>
@@ -19,10 +19,21 @@
     <category>The Neuron</category>
   </item>
   <item>
+    <title>The timeline of the espionage suspicions surrounding Jensen Huang</title>
+    <link>https://www.digitaltrends.com/computing/fbi-looks-into-nvidia-ceos-alleged-spy-affair-as-report-claims-7-5-billion-in-smuggled-chips-to-china/</link>
+    <guid isPermaLink="false">2026-11-11:g5079</guid>
+    <description>The article traces the timeline of the alleged espionage case involving Jensen Huang, Nvidia’s CEO.</description>
+    <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
+    <category>Techpresso</category>
+    <category>TLDR</category>
+    <category>Business Insider</category>
+    <category>Vision IA</category>
+  </item>
+  <item>
     <title>Google unveils two new TPU chips and increases pressure on Nvidia</title>
     <link>https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111</link>
-    <guid isPermaLink="false">2026-11-10:g5204</guid>
-    <description>Google introduced two new versions of its eighth-generation TPUs, used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.</description>
+    <guid isPermaLink="false">2026-11-11:g5204</guid>
+    <description>Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.</description>
     <pubDate>Tue, 10 Nov 2026 14:10:00 GMT</pubDate>
     <category>Superhuman</category>
     <category>TLDR IT</category>
@@ -32,17 +43,17 @@
   <item>
     <title>OpenAI creates a kill switch for its research models</title>
     <link>https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents</link>
-    <guid isPermaLink="false">2026-11-10:g5227</guid>
-    <description>OpenAI developed Control Room, a system capable of cutting off a research AI model’s access to its outputs. It tracks training, evaluations, and data processing, but a cached authorization can delay shutdown by 35 seconds.</description>
+    <guid isPermaLink="false">2026-11-11:g5227</guid>
+    <description>OpenAI developed Control Room, a system capable of cutting off a research AI model’s access to its outputs. It tracks training, evaluations and data processing, but a cached authorization can delay shutdown by 35 seconds.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>METR estimates that Anthropic’s measured progress accelerated 1.9-fold</title>
+    <title>METR estimates that Anthropic’s measured progress has accelerated 1.9-fold</title>
     <link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
-    <guid isPermaLink="false">2026-11-10:g5239</guid>
-    <description>METR estimates that Anthropic’s benchmark-measured progress has been about 1.9 times faster since October 2025. The organization considers it likely that artificial intelligence is responsible for most of this acceleration.</description>
+    <guid isPermaLink="false">2026-11-11:g5239</guid>
+    <description>METR estimates that Anthropic’s benchmark-measured progress has been about 1.9 times faster since October 2025. The organization considers it likely that artificial intelligence is behind most of this acceleration.</description>
     <pubDate>Tue, 10 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
     <category>TechnologyAdvice</category>
@@ -50,33 +61,33 @@
   <item>
     <title>Reddit turns user conversations into AI-generated product reviews</title>
     <link>https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/</link>
-    <guid isPermaLink="false">2026-11-10:g5337</guid>
-    <description>Reddit is turning its users’ conversations into product reviews generated by artificial intelligence.</description>
+    <guid isPermaLink="false">2026-11-11:g5337</guid>
+    <description>Reddit is turning its users’ conversations into artificial intelligence-generated product reviews.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>Adobe adds AI agents to Photoshop, Premiere, and Firefly</title>
+    <title>Adobe adds AI agents to Photoshop, Premiere and Firefly</title>
     <link>https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/</link>
-    <guid isPermaLink="false">2026-11-10:g5339</guid>
-    <description>Adobe is bringing artificial intelligence agents and new creative tools to Photoshop, Premiere, and Firefly.</description>
+    <guid isPermaLink="false">2026-11-11:g5339</guid>
+    <description>Adobe is bringing artificial intelligence agents and new creative tools to Photoshop, Premiere and Firefly.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Claude Code accidentally exposes secrets on GitHub</title>
     <link>https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/</link>
-    <guid isPermaLink="false">2026-11-10:g5255</guid>
-    <description>Claude Code accidentally exposes secret information on GitHub.</description>
+    <guid isPermaLink="false">2026-11-11:g5255</guid>
+    <description>Claude Code accidentally exposed secret information on GitHub.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
     <category>Vision IA</category>
   </item>
   <item>
-    <title>How Product Hunt almost disappeared</title>
+    <title>How Product Hunt nearly disappeared</title>
     <link>https://www.ryanhoover.me/post/how-product-hunt-almost-died</link>
-    <guid isPermaLink="false">2026-11-10:g5291</guid>
-    <description>The article examines how Product Hunt nearly disappeared.</description>
+    <guid isPermaLink="false">2026-11-11:g5291</guid>
+    <description>The article examines how Product Hunt almost disappeared.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
     <category>TLDR</category>
@@ -84,32 +95,23 @@
   <item>
     <title>Anthropic maintains its IPO plans despite turbulence</title>
     <link>https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?st=1jHw5p</link>
-    <guid isPermaLink="false">2026-11-10:g4885</guid>
-    <description>Anthropic plans to begin trading its shares by the end of next week. Investors were targeting a valuation of about $1,500 billion, but some are now seeking a lower figure, while the company could still delay the offering.</description>
+    <guid isPermaLink="false">2026-11-11:g4885</guid>
+    <description>Anthropic plans to begin trading its shares by the end of next week. Investors were targeting a valuation of about $1.5 trillion, but some are now seeking a lower figure, while the company could still delay the offering.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
     <title>Meta can still rely on advertising if its AI bet fails</title>
     <link>https://www.mbi-deepdives.com/ant-vs-meta/</link>
-    <guid isPermaLink="false">2026-11-10:g5296</guid>
-    <description>Even if Meta’s artificial intelligence bet fails, the company still has its advertising business as a fallback.</description>
+    <guid isPermaLink="false">2026-11-11:g5296</guid>
+    <description>Even if Meta’s bet on artificial intelligence fails, the company still has its advertising business as a fallback.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>Scandal raises questions about Jensen Huang’s future at Nvidia</title>
-    <link>https://l.businessinsider.com/a/zc/21432/320b1c2f6dc841ae969c6e63577b57e2/522f5b85945b4df7b20ff0d2d33ff416</link>
-    <guid isPermaLink="false">2026-11-10:g5079</guid>
-    <description>Nvidia’s board must investigate whether its CEO was targeted in a foreign intelligence operation. The case raises questions about his remaining at the company’s helm and the future of the AI market.</description>
-    <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
-    <category>Business Insider</category>
-    <category>Vision IA</category>
-  </item>
-  <item>
     <title>Jensen Huang scandal unlikely to derail the AI market</title>
     <link>https://www.businessinsider.com/nvidia-jensen-huang-scandal-free-up-ai-chips-for-us-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5267</guid>
+    <guid isPermaLink="false">2026-11-11:g5267</guid>
     <description>Despite Nvidia’s 4.3% decline, the scandal is not expected to trigger a collapse in the artificial intelligence market. Analysts explain why the sector could continue to grow.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -117,7 +119,7 @@
   <item>
     <title>ChatGPT exceeds 81% of traffic to leading AI chatbots</title>
     <link>https://www.businessinsider.com/chatgpt-growth-rebounds-openai-rivals-ai-market-share-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5273</guid>
+    <guid isPermaLink="false">2026-11-11:g5273</guid>
     <description>ChatGPT now accounts for more than 81% of traffic to the six leading AI chatbots, according to a Graphite study. Its growth resumed after a period of stagnation, pulling ahead of Claude and Gemini.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -125,7 +127,7 @@
   <item>
     <title>Religious investor downplays importance of Anthropic IPO</title>
     <link>https://www.businessinsider.com/anthropic-ipo-faith-based-investing-ant-stock-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5283</guid>
+    <guid isPermaLink="false">2026-11-11:g5283</guid>
     <description>A faith-based investor shares his view on Anthropic’s IPO and says the company is not the savior of the universe.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -133,7 +135,7 @@
   <item>
     <title>OpenAI tests its agents on real-world biology experiments</title>
     <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/</link>
-    <guid isPermaLink="false">2026-11-10:g5248</guid>
+    <guid isPermaLink="false">2026-11-11:g5248</guid>
     <description>With biotech company Ligo, OpenAI is launching BioBasicsBench, a test of 100 tasks based on raw experimental data. The agents must interpret DNA gels, culture plates, microscope images and flow cytometry, among other things.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -141,7 +143,7 @@
   <item>
     <title>Instagram expands detection of teens lying about their age</title>
     <link>https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/</link>
-    <guid isPermaLink="false">2026-11-10:g5201</guid>
+    <guid isPermaLink="false">2026-11-11:g5201</guid>
     <description>Meta is rolling out AI detection worldwide on Instagram to identify teens who entered a false adult birth date. These accounts are automatically switched to Teen Accounts, with restrictions on contacts, content and time spent.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -150,7 +152,7 @@
   <item>
     <title>OpenAI makes ChatGPT Enterprise available in AWS Marketplace</title>
     <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace/</link>
-    <guid isPermaLink="false">2026-11-10:g5226</guid>
+    <guid isPermaLink="false">2026-11-11:g5226</guid>
     <description>AWS customers can now purchase ChatGPT Enterprise through cloud billing and their existing spending commitments.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
@@ -158,159 +160,159 @@
   <item>
     <title>SpaceX seeks tax relief for its $24 billion energy project</title>
     <link>https://www.investing.com/news/stock-market-news/spacex-plans-24-billion-gas-power-plant-data-center-project-in-texas-5013083</link>
-    <guid isPermaLink="false">2026-11-10:g5229</guid>
+    <guid isPermaLink="false">2026-11-11:g5229</guid>
     <description>SpaceX is seeking tax relief for the initial phases of a gas-fired power plant and a supercomputer project valued at around $24 billion at Starbase, Texas.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>An affair allegedly facilitated the shipment of $7.5 billion worth of chips to China</title>
+    <title>A Silicon Valley therapist analyzes Jensen Huang’s infidelity</title>
+    <link>https://l.businessinsider.com/a/zc/21432/909e6babf3854375ae6b489b8c7f369f/f93463f70e3f4b378b3aad97b25011cb</link>
+    <guid isPermaLink="false">2026-11-11:g5346</guid>
+    <description>Phil Boissierie, a Silicon Valley couples therapist, shares advice for high-profile clients concerned about their own infidelities. According to him, Jensen Huang’s affair offers lessons for high-profile couples.</description>
+    <pubDate>Tue, 10 Nov 2026 18:06:00 GMT</pubDate>
+    <category>Business Insider</category>
+  </item>
+  <item>
+    <title>An affair allegedly facilitated the shipment of $7.5 billion in chips to China</title>
     <link>https://www.digitaltrends.com/computing/fbi-looks-into-nvidia-ceos-alleged-spy-affair-as-report-claims-7-5-billion-in-smuggled-chips-to-china/</link>
-    <guid isPermaLink="false">2026-11-10:g5326</guid>
-    <description>According to The Information, Jensen Huang’s relationship with Alice Huang may have contributed to routing at least $7.5 billion worth of restricted Nvidia chips to Chinese companies. About 240,000 H- and A-series chips were allegedly shipped, some to Alibaba and Tencent.</description>
+    <guid isPermaLink="false">2026-11-11:g5326</guid>
+    <description>According to The Information, Jensen Huang’s relationship with Alice Huang may have helped move at least $7.5 billion worth of restricted Nvidia chips to Chinese companies. Around 240,000 H- and A-series chips were allegedly shipped, some to Alibaba and Tencent.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Ring unveils a flying camera and a surveillance robot</title>
     <link>https://www.engadget.com/2311630/amazon-finally-launches-the-250-ring-drone-cam-and-also-the-ring-rover-cam/</link>
-    <guid isPermaLink="false">2026-11-10:g5327</guid>
-    <description>Ring unveiled the $250 Drone Cam, a flying camera, and the Rover Cam, a ground robot, which will go on sale starting January 27, 2027. The Drone Cam includes 2K and 1080p cameras and uses the AI Pilot cloud system to move around the home.</description>
+    <guid isPermaLink="false">2026-11-11:g5327</guid>
+    <description>Ring unveiled the Drone Cam, a $250 flying camera, and the Rover Cam, a ground robot, which will go on sale starting January 27, 2027. The Drone Cam includes 2K and 1080p cameras and uses the AI Pilot cloud system to navigate the home.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>Meta’s smallest AI model rivals Claude Haiku</title>
+    <title>Meta’s smallest AI model competes with Claude Haiku</title>
     <link>https://thenextweb.com/news/meta-muse-ember-small-ai-model-haiku-luna</link>
-    <guid isPermaLink="false">2026-11-10:g5328</guid>
-    <description>Meta launched Muse Ember, its smallest and least expensive AI model, which reportedly matches Claude Haiku 5.5 on some intelligence scores. It is designed for repetitive agent tasks and can process up to one million multimodal tokens, but its weights remain private.</description>
+    <guid isPermaLink="false">2026-11-11:g5328</guid>
+    <description>Meta launched Muse Ember, its smallest and cheapest AI model, which reportedly matches Claude Haiku 5.5 on some intelligence scores. It is designed for repetitive agent tasks and can process up to one million multimodal tokens, but its weights remain private.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Google DeepMind mathematically verifies Signal’s encryption</title>
     <link>https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/</link>
-    <guid isPermaLink="false">2026-11-10:g5330</guid>
+    <guid isPermaLink="false">2026-11-11:g5330</guid>
     <description>Google DeepMind says its AI agents mathematically proved the validity of the Signal protocol’s code. They generated more than six million lines of Lean in four weeks and detected two old bugs that had been deliberately reintroduced.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>Anthropic aims for a $1,020 billion valuation</title>
+    <title>Anthropic targets a $1.02 trillion valuation</title>
     <link>https://www.axios.com/2026/11/10/anthropic-ipo-terms</link>
-    <guid isPermaLink="false">2026-11-10:g5331</guid>
-    <description>The article presents Anthropic’s valuation ambitions, with the company reportedly seeking to reach $1,020 billion.</description>
+    <guid isPermaLink="false">2026-11-11:g5331</guid>
+    <description>The article outlines Anthropic’s valuation ambitions, with the company reportedly seeking to reach $1.02 trillion.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Apple launches $50 intelligence usage plans</title>
     <link>https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/</link>
-    <guid isPermaLink="false">2026-11-10:g5332</guid>
-    <description>Apple is launching intelligence usage plans priced at $50 for certain AI features.</description>
+    <guid isPermaLink="false">2026-11-11:g5332</guid>
+    <description>Apple is launching $50 intelligence usage plans for certain AI features.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Uber launches its own parking reservation service</title>
     <link>https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/</link>
-    <guid isPermaLink="false">2026-11-10:g5333</guid>
-    <description>Uber is preparing to launch a service that allows users to reserve parking spaces.</description>
+    <guid isPermaLink="false">2026-11-11:g5333</guid>
+    <description>Uber is preparing to launch a service that lets users reserve parking spaces.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>The United States sues Lyft over discrimination against disabled passengers</title>
+    <title>U.S. sues Lyft over discrimination against passengers with disabilities</title>
     <link>https://www.reuters.com/world/us-sues-lyft-alleges-it-denied-rides-passengers-with-service-dogs-wheelchairs-2026-11-10/</link>
-    <guid isPermaLink="false">2026-11-10:g5334</guid>
-    <description>The United States accuses Lyft of discriminating against disabled passengers.</description>
+    <guid isPermaLink="false">2026-11-11:g5334</guid>
+    <description>The United States is accusing Lyft of discriminating against passengers with disabilities.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Medium integrates AI writing assistance with its new TK app</title>
     <link>https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/</link>
-    <guid isPermaLink="false">2026-11-10:g5335</guid>
+    <guid isPermaLink="false">2026-11-11:g5335</guid>
     <description>Medium is launching the TK app, which integrates AI assistance directly into the writing process.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>Waze rolls out cyclist alerts based on Garmin data</title>
+    <title>Waze rolls out cyclist alerts powered by Garmin data</title>
     <link>https://9to5google.com/2026/11/10/waze-cyclist-alerts-rolling-out/</link>
-    <guid isPermaLink="false">2026-11-10:g5336</guid>
-    <description>Waze is rolling out cyclist alerts based on their real-time locations provided by Garmin trackers.</description>
+    <guid isPermaLink="false">2026-11-11:g5336</guid>
+    <description>Waze is rolling out cyclist alerts based on real-time location data provided by Garmin trackers.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Moonshot AI reportedly rented Nvidia’s top chips in China</title>
     <link>https://thenextweb.com/news/moonshot-ai-nvidia-b300-servers-china</link>
-    <guid isPermaLink="false">2026-11-10:g5338</guid>
+    <guid isPermaLink="false">2026-11-11:g5338</guid>
     <description>Bloomberg reports that Moonshot AI rented high-end Nvidia chips in China.</description>
-    <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
-    <category>Techpresso</category>
-  </item>
-  <item>
-    <title>The timeline of espionage suspicions involving Jensen Huang</title>
-    <link>https://www.digitaltrends.com/computing/fbi-looks-into-nvidia-ceos-alleged-spy-affair-as-report-claims-7-5-billion-in-smuggled-chips-to-china/</link>
-    <guid isPermaLink="false">2026-11-10:g5340</guid>
-    <description>The article traces the timeline of the alleged espionage case surrounding Jensen Huang, Nvidia’s CEO.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>France accuses Iran of cyberattacks on supermarket refrigerators</title>
     <link>https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html</link>
-    <guid isPermaLink="false">2026-11-10:g5341</guid>
+    <guid isPermaLink="false">2026-11-11:g5341</guid>
     <description>France accuses Iran of carrying out cyberattacks against supermarket refrigerators and is considering sanctions.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>North Korea uses Elon Musk memecoins to launder cryptocurrency</title>
+    <title>North Korea reportedly uses Elon Musk memecoins to launder cryptocurrency</title>
     <link>https://gizmodo.com/north-korea-is-using-elon-musk-themed-memecoins-to-launder-crypto-from-the-binance-hack-2000837160</link>
-    <guid isPermaLink="false">2026-11-10:g5342</guid>
-    <description>North Korea allegedly uses memecoins linked to Elon Musk to launder cryptocurrency stolen in the Binance hack.</description>
+    <guid isPermaLink="false">2026-11-11:g5342</guid>
+    <description>North Korea is reportedly using memecoins linked to Elon Musk to launder cryptocurrency stolen in the Binance hack.</description>
     <pubDate>Tue, 10 Nov 2026 17:13:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
     <title>Higgsfield unveils Miracle, a real-time video editing tool</title>
     <link>https://higgsfield.ai/miracle</link>
-    <guid isPermaLink="false">2026-11-10:g5318</guid>
-    <description>Higgsfield unveiled Miracle, a pre-launch tool that can modify an existing video by describing the changes to apply during playback. Announced edits include moving objects, changing colors, and adjusting speed, without regenerating the scene.</description>
+    <guid isPermaLink="false">2026-11-11:g5318</guid>
+    <description>Higgsfield unveiled Miracle, a pre-launch tool that lets users modify an existing video by describing changes while it plays. Announced edits include moving objects, changing colors and adjusting speed, without regenerating the scene.</description>
     <pubDate>Tue, 10 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
-    <title>Atmee v2 creates a real-time talking avatar from an image</title>
+    <title>Atmee v2 creates a talking avatar in real time from an image</title>
     <link>https://runtimewire.com/article/chen-ping-yu-atmee-v2-real-time-avatar-model</link>
-    <guid isPermaLink="false">2026-11-10:g5319</guid>
-    <description>Atmanity launched Atmee v2, a real-time avatar model that turns an image and a short voice recording into an avatar users can talk to. The company claims it is up to 50 times faster and 10 to 100 times cheaper than leading video models, but these figures have not been independently verified.</description>
+    <guid isPermaLink="false">2026-11-11:g5319</guid>
+    <description>Atmanity launched Atmee v2, a real-time avatar model that turns an image and a short voice clip into an avatar users can talk to. The company claims it is up to 50 times faster and 10 to 100 times cheaper than leading video models, but these figures have not been independently verified.</description>
     <pubDate>Tue, 10 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
     <title>Thinking Machines launches Inkling 2 Small, an open-weight vision model</title>
     <link>https://thinkingmachines.ai/news/inkling-2-small/</link>
-    <guid isPermaLink="false">2026-11-10:g4943</guid>
-    <description>Thinking Machines launched Inkling 2 Small, a second-generation model for coding, research, and long-running office work, with vision as its primary capability. The model correctly identified three wines from a photo in 19 out of 20 trials, and its full weights are expected to be released under the Apache 2.0 license the following week.</description>
+    <guid isPermaLink="false">2026-11-11:g4943</guid>
+    <description>Thinking Machines launched Inkling 2 Small, a second-generation model for coding, research and extended office work, with vision as its primary capability. The model correctly identified three wines from a photo in 19 out of 20 trials, and its full weights are expected to be released under the Apache 2.0 license the following week.</description>
     <pubDate>Tue, 10 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
-    <title>Apple pushes for an autonomous Siri agent without a confirmed timeline</title>
+    <title>Apple pushes an autonomous Siri agent without a confirmed timeline</title>
     <link>https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/</link>
-    <guid isPermaLink="false">2026-11-10:g5110</guid>
-    <description>According to Bloomberg’s Mark Gurman, Apple is working to create an autonomous Siri agent, but the company has not yet announced a timeline.</description>
+    <guid isPermaLink="false">2026-11-11:g5110</guid>
+    <description>According to Bloomberg’s Mark Gurman, Apple is working on an autonomous Siri agent, but the company has not yet provided a timeline.</description>
     <pubDate>Tue, 10 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
-    <title>Perplexity launches background agents for Max subscribers</title>
+    <title>Perplexity launches background agents for its Max subscribers</title>
     <link>https://www.perplexity.ai/hub/products/teammate</link>
-    <guid isPermaLink="false">2026-11-10:g4817</guid>
+    <guid isPermaLink="false">2026-11-11:g4817</guid>
     <description>Perplexity launched Teammates, background agents that handle ongoing projects and notify users when a decision is needed. The feature is available to Max subscribers on the web and iOS.</description>
     <pubDate>Tue, 10 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
@@ -318,7 +320,7 @@
   <item>
     <title>Design Arena compares generative image models</title>
     <link>https://www.designarena.ai/leaderboard?tab=image</link>
-    <guid isPermaLink="false">2026-11-10:g5324</guid>
+    <guid isPermaLink="false">2026-11-11:g5324</guid>
     <description>Design Arena ranks generative image models in head-to-head matchups. The service lets users choose a generator to try before subscribing to a paid plan.</description>
     <pubDate>Tue, 10 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
@@ -326,47 +328,47 @@
   <item>
     <title>Overuse of AI can create a speed trap in the workplace</title>
     <link>https://www.anthropic.com/research/AI-assistance-coding-skills#:~:text=Managers%20should%20think%20intentionally%20about%20how%20to%20deploy%20AI%20tools%20at%20scale%2C%20and%20consider%20systems%20or%20intentional%20design%20choices%20that%20ensure%20engineers%20continue%20to%20learn%20as%20they%20work%E2%80%94and%20are%20thus%20able%20to%20exercise%20meaningful%20oversight%20over%20the%20systems%20they%20build.</link>
-    <guid isPermaLink="false">2026-11-10:g5317</guid>
-    <description>AI can produce work faster than teams can understand it, potentially increasing confusion. The text recommends continuing to learn, adding one’s own perspective, and asking authors to defend AI-assisted results.</description>
+    <guid isPermaLink="false">2026-11-11:g5317</guid>
+    <description>AI can produce work faster than teams can understand it, potentially increasing confusion. The text recommends continuing to learn, adding one’s own perspective and asking authors to defend AI-assisted results.</description>
     <pubDate>Tue, 10 Nov 2026 14:10:00 GMT</pubDate>
     <category>Superhuman</category>
   </item>
   <item>
     <title>Outlook.com rejects legitimate emails after authentication tightening</title>
     <link>https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428</link>
-    <guid isPermaLink="false">2026-11-10:g5299</guid>
-    <description>Microsoft’s consumer email services have been rejecting legitimate messages following changes to sender authentication enforcement. SPF and DMARC validation failures have been reported, including for apparently compliant domains.</description>
+    <guid isPermaLink="false">2026-11-11:g5299</guid>
+    <description>Microsoft’s consumer email services are rejecting legitimate messages following changes to sender authentication enforcement. SPF and DMARC validation failures have been reported, including for seemingly compliant domains.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
     <title>Rising memory prices make refurbished hardware more attractive</title>
     <link>https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758</link>
-    <guid isPermaLink="false">2026-11-10:g5301</guid>
-    <description>Surging memory prices are increasing interest in refurbished PCs and enterprise equipment. Suppliers are seeing growing demand for extending device lifespans, trade-ins, and warranted equipment.</description>
+    <guid isPermaLink="false">2026-11-11:g5301</guid>
+    <description>Surging memory prices are increasing interest in refurbished PCs and enterprise equipment. Suppliers are seeing growing demand for extending device lifespans, buybacks and warrantied equipment.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
     <title>Companies prepare for the mass arrival of personal AI agents</title>
     <link>https://www.constellationr.com/insights/news/enterprises-prep-influx-personal-ai-agents</link>
-    <guid isPermaLink="false">2026-11-10:g5302</guid>
-    <description>Companies are preparing for increased traffic generated by personal AI agents such as Meta’s Muse and Instinct, viewed both as commercial channels and governance challenges. Shopify, Hilton, and Rocket are among those adapting their platforms and APIs.</description>
+    <guid isPermaLink="false">2026-11-11:g5302</guid>
+    <description>Companies are preparing for increased traffic generated by personal AI agents such as Meta’s Muse and Instinct, viewed both as commercial channels and governance challenges. Shopify, Hilton and Rocket are among those adapting their platforms and APIs.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
     <title>AI and business transformation redefine the CIO’s role</title>
     <link>https://www.cio.com/article/4240650/the-cio-job-description-is-being-rewritten-in-real-time.html</link>
-    <guid isPermaLink="false">2026-11-10:g5303</guid>
-    <description>The CIO’s role is evolving from managing technology delivery to redesigning business processes and demonstrating measurable results. Technology leaders must now address questions of productivity, organizational change, and accountability for decisions made with AI.</description>
+    <guid isPermaLink="false">2026-11-11:g5303</guid>
+    <description>The CIO’s role is shifting from managing technology delivery to redesigning business processes and demonstrating measurable results. Technology leaders must now address productivity, organizational change and accountability for decisions made with AI.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>China could be more exposed to the risks of a cyberpocalypse</title>
+    <title>China could face greater exposure to the risks of a cyber-apocalypse</title>
     <link>https://www.chinatalk.media/p/china-in-the-cyberpocalypse</link>
-    <guid isPermaLink="false">2026-11-10:g5304</guid>
+    <guid isPermaLink="false">2026-11-11:g5304</guid>
     <description>AI-driven vulnerability discovery is accelerating the race between identifying and fixing flaws. China’s state-led cybersecurity strategy and restrictions on vulnerability disclosure could put its systems at a disadvantage.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
@@ -374,143 +376,135 @@
   <item>
     <title>Virtual machines remain central to cloud-native infrastructure</title>
     <link>https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve/</link>
-    <guid isPermaLink="false">2026-11-10:g5305</guid>
-    <description>A Linux Foundation study of 492 professionals found that virtual machines account for an average of 53% of production applications. Most respondents expect a relatively stable VM footprint despite growing Kubernetes adoption.</description>
+    <guid isPermaLink="false">2026-11-11:g5305</guid>
+    <description>A Linux Foundation study of 492 professionals found that virtual machines account for an average of 53% of production applications. Most respondents expect their VM footprint to remain relatively stable despite growing Kubernetes adoption.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
     <title>Google Cloud offers self-managed VMware Cloud Foundation on bare-metal servers</title>
     <link>https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/</link>
-    <guid isPermaLink="false">2026-11-10:g5306</guid>
-    <description>Google Cloud has made a self-managed VMware Cloud Foundation solution generally available on dedicated bare-metal hardware in 22 regions. Customers have root access to ESXi, vCenter, and NSX and manage upgrades and patches themselves.</description>
+    <guid isPermaLink="false">2026-11-11:g5306</guid>
+    <description>Google Cloud has made a self-managed VMware Cloud Foundation solution generally available on dedicated bare-metal hardware in 22 regions. Customers have root access to ESXi, vCenter and NSX and manage upgrades and patches themselves.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
     <title>Red Hat launches OpenShift 5 with more automated cloud management</title>
     <link>https://www.itpro.com/cloud/hybrid-cloud/red-hat-eyes-automated-cloud-management-gains-with-openshift-5-release</link>
-    <guid isPermaLink="false">2026-11-10:g5307</guid>
-    <description>Red Hat announced the general availability of OpenShift 5, which introduces AI-assisted troubleshooting, anomaly detection, and supervised remediation. The release also expands unified support for containers, virtual machines, and AI workloads.</description>
+    <guid isPermaLink="false">2026-11-11:g5307</guid>
+    <description>Red Hat announced the general availability of OpenShift 5, which introduces AI-assisted troubleshooting, anomaly detection and supervised remediation. The release also expands unified support for containers, virtual machines and AI workloads.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>Broadcom Contributes Its Open-Source VM API Project to the CNCF</title>
+    <title>Broadcom contributes its open-source VM API project to the CNCF</title>
     <link>https://investors.broadcom.com/news-releases/news-release-details/broadcom-contributes-vm-api-open-source-project-cloud-native</link>
-    <guid isPermaLink="false">2026-11-10:g5308</guid>
-    <description>Broadcom’s VM API project has been accepted into the CNCF Sandbox to provide a vendor-neutral way to manage virtual machines through Kubernetes APIs. Broadcom also announced its participation in a workload compliance initiative.</description>
+    <guid isPermaLink="false">2026-11-11:g5308</guid>
+    <description>Broadcom’s VM API project was accepted into the CNCF Sandbox to provide a vendor-independent way to manage virtual machines through Kubernetes APIs. Broadcom also announced its participation in a workload compliance initiative.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>Cisco Builds Enterprise AI Platform to Improve GPU Utilization</title>
+    <title>Cisco builds an enterprise AI platform to improve GPU utilization</title>
     <link>https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory</link>
-    <guid isPermaLink="false">2026-11-10:g5309</guid>
-    <description>Cisco IT developed a multi-tenant AI infrastructure platform combining shared networking, NVIDIA and AMD GPUs, rack-level cooling, and integrated security. Cisco says it has tripled average GPU utilization, from 15% to about 50%, and increased its GPU fleet sixfold.</description>
+    <guid isPermaLink="false">2026-11-11:g5309</guid>
+    <description>Cisco IT developed a multi-tenant AI infrastructure platform combining shared networking, NVIDIA and AMD GPUs, rack-level cooling, and integrated security. Cisco says it tripled average GPU utilization, from 15% to about 50%, and increased its GPU fleet sixfold.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>AI Coding Agents Can Increase Developer Burnout</title>
+    <title>AI coding agents can increase developer burnout</title>
     <link>https://frantic.im/bottleneck/</link>
-    <guid isPermaLink="false">2026-11-10:g5141</guid>
-    <description>Managing AI coding agents can increase developer fatigue because of constant context switching, decision fatigue, and pressure to keep agents active. These mechanisms can lead people to increasingly delegate decisions to AI without fully understanding the results.</description>
+    <guid isPermaLink="false">2026-11-11:g5141</guid>
+    <description>Managing AI coding agents can increase developer fatigue because of constant context switching, decision fatigue, and pressure to keep agents active. These mechanisms can lead developers to delegate more and more decisions to AI without fully understanding the results.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>AI Spending Is Rising Without Triggering a “SaaSpocalypse”</title>
+    <title>AI spending is rising without causing a “SaaSpocalypse”</title>
     <link>https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/</link>
-    <guid isPermaLink="false">2026-11-10:g5311</guid>
+    <guid isPermaLink="false">2026-11-11:g5311</guid>
     <description>Data indicates that increased AI spending is not cannibalizing traditional software budgets. Companies heavily invested in AI have also increased their software spending.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>Google Simplifies Confirmation of Classification Labels in Workspace</title>
+    <title>Google simplifies confirmation of classification labels in Workspace</title>
     <link>https://workspaceupdates.googleblog.com/2026/11/quickly-confirm-system-applied-classification-labels-in-Google-Drive-Docs-Sheets-and-Slides.html</link>
-    <guid isPermaLink="false">2026-11-10:g5312</guid>
-    <description>Google is making it easier to verify classification labels automatically applied to Google Drive, Docs, Sheets, and Slides files. New buttons allow users to accept or modify them.</description>
+    <guid isPermaLink="false">2026-11-11:g5312</guid>
+    <description>Google is making it easier to verify classification labels automatically applied to Google Drive, Docs, Sheets, and Slides files. New buttons let users accept or modify them.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>Startup Nominal Triples Its Valuation to $3 Billion in Eight Months</title>
+    <title>Startup Nominal triples its valuation to $3 billion in eight months</title>
     <link>https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/</link>
-    <guid isPermaLink="false">2026-11-10:g5313</guid>
+    <guid isPermaLink="false">2026-11-11:g5313</guid>
     <description>Nominal raised $240 million in a Series C round at a valuation of $3 billion. Its valuation was $1 billion in March.</description>
     <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>Difference Will Become a Scarce Resource in the AI Era</title>
+    <title>Difference will become a scarce resource in the AI era</title>
     <link>https://kevinkelly.substack.com/p/new-units-of-knowledge</link>
-    <guid isPermaLink="false">2026-11-10:g5287</guid>
-    <description>When AI produces most content, value will lie in the things it does not do. A cheap variation will not be equivalent to a sufficiently distinctive difference to attract attention and justify payment.</description>
+    <guid isPermaLink="false">2026-11-11:g5287</guid>
+    <description>When AI produces most content, value will lie in the things it does not do. A cheap variation will not be equivalent to a sufficiently distinctive difference that attracts attention and justifies payment.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>mRNA Therapy Helps Mice Repair Their Hearts</title>
+    <title>An mRNA therapy helps mice repair their hearts</title>
     <link>https://medicalxpress.com/news/2026-11-experimental-mrna-therapy-heart.html</link>
-    <guid isPermaLink="false">2026-11-10:g5288</guid>
-    <description>Researchers developed an mRNA-based therapy that reactivates heart muscle cells so they divide and repair damage. The treatment strengthened mice’s heartbeats after a heart attack, but trials in larger animal models are needed before any human testing.</description>
+    <guid isPermaLink="false">2026-11-11:g5288</guid>
+    <description>Researchers developed an mRNA therapy that reactivates heart muscle cells so they divide and repair damage. The treatment strengthened mice’s heartbeats after a heart attack, but trials in larger animal models are needed before any human testing.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>Storybook 11 Beta Adds Tools for AI Agents</title>
+    <title>Storybook 11 beta adds tools for AI agents</title>
     <link>https://storybook.js.org/blog/storybook-11-beta/</link>
-    <guid isPermaLink="false">2026-11-10:g5289</guid>
-    <description>Storybook provides an isolated environment for developing and testing an application’s component variants. The Storybook 11 beta introduces official skills and headless CLI tools that allow agents to iterate autonomously, in a lighter package with faster context transfer.</description>
+    <guid isPermaLink="false">2026-11-11:g5289</guid>
+    <description>Storybook provides an isolated environment for developing and testing an application’s component variants. The Storybook 11 beta introduces official skills and headless CLI tools that let agents iterate autonomously, in a smaller package with faster context handoffs.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>chrome-capture Records Chrome Tabs in MP4 at up to 2160p</title>
+    <title>chrome-capture records Chrome tabs in MP4 at up to 2160p</title>
     <link>https://github.com/paulirish/chrome-capture</link>
-    <guid isPermaLink="false">2026-11-10:g5290</guid>
+    <guid isPermaLink="false">2026-11-11:g5290</guid>
     <description>With Chrome 153 and later versions, chrome-capture records tabs at 60 to 120 frames per second, up to 2160p, directly in AVI .mp4 format. The tool includes tab audio and encodes AV1 while recording.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>Software Will Eventually Be Created Instantly on Demand</title>
+    <title>Software will eventually be created instantly on demand</title>
     <link>https://thomwolf.substack.com/p/the-future-of-software</link>
-    <guid isPermaLink="false">2026-11-10:g5293</guid>
-    <description>Software will gradually evolve until it no longer really means anything, since anything digital will be creatable instantly at will.</description>
+    <guid isPermaLink="false">2026-11-11:g5293</guid>
+    <description>Software will gradually evolve until it no longer really means anything, since anything digital will be able to be created instantly at will.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>Writing Helps Externalize and Structure Thought</title>
+    <title>Writing serves to externalize and structure thought</title>
     <link>https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</link>
-    <guid isPermaLink="false">2026-11-10:g5294</guid>
-    <description>Language allows part of thought to be externalized, and writing externalizes an even greater portion of it.</description>
+    <guid isPermaLink="false">2026-11-11:g5294</guid>
+    <description>Language allows part of thought to be externalized, and writing externalizes an even larger portion of it.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>Nvidia Chief Reportedly Linked to Alleged Espionage Case</title>
-    <link>https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?st=DGNvz6&amp;reflink=desktopwebshare_permalink</link>
-    <guid isPermaLink="false">2026-11-10:g5295</guid>
-    <description>Jensen Huang told President Trump that he did not know Alice Huang was a spy.</description>
-    <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Investigations Target Nvidia for Potentially Misleading Investors</title>
+    <title>Investigations target Nvidia for potentially misleading investors</title>
     <link>https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/</link>
-    <guid isPermaLink="false">2026-11-10:g5297</guid>
+    <guid isPermaLink="false">2026-11-11:g5297</guid>
     <description>Investigations are underway to determine whether Nvidia misled its investors.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
   </item>
   <item>
-    <title>Wing Will Build Delivery Drone Factory in Texas</title>
+    <title>Wing will build a delivery drone factory in Texas</title>
     <link>https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&amp;reflink=desktopwebshare_permalink</link>
-    <guid isPermaLink="false">2026-11-10:g5298</guid>
+    <guid isPermaLink="false">2026-11-11:g5298</guid>
     <description>Wing, an Alphabet subsidiary, plans to build a 15,000-square-foot factory in Fort Worth. It will be able to produce tens of thousands of aircraft per year.</description>
     <pubDate>Tue, 10 Nov 2026 12:07:00 GMT</pubDate>
     <category>TLDR</category>
@@ -518,7 +512,7 @@
   <item>
     <title>Who could replace Jensen Huang at Nvidia?</title>
     <link>https://l.businessinsider.com/a/zc/21432/320b1c2f6dc841ae969c6e63577b57e2/5fa2d37699a740eaa15256b72492ac07</link>
-    <guid isPermaLink="false">2026-11-10:g5266</guid>
+    <guid isPermaLink="false">2026-11-11:g5266</guid>
     <description>Replacing Jensen Huang would be particularly complex because he runs Nvidia day to day and embodies both the company and the AI industry. Geoff Weiss analyzes the candidates who could succeed him.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -526,7 +520,7 @@
   <item>
     <title>Wall Street strategists bet on an AI rebound again</title>
     <link>https://l.businessinsider.com/a/zc/21432/320b1c2f6dc841ae969c6e63577b57e2/ede4bea15f5c4a48affe6f9aee966909</link>
-    <guid isPermaLink="false">2026-11-10:g5268</guid>
+    <guid isPermaLink="false">2026-11-11:g5268</guid>
     <description>After the sell-off that hit the AI market following the midterm elections, investors are buying the dip. Strategists now expect gains by the end of the year.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -534,7 +528,7 @@
   <item>
     <title>Morgan Stanley proposes a three-part strategy for investing in AI</title>
     <link>https://l.businessinsider.com/a/zc/21432/320b1c2f6dc841ae969c6e63577b57e2/84b3c13359784839abbc8c48644ae7e5</link>
-    <guid isPermaLink="false">2026-11-10:g5269</guid>
+    <guid isPermaLink="false">2026-11-11:g5269</guid>
     <description>Morgan Stanley considers the market’s reaction to the Democratic wave in the midterm elections excessive. The bank recommends investing in hyperscalers, data-center suppliers and companies adopting AI.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -542,7 +536,7 @@
   <item>
     <title>Goldman Sachs’ new partners describe how they celebrated their promotions</title>
     <link>https://l.businessinsider.com/a/zc/21432/320b1c2f6dc841ae969c6e63577b57e2/d04d55091fbd4d828b9a6986bd8b0496</link>
-    <guid isPermaLink="false">2026-11-10:g5270</guid>
+    <guid isPermaLink="false">2026-11-11:g5270</guid>
     <description>Goldman Sachs promoted 109 people to its partnership. Six new partners describe how they learned the news and celebrated their promotions.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -550,7 +544,7 @@
   <item>
     <title>TikTok Shop strengthens the influence of its Chinese executives</title>
     <link>https://l.businessinsider.com/a/zc/21432/320b1c2f6dc841ae969c6e63577b57e2/c2d5a544f332424780339ca5dcf2dae5</link>
-    <guid isPermaLink="false">2026-11-10:g5271</guid>
+    <guid isPermaLink="false">2026-11-11:g5271</guid>
     <description>A leaked organizational chart reveals that China-based executives have increased their power over TikTok Shop. ByteDance sold much of its stake in the U.S. version while retaining tight control of Shop.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -558,7 +552,7 @@
   <item>
     <title>California billionaires avoid a new tax</title>
     <link>https://l.businessinsider.com/a/zc/21432/320b1c2f6dc841ae969c6e63577b57e2/811364fd8e8944b9a2a0cf7288625210</link>
-    <guid isPermaLink="false">2026-11-10:g5272</guid>
+    <guid isPermaLink="false">2026-11-11:g5272</guid>
     <description>California voters rejected Proposition 40, which would have imposed a one-time 5% tax on fortunes exceeding $1 billion. Silicon Valley executives largely funded the opposition campaign.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -566,7 +560,7 @@
   <item>
     <title>An $8 surcharge reveals the scale of hidden fees in the U.S.</title>
     <link>https://l.businessinsider.com/a/zc/21432/518d83d95b1d41afbe4910fcfe26113f/5d0960b7f64b42c491eba19b646a2073</link>
-    <guid isPermaLink="false">2026-11-10:g5274</guid>
+    <guid isPermaLink="false">2026-11-11:g5274</guid>
     <description>A journalist thought she would pay $20 for a haircut before discovering an $8 surcharge. The experience led her to investigate the hidden-fee epidemic, estimated at $90 billion.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -574,7 +568,7 @@
   <item>
     <title>Andrew Huberman joins the board of Hims&amp;Hers</title>
     <link>https://www.businessinsider.com/why-is-andrew-huberman-joining-hims-board-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5275</guid>
+    <guid isPermaLink="false">2026-11-11:g5275</guid>
     <description>Stanford neuroscientist and podcaster Andrew Huberman is joining the board of Hims&amp;Hers. He will advise the company directly on scientific matters and marketing, without changing the topics of his podcast.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -582,7 +576,7 @@
   <item>
     <title>Disney+ prepares creator content and a free tier</title>
     <link>https://www.businessinsider.com/disney-streaming-presentation-2027-priorities-free-tier-vertical-clips-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5276</guid>
+    <guid isPermaLink="false">2026-11-11:g5276</guid>
     <description>Disney’s technology executives presented Disney+’s priorities for the coming year. They include expanding into creator content and launching a free offering.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -590,7 +584,7 @@
   <item>
     <title>Skydance executives address employees after strong results</title>
     <link>https://www.businessinsider.com/skydance-q3-earnings-read-the-memo-ellison-paramount-wbd-deal-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5277</guid>
+    <guid isPermaLink="false">2026-11-11:g5277</guid>
     <description>Skydance’s CEOs spoke to employees after the company beat forecasts in its first earnings report.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -598,7 +592,7 @@
   <item>
     <title>Four tech CEOs explain how they handled relationship scandals</title>
     <link>https://www.businessinsider.com/tech-ceo-relationship-scandals-jensen-bezos-bill-gates-astronomer-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5278</guid>
+    <guid isPermaLink="false">2026-11-11:g5278</guid>
     <description>The article examines how four technology executives handled scandals involving their personal relationships.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -606,7 +600,7 @@
   <item>
     <title>Cohere alumni launch law firm after leaving the company</title>
     <link>https://www.businessinsider.com/startup-law-firm-blackletter-raises-6-million-from-lerer-hippeau-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5279</guid>
+    <guid isPermaLink="false">2026-11-11:g5279</guid>
     <description>Employees left Cohere to pursue careers in law. They say their new firm can avoid the fate experienced by Weil.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -614,7 +608,7 @@
   <item>
     <title>Paramount+ and HBO Max to prepare a bundled offering</title>
     <link>https://www.businessinsider.com/skydance-paramount-hbo-max-streaming-bundle-q3-earnings-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5280</guid>
+    <guid isPermaLink="false">2026-11-11:g5280</guid>
     <description>A bundle combining Paramount+ and HBO Max is in the works. Skydance outlined the timeline for bringing its streaming services together.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -622,7 +616,7 @@
   <item>
     <title>James Gunn and Peter Safran leave DC Studios</title>
     <link>https://www.businessinsider.com/skydance-dc-studios-leadership-james-gunn-peter-safran-jeremy-latcham-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5281</guid>
+    <guid isPermaLink="false">2026-11-11:g5281</guid>
     <description>James Gunn and Peter Safran will leave their positions at DC Studios.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -630,7 +624,7 @@
   <item>
     <title>Apple harvest expected to be particularly poor for U.S. orchards</title>
     <link>https://www.businessinsider.com/apple-orchard-farm-picking-pumpkins-freeze-debt-why-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5282</guid>
+    <guid isPermaLink="false">2026-11-11:g5282</guid>
     <description>Local apple orchards are facing an especially difficult year.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -638,7 +632,7 @@
   <item>
     <title>Legal startup generates $150 million without targeting major firms</title>
     <link>https://www.businessinsider.com/evenup-hits-150-million-recurring-revenue-legal-ai-2026-11</link>
-    <guid isPermaLink="false">2026-11-10:g5284</guid>
+    <guid isPermaLink="false">2026-11-11:g5284</guid>
     <description>A legal startup says it generates $150 million in revenue without seeking to compete directly with major law firms.</description>
     <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
     <category>Business Insider</category>
@@ -646,7 +640,7 @@
   <item>
     <title>Meituan releases LongCat-2.5, a very low-cost open-source coding model</title>
     <link>https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license</link>
-    <guid isPermaLink="false">2026-11-10:g5244</guid>
+    <guid isPermaLink="false">2026-11-11:g5244</guid>
     <description>Meituan is releasing the weights of LongCat-2.5 under the MIT license, a multimodal model that can analyze screenshots and videos before coding in multiple steps. Its API access is priced at $0.30 per million input tokens, compared with $5 for Claude Opus 5.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -654,7 +648,7 @@
   <item>
     <title>Bytedance unveils Seedream 5.5 for editing an image up to 100 times</title>
     <link>https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/</link>
-    <guid isPermaLink="false">2026-11-10:g5245</guid>
+    <guid isPermaLink="false">2026-11-11:g5245</guid>
     <description>Seedream 5.5 supports up to 100 successive edits while preserving unchanged areas and colors. The model also natively generates RGBA images and is gradually rolling out across several Bytedance services.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -662,7 +656,7 @@
   <item>
     <title>Meta launches Muse Ember, nearly as capable as its larger model</title>
     <link>https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/</link>
-    <guid isPermaLink="false">2026-11-10:g5246</guid>
+    <guid isPermaLink="false">2026-11-11:g5246</guid>
     <description>Meta is launching Muse Ember, a small model designed for agents’ repetitive tasks, such as tool calling, routing and data extraction. It achieves nearly the same score as Muse Spark 1.3 at 17 times lower cost per task.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -670,7 +664,7 @@
   <item>
     <title>HOPE halves a large model without retraining</title>
     <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
-    <guid isPermaLink="false">2026-11-10:g5247</guid>
+    <guid isPermaLink="false">2026-11-11:g5247</guid>
     <description>Amazon researchers propose HOPE, a method that removes the least useful experts while accounting for their interactions. It removes 50% of experts and notably improves agentic coding performance compared with the best competing method.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -678,7 +672,7 @@
   <item>
     <title>Law firms split between time savings and resistance to agents</title>
     <link>https://www.theinformation.com/articles/agentic-ai-raises-bar-law-firms</link>
-    <guid isPermaLink="false">2026-11-10:g5249</guid>
+    <guid isPermaLink="false">2026-11-11:g5249</guid>
     <description>Legal industry leaders describe the gains enabled by agents, including bringing outsourced tasks back in-house. Many lawyers, however, remain limited to document summaries because of fatigue or fear of losing billable time.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -686,7 +680,7 @@
   <item>
     <title>Paramount chief sees AI as a major transformation for filmmaking</title>
     <link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
-    <guid isPermaLink="false">2026-11-10:g5250</guid>
+    <guid isPermaLink="false">2026-11-11:g5250</guid>
     <description>David Ellison calls AI “the greatest creative lever in modern history” and compares it with the arrival of computer-generated imagery in the 1990s. No concrete project has been announced, however.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -694,7 +688,7 @@
   <item>
     <title>Researchers propose “cognitive symbiotes” rather than autonomous agents</title>
     <link>https://arxiv.org/abs/2611.05376</link>
-    <guid isPermaLink="false">2026-11-10:g5251</guid>
+    <guid isPermaLink="false">2026-11-11:g5251</guid>
     <description>A paper proposes persistent AI companions that remember context, spot forgotten details, and intervene at the right moment. The approach aims to strengthen human reasoning but remains conceptual and raises risks involving dependence, privacy, and equity.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -702,7 +696,7 @@
   <item>
     <title>Muir improves model efficiency on long texts</title>
     <link>https://arxiv.org/abs/2611.08376</link>
-    <guid isPermaLink="false">2026-11-10:g5252</guid>
+    <guid isPermaLink="false">2026-11-11:g5252</guid>
     <description>Muir is a linear-attention architecture that focuses its resources on the most important information in internal memory. On small models, it retrieves information from long documents more effectively and speeds up training by 2.7 times at 32K context.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -710,7 +704,7 @@
   <item>
     <title>DeepX announces a chip capable of running 100 billion parameters under 5 watts</title>
     <link>https://link.mail.beehiiv.com/v2/c/18af8a437d222bc12d4a59b5d68fa1b51a25316f8f4cdf95df4e30c9160ce1a2d41afe31a0716301dd2b9f884f750119026c796af86b83e1628ada797329d00a84c8fb7df19a95e875f4fc0c27ed928b0d36e7c82a89d76476e583860c7dc84c366db2f4520342a1536c2aa9a01eae4cf2cb3dd19f9c89768328f49eadbeb4a21bfa84e99dd8f58e6a0f25192ecada6bfb7852aefe14fc878a699ac8392e79d1/be2b3918187cbea0</link>
-    <guid isPermaLink="false">2026-11-10:g5253</guid>
+    <guid isPermaLink="false">2026-11-11:g5253</guid>
     <description>Korean manufacturer DeepX claims it can run models with up to 100 billion parameters using less than 5 watts. The second-generation chip is ready for manufacturing, but the reported gains remain the manufacturer’s projections.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -718,7 +712,7 @@
   <item>
     <title>Coalition opposes Google data center near London</title>
     <link>https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/</link>
-    <guid isPermaLink="false">2026-11-10:g5254</guid>
+    <guid isPermaLink="false">2026-11-11:g5254</guid>
     <description>In Thurrock, the Buglife association, NGO Foxglove, and a motorcycle club delivered a petition with nearly 55,000 signatures to Google. They denounce the project’s effects on a rare plant and bumblebee, pollution, and the loss of a former motorcycle track.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -726,7 +720,7 @@
   <item>
     <title>Tencent wants to remove dangerous knowledge from training data</title>
     <link>https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/</link>
-    <guid isPermaLink="false">2026-11-10:g5256</guid>
+    <guid isPermaLink="false">2026-11-11:g5256</guid>
     <description>Tencent’s chief AI scientist believes AI will soon be able to design biological weapons, but says closing models is not a solution. For its future open model Hy4, Tencent plans to remove dangerous knowledge directly from the training data.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -734,7 +728,7 @@
   <item>
     <title>US companies without employees are growing with AI</title>
     <link>https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html</link>
-    <guid isPermaLink="false">2026-11-10:g5257</guid>
+    <guid isPermaLink="false">2026-11-11:g5257</guid>
     <description>In sectors exposed to AI, new businesses with no plans to hire increased by 26.8% between early 2024 and early 2026. New businesses planning to recruit fell by 6.4%, but a causal link to AI has not yet been established.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -742,7 +736,7 @@
   <item>
     <title>Claude reveals more than 100 vulnerabilities in UK government projects</title>
     <link>https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/</link>
-    <guid isPermaLink="false">2026-11-10:g5259</guid>
+    <guid isPermaLink="false">2026-11-11:g5259</guid>
     <description>Using Claude Opus and Sonnet, a researcher found vulnerabilities in roughly two-thirds of 349 public projects belonging to 33 UK organizations. One vulnerability provided read and write access to SharePoint and OneDrive spaces containing HR files.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -750,7 +744,7 @@
   <item>
     <title>Trump downplays AI risks on 60 Minutes</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</link>
-    <guid isPermaLink="false">2026-11-10:g5261</guid>
+    <guid isPermaLink="false">2026-11-11:g5261</guid>
     <description>Donald Trump considers the risk posed by AI “far less real” than industry leaders say and claims it is controlled by the Justice Department. He also recounted an unverifiable anecdote about an AI company executive threatened with prison.</description>
     <pubDate>Tue, 10 Nov 2026 10:05:00 GMT</pubDate>
     <category>Vision IA</category>
@@ -758,7 +752,7 @@
   <item>
     <title>Nothing will launch its first AI device in December</title>
     <link>https://link.nl.technologyadvice.com/click/48328038.26164/aHR0cHM6Ly93d3cudGVjaHJlcHVibGljLmNvbS9hcnRpY2xlL25ld3Mtbm90aGluZy1haS1kZXZpY2UtZGVjZW1iZXItMjAyNi1sYXVuY2gv/698126e1c6ab2339774ccb03B7487b07e</link>
-    <guid isPermaLink="false">2026-11-10:g5234</guid>
+    <guid isPermaLink="false">2026-11-11:g5234</guid>
     <description>Nothing will launch its first AI-native productivity device in December, without a new screen. Carl Pei mentions novel contextual features, with details to be revealed soon.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -766,7 +760,7 @@
   <item>
     <title>Aina’s AI ring turns the thumb into an approval button</title>
     <link>https://www.techrepublic.com/article/news-aina-ai-ring-task-approvals/</link>
-    <guid isPermaLink="false">2026-11-10:g4819</guid>
+    <guid isPermaLink="false">2026-11-11:g4819</guid>
     <description>Aina’s $399 ring offers contextual actions approved with a thumb movement, such as booking a ride, managing meetings, or answering calls. IT professionals should specifically verify compatibility, permissions, and audit trails.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -774,7 +768,7 @@
   <item>
     <title>Nvidia strengthens AI chip tracking in Southeast Asia</title>
     <link>https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/</link>
-    <guid isPermaLink="false">2026-11-10:g5236</guid>
+    <guid isPermaLink="false">2026-11-11:g5236</guid>
     <description>Nvidia now requires its Southeast Asian cloud partners to enroll in Fleet Intelligence to strengthen GPU tracking, amid allegations of chip smuggling to China. The measure could affect partner status, GPU availability, and compliance with export rules.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -782,7 +776,7 @@
   <item>
     <title>Cursor can create and deploy web applications from prompts</title>
     <link>https://www.techrepublic.com/article/news-cursor-build-live-apps-features-pricing-security/</link>
-    <guid isPermaLink="false">2026-11-10:g5237</guid>
+    <guid isPermaLink="false">2026-11-11:g5237</guid>
     <description>Cursor’s Build Live Apps feature generates, secures, and deploys complete applications with a database, authentication, and hosting. It aims to reduce setup time for internal tools, but its security and pricing limitations should be examined.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -790,7 +784,7 @@
   <item>
     <title>Google’s AI video model cuts prices by 30%</title>
     <link>https://www.techrepublic.com/article/news-google-omni-1-2-flash-video/</link>
-    <guid isPermaLink="false">2026-11-10:g4806</guid>
+    <guid isPermaLink="false">2026-11-11:g4806</guid>
     <description>Google’s Omni 1.2 Flash cuts the cost of AI video generation by 30% and produces clips of up to 15 seconds. It can generate 720p videos at $0.07 per second, with multi-turn editing and improved consistency.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -798,7 +792,7 @@
   <item>
     <title>AI becomes widespread as threats and pressures increase</title>
     <link>https://www.techrepublic.com/article/this-week-in-tech-ai-expands-everywhere-as-security-threats-and-infrastructure-pressures-mount/</link>
-    <guid isPermaLink="false">2026-11-10:g5240</guid>
+    <guid isPermaLink="false">2026-11-11:g5240</guid>
     <description>AI is being deployed everywhere and creating new security and infrastructure problems. Generative advances, attacks, and cost pressures are reshaping corporate priorities.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -806,7 +800,7 @@
   <item>
     <title>Five Canva alternatives for businesses in 2027</title>
     <link>https://www.techrepublic.com/article/news-best-canva-alternatives-businesses-2027/</link>
-    <guid isPermaLink="false">2026-11-10:g5241</guid>
+    <guid isPermaLink="false">2026-11-11:g5241</guid>
     <description>Adobe Express, Visme, VistaCreate, Figma, and Piktochart each address specific professional needs, from branding to data visualization. The article recommends testing these solutions for two weeks before switching tools.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -814,7 +808,7 @@
   <item>
     <title>AI data center boom prompts political backlash in the United States</title>
     <link>https://technologyadvice.com</link>
-    <guid isPermaLink="false">2026-11-10:g5242</guid>
+    <guid isPermaLink="false">2026-11-11:g5242</guid>
     <description>Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.</description>
     <pubDate>Tue, 10 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
@@ -822,7 +816,7 @@
   <item>
     <title>Disney and Adobe to create AI image models trained on the Disney universe</title>
     <link>https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance</link>
-    <guid isPermaLink="false">2026-11-10:g5203</guid>
+    <guid isPermaLink="false">2026-11-11:g5203</guid>
     <description>Disney is developing its own AI image models based on its characters, settings and styles. The multi-year partnership with Adobe is expected to produce generators for parks, cruises, production and marketing, among other uses.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
@@ -830,7 +824,7 @@
   <item>
     <title>Fireworks AI confirms billing and model data breach</title>
     <link>https://fireworks.ai/security/bulletins/october-2026-security-incident-update</link>
-    <guid isPermaLink="false">2026-11-10:g5225</guid>
+    <guid isPermaLink="false">2026-11-11:g5225</guid>
     <description>Attackers accessed customer billing data, excluding card numbers, as well as model weights and incomplete datasets for some customers. Fireworks links the incident to a group that resells access to stolen AI accounts.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
@@ -838,7 +832,7 @@
   <item>
     <title>Cisco integrates Anthropic’s Claude Mythos into its AI defense offering</title>
     <link>https://blogs.cisco.com/ai/cisco-ai-defense-to-add-anthropics-claude-mythos-for-ai-red-teaming</link>
-    <guid isPermaLink="false">2026-11-10:g5230</guid>
+    <guid isPermaLink="false">2026-11-11:g5230</guid>
     <description>Cisco plans to add Claude Mythos to AI Defense so some companies can run adaptive red-team tests on their own AI applications.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
@@ -846,7 +840,7 @@
   <item>
     <title>Liquid Energy unveils NanoDC, a prefabricated solar AI data center</title>
     <link>https://www.theneuron.ai/news/liquid-energy-nanodc-solar-ai-data-centers/</link>
-    <guid isPermaLink="false">2026-11-10:g5231</guid>
+    <guid isPermaLink="false">2026-11-11:g5231</guid>
     <description>The Y Combinator startup claims that NanoDC, a factory-built solar data center for AI, can be deployed in four weeks. These figures are company-reported.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
@@ -854,7 +848,7 @@
   <item>
     <title>Adobe study says AI is accelerating growth for many creators</title>
     <link>https://www.theneuron.ai/news/adobe-creator-report-ai-growth-creative-control-gap/</link>
-    <guid isPermaLink="false">2026-11-10:g5232</guid>
+    <guid isPermaLink="false">2026-11-11:g5232</guid>
     <description>According to Adobe’s survey, 78% of creative AI users believe these tools have accelerated the growth of their business or audience. The study also says that 68% at least sometimes accept results that do not match their vision.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
@@ -862,7 +856,7 @@
   <item>
     <title>Why AI pilots still struggle to reach enterprise scale</title>
     <link>https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtYEsUTL4LYU51pbwPFaoaBBg5fB4Ap9CKey8bESYq-V6xDaZcirNdO4vEqCn__FzsszbocUZbY0r4Fu2Qq0CPgul8wKXxt4XHLCtVDq4HwdPMhEb2mugu2RYDgo31R-gtUHoqdOvTLDHL7zkqwyEJgBCDFbjIJLnS6opavTx8K8gPj9Tf3JOV1x3wD_q8qEuvZbqyfDxexyw9NZqr8w0nvD9UTH9AxKGJgwvZr03-M0NmdUvPKjKmkdGfju6n7dHzffq0NAT3SBW4js5lEULYxd09etxvYONZX8QrW7c1sz1lD6GjWKGNOpokjPG-dlfyIz7vLIbozBgyaM9GvPEvS0/4vm/cWmNzN4sSXmoFOAS7_ZJ9w/h29/h001.1jIdrL0_SUKXOZ36rq_ki5XclEFpPFV2Bj7tzaLqR6Q</link>
-    <guid isPermaLink="false">2026-11-10:g5233</guid>
+    <guid isPermaLink="false">2026-11-11:g5233</guid>
     <description>The article examines why successful AI pilot projects still have difficulty being deployed at scale in enterprises.</description>
     <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
     <category>The Neuron</category>
@@ -870,7 +864,7 @@
   <item>
     <title>The Value Stack helps prioritize customer benefits</title>
     <link>https://cBsfv04.na1.hubspotlinks.com/Ctc/W0+113/cBsfv04/VX0Bnd281wnJW2cFL7X95fQkbV3Z50p5X9JzMN8wLL5R5nXHCW7lCGcx6lZ3n4W4dt20M4jkzsXW5hglZK75mD-nW4G_jz04smwBgW2Tz3gM6FP5-8W3qLj1x7GPv7-W115nQn4TdH99W2psbGt98FHgmW5-grsd4X9-V3W6zGDm457N1PFW943p0229YMdYW8KY4g36rQQd2W8JV3rD4trZv3W5mwql26KqxPrW5zryWh3GznMfVFN-Vv1Rz65FW1zrwNX80b11cW7qZ9TB8C3cXHW1HlLkS4ZMLXVW3F_m155s_n8CW4dblh94HhwY3VkTGV_3YWWcsVMYKDw52nd_xW1xHPKt7lH-X0W3gWrh97cLC5pW1mgZ3Q8c0td_VB8DCS65HztTW3Q8hhz2GJQHHW4VJvcT6MwG8bW3wHVYl91cWYRW75-xl82j4NS2W1Pfs-v2jKM8DW8BKZ3X140PH_W6LD2k53XnFt1W28lX6S17Fxj4W2tjY496B0wF0VmnP6W54clDzW8jZhBQ7V5JycW45SZNx5rCXkWW5r0wvw4tVlNbN2M3zGnR43-5f3VtMg404</link>
-    <guid isPermaLink="false">2026-11-10:g5222</guid>
+    <guid isPermaLink="false">2026-11-11:g5222</guid>
     <description>Customers do not place equal importance on every benefit: some determine their choice, others reinforce it, while “table stakes” are simply expected. Strategyzer’s Value Stack organizes these benefits into three categories to help build a more differentiated value proposition.</description>
     <pubDate>Tue, 10 Nov 2026 07:34:00 GMT</pubDate>
     <category>Strategyzer</category>
