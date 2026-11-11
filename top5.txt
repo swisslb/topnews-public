@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-11
 
-Period: 2026-11-10T06:25+01:00 → 2026-11-11T06:25+01:00 · 106 news received
+Period: 2026-11-10T13:25+01:00 → 2026-11-11T13:25+01:00 · 91 news received
 
-## 1. Google unveils two new TPU chips and increases pressure on Nvidia
+## 1. Anthropic targets a $1.4 trillion valuation for its IPO
 
-**Why it matters:** Google’s new TPUs signal a serious expansion of hyperscaler-designed AI chips that could pressure Nvidia’s market share, pricing power, and long-term growth.
+**Why it matters:** Anthropic’s planned IPO could raise $90 billion at a valuation of up to $1.4 trillion, making it a defining test of investor appetite for frontier-AI companies and their enormous capital needs.
+
+According to a regulatory filing, Anthropic could raise $90 billion and reach a $1.4 trillion valuation in its IPO. The company plans to offer its shares at between $70 and $78 and has already secured purchase commitments worth $26 billion.
+
+- Link: https://www.businessinsider.com/anthropic-sets-ipo-price-range-blockbuster-ipo-valuation-2026-11
+- Sources: Business Insider, The Neuron
+- Received: 2026-11-11T12:24+01:00
+
+## 2. Google unveils two new TPU chips and increases pressure on Nvidia
+
+**Why it matters:** Google’s next-generation TPUs and projected $135 billion in 2028 sales signal a serious alternative to Nvidia and could reshape the AI-chip supply chain and competitive economics.
 
 Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.
 
 - Link: https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111
-- Sources: Superhuman, TLDR IT, TLDR, Vision IA
+- Sources: Superhuman, TLDR IT
 - Received: 2026-11-10T15:10+01:00
 
-## 2. Anthropic unveils its Claude Fable 5.2 and Mythos 5.2 models
+## 3. The U.S. and China create an alert channel for superintelligence
 
-**Why it matters:** Anthropic’s faster and cheaper Claude models intensify competition among frontier AI providers and could accelerate enterprise adoption by lowering inference costs.
+**Why it matters:** The U.S. and China will establish an alert channel for serious superintelligence incidents, an important first step toward managing geopolitical AI risks despite lacking binding limits.
 
-Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.
+Washington and Beijing will share their methods for testing models and alert each other in the event of a serious incident. Neither country is committing to slow AI development, however.
 
-- Link: https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html
-- Sources: Techpresso, Superhuman, TLDR, Vision IA, The Neuron
-- Received: 2026-11-10T18:13+01:00
-
-## 3. Meituan releases LongCat-2.5, a very low-cost open-source coding model
-
-**Why it matters:** Meituan’s open-weight coding model, priced dramatically below leading rivals, highlights the accelerating commoditization of capable AI and falling software-development costs.
-
-Meituan is releasing the weights of LongCat-2.5 under the MIT license, a multimodal model that can analyze screenshots and videos before coding in multiple steps. Its API access is priced at $0.30 per million input tokens, compared with $5 for Claude Opus 5.
-
-- Link: https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license
+- Link: https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html
 - Sources: Vision IA
-- Received: 2026-11-10T11:05+01:00
+- Received: 2026-11-11T11:03+01:00
 
-## 4. AI data center boom prompts political backlash in the United States
+## 4. Lazarus shows that fewer than ten neurons can trap an AI agent
 
-**Why it matters:** Political resistance to AI data centers could slow permitting, raise infrastructure costs, and reshape where the industry can add computing capacity.
+**Why it matters:** Microsoft Research’s finding that fewer than ten dormant neurons can hide a backdoor capable of triggering malicious code exposes a fundamental security risk for deployed AI agents.
 
-Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.
+Microsoft Research shows that a backdoor can be hidden by reactivating fewer than ten dormant neurons, without retraining the model. An innocuous trigger can then prompt the agent to download and execute malicious code.
 
-- Link: https://technologyadvice.com
-- Sources: TechnologyAdvice
-- Received: 2026-11-10T10:33+01:00
+- Link: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
+- Sources: Vision IA
+- Received: 2026-11-11T11:03+01:00
 
-## 5. Fireworks AI confirms billing and model data breach
+## 5. Companies prepare for the mass arrival of personal AI agents
 
-**Why it matters:** The Fireworks AI breach shows that AI infrastructure providers are becoming high-value targets, with exposure of customer data, model weights, and datasets creating significant security and trust risks.
+**Why it matters:** Companies including Shopify and Hilton are redesigning platforms for traffic from personal AI agents, marking the beginning of a potentially major shift in digital commerce and API governance.
 
-Attackers accessed customer billing data, excluding card numbers, as well as model weights and incomplete datasets for some customers. Fireworks links the incident to a group that resells access to stolen AI accounts.
+Companies are preparing for increased traffic generated by personal AI agents such as Meta’s Muse and Instinct, viewed both as commercial channels and governance challenges. Shopify, Hilton and Rocket are among those adapting their platforms and APIs.
 
-- Link: https://fireworks.ai/security/bulletins/october-2026-security-incident-update
-- Sources: The Neuron
-- Received: 2026-11-10T10:30+01:00
+- Link: https://www.constellationr.com/insights/news/enterprises-prep-influx-personal-ai-agents
+- Sources: TLDR IT
+- Received: 2026-11-10T14:50+01:00
