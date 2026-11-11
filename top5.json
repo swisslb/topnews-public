@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "news_count": 107,
+  "date": "2026-11-11",
+  "news_count": 106,
   "top5": [
     {
       "rank": 1,
@@ -18,7 +18,7 @@
       "covered_by": 4,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s new TPUs could materially intensify competition with Nvidia and reshape the economics and supply chain of AI infrastructure when they ship."
+      "why": "Google’s new TPUs signal a serious expansion of hyperscaler-designed AI chips that could pressure Nvidia’s market share, pricing power, and long-term growth."
     },
     {
       "rank": 2,
@@ -37,10 +37,25 @@
       "covered_by": 5,
       "favorite": false,
       "followed_topic": null,
-      "why": "Anthropic’s faster, cheaper Claude models could accelerate enterprise AI adoption while increasing competitive and pricing pressure across the frontier-model market."
+      "why": "Anthropic’s faster and cheaper Claude models intensify competition among frontier AI providers and could accelerate enterprise adoption by lowering inference costs."
     },
     {
       "rank": 3,
+      "id": "g5244",
+      "title": "Meituan releases LongCat-2.5, a very low-cost open-source coding model",
+      "description": "Meituan is releasing the weights of LongCat-2.5 under the MIT license, a multimodal model that can analyze screenshots and videos before coding in multiple steps. Its API access is priced at $0.30 per million input tokens, compared with $5 for Claude Opus 5.",
+      "link": "https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-10T11:05+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Meituan’s open-weight coding model, priced dramatically below leading rivals, highlights the accelerating commoditization of capable AI and falling software-development costs."
+    },
+    {
+      "rank": 4,
       "id": "g5242",
       "title": "AI data center boom prompts political backlash in the United States",
       "description": "Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.",
@@ -52,43 +67,27 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Political opposition to AI data centers threatens to slow capacity expansion, raise infrastructure costs and change where future computing power is built."
-    },
-    {
-      "rank": 4,
-      "id": "g5227",
-      "title": "OpenAI creates a kill switch for its research models",
-      "description": "OpenAI developed Control Room, a system capable of cutting off a research AI model’s access to its outputs. It tracks training, evaluations and data processing, but a cached authorization can delay shutdown by 35 seconds.",
-      "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents",
-      "sources": [
-        "Techpresso",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-10T18:13+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s Control Room represents a significant step toward operational governance of powerful research models, although its 35-second shutdown delay exposes residual safety risk."
+      "why": "Political resistance to AI data centers could slow permitting, raise infrastructure costs, and reshape where the industry can add computing capacity."
     },
     {
       "rank": 5,
-      "id": "g5259",
-      "title": "Claude reveals more than 100 vulnerabilities in UK government projects",
-      "description": "Using Claude Opus and Sonnet, a researcher found vulnerabilities in roughly two-thirds of 349 public projects belonging to 33 UK organizations. One vulnerability provided read and write access to SharePoint and OneDrive spaces containing HR files.",
-      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "id": "g5225",
+      "title": "Fireworks AI confirms billing and model data breach",
+      "description": "Attackers accessed customer billing data, excluding card numbers, as well as model weights and incomplete datasets for some customers. Fireworks links the incident to a group that resells access to stolen AI accounts.",
+      "link": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
       "sources": [
-        "Vision IA"
+        "The Neuron"
       ],
-      "received_at": "2026-11-10T11:05+01:00",
+      "received_at": "2026-11-10T10:30+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Claude’s discovery of vulnerabilities across roughly two-thirds of tested UK public-sector projects highlights the urgent cyber risk created by AI-assisted vulnerability research."
+      "why": "The Fireworks AI breach shows that AI infrastructure providers are becoming high-value targets, with exposure of customer data, model weights, and datasets creating significant security and trust risks."
     }
   ],
   "period": {
-    "from": "2026-11-09T19:25+01:00",
-    "to": "2026-11-10T19:25+01:00"
+    "from": "2026-11-10T06:25+01:00",
+    "to": "2026-11-11T06:25+01:00"
   },
-  "generated_at": "2026-11-10T19:25+01:00"
+  "generated_at": "2026-11-11T06:25+01:00"
 }
