@@ -3,49 +3,51 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-11</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 91 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 111 news received.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 11 Nov 2026 12:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 18:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. Anthropic targets a $1.4 trillion valuation for its IPO</title>
+    <title>1. Google makes Gemini 4 Carbon available to the general public</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
+    <guid isPermaLink="false">2026-11-11:g5347</guid>
+    <description>Why it matters: Google’s release of Gemini 4 Carbon to the public expands access to a model built for complex, long-running tasks and could intensify competition across the AI market. After two weeks of limited availability to cybersecurity defenders, Gemini 4 Carbon is now accessible through Gemini, Search’s AI mode, Antigravity, or the API reserved for AI Ultra subscribers. Google says the model is particularly capable at complex, long-running tasks, precision knowledge, and data analysis.</description>
+    <pubDate>Wed, 11 Nov 2026 14:10:00 GMT</pubDate>
+    <category>Superhuman</category>
+    <category>TLDR</category>
+    <category>The Neuron</category>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>2. Anthropic targets a $1.4 trillion valuation for its IPO</title>
     <link>https://www.businessinsider.com/anthropic-sets-ipo-price-range-blockbuster-ipo-valuation-2026-11</link>
     <guid isPermaLink="false">2026-11-11:g4885</guid>
-    <description>Why it matters: Anthropic’s planned IPO could raise $90 billion at a valuation of up to $1.4 trillion, making it a defining test of investor appetite for frontier-AI companies and their enormous capital needs. According to a regulatory filing, Anthropic could raise $90 billion and reach a $1.4 trillion valuation in its IPO. The company plans to offer its shares at between $70 and $78 and has already secured purchase commitments worth $26 billion.</description>
+    <description>Why it matters: Anthropic’s planned IPO, potentially valuing the company at $1.4 trillion and raising up to $90 billion, would be a landmark test of investor appetite for AI companies. According to a regulatory filing, Anthropic could raise $90 billion and reach a $1.4 trillion valuation in its IPO. The company plans to offer its shares at between $70 and $78 and has already secured purchase commitments worth $26 billion.</description>
     <pubDate>Wed, 11 Nov 2026 11:24:00 GMT</pubDate>
     <category>Business Insider</category>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>2. Google unveils two new TPU chips and increases pressure on Nvidia</title>
+    <title>3. Google unveils two new eighth-generation TPU chips</title>
     <link>https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111</link>
     <guid isPermaLink="false">2026-11-11:g5204</guid>
-    <description>Why it matters: Google’s next-generation TPUs and projected $135 billion in 2028 sales signal a serious alternative to Nvidia and could reshape the AI-chip supply chain and competitive economics. Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.</description>
-    <pubDate>Tue, 10 Nov 2026 14:10:00 GMT</pubDate>
-    <category>Superhuman</category>
-    <category>TLDR IT</category>
-  </item>
-  <item>
-    <title>3. The U.S. and China create an alert channel for superintelligence</title>
-    <link>https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html</link>
-    <guid isPermaLink="false">2026-11-11:g5349</guid>
-    <description>Why it matters: The U.S. and China will establish an alert channel for serious superintelligence incidents, an important first step toward managing geopolitical AI risks despite lacking binding limits. Washington and Beijing will share their methods for testing models and alert each other in the event of a serious incident. Neither country is committing to slow AI development, however.</description>
-    <pubDate>Wed, 11 Nov 2026 10:03:00 GMT</pubDate>
-    <category>Vision IA</category>
+    <description>Why it matters: Google’s eighth-generation TPU launches increase pressure on Nvidia and reinforce the strategic importance of vertically integrated AI compute. Google presented two new eighth-generation TPU chips, increasing pressure on Nvidia as competition for dedicated AI hardware intensifies.</description>
+    <pubDate>Wed, 11 Nov 2026 16:03:00 GMT</pubDate>
+    <category>AI Gen Art</category>
   </item>
   <item>
     <title>4. Lazarus shows that fewer than ten neurons can trap an AI agent</title>
     <link>https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/</link>
     <guid isPermaLink="false">2026-11-11:g5370</guid>
-    <description>Why it matters: Microsoft Research’s finding that fewer than ten dormant neurons can hide a backdoor capable of triggering malicious code exposes a fundamental security risk for deployed AI agents. Microsoft Research shows that a backdoor can be hidden by reactivating fewer than ten dormant neurons, without retraining the model. An innocuous trigger can then prompt the agent to download and execute malicious code.</description>
+    <description>Why it matters: Microsoft Research’s Lazarus finding shows that AI agents can be compromised through a backdoor hidden in fewer than ten dormant neurons, creating a serious security risk for enterprise deployments. Microsoft Research shows that a backdoor can be hidden by reactivating fewer than ten dormant neurons, without retraining the model. An innocuous trigger can then prompt the agent to download and execute malicious code.</description>
     <pubDate>Wed, 11 Nov 2026 10:03:00 GMT</pubDate>
     <category>Vision IA</category>
   </item>
   <item>
-    <title>5. Companies prepare for the mass arrival of personal AI agents</title>
-    <link>https://www.constellationr.com/insights/news/enterprises-prep-influx-personal-ai-agents</link>
-    <guid isPermaLink="false">2026-11-11:g5302</guid>
-    <description>Why it matters: Companies including Shopify and Hilton are redesigning platforms for traffic from personal AI agents, marking the beginning of a potentially major shift in digital commerce and API governance. Companies are preparing for increased traffic generated by personal AI agents such as Meta’s Muse and Instinct, viewed both as commercial channels and governance challenges. Shopify, Hilton and Rocket are among those adapting their platforms and APIs.</description>
-    <pubDate>Tue, 10 Nov 2026 13:50:00 GMT</pubDate>
+    <title>5. ChatGPT Enterprise arrives on AWS Marketplace</title>
+    <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace/</link>
+    <guid isPermaLink="false">2026-11-11:g5226</guid>
+    <description>Why it matters: Offering ChatGPT Enterprise through AWS Marketplace lowers procurement friction, lets customers use existing cloud commitments, and strengthens OpenAI’s enterprise distribution. OpenAI now offers ChatGPT Enterprise through AWS Marketplace, with purchasing, management, and billing handled through existing AWS accounts. Customers can use their AWS commitments and access specialized offerings for healthcare and finance.</description>
+    <pubDate>Wed, 11 Nov 2026 13:51:00 GMT</pubDate>
     <category>TLDR IT</category>
   </item>
 </channel>
