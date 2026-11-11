@@ -1,93 +1,88 @@
 {
   "date": "2026-11-11",
-  "news_count": 106,
+  "news_count": 91,
   "top5": [
     {
       "rank": 1,
+      "id": "g4885",
+      "title": "Anthropic targets a $1.4 trillion valuation for its IPO",
+      "description": "According to a regulatory filing, Anthropic could raise $90 billion and reach a $1.4 trillion valuation in its IPO. The company plans to offer its shares at between $70 and $78 and has already secured purchase commitments worth $26 billion.",
+      "link": "https://www.businessinsider.com/anthropic-sets-ipo-price-range-blockbuster-ipo-valuation-2026-11",
+      "sources": [
+        "Business Insider",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-11T12:24+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers",
+      "why": "Anthropic’s planned IPO could raise $90 billion at a valuation of up to $1.4 trillion, making it a defining test of investor appetite for frontier-AI companies and their enormous capital needs."
+    },
+    {
+      "rank": 2,
       "id": "g5204",
       "title": "Google unveils two new TPU chips and increases pressure on Nvidia",
       "description": "Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.",
       "link": "https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111",
       "sources": [
         "Superhuman",
-        "TLDR IT",
-        "TLDR",
-        "Vision IA"
+        "TLDR IT"
       ],
       "received_at": "2026-11-10T15:10+01:00",
-      "covered_by": 4,
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s new TPUs signal a serious expansion of hyperscaler-designed AI chips that could pressure Nvidia’s market share, pricing power, and long-term growth."
-    },
-    {
-      "rank": 2,
-      "id": "g5224",
-      "title": "Anthropic unveils its Claude Fable 5.2 and Mythos 5.2 models",
-      "description": "Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.",
-      "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-      "sources": [
-        "Techpresso",
-        "Superhuman",
-        "TLDR",
-        "Vision IA",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-10T18:13+01:00",
-      "covered_by": 5,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Anthropic’s faster and cheaper Claude models intensify competition among frontier AI providers and could accelerate enterprise adoption by lowering inference costs."
+      "why": "Google’s next-generation TPUs and projected $135 billion in 2028 sales signal a serious alternative to Nvidia and could reshape the AI-chip supply chain and competitive economics."
     },
     {
       "rank": 3,
-      "id": "g5244",
-      "title": "Meituan releases LongCat-2.5, a very low-cost open-source coding model",
-      "description": "Meituan is releasing the weights of LongCat-2.5 under the MIT license, a multimodal model that can analyze screenshots and videos before coding in multiple steps. Its API access is priced at $0.30 per million input tokens, compared with $5 for Claude Opus 5.",
-      "link": "https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license",
+      "id": "g5349",
+      "title": "The U.S. and China create an alert channel for superintelligence",
+      "description": "Washington and Beijing will share their methods for testing models and alert each other in the event of a serious incident. Neither country is committing to slow AI development, however.",
+      "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
       "sources": [
         "Vision IA"
       ],
-      "received_at": "2026-11-10T11:05+01:00",
+      "received_at": "2026-11-11T11:03+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Meituan’s open-weight coding model, priced dramatically below leading rivals, highlights the accelerating commoditization of capable AI and falling software-development costs."
+      "why": "The U.S. and China will establish an alert channel for serious superintelligence incidents, an important first step toward managing geopolitical AI risks despite lacking binding limits."
     },
     {
       "rank": 4,
-      "id": "g5242",
-      "title": "AI data center boom prompts political backlash in the United States",
-      "description": "Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.",
-      "link": "https://technologyadvice.com",
+      "id": "g5370",
+      "title": "Lazarus shows that fewer than ten neurons can trap an AI agent",
+      "description": "Microsoft Research shows that a backdoor can be hidden by reactivating fewer than ten dormant neurons, without retraining the model. An innocuous trigger can then prompt the agent to download and execute malicious code.",
+      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
       "sources": [
-        "TechnologyAdvice"
+        "Vision IA"
       ],
-      "received_at": "2026-11-10T10:33+01:00",
+      "received_at": "2026-11-11T11:03+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Political resistance to AI data centers could slow permitting, raise infrastructure costs, and reshape where the industry can add computing capacity."
+      "why": "Microsoft Research’s finding that fewer than ten dormant neurons can hide a backdoor capable of triggering malicious code exposes a fundamental security risk for deployed AI agents."
     },
     {
       "rank": 5,
-      "id": "g5225",
-      "title": "Fireworks AI confirms billing and model data breach",
-      "description": "Attackers accessed customer billing data, excluding card numbers, as well as model weights and incomplete datasets for some customers. Fireworks links the incident to a group that resells access to stolen AI accounts.",
-      "link": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+      "id": "g5302",
+      "title": "Companies prepare for the mass arrival of personal AI agents",
+      "description": "Companies are preparing for increased traffic generated by personal AI agents such as Meta’s Muse and Instinct, viewed both as commercial channels and governance challenges. Shopify, Hilton and Rocket are among those adapting their platforms and APIs.",
+      "link": "https://www.constellationr.com/insights/news/enterprises-prep-influx-personal-ai-agents",
       "sources": [
-        "The Neuron"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-10T10:30+01:00",
+      "received_at": "2026-11-10T14:50+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The Fireworks AI breach shows that AI infrastructure providers are becoming high-value targets, with exposure of customer data, model weights, and datasets creating significant security and trust risks."
+      "why": "Companies including Shopify and Hilton are redesigning platforms for traffic from personal AI agents, marking the beginning of a potentially major shift in digital commerce and API governance."
     }
   ],
   "period": {
-    "from": "2026-11-10T06:25+01:00",
-    "to": "2026-11-11T06:25+01:00"
+    "from": "2026-11-10T13:25+01:00",
+    "to": "2026-11-11T13:25+01:00"
   },
-  "generated_at": "2026-11-11T06:25+01:00"
+  "generated_at": "2026-11-11T13:25+01:00"
 }
