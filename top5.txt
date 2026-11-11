@@ -1,10 +1,10 @@
-# Top 5 news of the day — 2026-11-10
+# Top 5 news of the day — 2026-11-11
 
-Period: 2026-11-09T19:25+01:00 → 2026-11-10T19:25+01:00 · 107 news received
+Period: 2026-11-10T06:25+01:00 → 2026-11-11T06:25+01:00 · 106 news received
 
 ## 1. Google unveils two new TPU chips and increases pressure on Nvidia
 
-**Why it matters:** Google’s new TPUs could materially intensify competition with Nvidia and reshape the economics and supply chain of AI infrastructure when they ship.
+**Why it matters:** Google’s new TPUs signal a serious expansion of hyperscaler-designed AI chips that could pressure Nvidia’s market share, pricing power, and long-term growth.
 
 Google introduced two new versions of its eighth-generation TPUs, which are used to train and run Gemini. They are expected to ship in 2027, while TPU sales could exceed $135 billion in 2028.
 
@@ -14,7 +14,7 @@ Google introduced two new versions of its eighth-generation TPUs, which are used
 
 ## 2. Anthropic unveils its Claude Fable 5.2 and Mythos 5.2 models
 
-**Why it matters:** Anthropic’s faster, cheaper Claude models could accelerate enterprise AI adoption while increasing competitive and pricing pressure across the frontier-model market.
+**Why it matters:** Anthropic’s faster and cheaper Claude models intensify competition among frontier AI providers and could accelerate enterprise adoption by lowering inference costs.
 
 Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% faster and 20% cheaper than the 5.1 generation. The models underwent new safety and alignment testing.
 
@@ -22,9 +22,19 @@ Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, touting them as 30% f
 - Sources: Techpresso, Superhuman, TLDR, Vision IA, The Neuron
 - Received: 2026-11-10T18:13+01:00
 
-## 3. AI data center boom prompts political backlash in the United States
+## 3. Meituan releases LongCat-2.5, a very low-cost open-source coding model
 
-**Why it matters:** Political opposition to AI data centers threatens to slow capacity expansion, raise infrastructure costs and change where future computing power is built.
+**Why it matters:** Meituan’s open-weight coding model, priced dramatically below leading rivals, highlights the accelerating commoditization of capable AI and falling software-development costs.
+
+Meituan is releasing the weights of LongCat-2.5 under the MIT license, a multimodal model that can analyze screenshots and videos before coding in multiple steps. Its API access is priced at $0.30 per million input tokens, compared with $5 for Claude Opus 5.
+
+- Link: https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license
+- Sources: Vision IA
+- Received: 2026-11-10T11:05+01:00
+
+## 4. AI data center boom prompts political backlash in the United States
+
+**Why it matters:** Political resistance to AI data centers could slow permitting, raise infrastructure costs, and reshape where the industry can add computing capacity.
 
 Voters have opposed the growth of AI-dedicated data centers, and new restrictions could slow construction, raise costs, and alter capacity distribution. The affected regions, regulations, and business risks remain worth monitoring.
 
@@ -32,22 +42,12 @@ Voters have opposed the growth of AI-dedicated data centers, and new restriction
 - Sources: TechnologyAdvice
 - Received: 2026-11-10T10:33+01:00
 
-## 4. OpenAI creates a kill switch for its research models
+## 5. Fireworks AI confirms billing and model data breach
 
-**Why it matters:** OpenAI’s Control Room represents a significant step toward operational governance of powerful research models, although its 35-second shutdown delay exposes residual safety risk.
+**Why it matters:** The Fireworks AI breach shows that AI infrastructure providers are becoming high-value targets, with exposure of customer data, model weights, and datasets creating significant security and trust risks.
 
-OpenAI developed Control Room, a system capable of cutting off a research AI model’s access to its outputs. It tracks training, evaluations and data processing, but a cached authorization can delay shutdown by 35 seconds.
+Attackers accessed customer billing data, excluding card numbers, as well as model weights and incomplete datasets for some customers. Fireworks links the incident to a group that resells access to stolen AI accounts.
 
-- Link: https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents
-- Sources: Techpresso, The Neuron
-- Received: 2026-11-10T18:13+01:00
-
-## 5. Claude reveals more than 100 vulnerabilities in UK government projects
-
-**Why it matters:** Claude’s discovery of vulnerabilities across roughly two-thirds of tested UK public-sector projects highlights the urgent cyber risk created by AI-assisted vulnerability research.
-
-Using Claude Opus and Sonnet, a researcher found vulnerabilities in roughly two-thirds of 349 public projects belonging to 33 UK organizations. One vulnerability provided read and write access to SharePoint and OneDrive spaces containing HR files.
-
-- Link: https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/
-- Sources: Vision IA
-- Received: 2026-11-10T11:05+01:00
+- Link: https://fireworks.ai/security/bulletins/october-2026-security-incident-update
+- Sources: The Neuron
+- Received: 2026-11-10T10:30+01:00
