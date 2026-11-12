@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-12
 
-Period: 2026-11-11T13:25+01:00 → 2026-11-12T13:25+01:00 · 114 news received
+Period: 2026-11-11T19:25+01:00 → 2026-11-12T19:25+01:00 · 112 news received
 
-## 1. OpenAI losses soar despite sharp revenue growth
+## 1. Jensen Huang steps down as Nvidia CEO
 
-**Why it matters:** OpenAI’s $10.9 billion quarterly operating loss despite $10 billion in revenue highlights the enormous funding requirements and financial risks underpinning the generative-AI market.
+**Why it matters:** Jensen Huang’s reported resignation would represent a major leadership shock for Nvidia and could affect investor confidence, chip strategy, and the global AI supply chain.
 
-OpenAI generated 10 billion dollars in revenue in the third quarter, but its operating loss reached 10.9 billion dollars. Revenue rose 50% from the previous quarter and tripled year over year.
+Nvidia’s longtime CEO resigned after two affairs and an internal investigation aimed in part at determining whether he had been the target of a foreign intelligence operation. Nvidia has appointed an interim CEO.
 
-- Link: https://qz.com/openai-revenue-operating-loss-10-billion-third-quarter-111126
-- Sources: Techpresso
-- Received: 2026-11-11T18:53+01:00
+- Link: https://l.businessinsider.com/a/zc/21432/608fc09b2416436baea6232f90d90e57/29a760978fb841d0ace98719422f293e
+- Sources: Business Insider
+- Received: 2026-11-12T15:42+01:00
 
-## 2. TSMC invests up to one billion dollars in Anthropic and OpenAI
+## 2. Anthropic signs up to $4.3 billion in cloud agreements with Microsoft
 
-**Why it matters:** TSMC’s planned investments of up to $1 billion in Anthropic and OpenAI would deepen the strategic ties between leading AI labs and the semiconductor supply chain.
+**Why it matters:** Anthropic’s potential $4.3 billion expansion of its Microsoft cloud commitments underscores the escalating infrastructure costs and strategic dependence shaping the AI market.
 
-TSMC plans to acquire stakes in Anthropic and OpenAI worth up to one billion dollars.
+Anthropic has expanded its cloud computing agreements with Microsoft for up to $4.3 billion. The company is seeking additional infrastructure capacity ahead of its planned IPO.
 
-- Link: https://qz.com/tsmc-anthropic-openai-stakes-investment-111126
-- Sources: Techpresso
-- Received: 2026-11-11T18:53+01:00
+- Link: https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/
+- Sources: TLDR IT
+- Received: 2026-11-12T14:51+01:00
 
-## 3. Google unveils two new eighth-generation TPU chips
+## 3. U.S. data center electricity demand is growing ten times faster than the grid
 
-**Why it matters:** Google’s new eighth-generation TPUs intensify competition with Nvidia and signal that hyperscalers are accelerating development of proprietary AI infrastructure.
+**Why it matters:** Data-center electricity demand is growing far faster than grid capacity, making power availability a major constraint on AI expansion and a rising policy and investment issue.
 
-Google has introduced two new eighth-generation TPU chips, increasing pressure on Nvidia as competition for dedicated AI hardware intensifies.
+U.S. data center electricity demand has risen by about 19% annually since 2000, compared with 2% for grid capacity. According to Howden, data centers may need to obtain up to 58% of their electricity off-grid by 2030.
 
-- Link: https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111
-- Sources: AI Gen Art
-- Received: 2026-11-11T17:03+01:00
+- Link: https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191
+- Sources: TLDR IT
+- Received: 2026-11-12T14:51+01:00
 
-## 4. Claude Takes on Microsoft Office with New Workplace Tools
+## 4. Europe seeks to ban dark patterns and loot boxes for minors
 
-**Why it matters:** Anthropic’s Claude workplace tools target core Microsoft Office workflows, raising the stakes in enterprise productivity and AI-agent adoption.
+**Why it matters:** Europe’s proposed Digital Fairness Act could impose substantial new obligations and fines on companies over dark patterns, addictive design, targeted advertising, and personalized pricing.
 
-Anthropic is launching new Claude tools for office work, including Meetings, Whiteboards, Sheets and Data. Claude Meetings can join video conferences and perform tasks such as creating a timeline or looking up figures.
+The proposed Digital Fairness Act notably targets difficult-to-cancel subscriptions, addictive design, ads aimed at minors and personalized pricing. Fines could reach 6% of global turnover.
 
-- Link: https://www.thedeepview.com/articles/why-claude-s-workplace-play-threatens-incumbents
-- Sources: Techpresso, Superhuman
-- Received: 2026-11-11T18:53+01:00
+- Link: https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/
+- Sources: Vision IA
+- Received: 2026-11-12T13:56+01:00
 
-## 5. United Bars Third-Party AI Agents from Booking Flights
+## 5. Google launches Gemini Decision, a model specialized in decision-making
 
-**Why it matters:** United’s decision to block unauthorized AI agents from booking flights shows that security, liability and transaction-control concerns could materially constrain agent deployment.
+**Why it matters:** Google’s Gemini Decision launch signals a shift toward high-throughput AI systems designed to make standardized judgments across multimodal enterprise data.
 
-United has restricted access to its app, website, agencies and comparison sites for unauthorized third-party AI agents. The airline cites exposed credentials, accidental purchases and booking errors, among other concerns.
+Gemini Decision 1 responds with yes or no, multiple choice, or a rating, along with a confidence score, based on text, images, audio, video, or PDFs. It can process up to 1,000 questions in 150 to 250 milliseconds.
 
-- Link: https://www.theneuron.ai/news/united-wants-you-to-book-the-flight-your-ai-agent-isnt-invited/
-- Sources: The Neuron
-- Received: 2026-11-12T10:45+01:00
+- Link: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+- Sources: Vision IA, TLDR, The Neuron
+- Received: 2026-11-12T13:56+01:00
