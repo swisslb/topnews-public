@@ -1,27 +1,9 @@
 {
-  "date": "2026-11-11",
-  "news_count": 111,
+  "date": "2026-11-12",
+  "news_count": 125,
   "top5": [
     {
       "rank": 1,
-      "id": "g5347",
-      "title": "Google makes Gemini 4 Carbon available to the general public",
-      "description": "After two weeks of limited availability to cybersecurity defenders, Gemini 4 Carbon is now accessible through Gemini, Search’s AI mode, Antigravity, or the API reserved for AI Ultra subscribers. Google says the model is particularly capable at complex, long-running tasks, precision knowledge, and data analysis.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "sources": [
-        "Superhuman",
-        "TLDR",
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-11T15:10+01:00",
-      "covered_by": 4,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Google’s release of Gemini 4 Carbon to the public expands access to a model built for complex, long-running tasks and could intensify competition across the AI market."
-    },
-    {
-      "rank": 2,
       "id": "g4885",
       "title": "Anthropic targets a $1.4 trillion valuation for its IPO",
       "description": "According to a regulatory filing, Anthropic could raise $90 billion and reach a $1.4 trillion valuation in its IPO. The company plans to offer its shares at between $70 and $78 and has already secured purchase commitments worth $26 billion.",
@@ -34,22 +16,40 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": "Fusions-acquisitions et marchés financiers",
-      "why": "Anthropic’s planned IPO, potentially valuing the company at $1.4 trillion and raising up to $90 billion, would be a landmark test of investor appetite for AI companies."
+      "why": "Anthropic’s planned IPO could raise $90 billion at a valuation of up to $1.4 trillion, making it a landmark test of investor confidence in the AI business model."
+    },
+    {
+      "rank": 2,
+      "id": "g5477",
+      "title": "OpenAI losses soar despite sharp revenue growth",
+      "description": "OpenAI generated 10 billion dollars in revenue in the third quarter, but its operating loss reached 10.9 billion dollars. Revenue rose 50% from the previous quarter and tripled year over year.",
+      "link": "https://qz.com/openai-revenue-operating-loss-10-billion-third-quarter-111126",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI’s $10 billion quarterly revenue was matched by a $10.9 billion operating loss, underscoring the enormous capital requirements and profitability risks of frontier AI."
     },
     {
       "rank": 3,
-      "id": "g5204",
-      "title": "Google unveils two new eighth-generation TPU chips",
-      "description": "Google presented two new eighth-generation TPU chips, increasing pressure on Nvidia as competition for dedicated AI hardware intensifies.",
-      "link": "https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111",
+      "id": "g5347",
+      "title": "Google makes Gemini 4 Carbon available to the general public",
+      "description": "After two weeks of limited availability to cybersecurity advocates, Gemini 4 Carbon is now accessible through Gemini, Search’s AI mode, Antigravity, or the API reserved for AI Ultra subscribers. Google says the model is particularly capable at complex, long-running tasks, precision knowledge, and data analysis.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
       "sources": [
-        "AI Gen Art"
+        "Superhuman",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
       ],
-      "received_at": "2026-11-11T17:03+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-11T15:10+01:00",
+      "covered_by": 4,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s eighth-generation TPU launches increase pressure on Nvidia and reinforce the strategic importance of vertically integrated AI compute."
+      "why": "Google’s broad release of Gemini 4 Carbon expands access to a model aimed at complex, long-running tasks and intensifies competition across enterprise AI and developer platforms."
     },
     {
       "rank": 4,
@@ -64,27 +64,27 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Microsoft Research’s Lazarus finding shows that AI agents can be compromised through a backdoor hidden in fewer than ten dormant neurons, creating a serious security risk for enterprise deployments."
+      "why": "Microsoft’s Lazarus research shows that fewer than ten dormant neurons can hide a backdoor capable of making an AI agent execute malicious code, highlighting a serious new supply-chain security risk."
     },
     {
       "rank": 5,
-      "id": "g5226",
-      "title": "ChatGPT Enterprise arrives on AWS Marketplace",
-      "description": "OpenAI now offers ChatGPT Enterprise through AWS Marketplace, with purchasing, management, and billing handled through existing AWS accounts. Customers can use their AWS commitments and access specialized offerings for healthcare and finance.",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/",
+      "id": "g5349",
+      "title": "The U.S. and China create an alert channel for superintelligence",
+      "description": "Washington and Beijing will share their methods for testing models and alert each other in the event of a serious incident. Neither country is committing to slow AI development, however.",
+      "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
       "sources": [
-        "TLDR IT"
+        "Vision IA"
       ],
-      "received_at": "2026-11-11T14:51+01:00",
+      "received_at": "2026-11-11T11:03+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "Offering ChatGPT Enterprise through AWS Marketplace lowers procurement friction, lets customers use existing cloud commitments, and strengthens OpenAI’s enterprise distribution."
+      "followed_topic": null,
+      "why": "The new U.S.-China alert channel for superintelligence establishes a rare mechanism for sharing model-testing methods and warning about severe AI incidents, even without commitments to slow development."
     }
   ],
   "period": {
-    "from": "2026-11-10T19:25+01:00",
-    "to": "2026-11-11T19:25+01:00"
+    "from": "2026-11-11T06:25+01:00",
+    "to": "2026-11-12T06:25+01:00"
   },
-  "generated_at": "2026-11-11T19:25+01:00"
+  "generated_at": "2026-11-12T06:25+01:00"
 }
