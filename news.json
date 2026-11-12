@@ -1,11 +1,27 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "period": {
-    "from": "2026-11-10T19:25+01:00",
-    "to": "2026-11-11T19:25+01:00"
+    "from": "2026-11-11T06:25+01:00",
+    "to": "2026-11-12T06:25+01:00"
   },
-  "news_count": 111,
+  "news_count": 125,
   "news": [
+    {
+      "id": "g5362",
+      "title": "OpenAI lets businesses claim their ChatGPT profile",
+      "description": "OpenAI is testing a Businesses feature that lets companies manage their profile in ChatGPT, update their information and track interactions. Business Hub also allows them to add product catalogs and view mentions, views and clicks.",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "sources": [
+        "Techpresso",
+        "Superhuman",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
     {
       "id": "g5347",
       "title": "Google makes Gemini 4 Carbon available to the general public",
@@ -23,18 +39,33 @@
       "followed_topic": null
     },
     {
-      "id": "g5378",
-      "title": "OpenAI lets businesses create their profiles in ChatGPT",
-      "description": "Entrepreneurs and executives can now claim their business in ChatGPT through the Business Hub. They can add information about their products and hours, track customer engagement, and, for some businesses, create custom agents.",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "id": "g5410",
+      "title": "SpaceX launches Starlink Mini 2 with removable battery and Wi-Fi 6",
+      "description": "SpaceX has launched Starlink Mini 2, featuring a removable battery and Wi-Fi 6.",
+      "link": "https://thenextweb.com/news/starlink-mini-2-swappable-battery-wifi-6",
       "sources": [
-        "Superhuman",
-        "The Neuron"
+        "Techpresso",
+        "TLDR"
       ],
-      "received_at": "2026-11-11T15:10+01:00",
+      "received_at": "2026-11-11T18:53+01:00",
       "covered_by": 2,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g5356",
+      "title": "Claris tests Harbor, a local AI app for Macs",
+      "description": "Claris, an Apple subsidiary, is testing Harbor, an app designed to run AI locally on Macs.",
+      "link": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g5327",
@@ -76,6 +107,87 @@
       ],
       "received_at": "2026-11-11T11:33+01:00",
       "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5477",
+      "title": "OpenAI losses soar despite sharp revenue growth",
+      "description": "OpenAI generated 10 billion dollars in revenue in the third quarter, but its operating loss reached 10.9 billion dollars. Revenue rose 50% from the previous quarter and tripled year over year.",
+      "link": "https://qz.com/openai-revenue-operating-loss-10-billion-third-quarter-111126",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5419",
+      "title": "Google Fi launches a “super network” that automatically chooses the carrier",
+      "description": "Google Fi is launching a feature that lets phones automatically switch between two carriers to find the best signal. It is rolling out on Pixel 9 and later models with an eSIM, in more than 200 destinations.",
+      "link": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5485",
+      "title": "TSMC invests up to one billion dollars in Anthropic and OpenAI",
+      "description": "TSMC plans to acquire stakes in Anthropic and OpenAI worth up to one billion dollars.",
+      "link": "https://qz.com/tsmc-anthropic-openai-stakes-investment-111126",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5398",
+      "title": "IBM ends visa and green card sponsorship for most consultants",
+      "description": "IBM is ending visa and green card sponsorship for most consulting positions.",
+      "link": "https://thenextweb.com/news/ibm-visa-green-card-sponsorship-consulting?_bhlid=47b639ccfb08b90642ddfedcc997f5b360d2ed70",
+      "sources": [
+        "Techpresso",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5418",
+      "title": "AI agents discover an unmapped Maya site",
+      "description": "AI agents have discovered a Maya site that was not on any maps.",
+      "link": "https://pietromiotti.com/latest/maya-site/",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5494",
+      "title": "Nvidia H200 AI chips reach blacklisted Chinese university",
+      "description": "Nvidia H200 artificial intelligence chips have made their way to a Chinese university placed on a blacklist.",
+      "link": "https://cybernews.com/tech/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
@@ -146,33 +258,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g5356",
-      "title": "Apple tests Harbor, a local AI application for Macs",
-      "description": "Harbor, being tested by Apple subsidiary Claris, turns Macs equipped with Apple Silicon chips into private AI servers. The application can connect multiple Macs via Thunderbolt 5 to pool their memory and run larger models.",
-      "link": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
-      "sources": [
-        "TLDR",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-11T13:09+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5410",
-      "title": "The Starlink Mini 2 includes a removable battery for $999",
-      "description": "The Starlink Mini 2 is the first Starlink dish compatible with a removable battery, offering up to 4.5 hours of battery life. SpaceX is offering it for $999, including one year of Starlink Roam Unlimited, and plans the first deliveries for mid-December.",
-      "link": "https://www.pcmag.com/news/starlink-mini-2-has-a-swappable-battery-but-it-costs-way-more-than-expected",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-11T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
-    },
-    {
       "id": "g5413",
       "title": "An analysis predicts an artificial intelligence explosion in 2027",
       "description": "The arrival of a superhuman AI researcher is expected at some point in 2027, provided there is no major slowdown in development. AI systems capable of automating all office work could appear before 2028, while companies may not be ready to ensure their alignment.",
@@ -239,19 +324,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g5362",
-      "title": "ChatGPT launches a business directory and agents to answer customers",
-      "description": "Business Hub lets companies claim their profile, add product data and track interactions with their brand. Business Agents respond directly to customers of certain U.S. e-commerce businesses.",
-      "link": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-11T11:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g5368",
       "title": "Disney+ offers more than 60 3D movies on Meta Quest headsets",
       "description": "The Disney+ app on Meta Quest adds more than 60 3D movies, including Toy Story 5, Avatar: Fire and Ash and The Avengers. The films can be watched in virtual settings such as Tatooine or Avengers Tower.",
@@ -291,6 +363,175 @@
       "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
+      "id": "g5495",
+      "title": "Building your first AI automation",
+      "description": "Chapter 28 explains how to choose a low-risk first automation, describe it with a trigger, an action and an outcome, then build and test an automatic morning briefing. Set aside 15 minutes and have the assistant connected to the previous chapter.",
+      "link": "https://link.mail.beehiiv.com/v2/c/6b4a73018e91e0ca4e687ef38773917a3cb8d4ec783c466ce7eceb6bba6b10edbbdba9e59ad0ffcd5ee17980a80bc154539c4fde0fc84774a19033d04ccb54493a6955ed2a484674a588c9b470b3f8e9b70f60aabb6cff7b1c634ec14536b2bb33a1921b28bbc047579c109166cf94bbdef4222fe88a15683a4388eefe8ce5fbb74fa9225314d149aed8dcc4ef747e712fdfd8c1de245cbe534a067f86682e7e/e444fd253a233ac0",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-11T19:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5496",
+      "title": "Five questions to identify tasks to automate",
+      "description": "Chapter 29 proposes identifying recurring tasks from a week of notes, then evaluating them with five questions, two of which can immediately eliminate a candidate. It also explains how to estimate the build cost and test the automation on a week that was already completed manually.",
+      "link": "https://link.mail.beehiiv.com/v2/c/58fdcd6f73655ee68e746df289a763aab75a51ff60e1c5a361813a4d6215f903b96aa7edb1631c6acbe12a9efdb597b3652f0a8b9cceba7e9f463c4d215985e7b86f6f999d716e71dbd98d21acb7b3851e9bc904ddf69d7f7b3aa96c4d5ffd2a3aebf3da09aac6d2d4ad2cd6c917de857ace5e104b83685ead8b473e5ffadc7af74e5565c6b5795a8833caff4afd3223e25caf9c88888766caf4a47f28297fdd/072cfe19a3d247b7",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-11T19:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5475",
+      "title": "Claude takes on Microsoft Office with new workplace tools",
+      "description": "Anthropic is launching new Claude tools for office work, including Meetings, Whiteboards, Sheets and Data. Claude Meetings can join video conferences and perform actions such as creating a timeline or searching for figures.",
+      "link": "https://www.thedeepview.com/articles/why-claude-s-workplace-play-threatens-incumbents",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5476",
+      "title": "Apple to permanently shut down its support community",
+      "description": "Apple will close its official Support Community forum, which will become read-only before permanently shutting down on November 20. The company is directing users to its official support website.",
+      "link": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5478",
+      "title": "Grok Build vulnerability exposes thousands of users’ secrets",
+      "description": "Grok Build, SpaceXSI’s coding agent, exposed data from thousands of users through shareable application links. The data included commercial projects, medical results and internal information.",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5481",
+      "title": "Anthropic says AI is narrowing Nvidia’s CUDA lead",
+      "description": "Anthropic says AI is eroding Nvidia’s lead in CUDA and has reduced the process of switching chips to AMD from several months to three days.",
+      "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5483",
+      "title": "Regulator says evaluating academic work is nearly impossible with AI",
+      "description": "A regulator says AI has made evaluating academic work “almost impossible.”",
+      "link": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5484",
+      "title": "Railway vulnerability leads to 740,000 dollars in AI-related charges",
+      "description": "An intrusion targeting Railway resulted in 740,000 dollars in fraudulent charges for AI services.",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5486",
+      "title": "Europe wants to ban deceptive interfaces and loot boxes for minors",
+      "description": "Europe wants to ban “dark patterns” in apps as well as loot boxes aimed at minors.",
+      "link": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5487",
+      "title": "Kalshi warned of possible prosecution as authorities target prediction markets",
+      "description": "Kalshi was reportedly warned of possible prosecution as federal authorities intensify their actions against prediction markets.",
+      "link": "https://nypost.com/2026/11/10/business/kalshi-warned-of-possible-charges-as-feds-turn-up-heat-on-prediction-markets-report/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5488",
+      "title": "ByteDance reportedly preparing a Muse-inspired AI agent for the coming weeks",
+      "description": "ByteDance is reportedly planning to launch an AI agent comparable to Muse in the coming weeks.",
+      "link": "https://thenextweb.com/news/bytedance-muse-like-ai-agent-zhang-yiming",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5490",
+      "title": "Microsoft finds AI agents can be hacked by modifying their network",
+      "description": "Microsoft discovered that AI agents could be compromised by modifying fewer than ten neurons.",
+      "link": "https://thenextweb.com/news/microsoft-lazarus-ai-agent-backdoor-neurons",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5493",
+      "title": "AMD launches EPYC Zen 6 processors for AI agent deployments",
+      "description": "AMD has launched its EPYC Zen 6 chips, designed to enable denser deployments of AI agents.",
+      "link": "https://www.unite.ai/amd-releases-zen-6-epyc-chips-for-denser-ai-agent-deployments/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-11T18:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5474",
       "title": "The AI boom fills American RV parks",
       "description": "After the pandemic, the RV industry had weakened. The rise of data centers is reviving it by attracting workers to American RV parks.",
@@ -304,7 +545,7 @@
       "followed_topic": null
     },
     {
-      "id": "g5468",
+      "id": "g5009",
       "title": "Claude Fable 5.2 turns a prompt into a short film",
       "description": "Anthropic has launched Claude Fable 5.2, up to 30% faster than Fable 5.1 and available on paid Claude plans. Testers have used it to create videos and short animated films from a single prompt.",
       "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -360,19 +601,6 @@
       "title": "Google unveils two new eighth-generation TPU chips",
       "description": "Google has introduced two new eighth-generation TPU chips, increasing pressure on Nvidia as competition for dedicated AI hardware intensifies.",
       "link": "https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-11T17:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5473",
-      "title": "Anthropic publishes a prompting guide for Fable 5.2",
-      "description": "Anthropic has published a prompting guide for Fable 5.2, presented as a tutorial for getting better results from its flagship model.",
-      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
       "sources": [
         "AI Gen Art"
       ],
@@ -473,7 +701,7 @@
       "followed_topic": null
     },
     {
-      "id": "g5181",
+      "id": "g5171",
       "title": "Disable “Hey Grok” to avoid Grok surveillance",
       "description": "The discussion title recommends disabling the “Hey Grok” command to avoid being monitored by Grok.",
       "link": "https://www.teslaownersonline.com/threads/to-avoid-being-monitored-by-grok-disable-%E2%80%98hey-grok%E2%80%99.39538/page-2?post_id=479994#post-479994",
@@ -928,32 +1156,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5418",
-      "title": "AI agents discover an unmapped Maya site",
-      "description": "AI agents helped discover an unmapped Maya site. The author suggests using lidar on a global scale to pursue more discoveries of this kind.",
-      "link": "https://pietromiotti.com/latest/maya-site/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-11T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5419",
-      "title": "Google Fi rolls out automatic carrier switching on its network",
-      "description": "Google Fi’s Super Network feature automatically switches carriers to improve speed and reception. It is currently rolling out on Pixel 9 and later devices equipped with eSIM.",
-      "link": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-11T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5420",
       "title": "Agent-traffic distinguishes AI agents from people and bots",
       "description": "Agent-traffic is a tool capable of distinguishing agents, AI crawlers, search-engine bots, and human users.",
@@ -1075,19 +1277,6 @@
       "title": "Venmo adds a receipt-scanning bill-splitting feature",
       "description": "The new feature lets users photograph a receipt, calculate each person’s taxes and tip, and then send Venmo payment requests. Business Insider tested it.",
       "link": "https://www.businessinsider.com/venmo-new-receipt-scanning-feature-does-it-work-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-11T12:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5398",
-      "title": "IBM ends visa sponsorship for most roles in one division",
-      "description": "IBM is ending immigration sponsorship for most positions in its largest division.",
-      "link": "https://www.businessinsider.com/ibm-immigration-sponorship-consulting-roles-2026-11",
       "sources": [
         "Business Insider"
       ],
