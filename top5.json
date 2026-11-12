@@ -1,87 +1,88 @@
 {
   "date": "2026-11-12",
-  "news_count": 114,
+  "news_count": 112,
   "top5": [
     {
       "rank": 1,
-      "id": "g5477",
-      "title": "OpenAI losses soar despite sharp revenue growth",
-      "description": "OpenAI generated 10 billion dollars in revenue in the third quarter, but its operating loss reached 10.9 billion dollars. Revenue rose 50% from the previous quarter and tripled year over year.",
-      "link": "https://qz.com/openai-revenue-operating-loss-10-billion-third-quarter-111126",
+      "id": "g5610",
+      "title": "Jensen Huang steps down as Nvidia CEO",
+      "description": "Nvidia’s longtime CEO resigned after two affairs and an internal investigation aimed in part at determining whether he had been the target of a foreign intelligence operation. Nvidia has appointed an interim CEO.",
+      "link": "https://l.businessinsider.com/a/zc/21432/608fc09b2416436baea6232f90d90e57/29a760978fb841d0ace98719422f293e",
       "sources": [
-        "Techpresso"
+        "Business Insider"
       ],
-      "received_at": "2026-11-11T18:53+01:00",
+      "received_at": "2026-11-12T15:42+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s $10.9 billion quarterly operating loss despite $10 billion in revenue highlights the enormous funding requirements and financial risks underpinning the generative-AI market."
+      "followed_topic": null,
+      "why": "Jensen Huang’s reported resignation would represent a major leadership shock for Nvidia and could affect investor confidence, chip strategy, and the global AI supply chain."
     },
     {
       "rank": 2,
-      "id": "g5485",
-      "title": "TSMC invests up to one billion dollars in Anthropic and OpenAI",
-      "description": "TSMC plans to acquire stakes in Anthropic and OpenAI worth up to one billion dollars.",
-      "link": "https://qz.com/tsmc-anthropic-openai-stakes-investment-111126",
+      "id": "g5601",
+      "title": "Anthropic signs up to $4.3 billion in cloud agreements with Microsoft",
+      "description": "Anthropic has expanded its cloud computing agreements with Microsoft for up to $4.3 billion. The company is seeking additional infrastructure capacity ahead of its planned IPO.",
+      "link": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
       "sources": [
-        "Techpresso"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-11T18:53+01:00",
+      "received_at": "2026-11-12T14:51+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "TSMC’s planned investments of up to $1 billion in Anthropic and OpenAI would deepen the strategic ties between leading AI labs and the semiconductor supply chain."
+      "followed_topic": "Fusions-acquisitions et marchés financiers",
+      "why": "Anthropic’s potential $4.3 billion expansion of its Microsoft cloud commitments underscores the escalating infrastructure costs and strategic dependence shaping the AI market."
     },
     {
       "rank": 3,
-      "id": "g5204",
-      "title": "Google unveils two new eighth-generation TPU chips",
-      "description": "Google has introduced two new eighth-generation TPU chips, increasing pressure on Nvidia as competition for dedicated AI hardware intensifies.",
-      "link": "https://gizmodo.com/google-has-two-new-weapons-in-its-fight-against-nvidia-2000837111",
+      "id": "g5596",
+      "title": "U.S. data center electricity demand is growing ten times faster than the grid",
+      "description": "U.S. data center electricity demand has risen by about 19% annually since 2000, compared with 2% for grid capacity. According to Howden, data centers may need to obtain up to 58% of their electricity off-grid by 2030.",
+      "link": "https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191",
       "sources": [
-        "AI Gen Art"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-11T17:03+01:00",
+      "received_at": "2026-11-12T14:51+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s new eighth-generation TPUs intensify competition with Nvidia and signal that hyperscalers are accelerating development of proprietary AI infrastructure."
+      "why": "Data-center electricity demand is growing far faster than grid capacity, making power availability a major constraint on AI expansion and a rising policy and investment issue."
     },
     {
       "rank": 4,
-      "id": "g5350",
-      "title": "Claude Takes on Microsoft Office with New Workplace Tools",
-      "description": "Anthropic is launching new Claude tools for office work, including Meetings, Whiteboards, Sheets and Data. Claude Meetings can join video conferences and perform tasks such as creating a timeline or looking up figures.",
-      "link": "https://www.thedeepview.com/articles/why-claude-s-workplace-play-threatens-incumbents",
+      "id": "g5583",
+      "title": "Europe seeks to ban dark patterns and loot boxes for minors",
+      "description": "The proposed Digital Fairness Act notably targets difficult-to-cancel subscriptions, addictive design, ads aimed at minors and personalized pricing. Fines could reach 6% of global turnover.",
+      "link": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
       "sources": [
-        "Techpresso",
-        "Superhuman"
+        "Vision IA"
       ],
-      "received_at": "2026-11-11T18:53+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Anthropic’s Claude workplace tools target core Microsoft Office workflows, raising the stakes in enterprise productivity and AI-agent adoption."
-    },
-    {
-      "rank": 5,
-      "id": "g5510",
-      "title": "United Bars Third-Party AI Agents from Booking Flights",
-      "description": "United has restricted access to its app, website, agencies and comparison sites for unauthorized third-party AI agents. The airline cites exposed credentials, accidental purchases and booking errors, among other concerns.",
-      "link": "https://www.theneuron.ai/news/united-wants-you-to-book-the-flight-your-ai-agent-isnt-invited/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-12T10:45+01:00",
+      "received_at": "2026-11-12T13:56+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "United’s decision to block unauthorized AI agents from booking flights shows that security, liability and transaction-control concerns could materially constrain agent deployment."
+      "why": "Europe’s proposed Digital Fairness Act could impose substantial new obligations and fines on companies over dark patterns, addictive design, targeted advertising, and personalized pricing."
+    },
+    {
+      "rank": 5,
+      "id": "g5518",
+      "title": "Google launches Gemini Decision, a model specialized in decision-making",
+      "description": "Gemini Decision 1 responds with yes or no, multiple choice, or a rating, along with a confidence score, based on text, images, audio, video, or PDFs. It can process up to 1,000 questions in 150 to 250 milliseconds.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "sources": [
+        "Vision IA",
+        "TLDR",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-12T13:56+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Google’s Gemini Decision launch signals a shift toward high-throughput AI systems designed to make standardized judgments across multimodal enterprise data."
     }
   ],
   "period": {
-    "from": "2026-11-11T13:25+01:00",
-    "to": "2026-11-12T13:25+01:00"
+    "from": "2026-11-11T19:25+01:00",
+    "to": "2026-11-12T19:25+01:00"
   },
-  "generated_at": "2026-11-12T13:25+01:00"
+  "generated_at": "2026-11-12T19:25+01:00"
 }
