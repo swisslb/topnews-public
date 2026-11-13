@@ -1,11 +1,72 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "period": {
-    "from": "2026-11-11T19:25+01:00",
-    "to": "2026-11-12T19:25+01:00"
+    "from": "2026-11-12T06:25+01:00",
+    "to": "2026-11-13T06:25+01:00"
   },
-  "news_count": 112,
+  "news_count": 124,
   "news": [
+    {
+      "id": "g5518",
+      "title": "Google launches Gemini Decision 1, a specialized AI model",
+      "description": "Google has launched Gemini Decision 1, a low-cost model designed to answer binary, multiple-choice, or rating questions. It costs $0.10 per million input tokens and also provides a confidence score.",
+      "link": "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+      "sources": [
+        "Techpresso",
+        "Vision IA",
+        "TLDR",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5510",
+      "title": "United Airlines bans AI agents from booking flights",
+      "description": "United Airlines will block unauthorized third-party AI agents that attempt to book, purchase, or manage trips through its channels. The airline cites privacy, account security, and federal aviation regulations, among other reasons.",
+      "link": "https://www.unite.ai/united-airlines-bars-unauthorized-ai-agents-from-booking-travel/",
+      "sources": [
+        "Techpresso",
+        "Vision IA",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5511",
+      "title": "AlphaGenome 2 links genetic mutations to cell types",
+      "description": "Google DeepMind has launched AlphaGenome 2, a model that predicts the effect of genetic variants on specific types of human cells. Trained on more than 107 million cell profiles, it identified about 30% of causal variants, compared with 16% previously.",
+      "link": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "sources": [
+        "Techpresso",
+        "Vision IA",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5519",
+      "title": "AWS offers a free local equivalent of its cloud",
+      "description": "AWS is offering developers a free local equivalent of its cloud services, built by AI agents.",
+      "link": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
     {
       "id": "g5079",
       "title": "Nvidia Reportedly Preparing to Fire Jensen Huang After Another Affair",
@@ -22,33 +83,58 @@
       "followed_topic": null
     },
     {
-      "id": "g5518",
-      "title": "Google Launches Gemini Decision, a Model Specialized in Decision-Making",
-      "description": "Gemini Decision 1 answers yes-or-no, multiple-choice, or rating questions with a confidence score, based on text, images, audio, videos, or PDFs. It can process up to 1,000 questions in 150 to 250 milliseconds.",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "id": "g5512",
+      "title": "Experts validate OpenAI’s physical proof of Yang-Mills",
+      "description": "Experts appointed by OpenAI have verified its proof of the existence of Yang-Mills quantum theory. However, they do not yet claim to fully understand the proof, which is considered too long and complex for humans to immediately digest.",
+      "link": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
       "sources": [
-        "Vision IA",
         "TLDR",
         "The Neuron"
       ],
-      "received_at": "2026-11-12T13:56+01:00",
-      "covered_by": 3,
+      "received_at": "2026-11-12T13:20+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5610",
+      "title": "Jensen Huang steps down as Nvidia CEO",
+      "description": "Jensen Huang, Nvidia’s co-founder and CEO since 1993, resigned after acknowledging affairs with female executives linked to the company. Colette Kress becomes interim CEO, while Nvidia shares fell as much as 14%.",
+      "link": "https://www.implicator.ai/jensen-huang-resigns-nvidia-ceo-kress-interim/",
+      "sources": [
+        "Techpresso",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g5597",
-      "title": "Adobe Adds Video, Music, and Sound Generation to Premiere",
-      "description": "Adobe is adding tools to Premiere for generating video, sound effects, ambience, and music directly in the timeline. These tools rely on models from Adobe Firefly, Google, Kling, Runway, and Luma.",
-      "link": "https://blog.adobe.com/en/publish/2026/11/10/explore-new-ways-create-across-creative-cloud-adobe-firefly-while-advancing-craft-precision-choice-control",
+      "id": "g5622",
+      "title": "Starlink limits the speed of Ukrainian drones",
+      "description": "Starshield, Starlink’s military version, is reportedly cutting the satellite connection to Ukrainian equipment traveling faster than 161 km/h again. This limit prevents interceptor drones from pursuing certain Russian drones flying at up to 400 km/h.",
+      "link": "https://www.implicator.ai/starshield-cap-ukraine-drone-interceptors/",
       "sources": [
-        "AI Gen Art",
-        "TLDR IT"
+        "Techpresso"
       ],
-      "received_at": "2026-11-12T17:04+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
       "favorite": false,
-      "followed_topic": null
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g5636",
+      "title": "Companies offer high salaries and luxury travel to attract AI talent",
+      "description": "Companies are offering generous compensation and luxury travel to compete for artificial intelligence talent.",
+      "link": "https://www.wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?st=S1fLDz&reflink=desktopwebshare_permalink&_bhlid=ede24fd31404c251b39a33469bc9a657115d2dec",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
       "id": "g5362",
@@ -91,6 +177,20 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
+      "id": "g5521",
+      "title": "Grok Bot becomes a proactive colleague for teams",
+      "description": "With Grok Bot 1.0, the agent can handle tasks without being prompted, retain a shared memory of the organization, and communicate in Slack or Microsoft Teams. It is available now and learns from teams’ feedback and preferences.",
+      "link": "https://x.ai/news/grok-bot-1-0",
+      "sources": [
+        "Superhuman",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-12T15:10+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5609",
       "title": "ChatGPT Launches a Personal Finance Tool in Its Desktop App",
       "description": "ChatGPT’s personal finance tool is available in the desktop app for all plans. It provides personalized answers about users’ money and spending.",
@@ -99,6 +199,19 @@
         "Superhuman"
       ],
       "received_at": "2026-11-12T15:10+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5339",
+      "title": "Adobe will open Photoshop and its other Creative Cloud apps to AI assistants",
+      "description": "Adobe plans to let assistants such as ChatGPT and Claude directly modify content in Photoshop, Illustrator, Premiere, and After Effects through Model Context Protocol integrations. The feature is expected to enter private beta in early 2027 and aims to automate repetitive tasks while preserving manual control.",
+      "link": "https://www.computerworld.com/article/4247247/adobe-opens-creative-cloud-apps-to-third-party-ai-assistants.html",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-12T14:51+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
@@ -117,20 +230,6 @@
       "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
-      "id": "g5511",
-      "title": "AlphaGenome 2 Predicts the Effects of DNA Variants Across Cell Types",
-      "description": "Google DeepMind introduced AlphaGenome 2, a model that predicts how DNA variants alter gene activity in hundreds of cell types. It identifies nearly twice as many influential variants as the previous version and remains limited to noncommercial research.",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "sources": [
-        "Vision IA",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-12T13:56+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5561",
       "title": "Anthropic Reportedly Surpasses OpenAI in Revenue with Far Lower Losses",
       "description": "Anthropic reportedly generated $17 billion in revenue in the third quarter, compared with $10 billion for OpenAI, while posting far lower operating losses. OpenAI is accelerating its enterprise sales and could cut prices to close the gap.",
@@ -144,10 +243,10 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g5510",
-      "title": "United Airlines Bans AI Agents from Booking Flights",
-      "description": "United Airlines refuses to let AI assistants purchase tickets on customers’ behalf, citing risks including data leaks and unwanted purchases. Agents can still display available flights.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "id": "g5522",
+      "title": "Google Labs launches Tabletop, AI-generated mini-tools for groups",
+      "description": "Tabletop lets users turn links, files, and ideas into collaborative tools such as an itinerary, a poll, or a tournament bracket. The service is limited to the United States and available by waitlist.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
       "sources": [
         "Vision IA",
         "The Neuron"
@@ -158,33 +257,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5519",
-      "title": "AWS Emulator Lets Agents Code and Test Locally",
-      "description": "AWS Emulator provides coding agents with a local copy of AWS for testing. Engineers can therefore decide what to build and determine when the work is correct, while the emulator’s code is public.",
-      "link": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-      "sources": [
-        "TLDR",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-12T13:20+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5546",
-      "title": "Experts Validate OpenAI’s Physical Proof on Yang-Mills",
-      "description": "Experts appointed by OpenAI verified its proof of the existence of the Yang-Mills quantum theory. However, they do not yet claim to fully understand the proof, which is considered too long and complex for humans to immediately absorb.",
-      "link": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-12T13:20+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g5537",
       "title": "Companies Are Banning Artificial Intelligence Agents",
       "description": "Some companies are banning AI agents. The article lists the companies involved.",
@@ -193,19 +265,6 @@
         "Business Insider"
       ],
       "received_at": "2026-11-12T12:10+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5512",
-      "title": "Panel Publishes OpenAI’s Lean Proof on Yang-Mills Theory",
-      "description": "David Gross’s panel published OpenAI’s Lean proof establishing the existence of pure Yang-Mills theory and said its checks support it. The question of whether a mass gap exists remains open.",
-      "link": "https://fourweekmba.com/ai-gross-panel-sets-release-of-openais-yang-mills-lean-proof/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-12T10:45+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
@@ -237,6 +296,214 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g5644",
+      "title": "Part 5: Automating repetitive tasks with AI",
+      "description": "The final part of the playbook explains how to document your system, connect beehiiv to AI, and automate recurring tasks. It also shows how to turn the most engaged readers into customers and build a prompt library.",
+      "link": "https://link.mail.beehiiv.com/v2/c/0e8f639716a19ad1b5600e3e40e94b2e3c23eca0953fb809e6cd2b11a18094e916b379a8fdf78db387bac7326c86ac326d995a8eb3b3a40a9ab28fe78582755bf44e7416c0f8318262971a0ce425805f0894c45a45e5c735d352fbcd092cb84db95c9bffca3b21b9769073242492b094511a7c89a65b801318c396bbdef9cc61b1b927bab8d4feb08238892cf3facf551f0dacb5c44160ab8df07cbd81a2e62a/17292e56ca06e27d",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-12T19:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5645",
+      "title": "Guide: Creating a B2B newsletter that generates leads",
+      "description": "This guide explains how to write for an ideal customer, use your newsletter as a CRM, and measure leads rather than just opens.",
+      "link": "https://app.thecentral.ai/item/35b656dd-7b67-80ff-bf2c-d8288d99efe9",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-12T19:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5625",
+      "title": "Tesla extends Cybertruck production through summer 2027",
+      "description": "Tesla will continue producing the Cybertruck through the end of summer 2027 to clear its order backlog, according to Elon Musk. The lineup has been reduced to the Cyberbeast alone, priced at around $110,000.",
+      "link": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5627",
+      "title": "Roku abandons its smart home ambitions",
+      "description": "Roku is abandoning its ambitions in the smart home sector.",
+      "link": "https://gizmodo.com/roku-quits-smart-home-business-2000838472",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5629",
+      "title": "IBM aims to link two quantum chips to reach 1,040 qubits",
+      "description": "IBM plans to link two quantum chips to create a 1,040-qubit system in 2027.",
+      "link": "https://thenextweb.com/news/ibm-quantum-nighthawk-r3-1040-qubit-system-2027",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5630",
+      "title": "Helsing launches Clarity, a European rival to Palantir’s Maven",
+      "description": "Helsing is launching Clarity, a European solution presented as a rival to Palantir’s Maven.",
+      "link": "https://thenextweb.com/news/helsing-clarity-palantir-maven-rival-karp-democrat",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5225",
+      "title": "Cyberattack on Fireworks AI exposes Notion conversations",
+      "description": "A cyberattack on Fireworks AI allowed hackers to access transcripts of conversations involving Notion customers.",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5632",
+      "title": "Gemini comes to Apple CarPlay",
+      "description": "Gemini is now available on Apple CarPlay.",
+      "link": "https://www.androidpolice.com/gemini-makes-the-leap-to-apple-carplay/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5633",
+      "title": "Reddit resisted U.S. and German demands to identify users",
+      "description": "Reddit rejected attempts by U.S. and German authorities to unmask certain users.",
+      "link": "https://cybernews.com/news/reddit-defied-us-and-german-attempts-to-unmask-users/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5635",
+      "title": "Apple HomeView: A limited but promising launch",
+      "description": "An analysis of Apple HomeView describes a limited launch with significant potential.",
+      "link": "https://appleinsider.com/articles/26/11/12/apple-homeview-review-shallow-launch-but-incredible-potential",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5637",
+      "title": "Howard Lutnick does not want to halt Nvidia chip exports",
+      "description": "Howard Lutnick reportedly does not want to stop the flow of Nvidia chips overseas.",
+      "link": "https://gizmodo.com/howard-lutnick-doesnt-want-to-stop-the-flow-of-nvidia-chips-overseas-report-2000838506",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5638",
+      "title": "Complex AI agent architectures cost up to 4.7 times more",
+      "description": "An analysis of agents designed for professional workflows finds no dominant design. Multi-step architectures cost up to 4.7 times more and introduce up to 5.8 times more latency, with gains that are rarely sufficient.",
+      "link": "https://arxiv.org/abs/2611.12953",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5639",
+      "title": "Studies on AI medical scribes use 96 different metrics",
+      "description": "AI medical scribes are evaluated using 96 metrics across 54 studies, one-third of which are used by only a single study. The results are therefore difficult to compare and rarely account for safety or patient outcomes.",
+      "link": "https://arxiv.org/abs/2611.14284",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5640",
+      "title": "Processing underrepresented languages can cost up to ten times more",
+      "description": "Models charge up to ten times more to process underrepresented languages such as Amharic. A Portuguese-designed vocabulary reduces costs for Guarani and Quechua by about 24%.",
+      "link": "https://arxiv.org/abs/2611.13441",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5641",
+      "title": "One-third of U.S. adults have left an online community",
+      "description": "According to a Pew Research Center survey, about one-third of U.S. adults say they have left an online community. More than eight in ten cite declining interest.",
+      "link": "https://www.pewresearch.org/short-reads/2026/11/06/about-a-third-of-americans-have-left-an-online-community/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-12T18:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5597",
+      "title": "Adobe Adds Video, Music, and Sound Generation to Premiere",
+      "description": "Adobe is adding tools to Premiere for generating video, sound effects, ambience, and music directly in the timeline. These tools rely on models from Adobe Firefly, Google, Kling, Runway, and Luma.",
+      "link": "https://blog.adobe.com/en/publish/2026/11/10/explore-new-ways-create-across-creative-cloud-adobe-firefly-while-advancing-craft-precision-choice-control",
+      "sources": [
+        "AI Gen Art"
+      ],
+      "received_at": "2026-11-12T17:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5347",
       "title": "Google Makes Gemini 4 Carbon Available After Limited Rollout",
       "description": "Google has made Gemini 4 Carbon generally available after a two-week limited rollout to cybersecurity advocates. The model is accessible through Gemini, AI Mode in Search, and Antigravity.",
@@ -258,19 +525,6 @@
         "AI Gen Art"
       ],
       "received_at": "2026-11-12T17:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5610",
-      "title": "Jensen Huang Steps Down as Nvidia CEO",
-      "description": "Nvidia’s longtime CEO resigned after two affairs and an internal investigation aimed in part at determining whether he had been the target of a foreign intelligence operation. Nvidia appointed an interim CEO.",
-      "link": "https://l.businessinsider.com/a/zc/21432/608fc09b2416436baea6232f90d90e57/29a760978fb841d0ace98719422f293e",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-12T15:42+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -328,19 +582,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5606",
-      "title": "Grok Bot Becomes a Proactive Colleague for Teams",
-      "description": "With Grok Bot 1.0, the agent can handle tasks without being prompted, maintain a shared organizational memory, and communicate in Slack or Microsoft Teams. It is available now and learns from teams’ feedback and preferences.",
-      "link": "https://x.ai/news/grok-bot-1-0",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-12T15:10+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5607",
       "title": "Natura Is Preparing a Smart Ring with a Voice Agent",
       "description": "Natura is developing a steel ring with a button for requesting help, recording ideas, and launching voice agents on nearby devices. It will also track sleep, heart rate, and steps, with a Kickstarter launch and deliveries planned for December or January.",
@@ -362,19 +603,6 @@
         "Superhuman"
       ],
       "received_at": "2026-11-12T15:10+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5377",
-      "title": "Claude Meetings Joins Google Meet Calls and Creates Action Plans",
-      "description": "Anthropic launched Claude Meetings, Whiteboards, and Sheets to strengthen collaboration and productivity. In beta for Team and Enterprise customers, Claude Meetings can take notes, retrieve information, and create action plans during Google Meet meetings.",
-      "link": "https://www.computerworld.com/article/4247466/anthropic-targets-workplace-collaboration-with-claude-meetings.html",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-12T14:51+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -510,9 +738,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5559",
-      "title": "ByteDance Is Preparing a Personal AI Agent to Compete with Meta",
-      "description": "ByteDance is reportedly preparing a personal AI assistant capable of tasks such as making purchases and managing a schedule. Its name, features, and launch date are not yet known.",
+      "id": "g5488",
+      "title": "ByteDance is preparing a personal AI agent to compete with Meta",
+      "description": "ByteDance is reportedly preparing a personal AI assistant capable of performing tasks such as shopping or managing a schedule. Its name, features, and launch date are not yet known.",
       "link": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
       "sources": [
         "Vision IA"
@@ -666,19 +894,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5574",
-      "title": "Google Labs launches Tabletop, AI-generated mini-tools for groups",
-      "description": "Tabletop turns links, files and ideas into collaborative tools such as an itinerary, a poll or a tournament bracket. The service is limited to the United States and available via a waitlist.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-12T13:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5576",
       "title": "ElevenLabs announces 13 products at once",
       "description": "According to the AI Secret newsletter, ElevenLabs reportedly presented 13 new products in a single announcement. Details are not yet publicly available.",
@@ -770,9 +985,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5583",
-      "title": "Europe seeks to ban dark patterns and loot boxes for minors",
-      "description": "The proposed Digital Fairness Act targets difficult-to-cancel subscriptions, addictive design, ads aimed at minors and personalized pricing, among other practices. Fines could reach 6% of worldwide turnover.",
+      "id": "g5486",
+      "title": "Europe wants to ban dark patterns and loot boxes for minors",
+      "description": "The proposed Digital Fairness Act targets difficult-to-cancel subscriptions, addictive design, ads targeting minors, and personalized pricing, among other practices. Fines could reach 6% of global turnover.",
       "link": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
       "sources": [
         "Vision IA"
@@ -809,8 +1024,8 @@
       "followed_topic": null
     },
     {
-      "id": "g5586",
-      "title": "Uber launches a parking-space booking service",
+      "id": "g5333",
+      "title": "Uber launches a parking-space reservation service",
       "description": "Uber Parking lets users compare and reserve a space through the SpotHero network, which includes 13,000 parking facilities in 400 cities across the United States and Canada. The service is not yet planned for Europe and currently has no AI component.",
       "link": "https://www.uber.com/us/en/newsroom/uber-parking-has-arrived/",
       "sources": [
@@ -1277,32 +1492,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5521",
-      "title": "Grok Bot 1.0 Adds Shareable AI Teammates in Slack and Teams",
-      "description": "Grok Bot 1.0 offers shareable AI teammates in Slack, Microsoft Teams and meetings. They gradually learn how the team operates.",
-      "link": "https://x.com/bot/status/2120582957782200586",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-12T10:45+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5522",
-      "title": "Tabletop Turns Group Links and Files into Customized Tools",
-      "description": "Tabletop converts a group’s links, files and notes into customized tools, such as a seating chart or tournament bracket. The service is available through the Google Labs waitlist in the U.S. for people aged 18 and over.",
-      "link": "https://x.com/GoogleLabs/status/2120549258692882702",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-12T10:45+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5523",
       "title": "Nod, n8n’s Open-Source Personal Agent, Automates Tasks on Computers",
       "description": "Nod is a personal agent from n8n that runs on a Mac, Windows PC or server. It can follow up on unpaid invoices, cancel trials and prepare a briefing before a call; it is available as a free, open-source research preview.",
@@ -1441,32 +1630,6 @@
         "Republic of Innovation"
       ],
       "received_at": "2026-11-12T10:08+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5495",
-      "title": "Building your first AI automation",
-      "description": "Chapter 28 explains how to choose a low-risk first automation, describe it with a trigger, an action and an outcome, then build and test an automatic morning briefing. Set aside 15 minutes and have the assistant connected to the previous chapter.",
-      "link": "https://link.mail.beehiiv.com/v2/c/6b4a73018e91e0ca4e687ef38773917a3cb8d4ec783c466ce7eceb6bba6b10edbbdba9e59ad0ffcd5ee17980a80bc154539c4fde0fc84774a19033d04ccb54493a6955ed2a484674a588c9b470b3f8e9b70f60aabb6cff7b1c634ec14536b2bb33a1921b28bbc047579c109166cf94bbdef4222fe88a15683a4388eefe8ce5fbb74fa9225314d149aed8dcc4ef747e712fdfd8c1de245cbe534a067f86682e7e/e444fd253a233ac0",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-11T19:32+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5496",
-      "title": "Five questions to identify tasks to automate",
-      "description": "Chapter 29 proposes identifying repetitive tasks from a week of notes, then evaluating them with five questions, two of which can immediately eliminate a candidate. It also explains how to estimate the build cost and test the automation on a week that was already completed manually.",
-      "link": "https://link.mail.beehiiv.com/v2/c/58fdcd6f73655ee68e746df289a763aab75a51ff60e1c5a361813a4d6215f903b96aa7edb1631c6acbe12a9efdb597b3652f0a8b9cceba7e9f463c4d215985e7b86f6f999d716e71dbd98d21acb7b3851e9bc904ddf69d7f7b3aa96c4d5ffd2a3aebf3da09aac6d2d4ad2cd6c917de857ace5e104b83685ead8b473e5ffadc7af74e5565c6b5795a8833caff4afd3223e25caf9c88888766caf4a47f28297fdd/072cfe19a3d247b7",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-11T19:32+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
