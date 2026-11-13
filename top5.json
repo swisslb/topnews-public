@@ -1,25 +1,41 @@
 {
   "date": "2026-11-13",
-  "news_count": 124,
+  "news_count": 117,
   "top5": [
     {
       "rank": 1,
       "id": "g5610",
-      "title": "Jensen Huang steps down as Nvidia CEO",
-      "description": "Jensen Huang, Nvidia’s co-founder and CEO since 1993, resigned after acknowledging affairs with female executives linked to the company. Colette Kress becomes interim CEO, while Nvidia stock fell as much as 14%.",
-      "link": "https://www.implicator.ai/jensen-huang-resigns-nvidia-ceo-kress-interim/",
+      "title": "Jensen Huang resigns as Nvidia CEO",
+      "description": "Jensen Huang’s resignation ends a turbulent period for Nvidia, after he transformed gaming chips into the engine of the artificial intelligence boom.",
+      "link": "https://www.businessinsider.com/jensen-huang-out-as-nvidia-ceo-affair-scandal-2026-11",
       "sources": [
-        "Techpresso",
-        "Business Insider"
+        "Business Insider",
+        "The Neuron",
+        "Techpresso"
       ],
-      "received_at": "2026-11-12T18:50+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-13T12:18+01:00",
+      "covered_by": 3,
       "favorite": false,
-      "followed_topic": null,
-      "why": "Jensen Huang’s reported departure from Nvidia, accompanied by a sharp stock decline, would represent a major leadership and market shock for the company at the center of the AI-chip boom."
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "Jensen Huang’s resignation would create major succession risk at Nvidia, the dominant supplier at the center of the AI infrastructure boom, with likely repercussions across markets and the technology sector."
     },
     {
       "rank": 2,
+      "id": "g5486",
+      "title": "Europe wants to ban dark patterns and loot boxes for minors",
+      "description": "The proposed Digital Fairness Act targets difficult-to-cancel subscriptions, addictive design, ads targeting minors, and personalized pricing, among other practices. Fines could reach 6% of global turnover.",
+      "link": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-12T13:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "The proposed European Digital Fairness Act could impose major compliance costs and fines on digital businesses by restricting dark patterns, addictive design, targeted advertising to minors, and personalized pricing."
+    },
+    {
+      "rank": 3,
       "id": "g5596",
       "title": "U.S. Data Center Electricity Demand Is Growing Ten Times Faster Than the Grid",
       "description": "U.S. data center electricity demand has increased by about 19% annually since 2000, compared with 2% for grid capacity. According to Howden, data centers may need to obtain up to 58% of their electricity off-grid by 2030.",
@@ -31,62 +47,44 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Data-center electricity demand is growing far faster than grid capacity, making power availability an increasingly decisive constraint on AI infrastructure, investment and regional planning."
-    },
-    {
-      "rank": 3,
-      "id": "g5486",
-      "title": "Europe wants to ban dark patterns and loot boxes for minors",
-      "description": "The proposed Digital Fairness Act targets, among other things, subscriptions that are difficult to cancel, addictive design, ads targeting minors, and personalized pricing. Fines could reach 6% of global turnover.",
-      "link": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-12T13:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "The EU’s proposed Digital Fairness Act could impose broad restrictions on dark patterns, targeted advertising and personalized pricing, with fines of up to 6% of global turnover."
+      "why": "Data-center electricity demand is growing far faster than grid capacity, making power availability an increasingly important constraint on AI expansion, infrastructure investment, and corporate site selection."
     },
     {
       "rank": 4,
-      "id": "g5518",
-      "title": "Google launches Gemini Decision 1, a specialized AI model",
-      "description": "Google has launched Gemini Decision 1, an affordable model designed to answer binary, multiple-choice, or rating questions. It costs $0.10 per million input tokens and also provides a confidence score.",
-      "link": "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+      "id": "g5510",
+      "title": "United Airlines bans AI agents from booking flights",
+      "description": "United Airlines will block unauthorized third-party AI agents that attempt to book, purchase, or manage trips through its channels. The airline cites privacy, account security, and federal aviation regulations, among other reasons.",
+      "link": "https://www.unite.ai/united-airlines-bars-unauthorized-ai-agents-from-booking-travel/",
       "sources": [
         "Techpresso",
-        "Vision IA",
-        "TLDR",
-        "The Neuron"
+        "Vision IA"
       ],
       "received_at": "2026-11-12T18:50+01:00",
-      "covered_by": 4,
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s low-cost Gemini Decision 1 model could materially reduce the cost of classification and evaluation workloads while intensifying competition in enterprise AI."
+      "why": "United Airlines’ decision to block unauthorized AI booking agents signals that platforms may restrict autonomous agents over privacy, security, liability, and regulatory concerns, limiting their near-term distribution."
     },
     {
       "rank": 5,
-      "id": "g5511",
-      "title": "AlphaGenome 2 links genetic mutations to cell types",
-      "description": "Google DeepMind has launched AlphaGenome 2, a model that predicts the effect of genetic variants on specific types of human cells. Trained on more than 107 million cell profiles, it identified about 30% of causal variants, up from 16% previously.",
-      "link": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "id": "g5350",
+      "title": "Claude Launches Sheets, Whiteboards, and Narrated Data Videos",
+      "description": "Anthropic is launching Claude Sheets, Whiteboards, and Data, new workspace tools. Claude Data can connect to Snowflake and Salesforce to create dashboards, visual stories, or short narrated videos, while Sheets lets users build spreadsheets and Whiteboards enables collaboration on a shared board.",
+      "link": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
       "sources": [
-        "Techpresso",
-        "Vision IA",
-        "The Neuron"
+        "AI Gen Art",
+        "TLDR IT"
       ],
-      "received_at": "2026-11-12T18:50+01:00",
-      "covered_by": 3,
+      "received_at": "2026-11-12T17:04+01:00",
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "AlphaGenome 2’s improved ability to link genetic mutations to specific cell types could accelerate drug discovery and the understanding of disease mechanisms."
+      "why": "Anthropic’s launch of Claude Sheets, Whiteboards, and Data expands the competitive battle from chatbots into enterprise workflows connected to systems such as Snowflake and Salesforce."
     }
   ],
   "period": {
-    "from": "2026-11-12T06:25+01:00",
-    "to": "2026-11-13T06:25+01:00"
+    "from": "2026-11-12T13:25+01:00",
+    "to": "2026-11-13T13:25+01:00"
   },
-  "generated_at": "2026-11-13T06:25+01:00"
+  "generated_at": "2026-11-13T13:25+01:00"
 }
