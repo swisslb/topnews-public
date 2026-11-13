@@ -1,20 +1,30 @@
 # Top 5 news of the day — 2026-11-13
 
-Period: 2026-11-12T06:25+01:00 → 2026-11-13T06:25+01:00 · 124 news received
+Period: 2026-11-12T13:25+01:00 → 2026-11-13T13:25+01:00 · 117 news received
 
-## 1. Jensen Huang steps down as Nvidia CEO
+## 1. Jensen Huang resigns as Nvidia CEO
 
-**Why it matters:** Jensen Huang’s reported departure from Nvidia, accompanied by a sharp stock decline, would represent a major leadership and market shock for the company at the center of the AI-chip boom.
+**Why it matters:** Jensen Huang’s resignation would create major succession risk at Nvidia, the dominant supplier at the center of the AI infrastructure boom, with likely repercussions across markets and the technology sector.
 
-Jensen Huang, Nvidia’s co-founder and CEO since 1993, resigned after acknowledging affairs with female executives linked to the company. Colette Kress becomes interim CEO, while Nvidia stock fell as much as 14%.
+Jensen Huang’s resignation ends a turbulent period for Nvidia, after he transformed gaming chips into the engine of the artificial intelligence boom.
 
-- Link: https://www.implicator.ai/jensen-huang-resigns-nvidia-ceo-kress-interim/
-- Sources: Techpresso, Business Insider
-- Received: 2026-11-12T18:50+01:00
+- Link: https://www.businessinsider.com/jensen-huang-out-as-nvidia-ceo-affair-scandal-2026-11
+- Sources: Business Insider, The Neuron, Techpresso
+- Received: 2026-11-13T12:18+01:00
 
-## 2. U.S. Data Center Electricity Demand Is Growing Ten Times Faster Than the Grid
+## 2. Europe wants to ban dark patterns and loot boxes for minors
 
-**Why it matters:** Data-center electricity demand is growing far faster than grid capacity, making power availability an increasingly decisive constraint on AI infrastructure, investment and regional planning.
+**Why it matters:** The proposed European Digital Fairness Act could impose major compliance costs and fines on digital businesses by restricting dark patterns, addictive design, targeted advertising to minors, and personalized pricing.
+
+The proposed Digital Fairness Act targets difficult-to-cancel subscriptions, addictive design, ads targeting minors, and personalized pricing, among other practices. Fines could reach 6% of global turnover.
+
+- Link: https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/
+- Sources: Vision IA
+- Received: 2026-11-12T13:56+01:00
+
+## 3. U.S. Data Center Electricity Demand Is Growing Ten Times Faster Than the Grid
+
+**Why it matters:** Data-center electricity demand is growing far faster than grid capacity, making power availability an increasingly important constraint on AI expansion, infrastructure investment, and corporate site selection.
 
 U.S. data center electricity demand has increased by about 19% annually since 2000, compared with 2% for grid capacity. According to Howden, data centers may need to obtain up to 58% of their electricity off-grid by 2030.
 
@@ -22,32 +32,22 @@ U.S. data center electricity demand has increased by about 19% annually since 20
 - Sources: TLDR IT
 - Received: 2026-11-12T14:51+01:00
 
-## 3. Europe wants to ban dark patterns and loot boxes for minors
+## 4. United Airlines bans AI agents from booking flights
 
-**Why it matters:** The EU’s proposed Digital Fairness Act could impose broad restrictions on dark patterns, targeted advertising and personalized pricing, with fines of up to 6% of global turnover.
+**Why it matters:** United Airlines’ decision to block unauthorized AI booking agents signals that platforms may restrict autonomous agents over privacy, security, liability, and regulatory concerns, limiting their near-term distribution.
 
-The proposed Digital Fairness Act targets, among other things, subscriptions that are difficult to cancel, addictive design, ads targeting minors, and personalized pricing. Fines could reach 6% of global turnover.
+United Airlines will block unauthorized third-party AI agents that attempt to book, purchase, or manage trips through its channels. The airline cites privacy, account security, and federal aviation regulations, among other reasons.
 
-- Link: https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/
-- Sources: Vision IA
-- Received: 2026-11-12T13:56+01:00
-
-## 4. Google launches Gemini Decision 1, a specialized AI model
-
-**Why it matters:** Google’s low-cost Gemini Decision 1 model could materially reduce the cost of classification and evaluation workloads while intensifying competition in enterprise AI.
-
-Google has launched Gemini Decision 1, an affordable model designed to answer binary, multiple-choice, or rating questions. It costs $0.10 per million input tokens and also provides a confidence score.
-
-- Link: https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/
-- Sources: Techpresso, Vision IA, TLDR, The Neuron
+- Link: https://www.unite.ai/united-airlines-bars-unauthorized-ai-agents-from-booking-travel/
+- Sources: Techpresso, Vision IA
 - Received: 2026-11-12T18:50+01:00
 
-## 5. AlphaGenome 2 links genetic mutations to cell types
+## 5. Claude Launches Sheets, Whiteboards, and Narrated Data Videos
 
-**Why it matters:** AlphaGenome 2’s improved ability to link genetic mutations to specific cell types could accelerate drug discovery and the understanding of disease mechanisms.
+**Why it matters:** Anthropic’s launch of Claude Sheets, Whiteboards, and Data expands the competitive battle from chatbots into enterprise workflows connected to systems such as Snowflake and Salesforce.
 
-Google DeepMind has launched AlphaGenome 2, a model that predicts the effect of genetic variants on specific types of human cells. Trained on more than 107 million cell profiles, it identified about 30% of causal variants, up from 16% previously.
+Anthropic is launching Claude Sheets, Whiteboards, and Data, new workspace tools. Claude Data can connect to Snowflake and Salesforce to create dashboards, visual stories, or short narrated videos, while Sheets lets users build spreadsheets and Whiteboards enables collaboration on a shared board.
 
-- Link: https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/
-- Sources: Techpresso, Vision IA, The Neuron
-- Received: 2026-11-12T18:50+01:00
+- Link: https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors
+- Sources: AI Gen Art, TLDR IT
+- Received: 2026-11-12T17:04+01:00
