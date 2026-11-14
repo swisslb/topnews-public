@@ -1,28 +1,11 @@
 {
   "date": "2026-11-14",
   "period": {
-    "from": "2026-11-13T06:25+01:00",
-    "to": "2026-11-14T06:25+01:00"
+    "from": "2026-11-13T13:25+01:00",
+    "to": "2026-11-14T13:25+01:00"
   },
-  "news_count": 157,
+  "news_count": 98,
   "news": [
-    {
-      "id": "g5610",
-      "title": "Jensen Huang Resigns as Head of Nvidia",
-      "description": "Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.",
-      "link": "https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider",
-        "Vision IA",
-        "TLDR",
-        "Business Insider",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 5,
-      "favorite": false,
-      "followed_topic": null
-    },
     {
       "id": "g5299",
       "title": "A Global Microsoft 365 Outage Affects Outlook and Teams",
@@ -31,11 +14,10 @@
       "sources": [
         "Techpresso",
         "TLDR IT",
-        "Vision IA",
-        "TLDR"
+        "Vision IA"
       ],
       "received_at": "2026-11-13T18:45+01:00",
-      "covered_by": 4,
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null
     },
@@ -47,11 +29,10 @@
       "sources": [
         "Techpresso",
         "Superhuman",
-        "Vision IA",
-        "The Neuron"
+        "Vision IA"
       ],
       "received_at": "2026-11-13T18:45+01:00",
-      "covered_by": 4,
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null
     },
@@ -62,44 +43,12 @@
       "link": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
       "sources": [
         "Techpresso",
-        "Vision IA",
-        "TLDR"
+        "Vision IA"
       ],
       "received_at": "2026-11-13T18:45+01:00",
-      "covered_by": 3,
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": "SpaceX et Starlink"
-    },
-    {
-      "id": "g5662",
-      "title": "Google Unveils Intelligent Eyewear, the Successor to Google Glass",
-      "description": "These new smart glasses let users use Gemini in everyday life to ask questions, take photos and translate conversations. Preorders are open, and deliveries will begin on December 10.",
-      "link": "https://glasses.google/",
-      "sources": [
-        "Superhuman",
-        "Vision IA",
-        "TLDR",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T15:09+01:00",
-      "covered_by": 4,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5510",
-      "title": "United Airlines Blocks Unauthorized Personal AI Agents",
-      "description": "United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.",
-      "link": "https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html",
-      "sources": [
-        "TLDR IT",
-        "Intelligence Newsletter",
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-13T14:51+01:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": null
     },
     {
       "id": "g5807",
@@ -126,6 +75,20 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g5610",
+      "title": "Jensen Huang Resigns as Head of Nvidia",
+      "description": "Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.",
+      "link": "https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g5813",
@@ -300,6 +263,20 @@
       "followed_topic": null
     },
     {
+      "id": "g5662",
+      "title": "Google Unveils Intelligent Eyewear, the Successor to Google Glass",
+      "description": "These new smart glasses let users use Gemini in everyday life to ask questions, take photos and translate conversations. Preorders are open, and deliveries will begin on December 10.",
+      "link": "https://glasses.google/",
+      "sources": [
+        "Superhuman",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-13T15:09+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5758",
       "title": "Wispr Flow Turns Voice Dictation Into Polished Text Across All Apps",
       "description": "Wispr Flow lets users dictate text in WhatsApp, Slack, Gmail, ChatGPT or a browser, then removes hesitations, corrects grammar and formats the result. The tool is available on Mac, Windows, iPhone and Android, with free unlimited access on Android at launch.",
@@ -376,162 +353,6 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g5362",
-      "title": "OpenAI Creates an Official Business Space in ChatGPT",
-      "description": "Businesses can now claim their presence in ChatGPT, update their information and publish Business Agents that customers can interact with. ChatGPT is thus evolving from a descriptive tool into a distribution channel for businesses.",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt/",
-      "sources": [
-        "Intelligence Newsletter"
-      ],
-      "received_at": "2026-11-13T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5701",
-      "title": "AI Assistants Become the Upstream Interface for Banking Services",
-      "description": "According to McKinsey, 74% of consumers who use AI for banking tasks rely on general-purpose assistants such as ChatGPT, Claude or Gemini. Customers can therefore make a decision before even entering a bank’s environment.",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
-      "sources": [
-        "Intelligence Newsletter"
-      ],
-      "received_at": "2026-11-13T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5693",
-      "title": "ChatGPT Becomes a New Gateway to Businesses",
-      "description": "OpenAI has launched Businesses in ChatGPT, allowing companies to manage their presence, product information and customer interactions in ChatGPT. Customer acquisition is therefore beginning to move outside channels controlled by businesses.",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt/",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-13T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5676",
-      "title": "Huang’s Departure Alarms Investors Across the AI Sector",
-      "description": "The Nvidia leader’s resignation is weakening the company’s stock and raising fears of repercussions for companies across the artificial intelligence industry.",
-      "link": "https://www.businessinsider.com/jensen-huang-resigns-nvidia-implications-for-ai-trade-tech-stocks-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5679",
-      "title": "Huang’s Departure Could Change the Outlook for Anthropic’s IPO",
-      "description": "Nvidia’s planned $10 billion investment could be reassessed, while future chip deals could slow. The departure could also strengthen Anthropic’s position in Washington and its chip-diversification strategy.",
-      "link": "https://www.businessinsider.com/jensen-huang-fall-could-reshape-anthropic-ipo-ai-chip-race-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g5653",
-      "title": "OpenAI Security Officials Tricked by Fake Russian Agents",
-      "description": "Three senior OpenAI national security officials spent 17 minutes on a video call with Russian scammers posing as Ukraine’s intelligence chief. OpenAI has opened an investigation and taken steps to prevent a recurrence.",
-      "link": "https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5655",
-      "title": "Groups Call for a Freeze on New AI Models",
-      "description": "Four nonprofit organizations asked a San Francisco judge to halt new frontier models from Anthropic, Google, Meta, OpenAI and SpaceXSI.",
-      "link": "https://apnews.com/article/03ece37b96979fe834f60976648504ba",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5656",
-      "title": "OpenAI Reportedly Supports Bills Restricting China’s Access to AI Chips",
-      "description": "OpenAI reportedly told lawmakers it would support bipartisan bills restricting China’s access to artificial intelligence chips and semiconductor manufacturing equipment.",
-      "link": "https://news.bloomberglaw.com/tech-and-telecom-law/openai-joins-groundswell-of-support-for-ai-chip-control-measures",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5657",
-      "title": "Anthropic’s IPO Reportedly Six Times Oversubscribed",
-      "description": "Anthropic’s IPO reportedly attracted about six times more demand than the number of shares offered. During its roadshow, the company also said Claude had been ported to AMD GPUs in three days, compared with several months previously.",
-      "link": "https://x.com/kimmonismus/status/2120851923335004279",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g5660",
-      "title": "SpaceX Announces $74 Billion in AI Computing Sites",
-      "description": "SpaceX announced $74 billion in investments in AI-dedicated computing sites, including a $50 billion site in Arizona and a $24 billion gas-powered complex near Starbase.",
-      "link": "https://news.bloomberglaw.com/tech-and-telecom-law/spacex-plans-74-billion-data-center-projects-in-arizona-texas",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
-    },
-    {
-      "id": "g5663",
-      "title": "ChatGPT’s Personal Agents Now Support Custom Instructions",
-      "description": "ChatGPT’s personal agents can now follow custom instructions, such as writing only in lowercase or displaying a draft before sending an email.",
-      "link": "https://x.com/ChatGPT/status/2120970988796170275",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5650",
-      "title": "Could the Touchscreen MacBook Pro Replace the M5 iPad Pro?",
-      "description": "The touchscreen MacBook Pro supports macOS apps and offers substantial memory and storage, but it does not work with the Apple Pencil. It starts at $2,899, compared with $999 for the M5 iPad Pro.",
-      "link": "https://www.techrepublic.com/article/news-touchscreen-macbook-pro-vs-ipad-pro-m5-replacement/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-13T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
     },
     {
       "id": "g5820",
@@ -1223,6 +1044,19 @@
       "followed_topic": null
     },
     {
+      "id": "g5510",
+      "title": "United Airlines Blocks Unauthorized Personal AI Agents",
+      "description": "United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.",
+      "link": "https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-13T14:51+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5752",
       "title": "AWS Cloud WAN now supports flow logs",
       "description": "The new feature collects IP addresses, ports, protocols, and traffic volume, among other data. It eliminates the need for users to combine logs from multiple VPCs, accounts, and regions.",
@@ -1452,617 +1286,6 @@
         "Vision IA"
       ],
       "received_at": "2026-11-13T13:50+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5704",
-      "title": "Chinese laboratories accelerate development of innovative drugs",
-      "description": "Chinese pharmaceutical companies account for at least one-third of innovative drugs in development worldwide and conduct more clinical trials than any other country. They rely mainly on partnerships with Western companies for final development and overseas commercialization.",
-      "link": "https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5705",
-      "title": "mRNA technology opens a new medical chapter",
-      "description": "mRNA technology could produce hundreds of new treatments for various diseases. It can create a vaccine against any pathogen in six to eight weeks and could transform treatments for infectious diseases, rare diseases, and cancer.",
-      "link": "https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5706",
-      "title": "AI-generated “slop” is shifting into design choices",
-      "description": "AI produces significantly less mediocre content, but it has not disappeared. It now manifests itself in design decisions, particularly poor anticipation of how code will be used and limited reuse of existing libraries.",
-      "link": "https://gabeorlanski.github.io/posts/slop-moves-up/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5707",
-      "title": "Ideas once considered bad are becoming relevant again",
-      "description": "Professional experience develops useful intuitions for leaders, but some of them deserve to be reconsidered. Changing circumstances can make ideas once considered bad relevant again.",
-      "link": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5708",
-      "title": "Employees at AI companies should unionize",
-      "description": "Safety-conscious employees at AI companies could unionize to gain leverage over their employers. A union could defend their protections, demand greater transparency, and maintain an independent voice in the face of corporate commitments.",
-      "link": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5710",
-      "title": "China could have ten times more electricity than the United States",
-      "description": "If current trends continue, China will have ten times more electricity than the United States in ten years.",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5711",
-      "title": "Age differences influence the acceleration of AI",
-      "description": "Younger people may be less concerned about AI’s ability to extend life. Older people, with less time remaining, have a stronger incentive to accelerate its development.",
-      "link": "https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5712",
-      "title": "Incident.io details its AI-related spending",
-      "description": "Incident.io’s “effort point” concept is used to analyze AI-related spending.",
-      "link": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5713",
-      "title": "Trump mentions Tim Cook as a successor to Jensen Huang",
-      "description": "Donald Trump mentioned Apple CEO Tim Cook as a possible successor to Jensen Huang at the helm of Nvidia. The article highlights his experience succeeding an iconic founder.",
-      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5714",
-      "title": "Rust 1.100.0 introduces the never type and new APIs",
-      "description": "The stable Rust 1.100.0 release notably adds the never type, the Allocator and DropGuard APIs, and zero-sized type generation.",
-      "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5699",
-      "title": "Companies are divided over AI agents’ access to commerce",
-      "description": "Amazon, Booking.com, eBay, Target, Resy, Yelp, and other companies are taking different approaches to third-party agents, ranging from blocking them to approving certain platforms. Companies will therefore choose where and how they participate in the agentic web.",
-      "link": "https://www.booking.com/",
-      "sources": [
-        "Intelligence Newsletter"
-      ],
-      "received_at": "2026-11-13T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5700",
-      "title": "Visa reveals a high failure rate for agent-driven purchases",
-      "description": "Visa’s benchmark found that 42.8% of agent-driven shopping journeys failed, although some failures still resulted in purchases. Product discovery should therefore not automatically give an agent the power to spend.",
-      "link": "https://investor.visa.com/news/news-details/2026/Visa-Releases-First-of-Its-Kind-Industry-Benchmark-for-AI-Shopping-Almost-Half-of-Test-Runs-Fail/default.aspx",
-      "sources": [
-        "Intelligence Newsletter"
-      ],
-      "received_at": "2026-11-13T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5691",
-      "title": "AI reveals that customer loyalty was sometimes built on friction",
-      "description": "AI agents can compare prices, terms, and products every day, threatening loyalty based on customer inertia. Companies must strengthen the value, trust, and experience that remain when comparison becomes easy.",
-      "link": "https://pascalbornet.substack.com/p/irreplaceable-with-ai-251?triedRedirect=true",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-13T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5692",
-      "title": "AI agents are becoming a new distribution channel",
-      "description": "According to McKinsey, large language models can compare far more financial providers than customers previously could. AI removes the friction that protected established players and makes their true loyalty more visible.",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-13T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5695",
-      "title": "Shopping agents are still making bad decisions",
-      "description": "Visa tested 22 AI models on realistic shopping tasks: 42.8% of executions failed, and 54% of those failures nevertheless resulted in a purchase. AI can therefore remove friction faster than it reduces uncertainty.",
-      "link": "https://investor.visa.com/news/news-details/2026/Visa-Releases-First-of-Its-Kind-Industry-Benchmark-for-AI-Shopping-Almost-Half-of-Test-Runs-Fail/default.aspx",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-13T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5696",
-      "title": "Companies are adopting different strategies toward AI agents",
-      "description": "Retailers, airlines, and platforms are beginning to decide which third-party agents they will accept, limit, or block. This issue is becoming a strategic choice that determines who can participate in customer decisions.",
-      "link": null,
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-13T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5668",
-      "title": "A Young Founder Named Jensen Huang Benefits from His Namesake’s Troubles",
-      "description": "Jensen Huang, a 24-year-old Singaporean founder, explains why the negative press surrounding Nvidia’s CEO benefits his company.",
-      "link": "https://www.businessinsider.com/other-jensen-huang-same-name-startup-interview-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5669",
-      "title": "Jensen Huang’s Departure Does Not Solve Nvidia’s Problems",
-      "description": "Jensen Huang’s resignation begins a period of instability for Nvidia. Its organizational structure and lack of a succession plan leave many problems to resolve.",
-      "link": "https://www.businessinsider.com/jensen-huang-nvidia-flat-structure-leadership-succession-risk-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5671",
-      "title": "Founder Jensen Huang Had Become Nvidia’s Biggest Risk",
-      "description": "Jensen Huang built the Nvidia empire, but the company’s dependence on him has now become a major risk.",
-      "link": "https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5672",
-      "title": "Nvidia’s Structure Complicates Its Transition After Huang’s Departure",
-      "description": "Flat organizations built around powerful founders can be effective, but they become problematic when their leader is gone.",
-      "link": "https://www.businessinsider.com/jensen-huang-nvidia-flat-structure-leadership-succession-risk-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5674",
-      "title": "Small Investors Keep Buying Nvidia Shares",
-      "description": "Despite Nvidia’s stock decline and Wall Street’s pessimism after Jensen Huang’s resignation, some retail investors are taking advantage of the drop to buy more shares.",
-      "link": "https://l.businessinsider.com/a/zc/21432/e1d1e16b04d34ab2824e9dd849369506/3cc1c1a57df1481cb7c46487e511f86a",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5675",
-      "title": "Wall Street Analysts Turn Away from Nvidia",
-      "description": "After revelations about Jensen Huang’s relationships and his departure, Wall Street analysts have become more negative on Nvidia’s stock.",
-      "link": "https://www.businessinsider.com/nvidia-stock-nvda-outlook-jensen-huang-departs-wall-street-downgrades-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5677",
-      "title": "Warby Parker Launches Smart Glasses to Compete with Meta’s",
-      "description": "Warby Parker’s smart glasses use technologies from Google and Samsung. Business Insider tested them to determine how they differ from Meta’s glasses.",
-      "link": "https://l.businessinsider.com/a/zc/21432/648b76670be6417986740cd723355a0e/8e8f4e35b6f34fe4aed7820fb92d0769",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5678",
-      "title": "Silicon Valley Prepares for a Future Without Jensen Huang",
-      "description": "At the Cerebral Valley AI Summit, founders and investors warned that Huang’s departure could hurt startups and destabilize an industry that views Nvidia as its “central bank.”",
-      "link": "https://www.businessinsider.com/nvidia-jensen-huang-exit-ai-startups-ceos-vcs-cerebral-valley",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5680",
-      "title": "The United States Faces a Growing Population Shortage",
-      "description": "Falling birth rates, immigration and tourism are creating a “Great People Shortage.” Areas dependent on newcomers are expected to feel the effects first.",
-      "link": "https://l.businessinsider.com/a/zc/21432/648b76670be6417986740cd723355a0e/a00280858d894b6c800ebd834f6cafe0",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5681",
-      "title": "TikTok Centralizes Its U.S. E-Commerce Operations in China",
-      "description": "TikTok has placed its U.S. e-commerce operations under the responsibility of Chinese executives. Business Insider obtained the organizational chart for the 14 top executives and their teams.",
-      "link": "https://www.businessinsider.com/tiktok-shop-org-chart-shows-us-operations-leaders-and-reports-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5682",
-      "title": "Instacart Partners with Provi to Supply Bars",
-      "description": "Instacart has partnered with Provi. The platform will offer same-day delivery to bars and restaurants for nonalcoholic items such as mixers and garnishes.",
-      "link": "https://www.businessinsider.com/instacart-provi-deal-brings-rapid-bar-supply-deliveries-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5683",
-      "title": "Microsoft Outage Disrupts Email for Many Companies",
-      "description": "A Microsoft outage is disrupting email, even as some business executives use it very little.",
-      "link": "https://www.businessinsider.com/microsoft-outage-disrupting-email-ceo-business-leaders-barely-use-it-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5684",
-      "title": "Jensen Huang’s Leather Jackets Have Become a Joke",
-      "description": "Jensen Huang’s once-iconic leather jackets are now being mocked following the controversies surrounding the Nvidia leader.",
-      "link": "https://www.businessinsider.com/jensen-huang-leather-jacket-jokes-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5685",
-      "title": "Anthropic Introduces Claude Tool to Address Labor Shortages",
-      "description": "Anthropic is offering a new Claude tool designed to help manufacturers facing labor shortages.",
-      "link": "https://www.businessinsider.com/anthropic-launches-claude-for-manufacturers-ahead-of-ipo-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5686",
-      "title": "Flowers Left Outside Nvidia Headquarters After Huang’s Resignation",
-      "description": "Photos show flowers left outside Nvidia headquarters following Jensen Huang’s resignation.",
-      "link": "https://www.businessinsider.com/jensen-huang-flowers-candle-nvidia-headquarters-photos-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5687",
-      "title": "Amazon’s Ring Flying Camera Raises Questions About Its Target Audience",
-      "description": "The Amazon Ring Drone Cam product has prompted questions about who it is intended for.",
-      "link": "https://www.businessinsider.com/amazon-ring-drone-camera-house-security-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5688",
-      "title": "Michael Burry Advises Selling Nvidia Stock",
-      "description": "Investor Michael Burry recommends getting out of Nvidia stock.",
-      "link": "https://www.businessinsider.com/michael-burry-nvidia-stock-jensen-huang-big-short-ai-succession-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5689",
-      "title": "Lisa Su, Jensen Huang’s Cousin, Leads Nvidia Rival AMD",
-      "description": "Lisa Su, Jensen Huang’s cousin, is the CEO of AMD, an Nvidia competitor.",
-      "link": "https://www.businessinsider.com/meet-lisa-su-jensen-huangs-cousin-amd-ceo-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5690",
-      "title": "Alice Huang Barred from Returning to Singapore",
-      "description": "Singapore says Alice Huang, a Megaspeed executive involved in the Nvidia scandal, is not permitted to return to the country.",
-      "link": "https://www.businessinsider.com/singapore-megaspeed-investigation-alice-huang-passport-barred-entering-country-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-13T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5667",
-      "title": "RLHF Is Costly Mainly Because of Its Training Loop",
-      "description": "In RLHF, the infrastructure costs of maintaining four models simultaneously during PPO can exceed annotation expenses. DPO reuses the same preference data without a separate reward model, making it a simpler starting point for most teams.",
-      "link": "https://www.newline.co/login?redirectUrl=/@Dipen/examples-of-reinforcement-learning-in-llm-apps-from-rlhf-to-safer-business-outputs--8aa0f102",
-      "sources": [
-        "Fullstack.io"
-      ],
-      "received_at": "2026-11-13T11:47+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5658",
-      "title": "Cerebras Reports $230.9 Million in Third-Quarter Revenue",
-      "description": "Cerebras reported $230.9 million in third-quarter revenue, up 70%, and raised its full-year guidance.",
-      "link": "https://cerebras.gcs-web.com/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5659",
-      "title": "FBI Dismantles North Korean Cryptocurrency Theft Campaign",
-      "description": "The FBI disrupted North Korea’s FaceStealer campaign, which used fake Zoom-style meetings featuring recordings of people known to the victims to steal more than $400 million in cryptocurrency.",
-      "link": "https://www.nextgov.com/cybersecurity/2026/11/fbi-disrupts-intricate-north-korean-fake-call-scheme-tied-400m-crypto-theft/417200/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5664",
-      "title": "Yogurt Summarizes Calls Without Sending a Bot to the Meeting",
-      "description": "Yogurt records calls without having a bot join the meeting, then produces a free summary with next steps assigned to each person. The project is presented as free and open source.",
-      "link": "https://github.com/FrigadeHQ/yogurt",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5665",
-      "title": "Pomerado Turns API-Less Websites into Tools for Coding Agents",
-      "description": "Pomerado turns a website without an API, such as a vendor invoice portal, into a tool that a coding agent can use from a single prompt. The service offers a free plan followed by a $50-per-month option.",
-      "link": "https://pomerado.ai/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5666",
-      "title": "Kiln Runs AI Models Directly in the Browser",
-      "description": "Kiln runs conversational, transcription and image models directly in the browser from Hugging Face files, without a server or conversion step. The project is presented as free and open source.",
-      "link": "https://github.com/erdemozkan/kiln",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5646",
-      "title": "Spotify DJ Adds Nine Voices and an Option to Turn Off Commentary",
-      "description": "Spotify Premium DJ offers nine new voices and a setting to disable most commentary between songs while retaining personalized recommendations.",
-      "link": "https://www.techrepublic.com/article/news-spotify-ai-dj-voices-commentary-controls/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-13T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5647",
-      "title": "Disney Expands Adobe Partnership for Its Parks, Films and ESPN Content",
-      "description": "Disney is using Adobe’s custom Firefly Foundry models to speed up art design, visual effects and ESPN content. The shorter iteration times also raise questions about work methods and staffing.",
-      "link": "https://www.eweek.com/news/disney-adobe-custom-ai-models-parks-films-espn/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-13T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5648",
-      "title": "Google Gemini Shows What It Remembers About Users and Lets Them Correct It",
-      "description": "Gemini displays and lets users edit the information it remembers about them in a summary organized into five timestamped categories. However, deleting a memory may not erase the source conversation.",
-      "link": "https://www.techrepublic.com/article/news-google-gemini-memory-summary-controls/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-13T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5649",
-      "title": "Microsoft Teams rolls out AI detection of phishing attempts",
-      "description": "Microsoft Teams is rolling out AI-powered detection of impersonation and social engineering in chats, even without a malicious link. Warnings about deepfakes in meetings will follow, but will require third-party configuration.",
-      "link": "https://www.techrepublic.com/article/news-microsoft-teams-ai-phishing-detection-deepfake-warnings/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-13T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5651",
-      "title": "Southeast Asian anti-scam hub offers free training",
-      "description": "The Scam Ready ASEAN hub offers free training, an interactive game and country-specific reporting contacts across 11 nations. Scams cost Southeast Asia $23.6 billion.",
-      "link": "https://www.techrepublic.com/article/news-scam-ready-asean-resource-hub-apac-southeast-asia/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-13T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5652",
-      "title": "Meta AI: features, pricing and user guide",
-      "description": "Meta AI is integrated into Meta’s apps, with features powered by Muse, multiple pricing tiers and privacy controls. The guide covers platform availability and use of Incognito mode, among other topics.",
-      "link": "https://www.techrepublic.com/article/news-meta-ai-cheat-sheet/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-13T10:33+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
