@@ -1,99 +1,91 @@
 {
   "date": "2026-11-14",
-  "news_count": 157,
+  "news_count": 98,
   "top5": [
     {
       "rank": 1,
       "id": "g5610",
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "description": "Jensen Huang has reportedly resigned as Nvidia’s CEO following reports of two alleged affairs with Chinese spies. Nvidia’s valuation fell by $800 billion after the controversy.",
+      "title": "Jensen Huang Resigns as Head of Nvidia",
+      "description": "Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.",
       "link": "https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
       "sources": [
         "AppleInsider",
-        "Vision IA",
-        "TLDR",
-        "Business Insider",
-        "The Neuron"
+        "Vision IA"
       ],
       "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 5,
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "Jensen Huang’s reported departure from Nvidia would be a major leadership and market shock, with potential consequences for the AI-chip ecosystem and Nvidia’s valuation."
+      "why": "Jensen Huang’s reported resignation sent Nvidia’s valuation sharply lower and raises major questions about the leadership and direction of the company at the center of the AI-chip market."
     },
     {
       "rank": 2,
       "id": "g5299",
       "title": "A Global Microsoft 365 Outage Affects Outlook and Teams",
-      "description": "A global Microsoft 365 outage disrupted Outlook, Teams, Copilot, and other services. Microsoft attributed it to an overloaded secure-connections process and said it was not a cyberattack.",
+      "description": "A global Microsoft 365 outage crippled Outlook, Teams, Copilot and other services. Microsoft attributed it to an overloaded secure-connection process and said it was not a cyberattack.",
       "link": "https://www.business-standard.com/technology/tech-news/microsoft-365-outage-continues-as-company-sees-limited-recovery-in-services-126111300464_1.html",
       "sources": [
         "Techpresso",
         "TLDR IT",
-        "Vision IA",
-        "TLDR"
+        "Vision IA"
       ],
       "received_at": "2026-11-13T18:45+01:00",
-      "covered_by": 4,
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "The global Microsoft 365 outage highlights the operational and concentration risks businesses face when core email, collaboration and AI services depend on one cloud provider."
+      "why": "The global Microsoft 365 outage disrupted Outlook, Teams, Copilot and other enterprise services, highlighting the operational and concentration risks of cloud dependence."
     },
     {
       "rank": 3,
       "id": "g5661",
       "title": "Google Launches Gemini 4 Hydrogen for Coding Assistants",
-      "description": "Google has launched Gemini 4 Hydrogen, a model designed for coding assistants and software that uses tools. It accepts text, images, audio, and video, with adjustable reasoning levels and usage-based pricing.",
+      "description": "Google launched Gemini 4 Hydrogen, a model designed for coding assistants and software that uses tools. It accepts text, images, audio and video, with adjustable reasoning levels and usage-based pricing.",
       "link": "https://winbuzzer.com/2026/11/12/google-launches-gemini-4-hydrogen-for-faster-ai-coding-xcxwbn/",
       "sources": [
         "Techpresso",
         "Superhuman",
-        "Vision IA",
-        "The Neuron"
+        "Vision IA"
       ],
       "received_at": "2026-11-13T18:45+01:00",
-      "covered_by": 4,
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s Gemini 4 Hydrogen strengthens competition in coding and tool-using AI, potentially affecting developer workflows, model economics and enterprise adoption."
+      "why": "Google’s launch of Gemini 4 Hydrogen intensifies competition in coding assistants and tool-using AI while expanding the market for multimodal, usage-priced models."
     },
     {
       "rank": 4,
-      "id": "g5699",
-      "title": "Companies are divided over AI agents’ access to commerce",
-      "description": "Amazon, Booking.com, eBay, Target, Resy, Yelp, and other companies are taking different approaches to third-party agents, ranging from blocking them to approving certain platforms. Companies will therefore choose where and how they participate in the agentic web.",
-      "link": "https://www.booking.com/",
+      "id": "g5750",
+      "title": "Open standards aim to simplify the development of interoperable AI agents",
+      "description": "Anthropic’s donation of the Model Context Protocol and Agent Skills to the Linux Foundation’s Agentic AI Foundation establishes complementary standards to limit fragmentation in AI-agent ecosystems. MCP standardizes real-time connections to tools and data, while Agent Skills progressively loads the procedural knowledge required.",
+      "link": "https://opensource.googleblog.com/2026/11/scaling-ai-agents-open-standards-mcp-aaif.html",
       "sources": [
-        "Intelligence Newsletter"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-13T12:31+01:00",
+      "received_at": "2026-11-13T14:51+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Companies are now making strategic decisions about whether and how AI agents may access commerce, shaping the next distribution layer between businesses and customers."
+      "why": "Anthropic’s contribution of the Model Context Protocol and Agent Skills to a Linux Foundation project could establish important open standards for interoperable AI agents."
     },
     {
       "rank": 5,
-      "id": "g5662",
-      "title": "Google Unveils Intelligent Eyewear, the Successor to Google Glass",
-      "description": "These new smart glasses let users use Gemini in everyday life to ask questions, take photos, and translate conversations. Preorders are open, and deliveries will begin on December 10.",
-      "link": "https://glasses.google/",
+      "id": "g5736",
+      "title": "Australia wants to require independent audits of cutting-edge AI",
+      "description": "The Australian government is proposing mandatory safety rules for companies developing the most advanced models. A regulator could have these models audited by independent experts and impose penalties.",
+      "link": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
       "sources": [
-        "Superhuman",
-        "Vision IA",
-        "TLDR",
-        "The Neuron"
+        "Vision IA"
       ],
-      "received_at": "2026-11-13T15:09+01:00",
-      "covered_by": 4,
+      "received_at": "2026-11-13T13:50+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s new Gemini-powered smart glasses signal a renewed race to make ambient AI a mainstream consumer interface beyond phones and computers."
+      "why": "Australia’s proposal for mandatory independent audits and penalties for cutting-edge AI developers signals a shift toward enforceable international safety regulation."
     }
   ],
   "period": {
-    "from": "2026-11-13T06:25+01:00",
-    "to": "2026-11-14T06:25+01:00"
+    "from": "2026-11-13T13:25+01:00",
+    "to": "2026-11-14T13:25+01:00"
   },
-  "generated_at": "2026-11-14T06:25+01:00"
+  "generated_at": "2026-11-14T13:25+01:00"
 }
