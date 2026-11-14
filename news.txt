@@ -1,56 +1,32 @@
 # All newsletter news — 2026-11-14
 
-Period: 2026-11-13T06:25+01:00 → 2026-11-14T06:25+01:00 · 157 news received
+Period: 2026-11-13T13:25+01:00 → 2026-11-14T13:25+01:00 · 98 news received
 
-## 1. Jensen Huang Resigns as Head of Nvidia
-
-Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.
-
-- Link: https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider, Vision IA, TLDR, Business Insider, The Neuron
-- Received: 2026-11-14T01:24+01:00
-
-## 2. A Global Microsoft 365 Outage Affects Outlook and Teams
+## 1. A Global Microsoft 365 Outage Affects Outlook and Teams
 
 A global Microsoft 365 outage crippled Outlook, Teams, Copilot and other services. Microsoft attributed it to an overloaded secure-connection process and said it was not a cyberattack.
 
 - Link: https://www.business-standard.com/technology/tech-news/microsoft-365-outage-continues-as-company-sees-limited-recovery-in-services-126111300464_1.html
-- Sources: Techpresso, TLDR IT, Vision IA, TLDR
+- Sources: Techpresso, TLDR IT, Vision IA
 - Received: 2026-11-13T18:45+01:00
 
-## 3. Google Launches Gemini 4 Hydrogen for Coding Assistants
+## 2. Google Launches Gemini 4 Hydrogen for Coding Assistants
 
 Google launched Gemini 4 Hydrogen, a model designed for coding assistants and software that uses tools. It accepts text, images, audio and video, with adjustable reasoning levels and usage-based pricing.
 
 - Link: https://winbuzzer.com/2026/11/12/google-launches-gemini-4-hydrogen-for-faster-ai-coding-xcxwbn/
-- Sources: Techpresso, Superhuman, Vision IA, The Neuron
+- Sources: Techpresso, Superhuman, Vision IA
 - Received: 2026-11-13T18:45+01:00
 
-## 4. Tesla and SpaceX Merger Talks Reach a New Stage
+## 3. Tesla and SpaceX Merger Talks Reach a New Stage
 
 Talks aimed at a merger between Tesla and SpaceX have reached a new stage, but one obstacle remains.
 
 - Link: https://www.teslarati.com/tesla-spacex-merger-timeline/
-- Sources: Techpresso, Vision IA, TLDR
+- Sources: Techpresso, Vision IA
 - Received: 2026-11-13T18:45+01:00
 
-## 5. Google Unveils Intelligent Eyewear, the Successor to Google Glass
-
-These new smart glasses let users use Gemini in everyday life to ask questions, take photos and translate conversations. Preorders are open, and deliveries will begin on December 10.
-
-- Link: https://glasses.google/
-- Sources: Superhuman, Vision IA, TLDR, The Neuron
-- Received: 2026-11-13T15:09+01:00
-
-## 6. United Airlines Blocks Unauthorized Personal AI Agents
-
-United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.
-
-- Link: https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html
-- Sources: TLDR IT, Intelligence Newsletter, Pascal Bornet
-- Received: 2026-11-13T14:51+01:00
-
-## 7. Chinese Supplier Confirms Its Involvement in Unreleased Apple Products
+## 4. Chinese Supplier Confirms Its Involvement in Unreleased Apple Products
 
 An Apple supplier in China appears to have confirmed its involvement in Apple’s AI glasses, camera-equipped AirPods and other unannounced projects in a financial report.
 
@@ -58,7 +34,7 @@ An Apple supplier in China appears to have confirmed its involvement in Apple’
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 8. OLED iPad Air Expected in Early 2027
+## 5. OLED iPad Air Expected in Early 2027
 
 A new report claims that the iPad Air with an OLED display will arrive in early 2027. It is not expected to support ProMotion.
 
@@ -66,7 +42,15 @@ A new report claims that the iPad Air with an OLED display will arrive in early 
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 9. Government-Grade Spyware Is Now Targeting iPhones
+## 6. Jensen Huang Resigns as Head of Nvidia
+
+Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.
+
+- Link: https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
+- Sources: AppleInsider, Vision IA
+- Received: 2026-11-14T01:24+01:00
+
+## 7. Government-Grade Spyware Is Now Targeting iPhones
 
 Researchers say sophisticated spyware previously reserved for government surveillance is being used against private individuals. Two iOS exploit kits, Coruna and DarkSword, are involved.
 
@@ -74,7 +58,7 @@ Researchers say sophisticated spyware previously reserved for government surveil
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 10. OLED iPad mini Review: An Excellent Reader, but Not a Miniature iPad Pro
+## 8. OLED iPad mini Review: An Excellent Reader, but Not a Miniature iPad Pro
 
 The eighth-generation iPad mini benefits greatly from its OLED display, but its price makes it less appealing compared with the iPad Pro. AppleInsider gives it a score of 4 out of 5.
 
@@ -82,7 +66,7 @@ The eighth-generation iPad mini benefits greatly from its OLED display, but its 
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 11. OpenAI Launches ChatGPT Wallet for Its AI Agents
+## 9. OpenAI Launches ChatGPT Wallet for Its AI Agents
 
 ChatGPT Wallet lets “dots” AI agents purchase products for users after approval and security verification. Developed with American Express, Mastercard and Visa, the system uses a payment token for each transaction without sharing the actual card details.
 
@@ -90,7 +74,7 @@ ChatGPT Wallet lets “dots” AI agents purchase products for users after appro
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 12. OpenAI Enters the Cybersecurity Market with Two Daybreak Products
+## 10. OpenAI Enters the Cybersecurity Market with Two Daybreak Products
 
 OpenAI is launching two Daybreak products and entering the cybersecurity market.
 
@@ -98,7 +82,7 @@ OpenAI is launching two Daybreak products and entering the cybersecurity market.
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 13. Meta’s Muse Can Now Make Calls, but the Feature Costs Extra
+## 11. Meta’s Muse Can Now Make Calls, but the Feature Costs Extra
 
 Muse, Meta’s AI, can now make phone calls, but the feature is not free.
 
@@ -106,7 +90,7 @@ Muse, Meta’s AI, can now make phone calls, but the feature is not free.
 - Sources: Techpresso, Vision IA
 - Received: 2026-11-13T18:45+01:00
 
-## 14. Lawsuit Calls for an End to Frontier AI Development
+## 12. Lawsuit Calls for an End to Frontier AI Development
 
 OpenAI, Google and Anthropic are facing a lawsuit seeking to halt the development of frontier AI systems.
 
@@ -114,7 +98,7 @@ OpenAI, Google and Anthropic are facing a lawsuit seeking to halt the developmen
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 15. SpaceX Lays Off 60 Grok Imagine Employees to Focus on AI
+## 13. SpaceX Lays Off 60 Grok Imagine Employees to Focus on AI
 
 SpaceX laid off 60 Grok Imagine employees as Elon Musk redirects his efforts toward coding and AI agents.
 
@@ -122,7 +106,7 @@ SpaceX laid off 60 Grok Imagine employees as Elon Musk redirects his efforts tow
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 16. Silicon Valley Prepares for a Future Without Jensen Huang
+## 14. Silicon Valley Prepares for a Future Without Jensen Huang
 
 At a major artificial intelligence conference in Silicon Valley, investors and executives are considering a future without Jensen Huang.
 
@@ -130,7 +114,7 @@ At a major artificial intelligence conference in Silicon Valley, investors and e
 - Sources: Business Insider
 - Received: 2026-11-13T17:37+01:00
 
-## 17. Companies Must Decide Which AI Agents to Allow as Customers or Intermediaries
+## 15. Companies Must Decide Which AI Agents to Allow as Customers or Intermediaries
 
 AI agents are already buying on behalf of customers, and companies must decide which ones to let access their information, offers and services. OpenAI is opening an official path for businesses in ChatGPT, while United Airlines is restricting unauthorized third-party agents; agentic commerce is thus becoming a distribution strategy.
 
@@ -138,7 +122,7 @@ AI agents are already buying on behalf of customers, and companies must decide w
 - Sources: Pascal Bornet
 - Received: 2026-11-13T17:35+01:00
 
-## 18. Anthropic Introduces Fable 5.2, Faster and Less Expensive to Run
+## 16. Anthropic Introduces Fable 5.2, Faster and Less Expensive to Run
 
 Anthropic says Claude Fable 5.2 is up to 30% faster than version 5.1. Its standard price is 8 dollars per million input tokens and 40 dollars per million output tokens, with an optional fast mode.
 
@@ -146,7 +130,7 @@ Anthropic says Claude Fable 5.2 is up to 30% faster than version 5.1. Its standa
 - Sources: AI Gen Art, Superhuman
 - Received: 2026-11-13T17:04+01:00
 
-## 19. Google’s 10-Minute AI Training Plan for Marketers
+## 17. Google’s 10-Minute AI Training Plan for Marketers
 
 Google is offering a 10-minute artificial intelligence training plan for marketing teams.
 
@@ -154,7 +138,7 @@ Google is offering a 10-minute artificial intelligence training plan for marketi
 - Sources: Think with Google
 - Received: 2026-11-13T16:53+01:00
 
-## 20. How Many Physical Keys Should You Get for a Tesla?
+## 18. How Many Physical Keys Should You Get for a Tesla?
 
 An owner asks how many physical keys it is recommended to get for their Tesla. One response also mentions using an Apple Watch as a backup key.
 
@@ -162,7 +146,7 @@ An owner asks how many physical keys it is recommended to get for their Tesla. O
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 21. Anthropic Turns Claude Into an Active Participant in Video Meetings
+## 19. Anthropic Turns Claude Into an Active Participant in Video Meetings
 
 Claude Meetings lets users add the assistant to video calls to follow discussions, take notes and start certain tasks before the meeting ends. The service is rolling out on Google Meet for Team and Enterprise plans, with other platforms expected to follow.
 
@@ -170,7 +154,15 @@ Claude Meetings lets users add the assistant to video calls to follow discussion
 - Sources: Superhuman, Vision IA
 - Received: 2026-11-13T15:09+01:00
 
-## 22. Wispr Flow Turns Voice Dictation Into Polished Text Across All Apps
+## 20. Google Unveils Intelligent Eyewear, the Successor to Google Glass
+
+These new smart glasses let users use Gemini in everyday life to ask questions, take photos and translate conversations. Preorders are open, and deliveries will begin on December 10.
+
+- Link: https://glasses.google/
+- Sources: Superhuman, Vision IA
+- Received: 2026-11-13T15:09+01:00
+
+## 21. Wispr Flow Turns Voice Dictation Into Polished Text Across All Apps
 
 Wispr Flow lets users dictate text in WhatsApp, Slack, Gmail, ChatGPT or a browser, then removes hesitations, corrects grammar and formats the result. The tool is available on Mac, Windows, iPhone and Android, with free unlimited access on Android at launch.
 
@@ -178,7 +170,7 @@ Wispr Flow lets users dictate text in WhatsApp, Slack, Gmail, ChatGPT or a brows
 - Sources: Superhuman
 - Received: 2026-11-13T15:09+01:00
 
-## 23. OpenAI’s Personal Assistant Gets Faster Responses and Advanced Settings
+## 22. OpenAI’s Personal Assistant Gets Faster Responses and Advanced Settings
 
 OpenAI’s personal assistant was improved this week with faster responses and more customizable instructions.
 
@@ -186,7 +178,7 @@ OpenAI’s personal assistant was improved this week with faster responses and m
 - Sources: Superhuman
 - Received: 2026-11-13T15:09+01:00
 
-## 24. Chatbots Sometimes Recommend Fake Online Stores
+## 23. Chatbots Sometimes Recommend Fake Online Stores
 
 A Podqi test examining where to buy products from 151 brands found that ChatGPT, Gemini and Perplexity sometimes direct users to impersonator or risky websites. Users are advised to verify a brand’s official address before making any purchase.
 
@@ -194,7 +186,7 @@ A Podqi test examining where to buy products from 151 brands found that ChatGPT,
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 25. OpenAI Explains Why Its Models Are Hiding More of Their Reasoning
+## 24. OpenAI Explains Why Its Models Are Hiding More of Their Reasoning
 
 OpenAI’s safety team attributes the growing opacity of its models’ chain of thought to four stages of training, including architecture and reinforcement learning. This opacity results from trade-offs intended to improve performance and reduce computation.
 
@@ -202,7 +194,7 @@ OpenAI’s safety team attributes the growing opacity of its models’ chain of 
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 26. Generative AI Use Is Growing Among Video Game Developers
+## 25. Generative AI Use Is Growing Among Video Game Developers
 
 According to the GDC Festival of Gaming’s annual survey, 40% of developers use generative AI at work, up from 36% in 2025. The proportion reaches 70% at mobile studios, while part of the industry is publicly opposing it.
 
@@ -210,7 +202,7 @@ According to the GDC Festival of Gaming’s annual survey, 40% of developers use
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 27. Cerebras Stock Jumps After Deal With Microsoft
+## 26. Cerebras Stock Jumps After Deal With Microsoft
 
 The AI chipmaker exceeded quarterly expectations and signed a deal with Microsoft, which joins Amazon and Oracle among its cloud customers. The announcement supports alternatives to Nvidia, despite the stock still being down nearly half since its IPO.
 
@@ -218,103 +210,7 @@ The AI chipmaker exceeded quarterly expectations and signed a deal with Microsof
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 28. OpenAI Creates an Official Business Space in ChatGPT
-
-Businesses can now claim their presence in ChatGPT, update their information and publish Business Agents that customers can interact with. ChatGPT is thus evolving from a descriptive tool into a distribution channel for businesses.
-
-- Link: https://openai.com/index/introducing-businesses-chatgpt/
-- Sources: Intelligence Newsletter
-- Received: 2026-11-13T12:31+01:00
-
-## 29. AI Assistants Become the Upstream Interface for Banking Services
-
-According to McKinsey, 74% of consumers who use AI for banking tasks rely on general-purpose assistants such as ChatGPT, Claude or Gemini. Customers can therefore make a decision before even entering a bank’s environment.
-
-- Link: https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review
-- Sources: Intelligence Newsletter
-- Received: 2026-11-13T12:31+01:00
-
-## 30. ChatGPT Becomes a New Gateway to Businesses
-
-OpenAI has launched Businesses in ChatGPT, allowing companies to manage their presence, product information and customer interactions in ChatGPT. Customer acquisition is therefore beginning to move outside channels controlled by businesses.
-
-- Link: https://openai.com/index/introducing-businesses-chatgpt/
-- Sources: Pascal Bornet
-- Received: 2026-11-13T12:30+01:00
-
-## 31. Huang’s Departure Alarms Investors Across the AI Sector
-
-The Nvidia leader’s resignation is weakening the company’s stock and raising fears of repercussions for companies across the artificial intelligence industry.
-
-- Link: https://www.businessinsider.com/jensen-huang-resigns-nvidia-implications-for-ai-trade-tech-stocks-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 32. Huang’s Departure Could Change the Outlook for Anthropic’s IPO
-
-Nvidia’s planned $10 billion investment could be reassessed, while future chip deals could slow. The departure could also strengthen Anthropic’s position in Washington and its chip-diversification strategy.
-
-- Link: https://www.businessinsider.com/jensen-huang-fall-could-reshape-anthropic-ipo-ai-chip-race-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 33. OpenAI Security Officials Tricked by Fake Russian Agents
-
-Three senior OpenAI national security officials spent 17 minutes on a video call with Russian scammers posing as Ukraine’s intelligence chief. OpenAI has opened an investigation and taken steps to prevent a recurrence.
-
-- Link: https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 34. Groups Call for a Freeze on New AI Models
-
-Four nonprofit organizations asked a San Francisco judge to halt new frontier models from Anthropic, Google, Meta, OpenAI and SpaceXSI.
-
-- Link: https://apnews.com/article/03ece37b96979fe834f60976648504ba
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 35. OpenAI Reportedly Supports Bills Restricting China’s Access to AI Chips
-
-OpenAI reportedly told lawmakers it would support bipartisan bills restricting China’s access to artificial intelligence chips and semiconductor manufacturing equipment.
-
-- Link: https://news.bloomberglaw.com/tech-and-telecom-law/openai-joins-groundswell-of-support-for-ai-chip-control-measures
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 36. Anthropic’s IPO Reportedly Six Times Oversubscribed
-
-Anthropic’s IPO reportedly attracted about six times more demand than the number of shares offered. During its roadshow, the company also said Claude had been ported to AMD GPUs in three days, compared with several months previously.
-
-- Link: https://x.com/kimmonismus/status/2120851923335004279
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 37. SpaceX Announces $74 Billion in AI Computing Sites
-
-SpaceX announced $74 billion in investments in AI-dedicated computing sites, including a $50 billion site in Arizona and a $24 billion gas-powered complex near Starbase.
-
-- Link: https://news.bloomberglaw.com/tech-and-telecom-law/spacex-plans-74-billion-data-center-projects-in-arizona-texas
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 38. ChatGPT’s Personal Agents Now Support Custom Instructions
-
-ChatGPT’s personal agents can now follow custom instructions, such as writing only in lowercase or displaying a draft before sending an email.
-
-- Link: https://x.com/ChatGPT/status/2120970988796170275
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 39. Could the Touchscreen MacBook Pro Replace the M5 iPad Pro?
-
-The touchscreen MacBook Pro supports macOS apps and offers substantial memory and storage, but it does not work with the Apple Pencil. It starts at $2,899, compared with $999 for the M5 iPad Pro.
-
-- Link: https://www.techrepublic.com/article/news-touchscreen-macbook-pro-vs-ipad-pro-m5-replacement/
-- Sources: TechnologyAdvice
-- Received: 2026-11-13T10:33+01:00
-
-## 40. FAA Lifts National Ground Stop After Nearly 5,000 Flights Are Canceled
+## 27. FAA Lifts National Ground Stop After Nearly 5,000 Flights Are Canceled
 
 The Federal Aviation Administration ground stop, which paralyzed flights nationwide for several hours, was lifted Friday evening. Travelers were stranded at airports, and nearly 5,000 flights were canceled.
 
@@ -322,7 +218,7 @@ The Federal Aviation Administration ground stop, which paralyzed flights nationw
 - Sources: Business Insider
 - Received: 2026-11-14T03:31+01:00
 
-## 41. What to Do If Your Flight Is Canceled or Delayed Because of the FAA Ground Stop
+## 28. What to Do If Your Flight Is Canceled or Delayed Because of the FAA Ground Stop
 
 This article explains what to do if the FAA ground stop caused a flight cancellation or delay.
 
@@ -330,7 +226,7 @@ This article explains what to do if the FAA ground stop caused a flight cancella
 - Sources: Business Insider
 - Received: 2026-11-14T03:31+01:00
 
-## 42. Passengers Describe the Chaos at JFK During the Nationwide Ground Stop
+## 29. Passengers Describe the Chaos at JFK During the Nationwide Ground Stop
 
 Passengers describe the chaos they experienced at JFK airport during the FAA’s nationwide ground stop.
 
@@ -338,7 +234,7 @@ Passengers describe the chaos they experienced at JFK airport during the FAA’s
 - Sources: Business Insider
 - Received: 2026-11-14T03:31+01:00
 
-## 43. Photos Show Disruptions at U.S. Airports
+## 30. Photos Show Disruptions at U.S. Airports
 
 Photos show the difficulties encountered at airports across the country while the FAA grounded all flights.
 
@@ -346,7 +242,7 @@ Photos show the difficulties encountered at airports across the country while th
 - Sources: Business Insider
 - Received: 2026-11-14T03:31+01:00
 
-## 44. FAA Ground Stop Could Disrupt College Football Games
+## 31. FAA Ground Stop Could Disrupt College Football Games
 
 The FAA ground stop could jeopardize the staging of college football games.
 
@@ -354,7 +250,7 @@ The FAA ground stop could jeopardize the staging of college football games.
 - Sources: Business Insider
 - Received: 2026-11-14T03:31+01:00
 
-## 45. Toronto and Montreal Declare Ground Stops at Their Airports
+## 32. Toronto and Montreal Declare Ground Stops at Their Airports
 
 The airports in Toronto and Montreal declared ground stops.
 
@@ -362,7 +258,7 @@ The airports in Toronto and Montreal declared ground stops.
 - Sources: Business Insider
 - Received: 2026-11-14T03:31+01:00
 
-## 46. SMART AI Maker and Microsoft Deny Responsibility for the Ground Stop
+## 33. SMART AI Maker and Microsoft Deny Responsibility for the Ground Stop
 
 The company behind the SMART AI system and Microsoft both say they were not responsible for the FAA ground stop.
 
@@ -370,7 +266,7 @@ The company behind the SMART AI system and Microsoft both say they were not resp
 - Sources: Business Insider
 - Received: 2026-11-14T03:31+01:00
 
-## 47. Apple Tests Harbor to Connect Multiple Macs to Local AI
+## 34. Apple Tests Harbor to Connect Multiple Macs to Local AI
 
 The Harbor app, formerly called Fabric, can turn multiple Macs into a private AI inference server. It is currently available as a private preview under the Claris brand.
 
@@ -378,7 +274,7 @@ The Harbor app, formerly called Fabric, can turn multiple Macs into a private AI
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 48. Donald Trump Wants Tim Cook to Become Nvidia’s Next CEO
+## 35. Donald Trump Wants Tim Cook to Become Nvidia’s Next CEO
 
 Donald Trump said Tim Cook should replace Jensen Huang as head of Nvidia, stating that “a legend replaces a legend.”
 
@@ -386,7 +282,7 @@ Donald Trump said Tim Cook should replace Jensen Huang as head of Nvidia, statin
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 49. Johny Srouji Could Take Over as Nvidia CEO
+## 36. Johny Srouji Could Take Over as Nvidia CEO
 
 Another report says that Johny Srouji, Apple’s head of hardware, could become Nvidia’s next CEO.
 
@@ -394,7 +290,7 @@ Another report says that Johny Srouji, Apple’s head of hardware, could become 
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 50. Unpatched iOS Flaw Could Let Apps Steal Data
+## 37. Unpatched iOS Flaw Could Let Apps Steal Data
 
 An iOS vulnerability could allow malicious apps to read other apps’ local files by bypassing their sandbox.
 
@@ -402,7 +298,7 @@ An iOS vulnerability could allow malicious apps to read other apps’ local file
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 51. Thai Officials Question Apple About Spyware Alerts
+## 38. Thai Officials Question Apple About Spyware Alerts
 
 Thai politicians questioned Apple about its alerts sent to users targeted by spyware.
 
@@ -410,7 +306,7 @@ Thai politicians questioned Apple about its alerts sent to users targeted by spy
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 52. iOS 27.2.1 Fixes Bluetooth and iMessage-Related Vulnerabilities
+## 39. iOS 27.2.1 Fixes Bluetooth and iMessage-Related Vulnerabilities
 
 The iOS 27.2.1 update fixes vulnerabilities that enabled unauthorized Bluetooth pairings and eavesdropping on iMessage messages.
 
@@ -418,7 +314,7 @@ The iOS 27.2.1 update fixes vulnerabilities that enabled unauthorized Bluetooth 
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 53. Apple HomeView Review: A Limited Launch, but Strong Potential
+## 40. Apple HomeView Review: A Limited Launch, but Strong Potential
 
 HomeView is Apple’s first attempt in the smart-home display category. The product shows significant potential but still needs improvements, earning a score of 2.5 out of 5.
 
@@ -426,7 +322,7 @@ HomeView is Apple’s first attempt in the smart-home display category. The prod
 - Sources: AppleInsider
 - Received: 2026-11-14T01:24+01:00
 
-## 54. Nvidia Employees Call for Jensen Huang’s Return
+## 41. Nvidia Employees Call for Jensen Huang’s Return
 
 Nvidia employees asked the board to reinstate Jensen Huang after his resignation. An internal post received more than 1,600 comments, while the crisis cost the company 1 trillion dollars in market value.
 
@@ -434,7 +330,7 @@ Nvidia employees asked the board to reinstate Jensen Huang after his resignation
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 55. China Rents Nvidia Chips Ahead of a Possible U.S. Embargo
+## 42. China Rents Nvidia Chips Ahead of a Possible U.S. Embargo
 
 Chinese AI companies are accessing Nvidia’s best chips by renting computing power in data centers in Malaysia and Thailand. U.S. restrictions control where the chips are shipped, but not the identities of the users connecting to them.
 
@@ -442,7 +338,7 @@ Chinese AI companies are accessing Nvidia’s best chips by renting computing po
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 56. Chinese AI Models Appear to Be Using Banned Nvidia Chips
+## 43. Chinese AI Models Appear to Be Using Banned Nvidia Chips
 
 A forensic analysis claims to provide the first technical evidence that several Chinese laboratories are using Nvidia Blackwell GPUs subject to export controls. The method relies on a statistical signature left by the number of computing cores, but it cannot determine where the chips are located or prove that they were smuggled.
 
@@ -450,7 +346,7 @@ A forensic analysis claims to provide the first technical evidence that several 
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 57. HubSpot Brings Back Cofounder Brian Halligan as CEO
+## 44. HubSpot Brings Back Cofounder Brian Halligan as CEO
 
 HubSpot is bringing back cofounder Brian Halligan as CEO to “refound” the company.
 
@@ -458,7 +354,7 @@ HubSpot is bringing back cofounder Brian Halligan as CEO to “refound” the co
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 58. Binance Hack Prompts U.S. to Target 1.2 Billion Dollars
+## 45. Binance Hack Prompts U.S. to Target 1.2 Billion Dollars
 
 The United States is targeting 1.2 billion dollars in stolen cryptocurrency following the Binance hack.
 
@@ -466,7 +362,7 @@ The United States is targeting 1.2 billion dollars in stolen cryptocurrency foll
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 59. Whoop Launches Its Own Social Network
+## 46. Whoop Launches Its Own Social Network
 
 Whoop launched a social network.
 
@@ -474,7 +370,7 @@ Whoop launched a social network.
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 60. FAA Expands AI Advice Across U.S. Airspace
+## 47. FAA Expands AI Advice Across U.S. Airspace
 
 The FAA is expanding the use of AI-generated advice to manage air-traffic congestion across all U.S. airspace.
 
@@ -482,7 +378,7 @@ The FAA is expanding the use of AI-generated advice to manage air-traffic conges
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 61. The “Slop” Phenomenon Is Moving Up the Value Chain
+## 48. The “Slop” Phenomenon Is Moving Up the Value Chain
 
 The article examines the spread of “slop” up the value chain.
 
@@ -490,7 +386,7 @@ The article examines the spread of “slop” up the value chain.
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 62. Nvidia Scandal Involves U.S. Commerce Secretary
+## 49. Nvidia Scandal Involves U.S. Commerce Secretary
 
 U.S. Commerce Secretary Howard Lutnick reportedly agreed to testify about Nvidia chip sales to China.
 
@@ -498,7 +394,7 @@ U.S. Commerce Secretary Howard Lutnick reportedly agreed to testify about Nvidia
 - Sources: Techpresso
 - Received: 2026-11-13T18:45+01:00
 
-## 63. Automate Your Inbox and Calendar While Staying in Control
+## 50. Automate Your Inbox and Calendar While Staying in Control
 
 Chapter 30 explains how to automate inbox sorting, draft replies and manage the steps before and after a meeting without allowing AI to send messages or accept appointments without approval. It notably proposes a morning summary that does not modify the inbox and the automatic capture of commitments.
 
@@ -506,7 +402,7 @@ Chapter 30 explains how to automate inbox sorting, draft replies and manage the 
 - Sources: GPT Central
 - Received: 2026-11-13T18:31+01:00
 
-## 64. Jensen Huang Reveals the Risk of Building a Company Around a Single Leader
+## 51. Jensen Huang Reveals the Risk of Building a Company Around a Single Leader
 
 The sudden departure of Nvidia’s former CEO highlights the risks of relying on a single leader. Nvidia’s horizontal structure helped it move quickly, but also exposed the company.
 
@@ -514,7 +410,7 @@ The sudden departure of Nvidia’s former CEO highlights the risks of relying on
 - Sources: Business Insider
 - Received: 2026-11-13T17:37+01:00
 
-## 65. Jensen Huang Is Targeted by the Technology He Helped Create
+## 52. Jensen Huang Is Targeted by the Technology He Helped Create
 
 The article examines criticism directed at Jensen Huang and the technology he helped bring into existence.
 
@@ -522,7 +418,7 @@ The article examines criticism directed at Jensen Huang and the technology he he
 - Sources: Business Insider
 - Received: 2026-11-13T17:37+01:00
 
-## 66. AI Upends the Economics of Customer Loyalty
+## 53. AI Upends the Economics of Customer Loyalty
 
 AI enables agents to compare prices, terms and products daily, revealing that some loyalty was based largely on customer inertia. Companies must determine whether customers stay for trust, experience and genuine differentiation, or simply because switching providers is difficult.
 
@@ -530,7 +426,7 @@ AI enables agents to compare prices, terms and products daily, revealing that so
 - Sources: Pascal Bornet
 - Received: 2026-11-13T17:26+01:00
 
-## 67. Instagram Launches a Web Tool for Creating Story Effects With Prompts
+## 54. Instagram Launches a Web Tool for Creating Story Effects With Prompts
 
 Effect Builder lets U.S. creators aged 18 and over generate AI effects for Stories without design or programming skills. Published effects are reviewed and display their creator’s Instagram account.
 
@@ -538,7 +434,7 @@ Effect Builder lets U.S. creators aged 18 and over generate AI effects for Stori
 - Sources: AI Gen Art
 - Received: 2026-11-13T17:04+01:00
 
-## 68. Adobe and Disney Partner to Create Custom AI Models
+## 55. Adobe and Disney Partner to Create Custom AI Models
 
 Disney will use Adobe Firefly Foundry to create models trained on its own characters, environments and visual styles. Walt Disney Imagineering is already using them for theme park development, including turning sketches into rendered 2D concepts.
 
@@ -546,7 +442,7 @@ Disney will use Adobe Firefly Foundry to create models trained on its own charac
 - Sources: AI Gen Art
 - Received: 2026-11-13T17:04+01:00
 
-## 69. Meta Launches Muse Ember, Its Smallest AI Model
+## 56. Meta Launches Muse Ember, Its Smallest AI Model
 
 Meta has launched Muse Ember, its smallest model, priced at 0.10 dollars per million input tokens. It is designed for high-volume agent tasks such as tool calls and long-document analysis.
 
@@ -554,7 +450,7 @@ Meta has launched Muse Ember, its smallest model, priced at 0.10 dollars per mil
 - Sources: AI Gen Art
 - Received: 2026-11-13T17:04+01:00
 
-## 70. Google Publishes a Guide to Get More From Gemini 4 Carbon
+## 57. Google Publishes a Guide to Get More From Gemini 4 Carbon
 
 Google has published a guide for developers with five practical tips for getting better results from Gemini 4 Carbon on difficult problems.
 
@@ -562,7 +458,7 @@ Google has published a guide for developers with five practical tips for getting
 - Sources: AI Gen Art
 - Received: 2026-11-13T17:04+01:00
 
-## 71. SpaceXAI Launches Grok Bot 1.0 for Teams on Slack and Microsoft Teams
+## 58. SpaceXAI Launches Grok Bot 1.0 for Teams on Slack and Microsoft Teams
 
 SpaceXAI has launched Grok Bot 1.0, a teammate that works in Slack or Microsoft Teams. It can take on tasks without prompting and share memory across an organization.
 
@@ -570,7 +466,7 @@ SpaceXAI has launched Grok Bot 1.0, a teammate that works in Slack or Microsoft 
 - Sources: AI Gen Art
 - Received: 2026-11-13T17:04+01:00
 
-## 72. Lessons From Major Companies on Moving Beyond the AI Pilot Era
+## 59. Lessons From Major Companies on Moving Beyond the AI Pilot Era
 
 The AI pilot era is over. Executives from JPMorgan Chase, Gap, Estée Lauder and other companies share practical lessons for evolving workflows and demonstrating marketing ROI.
 
@@ -578,7 +474,7 @@ The AI pilot era is over. Executives from JPMorgan Chase, Gap, Estée Lauder and
 - Sources: Think with Google
 - Received: 2026-11-13T16:53+01:00
 
-## 73. Why 82% of Executives Fail to See Marketing’s Value
+## 60. Why 82% of Executives Fail to See Marketing’s Value
 
 A study examines why 82% of executives miss the value of marketing.
 
@@ -586,7 +482,7 @@ A study examines why 82% of executives miss the value of marketing.
 - Sources: Think with Google
 - Received: 2026-11-13T16:53+01:00
 
-## 74. AI Reduces Friction While Human Expertise Dispels Doubts
+## 61. AI Reduces Friction While Human Expertise Dispels Doubts
 
 Andy Kurtzig, founder and CEO of Pearl, explains how AI reduces friction and how human expertise helps resolve uncertainty.
 
@@ -594,7 +490,7 @@ Andy Kurtzig, founder and CEO of Pearl, explains how AI reduces friction and how
 - Sources: Think with Google
 - Received: 2026-11-13T16:53+01:00
 
-## 75. Which Mobile Charger Should You Use at 110 V and 240 V for a Tesla?
+## 62. Which Mobile Charger Should You Use at 110 V and 240 V for a Tesla?
 
 A new Tesla owner is looking for the best portable charger that works at 110 V and 240 V, particularly for semi-autonomous and remote areas far from Superchargers.
 
@@ -602,7 +498,7 @@ A new Tesla owner is looking for the best portable charger that works at 110 V a
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 76. A Free Solution for Listening to Radio and Music in a Tesla
+## 63. A Free Solution for Listening to Radio and Music in a Tesla
 
 The discussion focuses on a solution for listening to radio and music for free in a Tesla.
 
@@ -610,7 +506,7 @@ The discussion focuses on a solution for listening to radio and music for free i
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 77. Can Tesla Referral Codes Offer a Free FSD Trial?
+## 64. Can Tesla Referral Codes Offer a Free FSD Trial?
 
 A discussion examines the terms and conditions of a Tesla referral program and whether an FSD trial could be included, particularly when purchasing a new car.
 
@@ -618,7 +514,7 @@ A discussion examines the terms and conditions of a Tesla referral program and w
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 78. Can Accessories Prevent Tesla Steering Wheel Alerts?
+## 65. Can Accessories Prevent Tesla Steering Wheel Alerts?
 
 The discussion concerns accessories designed to eliminate reminders asking the driver to keep their hands on the steering wheel. One participant questions their usefulness and why anyone would want to use them.
 
@@ -626,7 +522,7 @@ The discussion concerns accessories designed to eliminate reminders asking the d
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 79. FSD Drives the Wrong Way on a One-Way Street
+## 66. FSD Drives the Wrong Way on a One-Way Street
 
 An owner explains that their vehicle, in FSD mode, takes a one-way street in the wrong direction when leaving their driveway and asks how to fix the problem.
 
@@ -634,7 +530,7 @@ An owner explains that their vehicle, in FSD mode, takes a one-way street in the
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 80. Is the 2027 Model Y AWD Standard Limited to 32 A for Charging?
+## 67. Is the 2027 Model Y AWD Standard Limited to 32 A for Charging?
 
 An owner asks whether the 2027 Model Y Standard AWD has a 32 A onboard charging limit and where to find this information, particularly in the manual.
 
@@ -642,7 +538,7 @@ An owner asks whether the 2027 Model Y Standard AWD has a 32 A onboard charging 
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 81. Can Tesla’s 2019 Cameras Be Studied in Depth?
+## 68. Can Tesla’s 2019 Cameras Be Studied in Depth?
 
 A member describes the architecture of Tesla’s 2019 cameras, with a small dedicated board transmitting video to the controller via coaxial cable and a proprietary protocol, and asks whether anyone has conducted an in-depth analysis.
 
@@ -650,7 +546,7 @@ A member describes the architecture of Tesla’s 2019 cameras, with a small dedi
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 82. The Tesla Wall Connector Button Does Not Open the Charge Port
+## 69. The Tesla Wall Connector Button Does Not Open the Charge Port
 
 An owner says that the button on their Wall Connector does not open the charge port. The discussion notably concerns the Wall Connector version and its antenna receiver.
 
@@ -658,7 +554,7 @@ An owner says that the button on their Wall Connector does not open the charge p
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 83. What Is the Best Charging Power for a Tesla?
+## 70. What Is the Best Charging Power for a Tesla?
 
 An owner explains that they charge at 40 A during off-peak hours on a circuit protected by a 50 A breaker in order to benefit from a reduced per-kilowatt-hour rate.
 
@@ -666,7 +562,7 @@ An owner explains that they charge at 40 A during off-peak hours on a circuit pr
 - Sources: Threadloom
 - Received: 2026-11-13T16:49+01:00
 
-## 84. U.S. Department of Justice investigates Nvidia
+## 71. U.S. Department of Justice investigates Nvidia
 
 The Department of Justice is conducting three investigations involving Nvidia, including an antitrust case and two others targeting Megaspeed and Supermicro. For now, nothing indicates that criminal charges against Nvidia or Jensen Huang are planned.
 
@@ -674,7 +570,7 @@ The Department of Justice is conducting three investigations involving Nvidia, i
 - Sources: Superhuman
 - Received: 2026-11-13T15:09+01:00
 
-## 85. Google makes Gemini 4 Carbon available to AI Ultra subscribers
+## 72. Google makes Gemini 4 Carbon available to AI Ultra subscribers
 
 Google has launched Gemini 4 Carbon for AI Ultra subscribers, alongside the release of Gemini 4 Hydrogen.
 
@@ -682,7 +578,7 @@ Google has launched Gemini 4 Carbon for AI Ultra subscribers, alongside the rele
 - Sources: Superhuman
 - Received: 2026-11-13T15:09+01:00
 
-## 86. Google launches the Gemini Decisions API for fast multimodal decisions
+## 73. Google launches the Gemini Decisions API for fast multimodal decisions
 
 The Gemini Decisions API, based on the Gemini Decision 1 model, is designed for closed-choice decisions such as tool selection, policy checks, and model routing. It can process up to 1,000 independent questions in a single pass and returns probabilities and confidence scores.
 
@@ -690,7 +586,7 @@ The Gemini Decisions API, based on the Gemini Decision 1 model, is designed for 
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 87. Gartner forecasts more AI-related job creation than job losses
+## 74. Gartner forecasts more AI-related job creation than job losses
 
 Gartner forecasts that AI will create 10.6 million jobs and eliminate 8.9 million by 2030, excluding China and India. An additional five million jobs could be deferred as employers delay hiring to assess AI’s impact.
 
@@ -698,7 +594,7 @@ Gartner forecasts that AI will create 10.6 million jobs and eliminate 8.9 millio
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 88. The B2A economy puts AI agents at the center of business interactions
+## 75. The B2A economy puts AI agents at the center of business interactions
 
 AI agents are driving a platform shift from providing answers to executing complex tasks for users, creating a new “B2A” (Business-to-Agent) economy. Companies that treat agents as priority customers could boost growth, while AI-referred traffic is already showing higher engagement and conversion across several sectors.
 
@@ -706,7 +602,7 @@ AI agents are driving a platform shift from providing answers to executing compl
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 89. Claris Harbor aims to turn Mac fleets into local AI servers
+## 76. Claris Harbor aims to turn Mac fleets into local AI servers
 
 Apple subsidiary Claris has introduced Harbor, a project aimed at turning Macs equipped with Apple Silicon chips into private AI servers. The product could appeal to companies seeking to keep control of their AI workloads locally, but details remain limited.
 
@@ -714,7 +610,7 @@ Apple subsidiary Claris has introduced Harbor, a project aimed at turning Macs e
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 90. Databricks introduces Genie, an autonomous agent for complex enterprise tasks
+## 77. Databricks introduces Genie, an autonomous agent for complex enterprise tasks
 
 Databricks has introduced Genie, an autonomous AI colleague capable of handling lengthy tasks, coordinating multiple applications, and following organizational rules. Its components provide shared business context, searches combining multiple sources, specialized expertise, and governance for tools, permissions, approvals, and spending.
 
@@ -722,7 +618,7 @@ Databricks has introduced Genie, an autonomous AI colleague capable of handling 
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 91. Gemini Comes to Apple CarPlay Worldwide
+## 78. Gemini Comes to Apple CarPlay Worldwide
 
 Google is rolling out the Gemini app on Apple CarPlay worldwide, allowing iOS users to interact with Gemini Live from their car’s display. They can prepare for meetings, review briefings and emails, discover local places, and use Gemini to brainstorm or rehearse a presentation.
 
@@ -730,7 +626,7 @@ Google is rolling out the Gemini app on Apple CarPlay worldwide, allowing iOS us
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 92. Open standards aim to simplify the development of interoperable AI agents
+## 79. Open standards aim to simplify the development of interoperable AI agents
 
 Anthropic’s donation of the Model Context Protocol and Agent Skills to the Linux Foundation’s Agentic AI Foundation establishes complementary standards to limit fragmentation in AI-agent ecosystems. MCP standardizes real-time connections to tools and data, while Agent Skills progressively loads the procedural knowledge required.
 
@@ -738,7 +634,15 @@ Anthropic’s donation of the Model Context Protocol and Agent Skills to the Lin
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 93. AWS Cloud WAN now supports flow logs
+## 80. United Airlines Blocks Unauthorized Personal AI Agents
+
+United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.
+
+- Link: https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html
+- Sources: TLDR IT
+- Received: 2026-11-13T14:51+01:00
+
+## 81. AWS Cloud WAN now supports flow logs
 
 The new feature collects IP addresses, ports, protocols, and traffic volume, among other data. It eliminates the need for users to combine logs from multiple VPCs, accounts, and regions.
 
@@ -746,7 +650,7 @@ The new feature collects IP addresses, ports, protocols, and traffic volume, amo
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 94. Cognitive science helps developers code better with AI
+## 82. Cognitive science helps developers code better with AI
 
 Although AI assistants accelerate code generation, developers can rely on cognitive-science principles to preserve their understanding and verify results. The article cites the default mode network, spaced repetition, working-memory retrieval, and scientific debugging.
 
@@ -754,7 +658,7 @@ Although AI assistants accelerate code generation, developers can rely on cognit
 - Sources: TLDR IT
 - Received: 2026-11-13T14:51+01:00
 
-## 95. Edge0 launches a 145-billion-parameter model for personal computers
+## 83. Edge0 launches a 145-billion-parameter model for personal computers
 
 Edge0 has open-sourced Edge0-145B, a 145-billion-parameter model designed to run offline on a personal computer, without an account or subscription. The startup claims more than 80 tokens per second, but no independent benchmark is yet available.
 
@@ -762,7 +666,7 @@ Edge0 has open-sourced Edge0-145B, a 145-billion-parameter model designed to run
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 96. AgentRun adds memory and self-improvement to open-source AI agents
+## 84. AgentRun adds memory and self-improvement to open-source AI agents
 
 GREP.AI has released AgentRun under the Apache-2.0 license to add memory, crash recovery, and guardrails to agents such as Claude Code, Codex, and OpenCode. With learning enabled, agents can retain notes, skills, and procedures after their missions.
 
@@ -770,7 +674,7 @@ GREP.AI has released AgentRun under the Apache-2.0 license to add memory, crash 
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 97. AI agents wrongly claimed credit for a previously known Maya site
+## 85. AI agents wrongly claimed credit for a previously known Maya site
 
 A team of AI agents analyzed satellite images of Mexico and presented as new a Maya site that had already been identified and published the previous year. Archaeologists criticized the announcements for ignoring scientific literature and local knowledge.
 
@@ -778,7 +682,7 @@ A team of AI agents analyzed satellite images of Mexico and presented as new a M
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 98. Runway unveils Solaris, which generates interfaces in real time
+## 86. Runway unveils Solaris, which generates interfaces in real time
 
 Solaris, Runway’s first “Interface World Model,” draws the screen frame by frame and responds directly to clicks instead of coding an application. Runway also uses it to train agents to navigate unfamiliar websites.
 
@@ -786,7 +690,7 @@ Solaris, Runway’s first “Interface World Model,” draws the screen frame by
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 99. A cosmological model estimates the universe is 26.7 billion years old
+## 87. A cosmological model estimates the universe is 26.7 billion years old
 
 A model proposed by Rajendra Gupta assumes that physical constants evolve slowly and that light loses energy as it travels. It would put the age of the universe at 26.7 billion years, but remains highly marginal and still requires independent verification.
 
@@ -794,7 +698,7 @@ A model proposed by Rajendra Gupta assumes that physical constants evolve slowly
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 100. Phota Labs automatically turns photos into professional-looking shots
+## 88. Phota Labs automatically turns photos into professional-looking shots
 
 This iOS app, created by two former Adobe employees, scans the camera roll and suggests retouched versions of photos. It learns people’s faces to avoid distorting them and adds an invisible watermark to edited images.
 
@@ -802,7 +706,7 @@ This iOS app, created by two former Adobe employees, scans the camera roll and s
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 101. ElevenLabs launches Scribe v3 Live to improve voice agents
+## 89. ElevenLabs launches Scribe v3 Live to improve voice agents
 
 Scribe v3 and Scribe v3 Live transcribe conversations with background noise and multiple speakers. The Live version uses context to determine when a person has finished speaking.
 
@@ -810,7 +714,7 @@ Scribe v3 and Scribe v3 Live transcribe conversations with background noise and 
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 102. Nectar automates influencer recruitment for brands
+## 90. Nectar automates influencer recruitment for brands
 
 Nectar’s Creator Agent analyzes more than 300 million profiles, their videos, and partnerships to select and contact creators. It also handles contracts, product shipments, and personalized gifts.
 
@@ -818,7 +722,7 @@ Nectar’s Creator Agent analyzes more than 300 million profiles, their videos, 
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 103. Chinese models appear to carry the signature of Nvidia Blackwell chips
+## 91. Chinese models appear to carry the signature of Nvidia Blackwell chips
 
 An analysis of the weights of six Chinese models detected digital traces associated with Nvidia Blackwell chips, which are prohibited from being exported to China. The study does not specify where the chips were located or how they may have been obtained.
 
@@ -826,7 +730,7 @@ An analysis of the weights of six Chinese models detected digital traces associa
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 104. Free Chinese AI models can now hack businesses
+## 92. Free Chinese AI models can now hack businesses
 
 According to Israeli startup Tenzai, freely downloadable Chinese models are capable enough to break into corporate networks. Artificial Analysis is simultaneously observing that progress in the most advanced models is becoming increasingly expensive.
 
@@ -834,7 +738,7 @@ According to Israeli startup Tenzai, freely downloadable Chinese models are capa
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 105. Trump proposes Tim Cook to replace Jensen Huang at Nvidia
+## 93. Trump proposes Tim Cook to replace Jensen Huang at Nvidia
 
 Donald Trump proposed Tim Cook as Jensen Huang’s successor at Nvidia. The former Apple executive remains executive chairman of Apple’s board after handing over the CEO role to John Ternus.
 
@@ -842,7 +746,7 @@ Donald Trump proposed Tim Cook as Jensen Huang’s successor at Nvidia. The form
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 106. Australia wants to require independent audits of cutting-edge AI
+## 94. Australia wants to require independent audits of cutting-edge AI
 
 The Australian government is proposing mandatory safety rules for companies developing the most advanced models. A regulator could have these models audited by independent experts and impose penalties.
 
@@ -850,7 +754,7 @@ The Australian government is proposing mandatory safety rules for companies deve
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 107. Nvidia reportedly confirmed that its AI chips can be geolocated
+## 95. Nvidia reportedly confirmed that its AI chips can be geolocated
 
 Nvidia representatives reportedly said privately that it is technically possible to geolocate its AI chips, as provided for by the Chip Security Act. The U.S. Senate is considering incorporating the bill into its defense budget.
 
@@ -858,7 +762,7 @@ Nvidia representatives reportedly said privately that it is technically possible
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 108. U.S. senator seeks to blacklist memory maker CXMT
+## 96. U.S. senator seeks to blacklist memory maker CXMT
 
 Senator Tom Cotton is calling for CXMT to be placed on the Commerce Department’s blacklist, which would limit its access to U.S. technologies. The Chinese manufacturer grew from 4% to 10% of the global DRAM market in one year and is developing HBM chips.
 
@@ -866,7 +770,7 @@ Senator Tom Cotton is calling for CXMT to be placed on the Commerce Department�
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 109. Colette Kress seeks to rein in Nvidia’s risky bets
+## 97. Colette Kress seeks to rein in Nvidia’s risky bets
 
 CFO Colette Kress is serving as interim head of Nvidia following Jensen Huang’s departure. According to people close to her, she did not lead major decisions, and Huang often prevailed when they disagreed.
 
@@ -874,386 +778,10 @@ CFO Colette Kress is serving as interim head of Nvidia following Jensen Huang’
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
 
-## 110. Jensen Huang’s departure could affect Asian manufacturers
+## 98. Jensen Huang’s departure could affect Asian manufacturers
 
 Analysts do not expect a short-term disruption involving TSMC, Samsung, or SK Hynix. The main uncertainties concern the long-term product roadmap, which Huang managed directly.
 
 - Link: https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html
 - Sources: Vision IA
 - Received: 2026-11-13T13:50+01:00
-
-## 111. Chinese laboratories accelerate development of innovative drugs
-
-Chinese pharmaceutical companies account for at least one-third of innovative drugs in development worldwide and conduct more clinical trials than any other country. They rely mainly on partnerships with Western companies for final development and overseas commercialization.
-
-- Link: https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 112. mRNA technology opens a new medical chapter
-
-mRNA technology could produce hundreds of new treatments for various diseases. It can create a vaccine against any pathogen in six to eight weeks and could transform treatments for infectious diseases, rare diseases, and cancer.
-
-- Link: https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 113. AI-generated “slop” is shifting into design choices
-
-AI produces significantly less mediocre content, but it has not disappeared. It now manifests itself in design decisions, particularly poor anticipation of how code will be used and limited reuse of existing libraries.
-
-- Link: https://gabeorlanski.github.io/posts/slop-moves-up/
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 114. Ideas once considered bad are becoming relevant again
-
-Professional experience develops useful intuitions for leaders, but some of them deserve to be reconsidered. Changing circumstances can make ideas once considered bad relevant again.
-
-- Link: https://devonestes.com/bad-ideas-that-arent-bad-anymore
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 115. Employees at AI companies should unionize
-
-Safety-conscious employees at AI companies could unionize to gain leverage over their employers. A union could defend their protections, demand greater transparency, and maintain an independent voice in the face of corporate commitments.
-
-- Link: https://www.astralcodexten.com/p/ai-company-employees-should-unionize
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 116. China could have ten times more electricity than the United States
-
-If current trends continue, China will have ten times more electricity than the United States in ten years.
-
-- Link: https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 117. Age differences influence the acceleration of AI
-
-Younger people may be less concerned about AI’s ability to extend life. Older people, with less time remaining, have a stronger incentive to accelerate its development.
-
-- Link: https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 118. Incident.io details its AI-related spending
-
-Incident.io’s “effort point” concept is used to analyze AI-related spending.
-
-- Link: https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 119. Trump mentions Tim Cook as a successor to Jensen Huang
-
-Donald Trump mentioned Apple CEO Tim Cook as a possible successor to Jensen Huang at the helm of Nvidia. The article highlights his experience succeeding an iconic founder.
-
-- Link: https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 120. Rust 1.100.0 introduces the never type and new APIs
-
-The stable Rust 1.100.0 release notably adds the never type, the Allocator and DropGuard APIs, and zero-sized type generation.
-
-- Link: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
-- Sources: TLDR
-- Received: 2026-11-13T13:09+01:00
-
-## 121. Companies are divided over AI agents’ access to commerce
-
-Amazon, Booking.com, eBay, Target, Resy, Yelp, and other companies are taking different approaches to third-party agents, ranging from blocking them to approving certain platforms. Companies will therefore choose where and how they participate in the agentic web.
-
-- Link: https://www.booking.com/
-- Sources: Intelligence Newsletter
-- Received: 2026-11-13T12:31+01:00
-
-## 122. Visa reveals a high failure rate for agent-driven purchases
-
-Visa’s benchmark found that 42.8% of agent-driven shopping journeys failed, although some failures still resulted in purchases. Product discovery should therefore not automatically give an agent the power to spend.
-
-- Link: https://investor.visa.com/news/news-details/2026/Visa-Releases-First-of-Its-Kind-Industry-Benchmark-for-AI-Shopping-Almost-Half-of-Test-Runs-Fail/default.aspx
-- Sources: Intelligence Newsletter
-- Received: 2026-11-13T12:31+01:00
-
-## 123. AI reveals that customer loyalty was sometimes built on friction
-
-AI agents can compare prices, terms, and products every day, threatening loyalty based on customer inertia. Companies must strengthen the value, trust, and experience that remain when comparison becomes easy.
-
-- Link: https://pascalbornet.substack.com/p/irreplaceable-with-ai-251?triedRedirect=true
-- Sources: Pascal Bornet
-- Received: 2026-11-13T12:30+01:00
-
-## 124. AI agents are becoming a new distribution channel
-
-According to McKinsey, large language models can compare far more financial providers than customers previously could. AI removes the friction that protected established players and makes their true loyalty more visible.
-
-- Link: https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review
-- Sources: Pascal Bornet
-- Received: 2026-11-13T12:30+01:00
-
-## 125. Shopping agents are still making bad decisions
-
-Visa tested 22 AI models on realistic shopping tasks: 42.8% of executions failed, and 54% of those failures nevertheless resulted in a purchase. AI can therefore remove friction faster than it reduces uncertainty.
-
-- Link: https://investor.visa.com/news/news-details/2026/Visa-Releases-First-of-Its-Kind-Industry-Benchmark-for-AI-Shopping-Almost-Half-of-Test-Runs-Fail/default.aspx
-- Sources: Pascal Bornet
-- Received: 2026-11-13T12:30+01:00
-
-## 126. Companies are adopting different strategies toward AI agents
-
-Retailers, airlines, and platforms are beginning to decide which third-party agents they will accept, limit, or block. This issue is becoming a strategic choice that determines who can participate in customer decisions.
-
-- Link: —
-- Sources: Pascal Bornet
-- Received: 2026-11-13T12:30+01:00
-
-## 127. A Young Founder Named Jensen Huang Benefits from His Namesake’s Troubles
-
-Jensen Huang, a 24-year-old Singaporean founder, explains why the negative press surrounding Nvidia’s CEO benefits his company.
-
-- Link: https://www.businessinsider.com/other-jensen-huang-same-name-startup-interview-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 128. Jensen Huang’s Departure Does Not Solve Nvidia’s Problems
-
-Jensen Huang’s resignation begins a period of instability for Nvidia. Its organizational structure and lack of a succession plan leave many problems to resolve.
-
-- Link: https://www.businessinsider.com/jensen-huang-nvidia-flat-structure-leadership-succession-risk-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 129. Founder Jensen Huang Had Become Nvidia’s Biggest Risk
-
-Jensen Huang built the Nvidia empire, but the company’s dependence on him has now become a major risk.
-
-- Link: https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 130. Nvidia’s Structure Complicates Its Transition After Huang’s Departure
-
-Flat organizations built around powerful founders can be effective, but they become problematic when their leader is gone.
-
-- Link: https://www.businessinsider.com/jensen-huang-nvidia-flat-structure-leadership-succession-risk-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 131. Small Investors Keep Buying Nvidia Shares
-
-Despite Nvidia’s stock decline and Wall Street’s pessimism after Jensen Huang’s resignation, some retail investors are taking advantage of the drop to buy more shares.
-
-- Link: https://l.businessinsider.com/a/zc/21432/e1d1e16b04d34ab2824e9dd849369506/3cc1c1a57df1481cb7c46487e511f86a
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 132. Wall Street Analysts Turn Away from Nvidia
-
-After revelations about Jensen Huang’s relationships and his departure, Wall Street analysts have become more negative on Nvidia’s stock.
-
-- Link: https://www.businessinsider.com/nvidia-stock-nvda-outlook-jensen-huang-departs-wall-street-downgrades-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 133. Warby Parker Launches Smart Glasses to Compete with Meta’s
-
-Warby Parker’s smart glasses use technologies from Google and Samsung. Business Insider tested them to determine how they differ from Meta’s glasses.
-
-- Link: https://l.businessinsider.com/a/zc/21432/648b76670be6417986740cd723355a0e/8e8f4e35b6f34fe4aed7820fb92d0769
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 134. Silicon Valley Prepares for a Future Without Jensen Huang
-
-At the Cerebral Valley AI Summit, founders and investors warned that Huang’s departure could hurt startups and destabilize an industry that views Nvidia as its “central bank.”
-
-- Link: https://www.businessinsider.com/nvidia-jensen-huang-exit-ai-startups-ceos-vcs-cerebral-valley
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 135. The United States Faces a Growing Population Shortage
-
-Falling birth rates, immigration and tourism are creating a “Great People Shortage.” Areas dependent on newcomers are expected to feel the effects first.
-
-- Link: https://l.businessinsider.com/a/zc/21432/648b76670be6417986740cd723355a0e/a00280858d894b6c800ebd834f6cafe0
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 136. TikTok Centralizes Its U.S. E-Commerce Operations in China
-
-TikTok has placed its U.S. e-commerce operations under the responsibility of Chinese executives. Business Insider obtained the organizational chart for the 14 top executives and their teams.
-
-- Link: https://www.businessinsider.com/tiktok-shop-org-chart-shows-us-operations-leaders-and-reports-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 137. Instacart Partners with Provi to Supply Bars
-
-Instacart has partnered with Provi. The platform will offer same-day delivery to bars and restaurants for nonalcoholic items such as mixers and garnishes.
-
-- Link: https://www.businessinsider.com/instacart-provi-deal-brings-rapid-bar-supply-deliveries-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 138. Microsoft Outage Disrupts Email for Many Companies
-
-A Microsoft outage is disrupting email, even as some business executives use it very little.
-
-- Link: https://www.businessinsider.com/microsoft-outage-disrupting-email-ceo-business-leaders-barely-use-it-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 139. Jensen Huang’s Leather Jackets Have Become a Joke
-
-Jensen Huang’s once-iconic leather jackets are now being mocked following the controversies surrounding the Nvidia leader.
-
-- Link: https://www.businessinsider.com/jensen-huang-leather-jacket-jokes-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 140. Anthropic Introduces Claude Tool to Address Labor Shortages
-
-Anthropic is offering a new Claude tool designed to help manufacturers facing labor shortages.
-
-- Link: https://www.businessinsider.com/anthropic-launches-claude-for-manufacturers-ahead-of-ipo-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 141. Flowers Left Outside Nvidia Headquarters After Huang’s Resignation
-
-Photos show flowers left outside Nvidia headquarters following Jensen Huang’s resignation.
-
-- Link: https://www.businessinsider.com/jensen-huang-flowers-candle-nvidia-headquarters-photos-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 142. Amazon’s Ring Flying Camera Raises Questions About Its Target Audience
-
-The Amazon Ring Drone Cam product has prompted questions about who it is intended for.
-
-- Link: https://www.businessinsider.com/amazon-ring-drone-camera-house-security-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 143. Michael Burry Advises Selling Nvidia Stock
-
-Investor Michael Burry recommends getting out of Nvidia stock.
-
-- Link: https://www.businessinsider.com/michael-burry-nvidia-stock-jensen-huang-big-short-ai-succession-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 144. Lisa Su, Jensen Huang’s Cousin, Leads Nvidia Rival AMD
-
-Lisa Su, Jensen Huang’s cousin, is the CEO of AMD, an Nvidia competitor.
-
-- Link: https://www.businessinsider.com/meet-lisa-su-jensen-huangs-cousin-amd-ceo-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 145. Alice Huang Barred from Returning to Singapore
-
-Singapore says Alice Huang, a Megaspeed executive involved in the Nvidia scandal, is not permitted to return to the country.
-
-- Link: https://www.businessinsider.com/singapore-megaspeed-investigation-alice-huang-passport-barred-entering-country-2026-11
-- Sources: Business Insider
-- Received: 2026-11-13T12:18+01:00
-
-## 146. RLHF Is Costly Mainly Because of Its Training Loop
-
-In RLHF, the infrastructure costs of maintaining four models simultaneously during PPO can exceed annotation expenses. DPO reuses the same preference data without a separate reward model, making it a simpler starting point for most teams.
-
-- Link: https://www.newline.co/login?redirectUrl=/@Dipen/examples-of-reinforcement-learning-in-llm-apps-from-rlhf-to-safer-business-outputs--8aa0f102
-- Sources: Fullstack.io
-- Received: 2026-11-13T11:47+01:00
-
-## 147. Cerebras Reports $230.9 Million in Third-Quarter Revenue
-
-Cerebras reported $230.9 million in third-quarter revenue, up 70%, and raised its full-year guidance.
-
-- Link: https://cerebras.gcs-web.com/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 148. FBI Dismantles North Korean Cryptocurrency Theft Campaign
-
-The FBI disrupted North Korea’s FaceStealer campaign, which used fake Zoom-style meetings featuring recordings of people known to the victims to steal more than $400 million in cryptocurrency.
-
-- Link: https://www.nextgov.com/cybersecurity/2026/11/fbi-disrupts-intricate-north-korean-fake-call-scheme-tied-400m-crypto-theft/417200/
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 149. Yogurt Summarizes Calls Without Sending a Bot to the Meeting
-
-Yogurt records calls without having a bot join the meeting, then produces a free summary with next steps assigned to each person. The project is presented as free and open source.
-
-- Link: https://github.com/FrigadeHQ/yogurt
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 150. Pomerado Turns API-Less Websites into Tools for Coding Agents
-
-Pomerado turns a website without an API, such as a vendor invoice portal, into a tool that a coding agent can use from a single prompt. The service offers a free plan followed by a $50-per-month option.
-
-- Link: https://pomerado.ai/
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 151. Kiln Runs AI Models Directly in the Browser
-
-Kiln runs conversational, transcription and image models directly in the browser from Hugging Face files, without a server or conversion step. The project is presented as free and open source.
-
-- Link: https://github.com/erdemozkan/kiln
-- Sources: The Neuron
-- Received: 2026-11-13T11:34+01:00
-
-## 152. Spotify DJ Adds Nine Voices and an Option to Turn Off Commentary
-
-Spotify Premium DJ offers nine new voices and a setting to disable most commentary between songs while retaining personalized recommendations.
-
-- Link: https://www.techrepublic.com/article/news-spotify-ai-dj-voices-commentary-controls/
-- Sources: TechnologyAdvice
-- Received: 2026-11-13T10:33+01:00
-
-## 153. Disney Expands Adobe Partnership for Its Parks, Films and ESPN Content
-
-Disney is using Adobe’s custom Firefly Foundry models to speed up art design, visual effects and ESPN content. The shorter iteration times also raise questions about work methods and staffing.
-
-- Link: https://www.eweek.com/news/disney-adobe-custom-ai-models-parks-films-espn/
-- Sources: TechnologyAdvice
-- Received: 2026-11-13T10:33+01:00
-
-## 154. Google Gemini Shows What It Remembers About Users and Lets Them Correct It
-
-Gemini displays and lets users edit the information it remembers about them in a summary organized into five timestamped categories. However, deleting a memory may not erase the source conversation.
-
-- Link: https://www.techrepublic.com/article/news-google-gemini-memory-summary-controls/
-- Sources: TechnologyAdvice
-- Received: 2026-11-13T10:33+01:00
-
-## 155. Microsoft Teams rolls out AI detection of phishing attempts
-
-Microsoft Teams is rolling out AI-powered detection of impersonation and social engineering in chats, even without a malicious link. Warnings about deepfakes in meetings will follow, but will require third-party configuration.
-
-- Link: https://www.techrepublic.com/article/news-microsoft-teams-ai-phishing-detection-deepfake-warnings/
-- Sources: TechnologyAdvice
-- Received: 2026-11-13T10:33+01:00
-
-## 156. Southeast Asian anti-scam hub offers free training
-
-The Scam Ready ASEAN hub offers free training, an interactive game and country-specific reporting contacts across 11 nations. Scams cost Southeast Asia $23.6 billion.
-
-- Link: https://www.techrepublic.com/article/news-scam-ready-asean-resource-hub-apac-southeast-asia/
-- Sources: TechnologyAdvice
-- Received: 2026-11-13T10:33+01:00
-
-## 157. Meta AI: features, pricing and user guide
-
-Meta AI is integrated into Meta’s apps, with features powered by Muse, multiple pricing tiers and privacy controls. The guide covers platform availability and use of Incognito mode, among other topics.
-
-- Link: https://www.techrepublic.com/article/news-meta-ai-cheat-sheet/
-- Sources: TechnologyAdvice
-- Received: 2026-11-13T10:33+01:00
