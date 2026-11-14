@@ -1,46 +1,95 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "period": {
-    "from": "2026-11-12T19:25+01:00",
-    "to": "2026-11-13T19:25+01:00"
+    "from": "2026-11-13T06:25+01:00",
+    "to": "2026-11-14T06:25+01:00"
   },
-  "news_count": 132,
+  "news_count": 157,
   "news": [
     {
       "id": "g5610",
-      "title": "Jensen Huang Leaves Nvidia After Alleged Espionage Scandal",
-      "description": "Nvidia co-founder and CEO Jensen Huang reportedly resigned with immediate effect after revelations about an affair with someone suspected of having ties to Chinese intelligence. Colette Kress is serving as interim CEO, while Nvidia shares fell more than 13% at the open.",
-      "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
+      "title": "Jensen Huang Resigns as Head of Nvidia",
+      "description": "Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.",
+      "link": "https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
       "sources": [
+        "AppleInsider",
         "Vision IA",
         "TLDR",
         "Business Insider",
         "The Neuron"
       ],
-      "received_at": "2026-11-13T13:50+01:00",
-      "covered_by": 4,
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 5,
       "favorite": false,
       "followed_topic": null
     },
     {
       "id": "g5299",
-      "title": "Microsoft 365 Outage Disrupts Email, Teams and Intune",
-      "description": "A Microsoft 365 outage on November 12 disrupted access to email, some Teams features and administration tools such as Intune. Microsoft cited server health-check failures and an overloaded server process.",
-      "link": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531",
+      "title": "A Global Microsoft 365 Outage Affects Outlook and Teams",
+      "description": "A global Microsoft 365 outage crippled Outlook, Teams, Copilot and other services. Microsoft attributed it to an overloaded secure-connection process and said it was not a cyberattack.",
+      "link": "https://www.business-standard.com/technology/tech-news/microsoft-365-outage-continues-as-company-sees-limited-recovery-in-services-126111300464_1.html",
       "sources": [
+        "Techpresso",
         "TLDR IT",
         "Vision IA",
         "TLDR"
       ],
-      "received_at": "2026-11-13T14:51+01:00",
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5661",
+      "title": "Google Launches Gemini 4 Hydrogen for Coding Assistants",
+      "description": "Google launched Gemini 4 Hydrogen, a model designed for coding assistants and software that uses tools. It accepts text, images, audio and video, with adjustable reasoning levels and usage-based pricing.",
+      "link": "https://winbuzzer.com/2026/11/12/google-launches-gemini-4-hydrogen-for-faster-ai-coding-xcxwbn/",
+      "sources": [
+        "Techpresso",
+        "Superhuman",
+        "Vision IA",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5703",
+      "title": "Tesla and SpaceX Merger Talks Reach a New Stage",
+      "description": "Talks aimed at a merger between Tesla and SpaceX have reached a new stage, but one obstacle remains.",
+      "link": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
+      "sources": [
+        "Techpresso",
+        "Vision IA",
+        "TLDR"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
       "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g5662",
+      "title": "Google Unveils Intelligent Eyewear, the Successor to Google Glass",
+      "description": "These new smart glasses let users use Gemini in everyday life to ask questions, take photos and translate conversations. Preorders are open, and deliveries will begin on December 10.",
+      "link": "https://glasses.google/",
+      "sources": [
+        "Superhuman",
+        "Vision IA",
+        "TLDR",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-13T15:09+01:00",
+      "covered_by": 4,
       "favorite": false,
       "followed_topic": null
     },
     {
       "id": "g5510",
       "title": "United Airlines Blocks Unauthorized Personal AI Agents",
-      "description": "United is restricting unauthorized personal AI agents, citing unintended purchases, account information exposure and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.",
+      "description": "United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.",
       "link": "https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html",
       "sources": [
         "TLDR IT",
@@ -53,16 +102,120 @@
       "followed_topic": null
     },
     {
-      "id": "g5703",
-      "title": "SpaceX and Tesla Could Announce Merger as Early as December",
-      "description": "According to Bloomberg, Elon Musk’s two companies could officially announce their combination in December or early 2027. The deal would be the largest acquisition in history, but it has not yet been confirmed.",
-      "link": "https://www.theinformation.com/briefings/spacex-tesla-announce-merger-soon-december",
+      "id": "g5807",
+      "title": "Chinese Supplier Confirms Its Involvement in Unreleased Apple Products",
+      "description": "An Apple supplier in China appears to have confirmed its involvement in Apple’s AI glasses, camera-equipped AirPods and other unannounced projects in a financial report.",
+      "link": "https://appleinsider.com/articles/26/11/11/apple-supplier-confirms-involvement-in-apple-ai-glasses-airpods-with-cameras",
       "sources": [
-        "Vision IA",
-        "TLDR"
+        "AppleInsider"
       ],
-      "received_at": "2026-11-13T13:50+01:00",
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g5808",
+      "title": "OLED iPad Air Expected in Early 2027",
+      "description": "A new report claims that the iPad Air with an OLED display will arrive in early 2027. It is not expected to support ProMotion.",
+      "link": "https://appleinsider.com/articles/26/11/10/the-oled-ipad-air-is-still-expected-to-launch-in-early-2027",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g5813",
+      "title": "Government-Grade Spyware Is Now Targeting iPhones",
+      "description": "Researchers say sophisticated spyware previously reserved for government surveillance is being used against private individuals. Two iOS exploit kits, Coruna and DarkSword, are involved.",
+      "link": "https://appleinsider.com/articles/26/11/10/criminals-are-using-government-grade-spyware-to-infect-iphones",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g5816",
+      "title": "OLED iPad mini Review: An Excellent Reader, but Not a Miniature iPad Pro",
+      "description": "The eighth-generation iPad mini benefits greatly from its OLED display, but its price makes it less appealing compared with the iPad Pro. AppleInsider gives it a score of 4 out of 5.",
+      "link": "https://us.list-manage.com/AJN4QVzSNaQ?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g5791",
+      "title": "OpenAI Launches ChatGPT Wallet for Its AI Agents",
+      "description": "ChatGPT Wallet lets “dots” AI agents purchase products for users after approval and security verification. Developed with American Express, Mastercard and Visa, the system uses a payment token for each transaction without sharing the actual card details.",
+      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5796",
+      "title": "OpenAI Enters the Cybersecurity Market with Two Daybreak Products",
+      "description": "OpenAI is launching two Daybreak products and entering the cybersecurity market.",
+      "link": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5727",
+      "title": "Meta’s Muse Can Now Make Calls, but the Feature Costs Extra",
+      "description": "Muse, Meta’s AI, can now make phone calls, but the feature is not free.",
+      "link": "https://www.digitaltrends.com/computing/meta-muse-ai-phone-calls-paid-subscription/",
+      "sources": [
+        "Techpresso",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
       "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5801",
+      "title": "Lawsuit Calls for an End to Frontier AI Development",
+      "description": "OpenAI, Google and Anthropic are facing a lawsuit seeking to halt the development of frontier AI systems.",
+      "link": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5805",
+      "title": "SpaceX Lays Off 60 Grok Imagine Employees to Focus on AI",
+      "description": "SpaceX laid off 60 Grok Imagine employees as Elon Musk redirects his efforts toward coding and AI agents.",
+      "link": "https://techstartups.com/2026/11/13/spacex-lays-off-60-grok-imagine-employees-as-elon-musk-shifts-focus-to-ai-coding-and-agents/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "SpaceX et Starlink"
     },
@@ -93,6 +246,20 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g5009",
+      "title": "Anthropic Introduces Fable 5.2, Faster and Less Expensive to Run",
+      "description": "Anthropic says Claude Fable 5.2 is up to 30% faster than version 5.1. Its standard price is 8 dollars per million input tokens and 40 dollars per million output tokens, with an optional fast mode.",
+      "link": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
+      "sources": [
+        "AI Gen Art",
+        "Superhuman"
+      ],
+      "received_at": "2026-11-13T17:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5774",
       "title": "Google’s 10-Minute AI Training Plan for Marketers",
       "description": "Google is offering a 10-minute artificial intelligence training plan for marketing teams.",
@@ -108,7 +275,7 @@
     {
       "id": "g5767",
       "title": "How Many Physical Keys Should You Get for a Tesla?",
-      "description": "An owner asks how many physical keys are recommended for a Tesla. One response also mentions using an Apple Watch as a backup key.",
+      "description": "An owner asks how many physical keys it is recommended to get for their Tesla. One response also mentions using an Apple Watch as a backup key.",
       "link": "https://www.teslaownersonline.com/threads/how-many-physical-car-keys-should-we-get.39860/?post_id=480258#post-480258",
       "sources": [
         "Threadloom"
@@ -121,25 +288,11 @@
     {
       "id": "g5350",
       "title": "Anthropic Turns Claude Into an Active Participant in Video Meetings",
-      "description": "Claude Meetings lets users add the assistant to video calls to follow discussions, take notes and begin certain tasks before the meeting ends. The service is rolling out on Google Meet for Team and Enterprise plans, with other platforms expected to follow.",
+      "description": "Claude Meetings lets users add the assistant to video calls to follow discussions, take notes and start certain tasks before the meeting ends. The service is rolling out on Google Meet for Team and Enterprise plans, with other platforms expected to follow.",
       "link": "https://claude.com/resources/articles/claude-meetings",
       "sources": [
         "Superhuman",
         "Vision IA"
-      ],
-      "received_at": "2026-11-13T15:09+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5661",
-      "title": "Google Launches Gemini 4 Hydrogen, a More Efficient Version of Carbon",
-      "description": "Gemini 4 Hydrogen is presented as a more efficient alternative to Google’s most powerful model and is now available with all plans.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "sources": [
-        "Superhuman",
-        "The Neuron"
       ],
       "received_at": "2026-11-13T15:09+01:00",
       "covered_by": 2,
@@ -162,7 +315,7 @@
     {
       "id": "g5761",
       "title": "OpenAI’s Personal Assistant Gets Faster Responses and Advanced Settings",
-      "description": "OpenAI’s personal assistant was upgraded this week with faster responses and more customizable instructions.",
+      "description": "OpenAI’s personal assistant was improved this week with faster responses and more customizable instructions.",
       "link": "https://link.mail.beehiiv.com/ss/c/u001.Nip_UK5BFIEP7ebSvurEeUXqxPikqxD8-GgBDv-58tDuAgOlxzBMebVwX3jZIkTlamotEolgkLa2S7QjtpgJWa7KsmzujKuXM0BnG9UQUxhROM5h2z8AwM1ItDc0O-4xMNTcaMDK5o84N0iIb1eQgQlWZ8mIpFGrwRNStZ5uHTsjoGm2zJYRi-5wAqZoqK-amEZMooj0n_pP2oaqyizOz6PDIWSinjqLX9O5hoiYzB5v8uvwOxVcdrEQssCLO2f53dQPQw_5I1EwiPKT9TdtPg/4vp/18pRbiHISlaS-uKd59rpaw/h31/h001.HSWSq_HvtqzLsR3vXFftooOqE7GPftJyvTWrKxTO0ak",
       "sources": [
         "Superhuman"
@@ -174,8 +327,8 @@
     },
     {
       "id": "g5721",
-      "title": "Chatbots Sometimes Recommend Fake E-Commerce Sites",
-      "description": "A Podqi test of where to buy products from 151 brands found that ChatGPT, Gemini and Perplexity sometimes direct users to impersonation or risky websites. Users are advised to verify a brand’s official address before making a purchase.",
+      "title": "Chatbots Sometimes Recommend Fake Online Stores",
+      "description": "A Podqi test examining where to buy products from 151 brands found that ChatGPT, Gemini and Perplexity sometimes direct users to impersonator or risky websites. Users are advised to verify a brand’s official address before making any purchase.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
       "sources": [
         "Vision IA"
@@ -201,7 +354,7 @@
     {
       "id": "g5735",
       "title": "Generative AI Use Is Growing Among Video Game Developers",
-      "description": "According to the annual GDC Festival of Gaming survey, 40% of developers use generative AI at work, up from 36% in 2025. The figure reaches 70% at mobile studios, while parts of the industry publicly oppose it.",
+      "description": "According to the GDC Festival of Gaming’s annual survey, 40% of developers use generative AI at work, up from 36% in 2025. The proportion reaches 70% at mobile studios, while part of the industry is publicly opposing it.",
       "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
       "sources": [
         "Vision IA"
@@ -214,7 +367,7 @@
     {
       "id": "g5742",
       "title": "Cerebras Stock Jumps After Deal With Microsoft",
-      "description": "The AI chipmaker beat quarterly expectations and signed a deal with Microsoft, which joins Amazon and Oracle among its cloud customers. The announcement supports alternatives to Nvidia, despite the stock still being down nearly half since its IPO.",
+      "description": "The AI chipmaker exceeded quarterly expectations and signed a deal with Microsoft, which joins Amazon and Oracle among its cloud customers. The announcement supports alternatives to Nvidia, despite the stock still being down nearly half since its IPO.",
       "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
       "sources": [
         "Vision IA"
@@ -239,7 +392,7 @@
     },
     {
       "id": "g5701",
-      "title": "AI Assistants Are Becoming the Upstream Interface for Banking Services",
+      "title": "AI Assistants Become the Upstream Interface for Banking Services",
       "description": "According to McKinsey, 74% of consumers who use AI for banking tasks rely on general-purpose assistants such as ChatGPT, Claude or Gemini. Customers can therefore make a decision before even entering a bank’s environment.",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
       "sources": [
@@ -253,7 +406,7 @@
     {
       "id": "g5693",
       "title": "ChatGPT Becomes a New Gateway to Businesses",
-      "description": "OpenAI has launched Businesses in ChatGPT, allowing companies to manage their presence, product information and customer interactions in ChatGPT. Customer acquisition is thus beginning to shift away from company-controlled channels.",
+      "description": "OpenAI has launched Businesses in ChatGPT, allowing companies to manage their presence, product information and customer interactions in ChatGPT. Customer acquisition is therefore beginning to move outside channels controlled by businesses.",
       "link": "https://openai.com/index/introducing-businesses-chatgpt/",
       "sources": [
         "Pascal Bornet"
@@ -381,9 +534,321 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
+      "id": "g5820",
+      "title": "FAA Lifts National Ground Stop After Nearly 5,000 Flights Are Canceled",
+      "description": "The Federal Aviation Administration ground stop, which paralyzed flights nationwide for several hours, was lifted Friday evening. Travelers were stranded at airports, and nearly 5,000 flights were canceled.",
+      "link": "https://l.businessinsider.com/a/sc/1gvAHxjnPtoRmEGIWoabwG7mPIQwhslFCqFH6kqNQUNscZLs9QuxUot1qgcvqNHwfG6MFUQbkJVcI9By9glps7mdXrsCLzhHIAXqcKXN7P8BNp2EyTvGba2tTM9vweRHmjZQP8LVk7dx1-EvjRgvOXAsUenvtuSgc9wCOI7Ck2PpUZeEV0jYQyR168Kua1S3CgkPFDdSlg2hyWQ1dCEa6FzKnq5EqRc6-YjjlYWrYd37xizhYWTmMqaKV98qq7oyIdHz6liTe1WxpP19fo0TPBxJVfOqE9cVh6sp2zCrk8srk_LZv03vtLmoGR3a2zajaZMjQXp6Jbg6ACSFNJ1O_6bKcch7anBVHuYXlHJlzLqE1oQt8t3_OAzG3Zv-3QmlqSb7fiHvi06YsP7JYwElnCFFC8lIJuHb77kqjZg1E1GISSfbGPasiauQ-d-2rWg13x_g2BvKufMwWW7oOe5k7C-41PTA4Fu17W4lIozB09Hm2G3vEPBtecxVpDDLYrqjHYqrN-qOKVHZl1v1FQwIhpfA-UiCVDLiouuSsRvT-Lw5vqflAPfHXB7YKIX3LN0Zuw9pgoxuvyjeHtAg4VOGmJhZtL7fyoI6AM4ECHfasAKCD2iPEJhImDv4jmxJJ/KqEFw6H9dBfJfkalQECDYxSEQEVa-iX4/26",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-14T03:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5821",
+      "title": "What to Do If Your Flight Is Canceled or Delayed Because of the FAA Ground Stop",
+      "description": "This article explains what to do if the FAA ground stop caused a flight cancellation or delay.",
+      "link": "https://www.businessinsider.com/what-do-if-flight-delayed-or-canceled-airlines-atc-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-14T03:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5822",
+      "title": "Passengers Describe the Chaos at JFK During the Nationwide Ground Stop",
+      "description": "Passengers describe the chaos they experienced at JFK airport during the FAA’s nationwide ground stop.",
+      "link": "https://www.businessinsider.com/flight-canceled-delayed-nationwide-ground-stop-faa-jfk-chaos-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-14T03:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5823",
+      "title": "Photos Show Disruptions at U.S. Airports",
+      "description": "Photos show the difficulties encountered at airports across the country while the FAA grounded all flights.",
+      "link": "https://www.businessinsider.com/faa-ground-stop-nationwide-airports-lines-flights-delayed-photos-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-14T03:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5824",
+      "title": "FAA Ground Stop Could Disrupt College Football Games",
+      "description": "The FAA ground stop could jeopardize the staging of college football games.",
+      "link": "https://www.businessinsider.com/college-football-games-canceled-postponed-faa-ground-stop-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-14T03:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5825",
+      "title": "Toronto and Montreal Declare Ground Stops at Their Airports",
+      "description": "The airports in Toronto and Montreal declared ground stops.",
+      "link": "https://www.businessinsider.com/canadian-airports-ground-stop-toronto-montreal-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-14T03:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5826",
+      "title": "SMART AI Maker and Microsoft Deny Responsibility for the Ground Stop",
+      "description": "The company behind the SMART AI system and Microsoft both say they were not responsible for the FAA ground stop.",
+      "link": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-14T03:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5356",
+      "title": "Apple Tests Harbor to Connect Multiple Macs to Local AI",
+      "description": "The Harbor app, formerly called Fabric, can turn multiple Macs into a private AI inference server. It is currently available as a private preview under the Claris brand.",
+      "link": "https://us.list-manage.com/ymJHbKlp3n0?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5810",
+      "title": "Donald Trump Wants Tim Cook to Become Nvidia’s Next CEO",
+      "description": "Donald Trump said Tim Cook should replace Jensen Huang as head of Nvidia, stating that “a legend replaces a legend.”",
+      "link": "https://appleinsider.com/articles/26/11/12/donald-trump-wants-tim-cook-to-be-the-next-nvidia-ceo",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5811",
+      "title": "Johny Srouji Could Take Over as Nvidia CEO",
+      "description": "Another report says that Johny Srouji, Apple’s head of hardware, could become Nvidia’s next CEO.",
+      "link": "https://appleinsider.com/articles/26/11/12/apple-silicon-chief-johny-srouji-could-take-over-nvidia-as-its-new-ceo",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5812",
+      "title": "Unpatched iOS Flaw Could Let Apps Steal Data",
+      "description": "An iOS vulnerability could allow malicious apps to read other apps’ local files by bypassing their sandbox.",
+      "link": "https://us.list-manage.com/9qiGeeVyD2d?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5814",
+      "title": "Thai Officials Question Apple About Spyware Alerts",
+      "description": "Thai politicians questioned Apple about its alerts sent to users targeted by spyware.",
+      "link": "https://appleinsider.com/articles/26/11/11/thai-politicians-question-apple-over-iphone-spyware-alerts",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5815",
+      "title": "iOS 27.2.1 Fixes Bluetooth and iMessage-Related Vulnerabilities",
+      "description": "The iOS 27.2.1 update fixes vulnerabilities that enabled unauthorized Bluetooth pairings and eavesdropping on iMessage messages.",
+      "link": "https://appleinsider.com/articles/26/11/09/unauthorized-bluetooth-pairing-imessage-snooping-patched-in-ios-2721",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5817",
+      "title": "Apple HomeView Review: A Limited Launch, but Strong Potential",
+      "description": "HomeView is Apple’s first attempt in the smart-home display category. The product shows significant potential but still needs improvements, earning a score of 2.5 out of 5.",
+      "link": "https://appleinsider.com/articles/26/11/12/apple-homeview-review-shallow-launch-but-incredible-potential",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-14T01:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5790",
+      "title": "Nvidia Employees Call for Jensen Huang’s Return",
+      "description": "Nvidia employees asked the board to reinstate Jensen Huang after his resignation. An internal post received more than 1,600 comments, while the crisis cost the company 1 trillion dollars in market value.",
+      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5792",
+      "title": "China Rents Nvidia Chips Ahead of a Possible U.S. Embargo",
+      "description": "Chinese AI companies are accessing Nvidia’s best chips by renting computing power in data centers in Malaysia and Thailand. U.S. restrictions control where the chips are shipped, but not the identities of the users connecting to them.",
+      "link": "https://www.firstpost.com/world/us-restricts-export-of-nvidias-advanced-chips-but-china-still-gets-it-how-14059018.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5794",
+      "title": "Chinese AI Models Appear to Be Using Banned Nvidia Chips",
+      "description": "A forensic analysis claims to provide the first technical evidence that several Chinese laboratories are using Nvidia Blackwell GPUs subject to export controls. The method relies on a statistical signature left by the number of computing cores, but it cannot determine where the chips are located or prove that they were smuggled.",
+      "link": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5795",
+      "title": "HubSpot Brings Back Cofounder Brian Halligan as CEO",
+      "description": "HubSpot is bringing back cofounder Brian Halligan as CEO to “refound” the company.",
+      "link": "https://thenextweb.com/news/hubspot-brian-halligan-returns-ceo-refounding",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5797",
+      "title": "Binance Hack Prompts U.S. to Target 1.2 Billion Dollars",
+      "description": "The United States is targeting 1.2 billion dollars in stolen cryptocurrency following the Binance hack.",
+      "link": "https://blockonomi.com/binance-hack-leads-us-to-target-1-2-billion-in-stolen-crypto/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5799",
+      "title": "Whoop Launches Its Own Social Network",
+      "description": "Whoop launched a social network.",
+      "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5800",
+      "title": "FAA Expands AI Advice Across U.S. Airspace",
+      "description": "The FAA is expanding the use of AI-generated advice to manage air-traffic congestion across all U.S. airspace.",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5802",
+      "title": "The “Slop” Phenomenon Is Moving Up the Value Chain",
+      "description": "The article examines the spread of “slop” up the value chain.",
+      "link": "https://gabeorlanski.github.io/posts/slop-moves-up/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5804",
+      "title": "Nvidia Scandal Involves U.S. Commerce Secretary",
+      "description": "U.S. Commerce Secretary Howard Lutnick reportedly agreed to testify about Nvidia chip sales to China.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-13T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5788",
+      "title": "Automate Your Inbox and Calendar While Staying in Control",
+      "description": "Chapter 30 explains how to automate inbox sorting, draft replies and manage the steps before and after a meeting without allowing AI to send messages or accept appointments without approval. It notably proposes a morning summary that does not modify the inbox and the automatic capture of commitments.",
+      "link": "https://link.mail.beehiiv.com/v2/c/e4bb093ed6f82ec43dad2366f78948f130878bc8eaf340def49e8b5d6aaaa08311290b846f077becfd1a736e879b733b2358e4b729f88129d402fa33b4f3011cd60ca4c9668b104425d0662c17599e20d7add0d10220c50786c22b6809a89aa959177983c2dd68f10af1fc9251344b987ccc757e5c1878516da44489f2ee4767369e3a32c73c236a334be8511ddeff41904946240e6135d2c9579656042b7cf2/b30150e209f9c1fc",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-13T18:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5785",
       "title": "Jensen Huang Reveals the Risk of Building a Company Around a Single Leader",
-      "description": "The sudden departure of Nvidia’s former CEO highlights the risks of relying on a single leader. Nvidia’s flat structure helped it move quickly, but also left the company exposed.",
+      "description": "The sudden departure of Nvidia’s former CEO highlights the risks of relying on a single leader. Nvidia’s horizontal structure helped it move quickly, but also exposed the company.",
       "link": "https://l.businessinsider.com/a/zc/21432/a357f39cb1784d0aaa3444f9ca2c5565/a42b8db9ab2d4dc2b9346b1ebfe34790",
       "sources": [
         "Business Insider"
@@ -396,7 +861,7 @@
     {
       "id": "g5786",
       "title": "Jensen Huang Is Targeted by the Technology He Helped Create",
-      "description": "The article revisits criticism aimed at Jensen Huang and the technology he helped bring to prominence.",
+      "description": "The article examines criticism directed at Jensen Huang and the technology he helped bring into existence.",
       "link": "https://www.businessinsider.com/best-ai-memes-jensen-huang-affair-scandal-nvidia-chips-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
         "Business Insider"
@@ -408,8 +873,8 @@
     },
     {
       "id": "g5783",
-      "title": "AI Is Upending the Economics of Customer Loyalty",
-      "description": "AI allows agents to compare prices, terms and products every day, revealing that some loyalty was largely based on customer inertia. Companies must determine whether customers stay for trust, experience and genuine differentiation, or simply because switching providers is difficult.",
+      "title": "AI Upends the Economics of Customer Loyalty",
+      "description": "AI enables agents to compare prices, terms and products daily, revealing that some loyalty was based largely on customer inertia. Companies must determine whether customers stay for trust, experience and genuine differentiation, or simply because switching providers is difficult.",
       "link": "https://www.linkedin.com/comm/pulse/irreplaceable-ai-251-pascal-bornet-qvn2e?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3BN6fK1LkgRTCusw8%2FDdFHaQ%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=0lgipZJ-wqoYw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mwewe3ja~s7-null-null&eid=5135t-mwewe3ja-s7",
       "sources": [
         "Pascal Bornet"
@@ -422,21 +887,8 @@
     {
       "id": "g5777",
       "title": "Instagram Launches a Web Tool for Creating Story Effects With Prompts",
-      "description": "Effect Builder lets US creators aged 18 and over generate AI effects for Stories without design or programming skills. Published effects are reviewed and display their creator’s Instagram account.",
+      "description": "Effect Builder lets U.S. creators aged 18 and over generate AI effects for Stories without design or programming skills. Published effects are reviewed and display their creator’s Instagram account.",
       "link": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-13T17:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5009",
-      "title": "Anthropic Introduces Fable 5.2, Faster and Less Expensive to Run",
-      "description": "Anthropic says Claude Fable 5.2 is up to 30% faster than version 5.1. Its standard price is 8 dollars per million input tokens and 40 dollars per million output tokens, with an optional fast mode.",
-      "link": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
       "sources": [
         "AI Gen Art"
       ],
@@ -448,7 +900,7 @@
     {
       "id": "g5203",
       "title": "Adobe and Disney Partner to Create Custom AI Models",
-      "description": "Disney will use Adobe Firefly Foundry to create models trained on its own characters, environments and visual styles. Walt Disney Imagineering is already using them to develop theme parks, including turning sketches into rendered 2D concepts.",
+      "description": "Disney will use Adobe Firefly Foundry to create models trained on its own characters, environments and visual styles. Walt Disney Imagineering is already using them for theme park development, including turning sketches into rendered 2D concepts.",
       "link": "https://wing.com/news/wing-walmart-expand-drone-delivery-coast-to-coast",
       "sources": [
         "AI Gen Art"
@@ -461,7 +913,7 @@
     {
       "id": "g5246",
       "title": "Meta Launches Muse Ember, Its Smallest AI Model",
-      "description": "Meta has launched Muse Ember, its smallest model, priced at 0.10 dollar per million input tokens. It is designed for high-volume agent tasks such as tool calls and long-document analysis.",
+      "description": "Meta has launched Muse Ember, its smallest model, priced at 0.10 dollars per million input tokens. It is designed for high-volume agent tasks such as tool calls and long-document analysis.",
       "link": "https://research.meta.ai/blog/muse-ember",
       "sources": [
         "AI Gen Art"
@@ -474,7 +926,7 @@
     {
       "id": "g5781",
       "title": "Google Publishes a Guide to Get More From Gemini 4 Carbon",
-      "description": "Google has published a guide for developers featuring five practical tips for getting better results from Gemini 4 Carbon on difficult problems.",
+      "description": "Google has published a guide for developers with five practical tips for getting better results from Gemini 4 Carbon on difficult problems.",
       "link": "https://aistudio.google.com/learn/gemini-4-carbon-developer-guide#:~:text=5%20practical%20tips,their%20hardest%20problems.",
       "sources": [
         "AI Gen Art"
@@ -499,8 +951,8 @@
     },
     {
       "id": "g5772",
-      "title": "Lessons From Large Companies on Moving Beyond the AI Pilot Era",
-      "description": "The era of AI pilots is over. Executives from JPMorgan Chase, Gap, Estée Lauder and other companies share practical lessons for evolving workflows and demonstrating marketing ROI.",
+      "title": "Lessons From Major Companies on Moving Beyond the AI Pilot Era",
+      "description": "The AI pilot era is over. Executives from JPMorgan Chase, Gap, Estée Lauder and other companies share practical lessons for evolving workflows and demonstrating marketing ROI.",
       "link": "https://c.gle/AGSJxQwVNbdLaR7ZKa8LV-15IZN9J6QnCZX1BLQIrHc9vCnnhwfV6PRzVZW1miIEkBQo6aSbzzetYHvKQztjDukVzGWHx2bVyB__djqWw4OEO8LLZHbmVhxowvtLW9jVhfT6KdyE4xA51n5XOpKWCeQqQIX6r518RQQHKbgk2Fte5HZ_qheE727erqHr31lRGGIZDCrwSzygjmIPX4O2F4DhLX4XlF8nD_SDY317oaeOleOHFZzBCJnLQxtoyvHvEyBHUIuEOww6jDQGyavfdHMak0G8r64-XhowoKlQgivRybexMHZ_NZUA",
       "sources": [
         "Think with Google"
@@ -513,7 +965,7 @@
     {
       "id": "g5775",
       "title": "Why 82% of Executives Fail to See Marketing’s Value",
-      "description": "A study examines why 82% of executives overlook the value of marketing.",
+      "description": "A study examines why 82% of executives miss the value of marketing.",
       "link": "https://c.gle/AGSJxQzA2w5blVNvXFwO-3QivfAzZ5qtsvR5GaWcsSMwUM1enJ9a7xQcClW43rkH-aCfuxuES5EzhMQlwrtLR6zk9hQbpql2Pe-Qjzn_AxfE7nW0HDN7_CXLVSlnn5Sl1wG-SLjA0-pI1RYrx2cCsKQ9qVE_BZcJBwqdY37XvXe2kX8Xdhsqpv6yV7vtJu2vicTL57wznryHZ-NfNN3avn-KoB09AtIQ-ft2XgJeE928sIhbaczFC118k-OqonALXkYbxTamljY6laSLhGd1Fg3A6_uoBGPUN4CZau3W0gOG9c0SkGdLgKMISkvfc8WYIzA",
       "sources": [
         "Think with Google"
@@ -526,7 +978,7 @@
     {
       "id": "g5776",
       "title": "AI Reduces Friction While Human Expertise Dispels Doubts",
-      "description": "Andy Kurtzig, Pearl’s founder and CEO, explains how AI reduces friction and how human expertise helps resolve uncertainty.",
+      "description": "Andy Kurtzig, founder and CEO of Pearl, explains how AI reduces friction and how human expertise helps resolve uncertainty.",
       "link": "https://c.gle/AGSJxQyB9RUIcdQooPkXrzy4tqr_Xn_qeRFka03dyHWZlFzywougoFdC-L1Kycpf4H0XfVNr9q7JAgpyZmAFrQgpM08xGsQRPbYpxXpcMMzb9APArkjL3Xc_E4J2Q2U1TlB9rsvhyPTHZSJpPGTxm0IbLDWyqwRqgkx9KZ-lcaC8IEMDmWidCktkb1TKQ0SLUd1e3QXwkmplfE7_EB-aL3h3qkZdolSsS7u1ay9qnel1LA9x7pSKYdmkpTzLlPl_QG-nNkGscJOXD_k9ys1pz2S254kIyDt5ZL0BIp79f7-orZcmqg1WreOh39bQtgy0DQ",
       "sources": [
         "Think with Google"
@@ -539,7 +991,7 @@
     {
       "id": "g5762",
       "title": "Which Mobile Charger Should You Use at 110 V and 240 V for a Tesla?",
-      "description": "A new Tesla owner is looking for the best portable charger that works at 110 V and 240 V, particularly for semi-remote areas far from Superchargers.",
+      "description": "A new Tesla owner is looking for the best portable charger that works at 110 V and 240 V, particularly for semi-autonomous and remote areas far from Superchargers.",
       "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsS3naW1IjQx0ZQWP5_sBhc-BXdT8zWN_Qt9jxLDeptjxpxUltr9NKJeXHdOfLc9AghqvVEgcS66zoByNCdw-sgygm9RmFz8kpcivyTgbsyArZsox8QAko8beKNW4K3P7t2aYA6Perk6PSBHRXuGIdH5mVe0Qzi7i8cKpJhFC_G4GO_BR_ioservoXZ6IecBYnnB-v77UQO1rCRcZkhNTKJRPf_LXHJXV1u4doukTVWxRNN4wnvTbdqQKgK3Wy94l9nh1m9styqOsVx7kZPwAtCKH08vcTuiWSMZBcHqKFEBk/4vp/mRaFE-X-SrO3UyW70upRbQ/h18/h001.pmuUXW9YqnLVN3pwgacgcc_f65JlrcRj0ZNrSgKNIkM",
       "sources": [
         "Threadloom"
@@ -551,8 +1003,8 @@
     },
     {
       "id": "g5763",
-      "title": "A Free Way to Listen to Radio and Music in a Tesla",
-      "description": "The discussion concerns a solution for listening to radio and music for free in a Tesla.",
+      "title": "A Free Solution for Listening to Radio and Music in a Tesla",
+      "description": "The discussion focuses on a solution for listening to radio and music for free in a Tesla.",
       "link": "https://www.teslaownersonline.com/threads/free-radio-and-music-for-tesla.39918/?post_id=480288#post-480288",
       "sources": [
         "Threadloom"
@@ -565,7 +1017,7 @@
     {
       "id": "g5764",
       "title": "Can Tesla Referral Codes Offer a Free FSD Trial?",
-      "description": "A discussion examines the terms of a Tesla referral program and whether an FSD trial might be included, particularly when buying a new car.",
+      "description": "A discussion examines the terms and conditions of a Tesla referral program and whether an FSD trial could be included, particularly when purchasing a new car.",
       "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsSBmKT7jqOrNoxs4og5Sz9L2vwm8etBCGdJcC3vMIPUPSA1q2HVfmG1H-sv9B9GWUGMxO6dsrJkzgek0Pfxa4VOsfNfeBf2k9vKR10UPIS9kiYufsvXGDDGLc84gd_whcbcFMS1QFKjmFhGsQY6DonbA2qDhGkxNK0t2KWAuGS183U659bnQJ1L-5XfPKWIY25GpTZTknCx1jpDUReaDjCNEtiUYfY97AzbBhF50gxuhcDfnwyzHsYGY5YMAq1eOsyYwelo0XxSJ73NNBkj1IhNctXaK0KRrJheEME8aIAsNGAkWKccyJb34EbQXBt_0z/4vp/mRaFE-X-SrO3UyW70upRbQ/h34/h001.04BgJlocVjQR8Cp1bvatzVW2MSG_B4w83duHEW7QZWM",
       "sources": [
         "Threadloom"
@@ -577,8 +1029,8 @@
     },
     {
       "id": "g5765",
-      "title": "Can Accessories Prevent Tesla Steering-Wheel Alerts?",
-      "description": "The discussion concerns accessories designed to eliminate reminders asking the driver to keep their hands on the steering wheel. One participant questions their usefulness and the reasons for using them.",
+      "title": "Can Accessories Prevent Tesla Steering Wheel Alerts?",
+      "description": "The discussion concerns accessories designed to eliminate reminders asking the driver to keep their hands on the steering wheel. One participant questions their usefulness and why anyone would want to use them.",
       "link": "https://www.teslaownersonline.com/threads/free-radio-and-music-for-tesla.39918/?post_id=480288#post-480288",
       "sources": [
         "Threadloom"
@@ -591,7 +1043,7 @@
     {
       "id": "g5766",
       "title": "FSD Drives the Wrong Way on a One-Way Street",
-      "description": "An owner says that, in FSD mode, their vehicle takes a one-way street in the wrong direction when leaving their driveway and asks how to fix the problem.",
+      "description": "An owner explains that their vehicle, in FSD mode, takes a one-way street in the wrong direction when leaving their driveway and asks how to fix the problem.",
       "link": "https://www.teslaownersonline.com/threads/fsd-hoing-wrong-way-on-one-way-street.39952/?post_id=480336#post-480336",
       "sources": [
         "Threadloom"
@@ -604,7 +1056,7 @@
     {
       "id": "g5768",
       "title": "Is the 2027 Model Y AWD Standard Limited to 32 A for Charging?",
-      "description": "An owner asks whether the 2027 Model Y Standard AWD has a 32 A onboard charging limit and where to find that information, particularly in the manual.",
+      "description": "An owner asks whether the 2027 Model Y Standard AWD has a 32 A onboard charging limit and where to find this information, particularly in the manual.",
       "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsw9lZGM8yyQeam77vF7TxpH77yUMRYimRG-I28AghvSfaGTNhn4L2-GPBH5ZtDCO0Av99PhWRSiD4A-WKpRtXz0v8I5X3XDKz1j3eAuYmA_yg4VkEinTDtEMMYo5NZ8qqM_YRQTlZL5E-86jfpMQs6Fx2jEyK0fJJ94pPdJJV5BUDTdjEP5Arp47jDCSm6VbWsiPJt9S7BQ1tPf2kC6W0ii8iyvMzvzrGhR_WWtnFDWoSYr-YDx2Awc7RjEmm00ZDoy13BZjiiiJE_H92x93cGdyVXmRR6_iQcQQCEqcvIQbQPoL-XwpAWKzN8XOXz7XB1MJ0f9ppE5KN17dqYgU96JFNPK9qXM1j8RrftPRl97K-7H242sl2SnEehtBJSL9IRltUUWgD3gdB5HcPeSm-Kdeu621YOkMptW010Ba38JI/4vp/mRaFE-X-SrO3UyW70upRbQ/h65/h001.EfgV0IvTnOqwfLSNG8xQS-7RTthA9LqDb1rexUUjmy8",
       "sources": [
         "Threadloom"
@@ -630,7 +1082,7 @@
     {
       "id": "g5770",
       "title": "The Tesla Wall Connector Button Does Not Open the Charge Port",
-      "description": "An owner says the button on their Wall Connector does not open the charge port. The discussion includes the Wall Connector version and its antenna receiver.",
+      "description": "An owner says that the button on their Wall Connector does not open the charge port. The discussion notably concerns the Wall Connector version and its antenna receiver.",
       "link": "https://www.teslaownersonline.com/threads/tesla-wall-connector-button-cannot-open-the-charger-door.39934/?post_id=480272#post-480272",
       "sources": [
         "Threadloom"
@@ -643,7 +1095,7 @@
     {
       "id": "g5771",
       "title": "What Is the Best Charging Power for a Tesla?",
-      "description": "An owner says they charge at 40 A during off-peak hours on a circuit protected by a 50 A breaker to take advantage of a reduced price per kilowatt-hour.",
+      "description": "An owner explains that they charge at 40 A during off-peak hours on a circuit protected by a 50 A breaker in order to benefit from a reduced per-kilowatt-hour rate.",
       "link": "https://www.teslaownersonline.com/threads/best-charge-rate.39926/?post_id=480256#post-480256",
       "sources": [
         "Threadloom"
@@ -654,36 +1106,10 @@
       "followed_topic": null
     },
     {
-      "id": "g5756",
-      "title": "Google unveils Intelligent Eyewear, the successor to Google Glass",
-      "description": "These new smart glasses let users use Gemini in everyday life to ask questions, take photos, and translate conversations. Preorders are open, and deliveries will begin on December 10.",
-      "link": "https://glasses.google/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-13T15:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5757",
-      "title": "U.S. Justice Department investigates Nvidia",
-      "description": "The Justice Department is conducting three investigations involving Nvidia, including an antitrust proceeding and two others targeting Megaspeed and Supermicro. For now, nothing indicates that criminal charges against Nvidia or Jensen Huang are planned.",
+      "title": "U.S. Department of Justice investigates Nvidia",
+      "description": "The Department of Justice is conducting three investigations involving Nvidia, including an antitrust case and two others targeting Megaspeed and Supermicro. For now, nothing indicates that criminal charges against Nvidia or Jensen Huang are planned.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-nvidia-reportedly-face-doj-175845243.html",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-13T15:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5759",
-      "title": "Anthropic launches Fable 5.2 and new workspaces for Claude",
-      "description": "Anthropic has launched Fable 5.2, its model presented as the most powerful to date, along with Claude Sheets, Whiteboard, and Data. These tools offer new ways to work with Claude.",
-      "link": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
       "sources": [
         "Superhuman"
       ],
@@ -721,7 +1147,7 @@
     {
       "id": "g5745",
       "title": "Gartner forecasts more AI-related job creation than job losses",
-      "description": "Gartner forecasts that AI will create 10.6 million jobs and eliminate 8.9 million by 2030, excluding China and India. Five million additional jobs could be deferred as employers delay hiring to assess AI’s impact.",
+      "description": "Gartner forecasts that AI will create 10.6 million jobs and eliminate 8.9 million by 2030, excluding China and India. An additional five million jobs could be deferred as employers delay hiring to assess AI’s impact.",
       "link": "https://www.computerworld.com/article/4247895/ai-related-job-creation-to-outpace-losses-by-2030-says-gartner.html",
       "sources": [
         "TLDR IT"
@@ -734,7 +1160,7 @@
     {
       "id": "g5746",
       "title": "The B2A economy puts AI agents at the center of business interactions",
-      "description": "AI agents are driving a platform shift from answering questions to executing complex tasks for users, creating a new “B2A” (Business-to-Agent) economy. Companies that treat agents as priority customers could boost growth, while AI-referred traffic already shows higher engagement and conversion in several industries.",
+      "description": "AI agents are driving a platform shift from providing answers to executing complex tasks for users, creating a new “B2A” (Business-to-Agent) economy. Companies that treat agents as priority customers could boost growth, while AI-referred traffic is already showing higher engagement and conversion across several sectors.",
       "link": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
       "sources": [
         "TLDR IT"
@@ -746,8 +1172,8 @@
     },
     {
       "id": "g5747",
-      "title": "Claris Harbor aims to turn fleets of Macs into local AI servers",
-      "description": "Apple subsidiary Claris has introduced Harbor, a project designed to turn Macs equipped with Apple Silicon chips into private AI servers. The product could appeal to companies seeking to keep control of their AI workloads locally, but details remain limited.",
+      "title": "Claris Harbor aims to turn Mac fleets into local AI servers",
+      "description": "Apple subsidiary Claris has introduced Harbor, a project aimed at turning Macs equipped with Apple Silicon chips into private AI servers. The product could appeal to companies seeking to keep control of their AI workloads locally, but details remain limited.",
       "link": "https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html",
       "sources": [
         "TLDR IT"
@@ -759,8 +1185,8 @@
     },
     {
       "id": "g5748",
-      "title": "Databricks unveils Genie, an autonomous agent for complex enterprise tasks",
-      "description": "Databricks has introduced Genie, an autonomous AI colleague capable of handling long-running tasks, coordinating multiple applications, and following organizational rules. Its components provide shared business context, searches across multiple sources, specialized expertise, and governance of tools, permissions, approvals, and spending.",
+      "title": "Databricks introduces Genie, an autonomous agent for complex enterprise tasks",
+      "description": "Databricks has introduced Genie, an autonomous AI colleague capable of handling lengthy tasks, coordinating multiple applications, and following organizational rules. Its components provide shared business context, searches combining multiple sources, specialized expertise, and governance for tools, permissions, approvals, and spending.",
       "link": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
       "sources": [
         "TLDR IT"
@@ -771,9 +1197,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5749",
-      "title": "Gemini comes to Apple CarPlay worldwide",
-      "description": "Google is rolling out the Gemini app on Apple CarPlay worldwide, allowing iOS users to interact with Gemini Live from their car’s screen. They can prepare for meetings, review briefings and emails, discover local places, and use Gemini to brainstorm or rehearse a presentation.",
+      "id": "g5632",
+      "title": "Gemini Comes to Apple CarPlay Worldwide",
+      "description": "Google is rolling out the Gemini app on Apple CarPlay worldwide, allowing iOS users to interact with Gemini Live from their car’s display. They can prepare for meetings, review briefings and emails, discover local places, and use Gemini to brainstorm or rehearse a presentation.",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
       "sources": [
         "TLDR IT"
@@ -785,8 +1211,8 @@
     },
     {
       "id": "g5750",
-      "title": "Open standards should simplify the development of interoperable AI agents",
-      "description": "Anthropic’s donation of the Model Context Protocol and Agent Skills to the Linux Foundation’s Agentic AI Foundation establishes complementary standards to limit fragmentation in AI agent ecosystems. MCP standardizes real-time connections to tools and data, while Agent Skills progressively loads the procedural knowledge needed.",
+      "title": "Open standards aim to simplify the development of interoperable AI agents",
+      "description": "Anthropic’s donation of the Model Context Protocol and Agent Skills to the Linux Foundation’s Agentic AI Foundation establishes complementary standards to limit fragmentation in AI-agent ecosystems. MCP standardizes real-time connections to tools and data, while Agent Skills progressively loads the procedural knowledge required.",
       "link": "https://opensource.googleblog.com/2026/11/scaling-ai-agents-open-standards-mcp-aaif.html",
       "sources": [
         "TLDR IT"
@@ -812,7 +1238,7 @@
     {
       "id": "g5753",
       "title": "Cognitive science helps developers code better with AI",
-      "description": "Although AI assistants accelerate code generation, developers can rely on cognitive science principles to preserve their understanding and verify results. The article cites the default mode network, spaced repetition, working-memory retrieval, and scientific debugging.",
+      "description": "Although AI assistants accelerate code generation, developers can rely on cognitive-science principles to preserve their understanding and verify results. The article cites the default mode network, spaced repetition, working-memory retrieval, and scientific debugging.",
       "link": "https://tech.criteo.com/blog/cognitive-science-software-developers-ai/",
       "sources": [
         "TLDR IT"
@@ -836,19 +1262,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5718",
-      "title": "Gemini 4 Hydrogen surpasses Google’s flagship model",
-      "description": "Google DeepMind has announced Gemini 4 Hydrogen, a fast model designed for coding and agents that outperforms Gemini 4 Argon on the Artificial Analysis index while costing less. It is available for free in the Gemini app and Google Search.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-13T13:50+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5719",
       "title": "AgentRun adds memory and self-improvement to open-source AI agents",
       "description": "GREP.AI has released AgentRun under the Apache-2.0 license to add memory, crash recovery, and guardrails to agents such as Claude Code, Codex, and OpenCode. With learning enabled, agents can retain notes, skills, and procedures after their missions.",
@@ -863,7 +1276,7 @@
     },
     {
       "id": "g5418",
-      "title": "AI agents mistakenly credited a previously known Maya site as a new discovery",
+      "title": "AI agents wrongly claimed credit for a previously known Maya site",
       "description": "A team of AI agents analyzed satellite images of Mexico and presented as new a Maya site that had already been identified and published the previous year. Archaeologists criticized the announcements for ignoring scientific literature and local knowledge.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "sources": [
@@ -889,8 +1302,8 @@
     },
     {
       "id": "g5723",
-      "title": "A cosmological model estimates the age of the universe at 26.7 billion years",
-      "description": "A model proposed by Rajendra Gupta assumes that physical constants evolve slowly and that light loses energy as it travels. It would put the age of the universe at 26.7 billion years, but remains highly marginal and still needs independent verification.",
+      "title": "A cosmological model estimates the universe is 26.7 billion years old",
+      "description": "A model proposed by Rajendra Gupta assumes that physical constants evolve slowly and that light loses energy as it travels. It would put the age of the universe at 26.7 billion years, but remains highly marginal and still requires independent verification.",
       "link": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
       "sources": [
         "Vision IA"
@@ -903,21 +1316,8 @@
     {
       "id": "g5726",
       "title": "Phota Labs automatically turns photos into professional-looking shots",
-      "description": "This iOS app, created by two former Adobe employees, scans the camera roll and suggests edited versions of photos. It learns people’s faces to avoid distorting them and adds an invisible watermark to edited images.",
+      "description": "This iOS app, created by two former Adobe employees, scans the camera roll and suggests retouched versions of photos. It learns people’s faces to avoid distorting them and adds an invisible watermark to edited images.",
       "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-13T13:50+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5727",
-      "title": "Meta’s Muse agent can call businesses on your behalf",
-      "description": "Muse can now call an insurer, government agency, or restaurant on the user’s behalf. The feature is limited to paying subscribers in the United States, starting at $20 per month.",
-      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "sources": [
         "Vision IA"
       ],
@@ -942,7 +1342,7 @@
     {
       "id": "g5729",
       "title": "Nectar automates influencer recruitment for brands",
-      "description": "Nectar’s Creator Agent analyzes more than 300 million profiles, their videos, and partnerships to select and contact creators. It also manages contracts, product shipments, and personalized gifts.",
+      "description": "Nectar’s Creator Agent analyzes more than 300 million profiles, their videos, and partnerships to select and contact creators. It also handles contracts, product shipments, and personalized gifts.",
       "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "sources": [
         "Vision IA"
@@ -953,22 +1353,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5730",
-      "title": "Google strengthens the privacy protections of its smart glasses",
-      "description": "Google’s glasses equipped with a camera and Gemini display an LED indicator during every capture. If the indicator is covered, photo and video recording is blocked.",
-      "link": "https://www.engadget.com/2314414/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-13T13:50+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5732",
-      "title": "Chinese models appear to bear the fingerprint of Nvidia Blackwell chips",
-      "description": "An analysis of the weights of six Chinese models detected digital traces associated with Nvidia Blackwell chips, which are banned from export to China. The study does not specify where the chips were located or how they may have been obtained.",
+      "title": "Chinese models appear to carry the signature of Nvidia Blackwell chips",
+      "description": "An analysis of the weights of six Chinese models detected digital traces associated with Nvidia Blackwell chips, which are prohibited from being exported to China. The study does not specify where the chips were located or how they may have been obtained.",
       "link": "https://unemploymentlabs.com/checkpoint-forensics",
       "sources": [
         "Vision IA"
@@ -981,7 +1368,7 @@
     {
       "id": "g5733",
       "title": "Free Chinese AI models can now hack businesses",
-      "description": "According to Israeli startup Tenzai, freely downloadable Chinese models are capable enough to break into corporate networks. Artificial Analysis simultaneously observes that advances in the most advanced models are becoming increasingly expensive.",
+      "description": "According to Israeli startup Tenzai, freely downloadable Chinese models are capable enough to break into corporate networks. Artificial Analysis is simultaneously observing that progress in the most advanced models is becoming increasingly expensive.",
       "link": "https://www.theinformation.com/newsletters/applied-ai/free-chinese-ai-can-hack-companies-frontier-developers-face-diminishing-returns",
       "sources": [
         "Vision IA"
@@ -994,7 +1381,7 @@
     {
       "id": "g5734",
       "title": "Trump proposes Tim Cook to replace Jensen Huang at Nvidia",
-      "description": "Donald Trump proposed Tim Cook as Jensen Huang’s successor at the helm of Nvidia. The former Apple executive remains executive chairman of Apple’s board after handing the CEO role to John Ternus.",
+      "description": "Donald Trump proposed Tim Cook as Jensen Huang’s successor at Nvidia. The former Apple executive remains executive chairman of Apple’s board after handing over the CEO role to John Ternus.",
       "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
       "sources": [
         "Vision IA"
@@ -1006,7 +1393,7 @@
     },
     {
       "id": "g5736",
-      "title": "Australia wants to require independent audits of frontier AI",
+      "title": "Australia wants to require independent audits of cutting-edge AI",
       "description": "The Australian government is proposing mandatory safety rules for companies developing the most advanced models. A regulator could have these models audited by independent experts and impose penalties.",
       "link": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
       "sources": [
@@ -1020,7 +1407,7 @@
     {
       "id": "g5737",
       "title": "Nvidia reportedly confirmed that its AI chips can be geolocated",
-      "description": "Nvidia representatives reportedly said privately that it was technically possible to geolocate its AI chips, as provided for by the Chip Security Act. The U.S. Senate is considering incorporating the bill into its defense budget.",
+      "description": "Nvidia representatives reportedly said privately that it is technically possible to geolocate its AI chips, as provided for by the Chip Security Act. The U.S. Senate is considering incorporating the bill into its defense budget.",
       "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "sources": [
         "Vision IA"
@@ -1032,7 +1419,7 @@
     },
     {
       "id": "g5738",
-      "title": "U.S. senator wants Chinese memory maker CXMT blacklisted",
+      "title": "U.S. senator seeks to blacklist memory maker CXMT",
       "description": "Senator Tom Cotton is calling for CXMT to be placed on the Commerce Department’s blacklist, which would limit its access to U.S. technologies. The Chinese manufacturer grew from 4% to 10% of the global DRAM market in one year and is developing HBM chips.",
       "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
       "sources": [
@@ -1045,8 +1432,8 @@
     },
     {
       "id": "g5739",
-      "title": "Colette Kress tries to limit Nvidia’s risky bets",
-      "description": "CFO Colette Kress is serving as interim head of Nvidia following Jensen Huang’s departure. According to people close to her, she did not lead major decisions, and Huang often prevailed in disagreements.",
+      "title": "Colette Kress seeks to rein in Nvidia’s risky bets",
+      "description": "CFO Colette Kress is serving as interim head of Nvidia following Jensen Huang’s departure. According to people close to her, she did not lead major decisions, and Huang often prevailed when they disagreed.",
       "link": "https://www.theinformation.com/articles/interim-nvidia-ceo-colette-kress-tried-tame-nvidias-riskiest-bets",
       "sources": [
         "Vision IA"
@@ -1059,7 +1446,7 @@
     {
       "id": "g5740",
       "title": "Jensen Huang’s departure could affect Asian manufacturers",
-      "description": "Analysts do not expect a short-term disruption with TSMC, Samsung, or SK Hynix. The main uncertainties concern the long-term product roadmap, which Huang managed directly.",
+      "description": "Analysts do not expect a short-term disruption involving TSMC, Samsung, or SK Hynix. The main uncertainties concern the long-term product roadmap, which Huang managed directly.",
       "link": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html",
       "sources": [
         "Vision IA"
@@ -1071,8 +1458,8 @@
     },
     {
       "id": "g5704",
-      "title": "Chinese laboratories accelerate development of innovative medicines",
-      "description": "Chinese pharmaceutical companies account for at least one-third of innovative drugs in development worldwide and conduct more clinical trials than any other country. They rely primarily on partnerships with Western companies for final development and overseas commercialization.",
+      "title": "Chinese laboratories accelerate development of innovative drugs",
+      "description": "Chinese pharmaceutical companies account for at least one-third of innovative drugs in development worldwide and conduct more clinical trials than any other country. They rely mainly on partnerships with Western companies for final development and overseas commercialization.",
       "link": "https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s",
       "sources": [
         "TLDR"
@@ -1084,8 +1471,8 @@
     },
     {
       "id": "g5705",
-      "title": "Messenger RNA technology opens a new medical chapter",
-      "description": "Messenger RNA technology could produce hundreds of new treatments for various diseases. It can notably create a vaccine against any pathogen in six to eight weeks and could transform treatments for infectious diseases, rare diseases, and cancer.",
+      "title": "mRNA technology opens a new medical chapter",
+      "description": "mRNA technology could produce hundreds of new treatments for various diseases. It can create a vaccine against any pathogen in six to eight weeks and could transform treatments for infectious diseases, rare diseases, and cancer.",
       "link": "https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/",
       "sources": [
         "TLDR"
@@ -1097,8 +1484,8 @@
     },
     {
       "id": "g5706",
-      "title": "AI-generated “slop” is shifting toward design choices",
-      "description": "AI produces significantly less mediocre content, but it has not disappeared. It now appears in design decisions, particularly through poor anticipation of how code will be used and limited reuse of existing libraries.",
+      "title": "AI-generated “slop” is shifting into design choices",
+      "description": "AI produces significantly less mediocre content, but it has not disappeared. It now manifests itself in design decisions, particularly poor anticipation of how code will be used and limited reuse of existing libraries.",
       "link": "https://gabeorlanski.github.io/posts/slop-moves-up/",
       "sources": [
         "TLDR"
@@ -1111,7 +1498,7 @@
     {
       "id": "g5707",
       "title": "Ideas once considered bad are becoming relevant again",
-      "description": "Professional experience gives leaders useful intuitions, but some of them deserve to be reconsidered. Changes in context can make ideas previously considered bad relevant again.",
+      "description": "Professional experience develops useful intuitions for leaders, but some of them deserve to be reconsidered. Changing circumstances can make ideas once considered bad relevant again.",
       "link": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
       "sources": [
         "TLDR"
@@ -1124,21 +1511,8 @@
     {
       "id": "g5708",
       "title": "Employees at AI companies should unionize",
-      "description": "Employees concerned about safety at AI companies could unionize to influence their employers. A union could defend their protections, demand greater transparency, and maintain an independent voice alongside companies’ commitments.",
+      "description": "Safety-conscious employees at AI companies could unionize to gain leverage over their employers. A union could defend their protections, demand greater transparency, and maintain an independent voice in the face of corporate commitments.",
       "link": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-13T13:09+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5709",
-      "title": "Google launches Gemini smart glasses starting at $395",
-      "description": "Google has partnered with Samsung, Gentle Monster, and Warby Parker to create glasses equipped with Gemini. They include a camera and personalized features, along with measures designed to limit intrusive uses.",
-      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "sources": [
         "TLDR"
       ],
@@ -1163,7 +1537,7 @@
     {
       "id": "g5711",
       "title": "Age differences influence the acceleration of AI",
-      "description": "Younger people may be less concerned about AI’s ability to extend life. Older people, with less time remaining, have greater incentives to accelerate its development.",
+      "description": "Younger people may be less concerned about AI’s ability to extend life. Older people, with less time remaining, have a stronger incentive to accelerate its development.",
       "link": "https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html",
       "sources": [
         "TLDR"
@@ -1202,7 +1576,7 @@
     {
       "id": "g5714",
       "title": "Rust 1.100.0 introduces the never type and new APIs",
-      "description": "The stable Rust 1.100.0 release introduces the never type, the Allocator and DropGuard APIs, and zero-type generation, among other features.",
+      "description": "The stable Rust 1.100.0 release notably adds the never type, the Allocator and DropGuard APIs, and zero-sized type generation.",
       "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
       "sources": [
         "TLDR"
@@ -1214,7 +1588,7 @@
     },
     {
       "id": "g5699",
-      "title": "Companies split over AI agents’ access to commerce",
+      "title": "Companies are divided over AI agents’ access to commerce",
       "description": "Amazon, Booking.com, eBay, Target, Resy, Yelp, and other companies are taking different approaches to third-party agents, ranging from blocking them to approving certain platforms. Companies will therefore choose where and how they participate in the agentic web.",
       "link": "https://www.booking.com/",
       "sources": [
@@ -1228,7 +1602,7 @@
     {
       "id": "g5700",
       "title": "Visa reveals a high failure rate for agent-driven purchases",
-      "description": "Visa’s benchmark found that 42.8% of agent-driven purchasing journeys failed, although some failures still resulted in purchases. Product discovery should therefore not automatically give an agent the power to spend.",
+      "description": "Visa’s benchmark found that 42.8% of agent-driven shopping journeys failed, although some failures still resulted in purchases. Product discovery should therefore not automatically give an agent the power to spend.",
       "link": "https://investor.visa.com/news/news-details/2026/Visa-Releases-First-of-Its-Kind-Industry-Benchmark-for-AI-Shopping-Almost-Half-of-Test-Runs-Fail/default.aspx",
       "sources": [
         "Intelligence Newsletter"
@@ -1240,7 +1614,7 @@
     },
     {
       "id": "g5691",
-      "title": "AI reveals that customer loyalty sometimes relied on friction",
+      "title": "AI reveals that customer loyalty was sometimes built on friction",
       "description": "AI agents can compare prices, terms, and products every day, threatening loyalty based on customer inertia. Companies must strengthen the value, trust, and experience that remain when comparison becomes easy.",
       "link": "https://pascalbornet.substack.com/p/irreplaceable-with-ai-251?triedRedirect=true",
       "sources": [
@@ -1254,7 +1628,7 @@
     {
       "id": "g5692",
       "title": "AI agents are becoming a new distribution channel",
-      "description": "According to McKinsey, large language models can compare far more financial providers than customers previously did. AI removes the friction that protected established players and makes their true loyalty more visible.",
+      "description": "According to McKinsey, large language models can compare far more financial providers than customers previously could. AI removes the friction that protected established players and makes their true loyalty more visible.",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
       "sources": [
         "Pascal Bornet"
@@ -1280,7 +1654,7 @@
     {
       "id": "g5696",
       "title": "Companies are adopting different strategies toward AI agents",
-      "description": "Retailers, airlines, and platforms are beginning to decide which third-party agents they will accept, limit, or block. This is becoming a strategic choice that determines who can participate in customers’ decisions.",
+      "description": "Retailers, airlines, and platforms are beginning to decide which third-party agents they will accept, limit, or block. This issue is becoming a strategic choice that determines who can participate in customer decisions.",
       "link": null,
       "sources": [
         "Pascal Bornet"
@@ -1577,19 +1951,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5662",
-      "title": "Google Prepares Gemini Glasses with Translation in More Than 70 Languages",
-      "description": "Google announced Gemini glasses from Warby Parker and Gentle Monster offering hands-free navigation and translation in more than 70 languages. They will be sold starting at $395 in the United States and South Korea, with in-store availability beginning December 10.",
-      "link": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-13T11:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5664",
       "title": "Yogurt Summarizes Calls Without Sending a Bot to the Meeting",
       "description": "Yogurt records calls without having a bot join the meeting, then produces a free summary with next steps assigned to each person. The project is presented as free and open source.",
@@ -1702,32 +2063,6 @@
         "TechnologyAdvice"
       ],
       "received_at": "2026-11-13T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5644",
-      "title": "Part 5: Automating repetitive tasks with AI",
-      "description": "The final part of the playbook explains how to document your system, connect beehiiv to AI, and automate recurring tasks. It also shows how to turn the most engaged readers into customers and build a prompt library.",
-      "link": "https://link.mail.beehiiv.com/v2/c/0e8f639716a19ad1b5600e3e40e94b2e3c23eca0953fb809e6cd2b11a18094e916b379a8fdf78db387bac7326c86ac326d995a8eb3b3a40a9ab28fe78582755bf44e7416c0f8318262971a0ce425805f0894c45a45e5c735d352fbcd092cb84db95c9bffca3b21b9769073242492b094511a7c89a65b801318c396bbdef9cc61b1b927bab8d4feb08238892cf3facf551f0dacb5c44160ab8df07cbd81a2e62a/17292e56ca06e27d",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-12T19:32+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5645",
-      "title": "Guide: Creating a B2B newsletter that generates leads",
-      "description": "This guide explains how to write for an ideal customer, use your newsletter as a CRM, and measure leads rather than just opens.",
-      "link": "https://app.thecentral.ai/item/35b656dd-7b67-80ff-bf2c-d8288d99efe9",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-12T19:32+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
