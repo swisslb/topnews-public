@@ -3,21 +3,9 @@
 <channel>
   <title>NewsCenter — All newsletter news — 2026-11-14</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>Every news received through Laurent's newsletters over the last 24 hours. 157 news received.</description>
+  <description>Every news received through Laurent's newsletters over the last 24 hours. 98 news received.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 14 Nov 2026 05:25:25 GMT</lastBuildDate>
-  <item>
-    <title>Jensen Huang Resigns as Head of Nvidia</title>
-    <link>https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-14:g5610</guid>
-    <description>Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.</description>
-    <pubDate>Sat, 14 Nov 2026 00:24:00 GMT</pubDate>
-    <category>AppleInsider</category>
-    <category>Vision IA</category>
-    <category>TLDR</category>
-    <category>Business Insider</category>
-    <category>The Neuron</category>
-  </item>
+  <lastBuildDate>Sat, 14 Nov 2026 12:25:09 GMT</lastBuildDate>
   <item>
     <title>A Global Microsoft 365 Outage Affects Outlook and Teams</title>
     <link>https://www.business-standard.com/technology/tech-news/microsoft-365-outage-continues-as-company-sees-limited-recovery-in-services-126111300464_1.html</link>
@@ -27,7 +15,6 @@
     <category>Techpresso</category>
     <category>TLDR IT</category>
     <category>Vision IA</category>
-    <category>TLDR</category>
   </item>
   <item>
     <title>Google Launches Gemini 4 Hydrogen for Coding Assistants</title>
@@ -38,7 +25,6 @@
     <category>Techpresso</category>
     <category>Superhuman</category>
     <category>Vision IA</category>
-    <category>The Neuron</category>
   </item>
   <item>
     <title>Tesla and SpaceX Merger Talks Reach a New Stage</title>
@@ -48,28 +34,6 @@
     <pubDate>Fri, 13 Nov 2026 17:45:00 GMT</pubDate>
     <category>Techpresso</category>
     <category>Vision IA</category>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Google Unveils Intelligent Eyewear, the Successor to Google Glass</title>
-    <link>https://glasses.google/</link>
-    <guid isPermaLink="false">2026-11-14:g5662</guid>
-    <description>These new smart glasses let users use Gemini in everyday life to ask questions, take photos and translate conversations. Preorders are open, and deliveries will begin on December 10.</description>
-    <pubDate>Fri, 13 Nov 2026 14:09:00 GMT</pubDate>
-    <category>Superhuman</category>
-    <category>Vision IA</category>
-    <category>TLDR</category>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>United Airlines Blocks Unauthorized Personal AI Agents</title>
-    <link>https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html</link>
-    <guid isPermaLink="false">2026-11-14:g5510</guid>
-    <description>United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.</description>
-    <pubDate>Fri, 13 Nov 2026 13:51:00 GMT</pubDate>
-    <category>TLDR IT</category>
-    <category>Intelligence Newsletter</category>
-    <category>Pascal Bornet</category>
   </item>
   <item>
     <title>Chinese Supplier Confirms Its Involvement in Unreleased Apple Products</title>
@@ -86,6 +50,15 @@
     <description>A new report claims that the iPad Air with an OLED display will arrive in early 2027. It is not expected to support ProMotion.</description>
     <pubDate>Sat, 14 Nov 2026 00:24:00 GMT</pubDate>
     <category>AppleInsider</category>
+  </item>
+  <item>
+    <title>Jensen Huang Resigns as Head of Nvidia</title>
+    <link>https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
+    <guid isPermaLink="false">2026-11-14:g5610</guid>
+    <description>Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.</description>
+    <pubDate>Sat, 14 Nov 2026 00:24:00 GMT</pubDate>
+    <category>AppleInsider</category>
+    <category>Vision IA</category>
   </item>
   <item>
     <title>Government-Grade Spyware Is Now Targeting iPhones</title>
@@ -195,6 +168,15 @@
     <category>Vision IA</category>
   </item>
   <item>
+    <title>Google Unveils Intelligent Eyewear, the Successor to Google Glass</title>
+    <link>https://glasses.google/</link>
+    <guid isPermaLink="false">2026-11-14:g5662</guid>
+    <description>These new smart glasses let users use Gemini in everyday life to ask questions, take photos and translate conversations. Preorders are open, and deliveries will begin on December 10.</description>
+    <pubDate>Fri, 13 Nov 2026 14:09:00 GMT</pubDate>
+    <category>Superhuman</category>
+    <category>Vision IA</category>
+  </item>
+  <item>
     <title>Wispr Flow Turns Voice Dictation Into Polished Text Across All Apps</title>
     <link>https://wisprflow.ai/&amp;dub_id=lhc4Q7ynvJEaySQ5&amp;shad=1</link>
     <guid isPermaLink="false">2026-11-14:g5758</guid>
@@ -241,102 +223,6 @@
     <description>The AI chipmaker exceeded quarterly expectations and signed a deal with Microsoft, which joins Amazon and Oracle among its cloud customers. The announcement supports alternatives to Nvidia, despite the stock still being down nearly half since its IPO.</description>
     <pubDate>Fri, 13 Nov 2026 12:50:00 GMT</pubDate>
     <category>Vision IA</category>
-  </item>
-  <item>
-    <title>OpenAI Creates an Official Business Space in ChatGPT</title>
-    <link>https://openai.com/index/introducing-businesses-chatgpt/</link>
-    <guid isPermaLink="false">2026-11-14:g5362</guid>
-    <description>Businesses can now claim their presence in ChatGPT, update their information and publish Business Agents that customers can interact with. ChatGPT is thus evolving from a descriptive tool into a distribution channel for businesses.</description>
-    <pubDate>Fri, 13 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Intelligence Newsletter</category>
-  </item>
-  <item>
-    <title>AI Assistants Become the Upstream Interface for Banking Services</title>
-    <link>https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review</link>
-    <guid isPermaLink="false">2026-11-14:g5701</guid>
-    <description>According to McKinsey, 74% of consumers who use AI for banking tasks rely on general-purpose assistants such as ChatGPT, Claude or Gemini. Customers can therefore make a decision before even entering a bank’s environment.</description>
-    <pubDate>Fri, 13 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Intelligence Newsletter</category>
-  </item>
-  <item>
-    <title>ChatGPT Becomes a New Gateway to Businesses</title>
-    <link>https://openai.com/index/introducing-businesses-chatgpt/</link>
-    <guid isPermaLink="false">2026-11-14:g5693</guid>
-    <description>OpenAI has launched Businesses in ChatGPT, allowing companies to manage their presence, product information and customer interactions in ChatGPT. Customer acquisition is therefore beginning to move outside channels controlled by businesses.</description>
-    <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
-    <category>Pascal Bornet</category>
-  </item>
-  <item>
-    <title>Huang’s Departure Alarms Investors Across the AI Sector</title>
-    <link>https://www.businessinsider.com/jensen-huang-resigns-nvidia-implications-for-ai-trade-tech-stocks-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5676</guid>
-    <description>The Nvidia leader’s resignation is weakening the company’s stock and raising fears of repercussions for companies across the artificial intelligence industry.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Huang’s Departure Could Change the Outlook for Anthropic’s IPO</title>
-    <link>https://www.businessinsider.com/jensen-huang-fall-could-reshape-anthropic-ipo-ai-chip-race-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5679</guid>
-    <description>Nvidia’s planned $10 billion investment could be reassessed, while future chip deals could slow. The departure could also strengthen Anthropic’s position in Washington and its chip-diversification strategy.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>OpenAI Security Officials Tricked by Fake Russian Agents</title>
-    <link>https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/</link>
-    <guid isPermaLink="false">2026-11-14:g5653</guid>
-    <description>Three senior OpenAI national security officials spent 17 minutes on a video call with Russian scammers posing as Ukraine’s intelligence chief. OpenAI has opened an investigation and taken steps to prevent a recurrence.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Groups Call for a Freeze on New AI Models</title>
-    <link>https://apnews.com/article/03ece37b96979fe834f60976648504ba</link>
-    <guid isPermaLink="false">2026-11-14:g5655</guid>
-    <description>Four nonprofit organizations asked a San Francisco judge to halt new frontier models from Anthropic, Google, Meta, OpenAI and SpaceXSI.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>OpenAI Reportedly Supports Bills Restricting China’s Access to AI Chips</title>
-    <link>https://news.bloomberglaw.com/tech-and-telecom-law/openai-joins-groundswell-of-support-for-ai-chip-control-measures</link>
-    <guid isPermaLink="false">2026-11-14:g5656</guid>
-    <description>OpenAI reportedly told lawmakers it would support bipartisan bills restricting China’s access to artificial intelligence chips and semiconductor manufacturing equipment.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Anthropic’s IPO Reportedly Six Times Oversubscribed</title>
-    <link>https://x.com/kimmonismus/status/2120851923335004279</link>
-    <guid isPermaLink="false">2026-11-14:g5657</guid>
-    <description>Anthropic’s IPO reportedly attracted about six times more demand than the number of shares offered. During its roadshow, the company also said Claude had been ported to AMD GPUs in three days, compared with several months previously.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>SpaceX Announces $74 Billion in AI Computing Sites</title>
-    <link>https://news.bloomberglaw.com/tech-and-telecom-law/spacex-plans-74-billion-data-center-projects-in-arizona-texas</link>
-    <guid isPermaLink="false">2026-11-14:g5660</guid>
-    <description>SpaceX announced $74 billion in investments in AI-dedicated computing sites, including a $50 billion site in Arizona and a $24 billion gas-powered complex near Starbase.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>ChatGPT’s Personal Agents Now Support Custom Instructions</title>
-    <link>https://x.com/ChatGPT/status/2120970988796170275</link>
-    <guid isPermaLink="false">2026-11-14:g5663</guid>
-    <description>ChatGPT’s personal agents can now follow custom instructions, such as writing only in lowercase or displaying a draft before sending an email.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Could the Touchscreen MacBook Pro Replace the M5 iPad Pro?</title>
-    <link>https://www.techrepublic.com/article/news-touchscreen-macbook-pro-vs-ipad-pro-m5-replacement/</link>
-    <guid isPermaLink="false">2026-11-14:g5650</guid>
-    <description>The touchscreen MacBook Pro supports macOS apps and offers substantial memory and storage, but it does not work with the Apple Pencil. It starts at $2,899, compared with $999 for the M5 iPad Pro.</description>
-    <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
   </item>
   <item>
     <title>FAA Lifts National Ground Stop After Nearly 5,000 Flights Are Canceled</title>
@@ -763,6 +649,14 @@
     <category>TLDR IT</category>
   </item>
   <item>
+    <title>United Airlines Blocks Unauthorized Personal AI Agents</title>
+    <link>https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html</link>
+    <guid isPermaLink="false">2026-11-14:g5510</guid>
+    <description>United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.</description>
+    <pubDate>Fri, 13 Nov 2026 13:51:00 GMT</pubDate>
+    <category>TLDR IT</category>
+  </item>
+  <item>
     <title>AWS Cloud WAN now supports flow logs</title>
     <link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/</link>
     <guid isPermaLink="false">2026-11-14:g5752</guid>
@@ -905,382 +799,6 @@
     <description>Analysts do not expect a short-term disruption involving TSMC, Samsung, or SK Hynix. The main uncertainties concern the long-term product roadmap, which Huang managed directly.</description>
     <pubDate>Fri, 13 Nov 2026 12:50:00 GMT</pubDate>
     <category>Vision IA</category>
-  </item>
-  <item>
-    <title>Chinese laboratories accelerate development of innovative drugs</title>
-    <link>https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s</link>
-    <guid isPermaLink="false">2026-11-14:g5704</guid>
-    <description>Chinese pharmaceutical companies account for at least one-third of innovative drugs in development worldwide and conduct more clinical trials than any other country. They rely mainly on partnerships with Western companies for final development and overseas commercialization.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>mRNA technology opens a new medical chapter</title>
-    <link>https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/</link>
-    <guid isPermaLink="false">2026-11-14:g5705</guid>
-    <description>mRNA technology could produce hundreds of new treatments for various diseases. It can create a vaccine against any pathogen in six to eight weeks and could transform treatments for infectious diseases, rare diseases, and cancer.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>AI-generated “slop” is shifting into design choices</title>
-    <link>https://gabeorlanski.github.io/posts/slop-moves-up/</link>
-    <guid isPermaLink="false">2026-11-14:g5706</guid>
-    <description>AI produces significantly less mediocre content, but it has not disappeared. It now manifests itself in design decisions, particularly poor anticipation of how code will be used and limited reuse of existing libraries.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Ideas once considered bad are becoming relevant again</title>
-    <link>https://devonestes.com/bad-ideas-that-arent-bad-anymore</link>
-    <guid isPermaLink="false">2026-11-14:g5707</guid>
-    <description>Professional experience develops useful intuitions for leaders, but some of them deserve to be reconsidered. Changing circumstances can make ideas once considered bad relevant again.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Employees at AI companies should unionize</title>
-    <link>https://www.astralcodexten.com/p/ai-company-employees-should-unionize</link>
-    <guid isPermaLink="false">2026-11-14:g5708</guid>
-    <description>Safety-conscious employees at AI companies could unionize to gain leverage over their employers. A union could defend their protections, demand greater transparency, and maintain an independent voice in the face of corporate commitments.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>China could have ten times more electricity than the United States</title>
-    <link>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</link>
-    <guid isPermaLink="false">2026-11-14:g5710</guid>
-    <description>If current trends continue, China will have ten times more electricity than the United States in ten years.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Age differences influence the acceleration of AI</title>
-    <link>https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html</link>
-    <guid isPermaLink="false">2026-11-14:g5711</guid>
-    <description>Younger people may be less concerned about AI’s ability to extend life. Older people, with less time remaining, have a stronger incentive to accelerate its development.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Incident.io details its AI-related spending</title>
-    <link>https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/</link>
-    <guid isPermaLink="false">2026-11-14:g5712</guid>
-    <description>Incident.io’s “effort point” concept is used to analyze AI-related spending.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Trump mentions Tim Cook as a successor to Jensen Huang</title>
-    <link>https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/</link>
-    <guid isPermaLink="false">2026-11-14:g5713</guid>
-    <description>Donald Trump mentioned Apple CEO Tim Cook as a possible successor to Jensen Huang at the helm of Nvidia. The article highlights his experience succeeding an iconic founder.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Rust 1.100.0 introduces the never type and new APIs</title>
-    <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
-    <guid isPermaLink="false">2026-11-14:g5714</guid>
-    <description>The stable Rust 1.100.0 release notably adds the never type, the Allocator and DropGuard APIs, and zero-sized type generation.</description>
-    <pubDate>Fri, 13 Nov 2026 12:09:00 GMT</pubDate>
-    <category>TLDR</category>
-  </item>
-  <item>
-    <title>Companies are divided over AI agents’ access to commerce</title>
-    <link>https://www.booking.com/</link>
-    <guid isPermaLink="false">2026-11-14:g5699</guid>
-    <description>Amazon, Booking.com, eBay, Target, Resy, Yelp, and other companies are taking different approaches to third-party agents, ranging from blocking them to approving certain platforms. Companies will therefore choose where and how they participate in the agentic web.</description>
-    <pubDate>Fri, 13 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Intelligence Newsletter</category>
-  </item>
-  <item>
-    <title>Visa reveals a high failure rate for agent-driven purchases</title>
-    <link>https://investor.visa.com/news/news-details/2026/Visa-Releases-First-of-Its-Kind-Industry-Benchmark-for-AI-Shopping-Almost-Half-of-Test-Runs-Fail/default.aspx</link>
-    <guid isPermaLink="false">2026-11-14:g5700</guid>
-    <description>Visa’s benchmark found that 42.8% of agent-driven shopping journeys failed, although some failures still resulted in purchases. Product discovery should therefore not automatically give an agent the power to spend.</description>
-    <pubDate>Fri, 13 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Intelligence Newsletter</category>
-  </item>
-  <item>
-    <title>AI reveals that customer loyalty was sometimes built on friction</title>
-    <link>https://pascalbornet.substack.com/p/irreplaceable-with-ai-251?triedRedirect=true</link>
-    <guid isPermaLink="false">2026-11-14:g5691</guid>
-    <description>AI agents can compare prices, terms, and products every day, threatening loyalty based on customer inertia. Companies must strengthen the value, trust, and experience that remain when comparison becomes easy.</description>
-    <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
-    <category>Pascal Bornet</category>
-  </item>
-  <item>
-    <title>AI agents are becoming a new distribution channel</title>
-    <link>https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review</link>
-    <guid isPermaLink="false">2026-11-14:g5692</guid>
-    <description>According to McKinsey, large language models can compare far more financial providers than customers previously could. AI removes the friction that protected established players and makes their true loyalty more visible.</description>
-    <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
-    <category>Pascal Bornet</category>
-  </item>
-  <item>
-    <title>Shopping agents are still making bad decisions</title>
-    <link>https://investor.visa.com/news/news-details/2026/Visa-Releases-First-of-Its-Kind-Industry-Benchmark-for-AI-Shopping-Almost-Half-of-Test-Runs-Fail/default.aspx</link>
-    <guid isPermaLink="false">2026-11-14:g5695</guid>
-    <description>Visa tested 22 AI models on realistic shopping tasks: 42.8% of executions failed, and 54% of those failures nevertheless resulted in a purchase. AI can therefore remove friction faster than it reduces uncertainty.</description>
-    <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
-    <category>Pascal Bornet</category>
-  </item>
-  <item>
-    <title>Companies are adopting different strategies toward AI agents</title>
-    <link>https://newscenter.laurentbischoff.com</link>
-    <guid isPermaLink="false">2026-11-14:g5696</guid>
-    <description>Retailers, airlines, and platforms are beginning to decide which third-party agents they will accept, limit, or block. This issue is becoming a strategic choice that determines who can participate in customer decisions.</description>
-    <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
-    <category>Pascal Bornet</category>
-  </item>
-  <item>
-    <title>A Young Founder Named Jensen Huang Benefits from His Namesake’s Troubles</title>
-    <link>https://www.businessinsider.com/other-jensen-huang-same-name-startup-interview-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5668</guid>
-    <description>Jensen Huang, a 24-year-old Singaporean founder, explains why the negative press surrounding Nvidia’s CEO benefits his company.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Jensen Huang’s Departure Does Not Solve Nvidia’s Problems</title>
-    <link>https://www.businessinsider.com/jensen-huang-nvidia-flat-structure-leadership-succession-risk-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5669</guid>
-    <description>Jensen Huang’s resignation begins a period of instability for Nvidia. Its organizational structure and lack of a succession plan leave many problems to resolve.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Founder Jensen Huang Had Become Nvidia’s Biggest Risk</title>
-    <link>https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5671</guid>
-    <description>Jensen Huang built the Nvidia empire, but the company’s dependence on him has now become a major risk.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Nvidia’s Structure Complicates Its Transition After Huang’s Departure</title>
-    <link>https://www.businessinsider.com/jensen-huang-nvidia-flat-structure-leadership-succession-risk-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5672</guid>
-    <description>Flat organizations built around powerful founders can be effective, but they become problematic when their leader is gone.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Small Investors Keep Buying Nvidia Shares</title>
-    <link>https://l.businessinsider.com/a/zc/21432/e1d1e16b04d34ab2824e9dd849369506/3cc1c1a57df1481cb7c46487e511f86a</link>
-    <guid isPermaLink="false">2026-11-14:g5674</guid>
-    <description>Despite Nvidia’s stock decline and Wall Street’s pessimism after Jensen Huang’s resignation, some retail investors are taking advantage of the drop to buy more shares.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Wall Street Analysts Turn Away from Nvidia</title>
-    <link>https://www.businessinsider.com/nvidia-stock-nvda-outlook-jensen-huang-departs-wall-street-downgrades-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5675</guid>
-    <description>After revelations about Jensen Huang’s relationships and his departure, Wall Street analysts have become more negative on Nvidia’s stock.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Warby Parker Launches Smart Glasses to Compete with Meta’s</title>
-    <link>https://l.businessinsider.com/a/zc/21432/648b76670be6417986740cd723355a0e/8e8f4e35b6f34fe4aed7820fb92d0769</link>
-    <guid isPermaLink="false">2026-11-14:g5677</guid>
-    <description>Warby Parker’s smart glasses use technologies from Google and Samsung. Business Insider tested them to determine how they differ from Meta’s glasses.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Silicon Valley Prepares for a Future Without Jensen Huang</title>
-    <link>https://www.businessinsider.com/nvidia-jensen-huang-exit-ai-startups-ceos-vcs-cerebral-valley</link>
-    <guid isPermaLink="false">2026-11-14:g5678</guid>
-    <description>At the Cerebral Valley AI Summit, founders and investors warned that Huang’s departure could hurt startups and destabilize an industry that views Nvidia as its “central bank.”</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>The United States Faces a Growing Population Shortage</title>
-    <link>https://l.businessinsider.com/a/zc/21432/648b76670be6417986740cd723355a0e/a00280858d894b6c800ebd834f6cafe0</link>
-    <guid isPermaLink="false">2026-11-14:g5680</guid>
-    <description>Falling birth rates, immigration and tourism are creating a “Great People Shortage.” Areas dependent on newcomers are expected to feel the effects first.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>TikTok Centralizes Its U.S. E-Commerce Operations in China</title>
-    <link>https://www.businessinsider.com/tiktok-shop-org-chart-shows-us-operations-leaders-and-reports-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5681</guid>
-    <description>TikTok has placed its U.S. e-commerce operations under the responsibility of Chinese executives. Business Insider obtained the organizational chart for the 14 top executives and their teams.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Instacart Partners with Provi to Supply Bars</title>
-    <link>https://www.businessinsider.com/instacart-provi-deal-brings-rapid-bar-supply-deliveries-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5682</guid>
-    <description>Instacart has partnered with Provi. The platform will offer same-day delivery to bars and restaurants for nonalcoholic items such as mixers and garnishes.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Microsoft Outage Disrupts Email for Many Companies</title>
-    <link>https://www.businessinsider.com/microsoft-outage-disrupting-email-ceo-business-leaders-barely-use-it-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5683</guid>
-    <description>A Microsoft outage is disrupting email, even as some business executives use it very little.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Jensen Huang’s Leather Jackets Have Become a Joke</title>
-    <link>https://www.businessinsider.com/jensen-huang-leather-jacket-jokes-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5684</guid>
-    <description>Jensen Huang’s once-iconic leather jackets are now being mocked following the controversies surrounding the Nvidia leader.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Anthropic Introduces Claude Tool to Address Labor Shortages</title>
-    <link>https://www.businessinsider.com/anthropic-launches-claude-for-manufacturers-ahead-of-ipo-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5685</guid>
-    <description>Anthropic is offering a new Claude tool designed to help manufacturers facing labor shortages.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Flowers Left Outside Nvidia Headquarters After Huang’s Resignation</title>
-    <link>https://www.businessinsider.com/jensen-huang-flowers-candle-nvidia-headquarters-photos-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5686</guid>
-    <description>Photos show flowers left outside Nvidia headquarters following Jensen Huang’s resignation.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Amazon’s Ring Flying Camera Raises Questions About Its Target Audience</title>
-    <link>https://www.businessinsider.com/amazon-ring-drone-camera-house-security-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5687</guid>
-    <description>The Amazon Ring Drone Cam product has prompted questions about who it is intended for.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Michael Burry Advises Selling Nvidia Stock</title>
-    <link>https://www.businessinsider.com/michael-burry-nvidia-stock-jensen-huang-big-short-ai-succession-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5688</guid>
-    <description>Investor Michael Burry recommends getting out of Nvidia stock.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Lisa Su, Jensen Huang’s Cousin, Leads Nvidia Rival AMD</title>
-    <link>https://www.businessinsider.com/meet-lisa-su-jensen-huangs-cousin-amd-ceo-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5689</guid>
-    <description>Lisa Su, Jensen Huang’s cousin, is the CEO of AMD, an Nvidia competitor.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Alice Huang Barred from Returning to Singapore</title>
-    <link>https://www.businessinsider.com/singapore-megaspeed-investigation-alice-huang-passport-barred-entering-country-2026-11</link>
-    <guid isPermaLink="false">2026-11-14:g5690</guid>
-    <description>Singapore says Alice Huang, a Megaspeed executive involved in the Nvidia scandal, is not permitted to return to the country.</description>
-    <pubDate>Fri, 13 Nov 2026 11:18:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>RLHF Is Costly Mainly Because of Its Training Loop</title>
-    <link>https://www.newline.co/login?redirectUrl=/@Dipen/examples-of-reinforcement-learning-in-llm-apps-from-rlhf-to-safer-business-outputs--8aa0f102</link>
-    <guid isPermaLink="false">2026-11-14:g5667</guid>
-    <description>In RLHF, the infrastructure costs of maintaining four models simultaneously during PPO can exceed annotation expenses. DPO reuses the same preference data without a separate reward model, making it a simpler starting point for most teams.</description>
-    <pubDate>Fri, 13 Nov 2026 10:47:00 GMT</pubDate>
-    <category>Fullstack.io</category>
-  </item>
-  <item>
-    <title>Cerebras Reports $230.9 Million in Third-Quarter Revenue</title>
-    <link>https://cerebras.gcs-web.com/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026</link>
-    <guid isPermaLink="false">2026-11-14:g5658</guid>
-    <description>Cerebras reported $230.9 million in third-quarter revenue, up 70%, and raised its full-year guidance.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>FBI Dismantles North Korean Cryptocurrency Theft Campaign</title>
-    <link>https://www.nextgov.com/cybersecurity/2026/11/fbi-disrupts-intricate-north-korean-fake-call-scheme-tied-400m-crypto-theft/417200/</link>
-    <guid isPermaLink="false">2026-11-14:g5659</guid>
-    <description>The FBI disrupted North Korea’s FaceStealer campaign, which used fake Zoom-style meetings featuring recordings of people known to the victims to steal more than $400 million in cryptocurrency.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Yogurt Summarizes Calls Without Sending a Bot to the Meeting</title>
-    <link>https://github.com/FrigadeHQ/yogurt</link>
-    <guid isPermaLink="false">2026-11-14:g5664</guid>
-    <description>Yogurt records calls without having a bot join the meeting, then produces a free summary with next steps assigned to each person. The project is presented as free and open source.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Pomerado Turns API-Less Websites into Tools for Coding Agents</title>
-    <link>https://pomerado.ai/</link>
-    <guid isPermaLink="false">2026-11-14:g5665</guid>
-    <description>Pomerado turns a website without an API, such as a vendor invoice portal, into a tool that a coding agent can use from a single prompt. The service offers a free plan followed by a $50-per-month option.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Kiln Runs AI Models Directly in the Browser</title>
-    <link>https://github.com/erdemozkan/kiln</link>
-    <guid isPermaLink="false">2026-11-14:g5666</guid>
-    <description>Kiln runs conversational, transcription and image models directly in the browser from Hugging Face files, without a server or conversion step. The project is presented as free and open source.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Spotify DJ Adds Nine Voices and an Option to Turn Off Commentary</title>
-    <link>https://www.techrepublic.com/article/news-spotify-ai-dj-voices-commentary-controls/</link>
-    <guid isPermaLink="false">2026-11-14:g5646</guid>
-    <description>Spotify Premium DJ offers nine new voices and a setting to disable most commentary between songs while retaining personalized recommendations.</description>
-    <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
-  </item>
-  <item>
-    <title>Disney Expands Adobe Partnership for Its Parks, Films and ESPN Content</title>
-    <link>https://www.eweek.com/news/disney-adobe-custom-ai-models-parks-films-espn/</link>
-    <guid isPermaLink="false">2026-11-14:g5647</guid>
-    <description>Disney is using Adobe’s custom Firefly Foundry models to speed up art design, visual effects and ESPN content. The shorter iteration times also raise questions about work methods and staffing.</description>
-    <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
-  </item>
-  <item>
-    <title>Google Gemini Shows What It Remembers About Users and Lets Them Correct It</title>
-    <link>https://www.techrepublic.com/article/news-google-gemini-memory-summary-controls/</link>
-    <guid isPermaLink="false">2026-11-14:g5648</guid>
-    <description>Gemini displays and lets users edit the information it remembers about them in a summary organized into five timestamped categories. However, deleting a memory may not erase the source conversation.</description>
-    <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
-  </item>
-  <item>
-    <title>Microsoft Teams rolls out AI detection of phishing attempts</title>
-    <link>https://www.techrepublic.com/article/news-microsoft-teams-ai-phishing-detection-deepfake-warnings/</link>
-    <guid isPermaLink="false">2026-11-14:g5649</guid>
-    <description>Microsoft Teams is rolling out AI-powered detection of impersonation and social engineering in chats, even without a malicious link. Warnings about deepfakes in meetings will follow, but will require third-party configuration.</description>
-    <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
-  </item>
-  <item>
-    <title>Southeast Asian anti-scam hub offers free training</title>
-    <link>https://www.techrepublic.com/article/news-scam-ready-asean-resource-hub-apac-southeast-asia/</link>
-    <guid isPermaLink="false">2026-11-14:g5651</guid>
-    <description>The Scam Ready ASEAN hub offers free training, an interactive game and country-specific reporting contacts across 11 nations. Scams cost Southeast Asia $23.6 billion.</description>
-    <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
-  </item>
-  <item>
-    <title>Meta AI: features, pricing and user guide</title>
-    <link>https://www.techrepublic.com/article/news-meta-ai-cheat-sheet/</link>
-    <guid isPermaLink="false">2026-11-14:g5652</guid>
-    <description>Meta AI is integrated into Meta’s apps, with features powered by Muse, multiple pricing tiers and privacy controls. The guide covers platform availability and use of Incognito mode, among other topics.</description>
-    <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
   </item>
 </channel>
 </rss>
