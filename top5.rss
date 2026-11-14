@@ -1,57 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — Top 5 news of the day — 2026-11-13</title>
+  <title>NewsCenter — Top 5 news of the day — 2026-11-14</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 132 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 157 news received.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 13 Nov 2026 18:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 05:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. Jensen Huang Leaves Nvidia After Alleged Espionage Scandal</title>
-    <link>https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/</link>
-    <guid isPermaLink="false">2026-11-13:g5610</guid>
-    <description>Why it matters: Jensen Huang’s alleged immediate departure from Nvidia would shock AI markets, threaten confidence in the sector’s dominant chip supplier, and expose major succession and geopolitical risks. Nvidia co-founder and CEO Jensen Huang allegedly resigned with immediate effect after revelations about an affair with someone suspected of having ties to Chinese intelligence. Colette Kress is serving as interim CEO, while Nvidia shares fell more than 13% at the open.</description>
-    <pubDate>Fri, 13 Nov 2026 12:50:00 GMT</pubDate>
+    <title>1. Jensen Huang Resigns as Nvidia CEO</title>
+    <link>https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
+    <guid isPermaLink="false">2026-11-14:g5610</guid>
+    <description>Why it matters: Jensen Huang’s reported departure from Nvidia would be a major leadership and market shock, with potential consequences for the AI-chip ecosystem and Nvidia’s valuation. Jensen Huang has reportedly resigned as Nvidia’s CEO following reports of two alleged affairs with Chinese spies. Nvidia’s valuation fell by $800 billion after the controversy.</description>
+    <pubDate>Sat, 14 Nov 2026 00:24:00 GMT</pubDate>
+    <category>AppleInsider</category>
     <category>Vision IA</category>
     <category>TLDR</category>
     <category>Business Insider</category>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>2. Microsoft 365 Outage Disrupts Email, Teams and Intune</title>
-    <link>https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531</link>
-    <guid isPermaLink="false">2026-11-13:g5299</guid>
-    <description>Why it matters: The Microsoft 365 outage highlights the operational and concentration risks businesses face when core email, collaboration, and device-management services depend on one cloud provider. A Microsoft 365 outage on November 12 disrupted access to email, some Teams features and administration tools such as Intune. Microsoft cited server health-check failures and an overloaded server process.</description>
-    <pubDate>Fri, 13 Nov 2026 13:51:00 GMT</pubDate>
+    <title>2. A Global Microsoft 365 Outage Affects Outlook and Teams</title>
+    <link>https://www.business-standard.com/technology/tech-news/microsoft-365-outage-continues-as-company-sees-limited-recovery-in-services-126111300464_1.html</link>
+    <guid isPermaLink="false">2026-11-14:g5299</guid>
+    <description>Why it matters: The global Microsoft 365 outage highlights the operational and concentration risks businesses face when core email, collaboration and AI services depend on one cloud provider. A global Microsoft 365 outage disrupted Outlook, Teams, Copilot, and other services. Microsoft attributed it to an overloaded secure-connections process and said it was not a cyberattack.</description>
+    <pubDate>Fri, 13 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
     <category>TLDR IT</category>
     <category>Vision IA</category>
     <category>TLDR</category>
   </item>
   <item>
-    <title>3. Anthropic’s IPO Reportedly Six Times Oversubscribed</title>
-    <link>https://x.com/kimmonismus/status/2120851923335004279</link>
-    <guid isPermaLink="false">2026-11-13:g5657</guid>
-    <description>Why it matters: Anthropic’s reportedly six-times-oversubscribed IPO signals intense investor demand for leading AI companies while its rapid migration to AMD GPUs points to growing competition in AI hardware. Anthropic’s IPO reportedly attracted about six times more demand than the number of shares offered. During its roadshow, the company also said Claude had been ported to AMD GPUs in three days, compared with several months previously.</description>
-    <pubDate>Fri, 13 Nov 2026 10:34:00 GMT</pubDate>
+    <title>3. Google Launches Gemini 4 Hydrogen for Coding Assistants</title>
+    <link>https://winbuzzer.com/2026/11/12/google-launches-gemini-4-hydrogen-for-faster-ai-coding-xcxwbn/</link>
+    <guid isPermaLink="false">2026-11-14:g5661</guid>
+    <description>Why it matters: Google’s Gemini 4 Hydrogen strengthens competition in coding and tool-using AI, potentially affecting developer workflows, model economics and enterprise adoption. Google has launched Gemini 4 Hydrogen, a model designed for coding assistants and software that uses tools. It accepts text, images, audio, and video, with adjustable reasoning levels and usage-based pricing.</description>
+    <pubDate>Fri, 13 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+    <category>Superhuman</category>
+    <category>Vision IA</category>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>4. United Airlines Blocks Unauthorized Personal AI Agents</title>
-    <link>https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html</link>
-    <guid isPermaLink="false">2026-11-13:g5510</guid>
-    <description>Why it matters: United’s decision to block unauthorized AI agents shows that companies are beginning to set commercial, privacy, and regulatory rules for agents acting on customers’ behalf. United is restricting unauthorized personal AI agents, citing unintended purchases, exposure of account information and regulatory obligations. Analysts note that the lack of consistent standards and the difficulty of distinguishing bots from customers complicate transaction automation.</description>
-    <pubDate>Fri, 13 Nov 2026 13:51:00 GMT</pubDate>
-    <category>TLDR IT</category>
+    <title>4. Companies are divided over AI agents’ access to commerce</title>
+    <link>https://www.booking.com/</link>
+    <guid isPermaLink="false">2026-11-14:g5699</guid>
+    <description>Why it matters: Companies are now making strategic decisions about whether and how AI agents may access commerce, shaping the next distribution layer between businesses and customers. Amazon, Booking.com, eBay, Target, Resy, Yelp, and other companies are taking different approaches to third-party agents, ranging from blocking them to approving certain platforms. Companies will therefore choose where and how they participate in the agentic web.</description>
+    <pubDate>Fri, 13 Nov 2026 11:31:00 GMT</pubDate>
     <category>Intelligence Newsletter</category>
-    <category>Pascal Bornet</category>
   </item>
   <item>
-    <title>5. Australia wants to require independent audits of cutting-edge AI</title>
-    <link>https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/</link>
-    <guid isPermaLink="false">2026-11-13:g5736</guid>
-    <description>Why it matters: Australia’s proposal for mandatory independent audits and penalties for frontier AI developers signals a shift toward enforceable safety oversight rather than voluntary commitments. The Australian government is proposing mandatory safety rules for companies developing the most advanced models. A regulator could have these models audited by independent experts and impose penalties.</description>
-    <pubDate>Fri, 13 Nov 2026 12:50:00 GMT</pubDate>
+    <title>5. Google Unveils Intelligent Eyewear, the Successor to Google Glass</title>
+    <link>https://glasses.google/</link>
+    <guid isPermaLink="false">2026-11-14:g5662</guid>
+    <description>Why it matters: Google’s new Gemini-powered smart glasses signal a renewed race to make ambient AI a mainstream consumer interface beyond phones and computers. These new smart glasses let users use Gemini in everyday life to ask questions, take photos, and translate conversations. Preorders are open, and deliveries will begin on December 10.</description>
+    <pubDate>Fri, 13 Nov 2026 14:09:00 GMT</pubDate>
+    <category>Superhuman</category>
     <category>Vision IA</category>
+    <category>TLDR</category>
+    <category>The Neuron</category>
   </item>
 </channel>
 </rss>
