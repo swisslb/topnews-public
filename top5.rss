@@ -3,46 +3,46 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-15</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 42 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 33 news received.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 15 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
     <title>1. A software update reportedly caused flights to stop across the United States</title>
     <link>https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</link>
     <guid isPermaLink="false">2026-11-15:g5820</guid>
-    <description>Why it matters: A software update that grounded U.S. flights for hours exposes the systemic risk created by concentration in critical aviation communications infrastructure. An update to L3Harris’s private network reportedly caused communications used by U.S. air traffic control to fail. The FAA lifted the flight stoppage after more than four hours, but delays are expected to continue for several days.</description>
+    <description>Why it matters: A software update that halted U.S. air traffic control communications for more than four hours exposes the operational and systemic risks of concentrated critical infrastructure. An update to L3Harris’s private network reportedly caused communications used by U.S. air traffic control to fail. The FAA lifted the flight stoppage after more than four hours, but delays are expected to continue for several days.</description>
     <pubDate>Sat, 14 Nov 2026 17:11:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>2. Anthropic’s IPO is reportedly oversubscribed sixfold</title>
-    <link>https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/?_bhlid=a891f0f23a66623e72c01f4cd1db51badaebd31e</link>
-    <guid isPermaLink="false">2026-11-15:g5657</guid>
-    <description>Why it matters: Anthropic’s reportedly sixfold-oversubscribed IPO would signal extraordinary investor demand for leading AI companies and could reset private and public-market valuations. Anthropic’s IPO is reportedly oversubscribed sixfold and could become the largest in history.</description>
-    <pubDate>Sat, 14 Nov 2026 17:11:00 GMT</pubDate>
-    <category>Techpresso</category>
-  </item>
-  <item>
-    <title>3. AI risks are the biggest threat to the financial system</title>
+    <title>2. AI risks are the biggest threat to the financial system</title>
     <link>https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html</link>
     <guid isPermaLink="false">2026-11-15:g5856</guid>
-    <description>Why it matters: The Federal Reserve’s identification of AI as the biggest threat to financial stability signals that AI risk is moving from a technology concern to a core regulatory and market issue. A Federal Reserve survey finds that artificial intelligence risks are considered the biggest threat to the financial system.</description>
+    <description>Why it matters: The Federal Reserve identifying AI as the biggest threat to financial stability signals that AI risk is moving from a technology issue into a core regulatory and markets concern. A Federal Reserve survey finds that artificial intelligence risks are considered the biggest threat to the financial system.</description>
     <pubDate>Sat, 14 Nov 2026 17:11:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>4. ByteDance is reportedly preparing a buyback valuing the company at $400 billion</title>
-    <link>https://qz.com/bytedance-buyback-6-billion-400-billion-valuation-111326</link>
-    <guid isPermaLink="false">2026-11-15:g5859</guid>
-    <description>Why it matters: ByteDance’s reported $400 billion valuation would make it one of the world’s most valuable private technology companies despite continuing geopolitical and regulatory uncertainty around TikTok. TikTok owner ByteDance is reportedly preparing a share buyback of up to $6 billion, based on a valuation of around $400 billion.</description>
+    <title>3. Anthropic’s IPO is reportedly oversubscribed sixfold</title>
+    <link>https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/?_bhlid=a891f0f23a66623e72c01f4cd1db51badaebd31e</link>
+    <guid isPermaLink="false">2026-11-15:g5657</guid>
+    <description>Why it matters: An oversubscribed Anthropic IPO could become the largest ever, demonstrating extraordinary investor demand for leading AI companies and potentially resetting private and public-market valuations. Anthropic’s IPO is reportedly oversubscribed sixfold and could become the largest in history.</description>
     <pubDate>Sat, 14 Nov 2026 17:11:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>5. Solar power and batteries are reportedly the cheapest option for AI data centers</title>
+    <title>4. Solar power and batteries are reportedly the cheapest option for AI data centers</title>
     <link>https://arxiv.org/abs/2611.17098</link>
     <guid isPermaLink="false">2026-11-15:g5868</guid>
-    <description>Why it matters: Cheaper, faster-to-deploy solar power and batteries could materially change how AI data centers are financed, located and connected to the U.S. power grid. A study estimates that on-site solar power paired with batteries is becoming the cheapest option for AI data centers in 85% of U.S. regions. It attributes this advantage to faster construction, which allows computing capacity to be added more quickly.</description>
+    <description>Why it matters: On-site solar paired with batteries could become the cheapest and fastest way to power AI data centers across most U.S. regions, reshaping infrastructure investment and deployment timelines. A study estimates that on-site solar power paired with batteries is becoming the cheapest option for AI data centers in 85% of U.S. regions. It attributes this advantage to faster construction, which allows computing capacity to be added more quickly.</description>
+    <pubDate>Sat, 14 Nov 2026 17:11:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>5. Starship reaches orbit despite its booster exploding</title>
+    <link>https://www.newsbytesapp.com/news/science/spacex-launches-15th-test-flight-of-starship-amid-booster-explosion/story</link>
+    <guid isPermaLink="false">2026-11-15:g5849</guid>
+    <description>Why it matters: Starship reaching orbit and deploying 26 Starlink satellites marks a major step toward SpaceX’s reusable heavy-lift and satellite-network ambitions despite the booster failure. The Starship spacecraft reached orbit on its 15th test flight and deployed 26 Starlink satellites. The Super Heavy booster failed during its return and exploded in the Gulf of Mexico.</description>
     <pubDate>Sat, 14 Nov 2026 17:11:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
