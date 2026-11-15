@@ -1,43 +1,27 @@
 {
-  "date": "2026-11-14",
-  "news_count": 54,
+  "date": "2026-11-15",
+  "news_count": 42,
   "top5": [
     {
       "rank": 1,
       "id": "g5820",
-      "title": "A software update allegedly grounded flights across the United States",
-      "description": "An update to L3Harris’s private network reportedly caused a communications outage for U.S. air traffic control. The FAA lifted the ground stop after more than four hours, but delays are expected to continue for several days.",
+      "title": "A software update reportedly caused flights to stop across the United States",
+      "description": "An update to L3Harris’s private network reportedly caused communications used by U.S. air traffic control to fail. The FAA lifted the flight stoppage after more than four hours, but delays are expected to continue for several days.",
       "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
-      "sources": [
-        "Techpresso",
-        "Business Insider"
-      ],
-      "received_at": "2026-11-14T18:11+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "A software outage that grounded U.S. flights exposes critical infrastructure dependence on private networks and could trigger major scrutiny of aviation technology resilience."
-    },
-    {
-      "rank": 2,
-      "id": "g5856",
-      "title": "AI risks are the biggest threat to the financial system",
-      "description": "A Federal Reserve survey found that artificial intelligence risks are considered the greatest threat to the financial system.",
-      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
       "sources": [
         "Techpresso"
       ],
       "received_at": "2026-11-14T18:11+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "The Federal Reserve’s assessment that AI is the largest threat to financial stability signals rising systemic-risk concerns for banks, regulators and investors."
+      "followed_topic": null,
+      "why": "A software update that grounded U.S. flights for hours exposes the systemic risk created by concentration in critical aviation communications infrastructure."
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "g5657",
-      "title": "Anthropic’s IPO is reportedly six times oversubscribed",
-      "description": "Anthropic’s IPO is reportedly six times oversubscribed and could become the largest in history.",
+      "title": "Anthropic’s IPO is reportedly oversubscribed sixfold",
+      "description": "Anthropic’s IPO is reportedly oversubscribed sixfold and could become the largest in history.",
       "link": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/?_bhlid=a891f0f23a66623e72c01f4cd1db51badaebd31e",
       "sources": [
         "Techpresso"
@@ -46,22 +30,37 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Fusions-acquisitions et marchés financiers",
-      "why": "Anthropic’s reportedly heavily oversubscribed IPO would demonstrate extraordinary investor appetite for leading AI companies and potentially reset private and public-market valuations."
+      "why": "Anthropic’s reportedly sixfold-oversubscribed IPO would signal extraordinary investor demand for leading AI companies and could reset private and public-market valuations."
+    },
+    {
+      "rank": 3,
+      "id": "g5856",
+      "title": "AI risks are the biggest threat to the financial system",
+      "description": "A Federal Reserve survey finds that artificial intelligence risks are considered the biggest threat to the financial system.",
+      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-14T18:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "The Federal Reserve’s identification of AI as the biggest threat to financial stability signals that AI risk is moving from a technology concern to a core regulatory and market issue."
     },
     {
       "rank": 4,
-      "id": "g5813",
-      "title": "Government-Grade Spyware Is Now Targeting iPhones",
-      "description": "Researchers say sophisticated spyware previously reserved for government surveillance is being used against private individuals. Two iOS exploit kits, Coruna and DarkSword, are involved.",
-      "link": "https://appleinsider.com/articles/26/11/10/criminals-are-using-government-grade-spyware-to-infect-iphones",
+      "id": "g5859",
+      "title": "ByteDance is reportedly preparing a buyback valuing the company at $400 billion",
+      "description": "TikTok owner ByteDance is reportedly preparing a share buyback of up to $6 billion, based on a valuation of around $400 billion.",
+      "link": "https://qz.com/bytedance-buyback-6-billion-400-billion-valuation-111326",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-14T01:24+01:00",
+      "received_at": "2026-11-14T18:11+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public",
-      "why": "Government-grade iPhone spyware reaching private targets marks a serious escalation in mobile security and raises urgent questions for enterprises, governments and Apple."
+      "followed_topic": null,
+      "why": "ByteDance’s reported $400 billion valuation would make it one of the world’s most valuable private technology companies despite continuing geopolitical and regulatory uncertainty around TikTok."
     },
     {
       "rank": 5,
@@ -76,12 +75,12 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Solar paired with batteries emerging as the cheapest power source for AI data centers in most U.S. regions could reshape the economics, location and speed of AI infrastructure build-outs."
+      "why": "Cheaper, faster-to-deploy solar power and batteries could materially change how AI data centers are financed, located and connected to the U.S. power grid."
     }
   ],
   "period": {
-    "from": "2026-11-13T19:25+01:00",
-    "to": "2026-11-14T19:25+01:00"
+    "from": "2026-11-14T06:25+01:00",
+    "to": "2026-11-15T06:25+01:00"
   },
-  "generated_at": "2026-11-14T19:25+01:00"
+  "generated_at": "2026-11-15T06:25+01:00"
 }
