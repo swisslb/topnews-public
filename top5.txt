@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-15
 
-Period: 2026-11-14T13:25+01:00 → 2026-11-15T13:25+01:00 · 33 news received
+Period: 2026-11-14T19:25+01:00 → 2026-11-15T19:25+01:00 · 19 news received
 
-## 1. A software update reportedly caused flights to stop across the United States
+## 1. Jensen Huang’s downfall puts Nvidia to the test
 
-**Why it matters:** A software update that halted U.S. air traffic control communications for more than four hours exposes the operational and systemic risks of concentrated critical infrastructure.
+**Why it matters:** Nvidia’s reported $573 billion market-cap decline, leadership controversy, and possible foreign-intelligence investigation create significant risks for the AI industry’s most important company.
 
-An update to L3Harris’s private network reportedly caused communications used by U.S. air traffic control to fail. The FAA lifted the flight stoppage after more than four hours, but delays are expected to continue for several days.
+Jensen Huang, Nvidia’s former CEO and a central figure at the company, is facing revelations about relationships with female employees, while the company investigates a possible foreign intelligence operation. Nvidia’s market capitalization fell by $573 billion in one week, reviving questions about succession and the risk posed by a key executive.
 
-- Link: https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/
-- Sources: Techpresso
-- Received: 2026-11-14T18:11+01:00
+- Link: https://www.businessinsider.com/nvidia-successor-rebuild-trust-focus-culture-2026-11
+- Sources: Business Insider
+- Received: 2026-11-15T12:31+01:00
 
-## 2. AI risks are the biggest threat to the financial system
+## 2. US air travel disruptions continue after a nationwide ground stop
 
-**Why it matters:** The Federal Reserve identifying AI as the biggest threat to financial stability signals that AI risk is moving from a technology issue into a core regulatory and markets concern.
+**Why it matters:** Continuing nationwide air-travel disruptions expose critical FAA infrastructure weaknesses and could accelerate a proposed $50 billion modernization effort.
 
-A Federal Reserve survey finds that artificial intelligence risks are considered the biggest threat to the financial system.
+Thousands of flights were canceled Saturday after Friday night’s ground stop, and further disruptions are expected. Authorities blame an FAA contractor, and the Transportation Secretary is seeking $50 billion to modernize the systems.
 
-- Link: https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html
-- Sources: Techpresso
-- Received: 2026-11-14T18:11+01:00
+- Link: https://www.businessinsider.com/faa-national-ground-stop-flights-2026-11
+- Sources: Business Insider
+- Received: 2026-11-15T12:31+01:00
 
-## 3. Anthropic’s IPO is reportedly oversubscribed sixfold
+## 3. Agility goes public as the first publicly traded humanoid company
 
-**Why it matters:** An oversubscribed Anthropic IPO could become the largest ever, demonstrating extraordinary investor demand for leading AI companies and potentially resetting private and public-market valuations.
+**Why it matters:** Agility’s public debut gives investors a new market benchmark for humanoid robotics, despite its modest $1.8 million in prior-year revenue.
 
-Anthropic’s IPO is reportedly oversubscribed sixfold and could become the largest in history.
+Agility has gone public on the Nasdaq as the first publicly traded company specializing in humanoid robots, with a pre-money valuation of $2.5 billion. However, it generated just $1.8 million in revenue last year.
 
-- Link: https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/?_bhlid=a891f0f23a66623e72c01f4cd1db51badaebd31e
-- Sources: Techpresso
-- Received: 2026-11-14T18:11+01:00
+- Link: https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/
+- Sources: AI Gen Art
+- Received: 2026-11-15T17:02+01:00
 
-## 4. Solar power and batteries are reportedly the cheapest option for AI data centers
+## 4. Adobe integrates AI agents into Firefly and Creative Cloud creative workflows
 
-**Why it matters:** On-site solar paired with batteries could become the cheapest and fastest way to power AI data centers across most U.S. regions, reshaping infrastructure investment and deployment timelines.
+**Why it matters:** Adobe’s integration of controllable AI agents into Firefly and Creative Cloud signals a major shift toward delegating complex creative workflows while preserving human oversight.
 
-A study estimates that on-site solar power paired with batteries is becoming the cheapest option for AI data centers in 85% of U.S. regions. It attributes this advantage to faster construction, which allows computing capacity to be added more quickly.
+Adobe is introducing new ways to direct the Creative Agent in Firefly and Creative Cloud to handle complex creative tasks while retaining control over the direction and outcome. Users will be able to delegate repetitive tasks, set their preferences, adjust the agent’s plan, and choose which AI models are used.
 
-- Link: https://arxiv.org/abs/2611.17098
-- Sources: Techpresso
-- Received: 2026-11-14T18:11+01:00
+- Link: https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity
+- Sources: Techpresso, AI Gen Art
+- Received: 2026-11-15T18:12+01:00
 
-## 5. Starship reaches orbit despite its booster exploding
+## 5. OpenAI invites brands to create verified profiles in ChatGPT
 
-**Why it matters:** Starship reaching orbit and deploying 26 Starlink satellites marks a major step toward SpaceX’s reusable heavy-lift and satellite-network ambitions despite the booster failure.
+**Why it matters:** OpenAI’s verified brand profiles could establish a new commercial layer in ChatGPT by enabling brand discovery, mention analytics, and AI-powered shopping agents.
 
-The Starship spacecraft reached orbit on its 15th test flight and deployed 26 Starlink satellites. The Super Heavy booster failed during its return and exploded in the Gulf of Mexico.
+OpenAI has invited brands to claim free verified profiles in ChatGPT, track how often they are mentioned, and set up AI agents for shoppers.
 
-- Link: https://www.newsbytesapp.com/news/science/spacex-launches-15th-test-flight-of-starship-amid-booster-explosion/story
-- Sources: Techpresso
-- Received: 2026-11-14T18:11+01:00
+- Link: https://openai.com/index/introducing-businesses-chatgpt/
+- Sources: AI Gen Art
+- Received: 2026-11-15T17:02+01:00
