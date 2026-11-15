@@ -1,25 +1,11 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "period": {
-    "from": "2026-11-13T19:25+01:00",
-    "to": "2026-11-14T19:25+01:00"
+    "from": "2026-11-14T06:25+01:00",
+    "to": "2026-11-15T06:25+01:00"
   },
-  "news_count": 54,
+  "news_count": 42,
   "news": [
-    {
-      "id": "g5820",
-      "title": "A software update reportedly caused flights to stop across the United States",
-      "description": "An update to L3Harris’s private network reportedly caused communications used by U.S. air traffic control to fail. The FAA lifted the flight stoppage after more than four hours, but delays are expected to continue for several days.",
-      "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
-      "sources": [
-        "Techpresso",
-        "Business Insider"
-      ],
-      "received_at": "2026-11-14T18:11+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
     {
       "id": "g5849",
       "title": "Starship reaches orbit despite its booster exploding",
@@ -138,56 +124,17 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g5807",
-      "title": "Chinese Supplier Confirms Its Involvement in Unreleased Apple Products",
-      "description": "An Apple supplier in China appears to have confirmed its involvement in Apple’s AI glasses, camera-equipped AirPods and other unannounced projects in a financial report.",
-      "link": "https://appleinsider.com/articles/26/11/11/apple-supplier-confirms-involvement-in-apple-ai-glasses-airpods-with-cameras",
+      "id": "g5820",
+      "title": "A software update reportedly caused flights to stop across the United States",
+      "description": "An update to L3Harris’s private network reportedly caused communications used by U.S. air traffic control to fail. The FAA lifted the flight stoppage after more than four hours, but delays are expected to continue for several days.",
+      "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-14T01:24+01:00",
+      "received_at": "2026-11-14T18:11+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g5808",
-      "title": "OLED iPad Air Expected in Early 2027",
-      "description": "A new report claims that the iPad Air with an OLED display will arrive in early 2027. It is not expected to support ProMotion.",
-      "link": "https://appleinsider.com/articles/26/11/10/the-oled-ipad-air-is-still-expected-to-launch-in-early-2027",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g5813",
-      "title": "Government-Grade Spyware Is Now Targeting iPhones",
-      "description": "Researchers say sophisticated spyware previously reserved for government surveillance is being used against private individuals. Two iOS exploit kits, Coruna and DarkSword, are involved.",
-      "link": "https://appleinsider.com/articles/26/11/10/criminals-are-using-government-grade-spyware-to-infect-iphones",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g5816",
-      "title": "OLED iPad mini Review: An Excellent Reader, but Not a Miniature iPad Pro",
-      "description": "The eighth-generation iPad mini benefits greatly from its OLED display, but its price makes it less appealing compared with the iPad Pro. AppleInsider gives it a score of 4 out of 5.",
-      "link": "https://us.list-manage.com/AJN4QVzSNaQ?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
       "id": "g5662",
@@ -601,110 +548,6 @@
         "Business Insider"
       ],
       "received_at": "2026-11-14T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5356",
-      "title": "Apple Tests Harbor to Connect Multiple Macs to Local AI",
-      "description": "The Harbor app, formerly called Fabric, can turn multiple Macs into a private AI inference server. It is currently available as a private preview under the Claris brand.",
-      "link": "https://us.list-manage.com/ymJHbKlp3n0?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5610",
-      "title": "Jensen Huang Resigns as Head of Nvidia",
-      "description": "Jensen Huang reportedly resigned as CEO of Nvidia after reports emerged of two alleged affairs with Chinese spies. Nvidia’s valuation fell by 800 billion dollars following the controversy.",
-      "link": "https://us.list-manage.com/_Wro7rvVjOV?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5810",
-      "title": "Donald Trump Wants Tim Cook to Become Nvidia’s Next CEO",
-      "description": "Donald Trump said Tim Cook should replace Jensen Huang as head of Nvidia, stating that “a legend replaces a legend.”",
-      "link": "https://appleinsider.com/articles/26/11/12/donald-trump-wants-tim-cook-to-be-the-next-nvidia-ceo",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5811",
-      "title": "Johny Srouji Could Take Over as Nvidia CEO",
-      "description": "Another report says that Johny Srouji, Apple’s head of hardware, could become Nvidia’s next CEO.",
-      "link": "https://appleinsider.com/articles/26/11/12/apple-silicon-chief-johny-srouji-could-take-over-nvidia-as-its-new-ceo",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5812",
-      "title": "Unpatched iOS Flaw Could Let Apps Steal Data",
-      "description": "An iOS vulnerability could allow malicious apps to read other apps’ local files by bypassing their sandbox.",
-      "link": "https://us.list-manage.com/9qiGeeVyD2d?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5814",
-      "title": "Thai Officials Question Apple About Spyware Alerts",
-      "description": "Thai politicians questioned Apple about its alerts sent to users targeted by spyware.",
-      "link": "https://appleinsider.com/articles/26/11/11/thai-politicians-question-apple-over-iphone-spyware-alerts",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5815",
-      "title": "iOS 27.2.1 Fixes Bluetooth and iMessage-Related Vulnerabilities",
-      "description": "The iOS 27.2.1 update fixes vulnerabilities that enabled unauthorized Bluetooth pairings and eavesdropping on iMessage messages.",
-      "link": "https://appleinsider.com/articles/26/11/09/unauthorized-bluetooth-pairing-imessage-snooping-patched-in-ios-2721",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5817",
-      "title": "Apple HomeView Review: A Limited Launch, but Strong Potential",
-      "description": "HomeView is Apple’s first attempt in the smart-home display category. The product shows significant potential but still needs improvements, earning a score of 2.5 out of 5.",
-      "link": "https://appleinsider.com/articles/26/11/12/apple-homeview-review-shallow-launch-but-incredible-potential",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-14T01:24+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
