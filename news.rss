@@ -3,9 +3,59 @@
 <channel>
   <title>NewsCenter — All newsletter news — 2026-11-16</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>Every news received through Laurent's newsletters over the last 24 hours. 35 news received.</description>
+  <description>Every news received through Laurent's newsletters over the last 24 hours. 62 news received.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 16 Nov 2026 05:25:16 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 12:25:26 GMT</lastBuildDate>
+  <item>
+    <title>GPT-6 Astra helps demonstrate a mathematical construction of the Standard Model</title>
+    <link>https://openai.com/index/step-toward-defining-the-standard-model/</link>
+    <guid isPermaLink="false">2026-11-16:g5912</guid>
+    <description>OpenAI and physicist Nathaniel Craig have published a candidate lattice construction of the Standard Model. GPT-6 Astra reportedly contributed to its development and demonstration.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Samsung reportedly approached Anthropic and OpenAI to lease its future AI data centers</title>
+    <link>https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2</link>
+    <guid isPermaLink="false">2026-11-16:g5937</guid>
+    <description>Samsung’s IT division reportedly began discussions with Anthropic and OpenAI about becoming tenants of its future artificial intelligence data centers.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>A compromised MCP server can hijack an AI agent’s other tools</title>
+    <link>https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust</link>
+    <guid isPermaLink="false">2026-11-16:g5931</guid>
+    <description>A test cited by VentureBeat indicates that a compromised MCP server prompted an agent connected to five servers to misuse the other tools in 78.3% of cases. The article recommends limiting credentials, adding human validation, and logging the entire call chain.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Apple is reportedly preparing Siri-controlled smart glasses for 2027</title>
+    <link>https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan</link>
+    <guid isPermaLink="false">2026-11-16:g5941</guid>
+    <description>Apple’s first smart glasses would use Siri to control existing iPhone apps. Apple is reportedly targeting a presentation at WWDC 2027 and a commercial launch at the end of the same year.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>The Atlantic tests ChatGPT on 32,245 personal messages and raises consent questions</title>
+    <link>https://www.theatlantic.com/family/2026/11/ai-text-message-analysis-friendship/689436/</link>
+    <guid isPermaLink="false">2026-11-16:g5943</guid>
+    <description>The Atlantic tested ChatGPT on 32,245 personal messages. The experiment raises consent questions when an analysis conducted for one person includes other people’s private conversations.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>Apple launches an AI health study involving 200,000 people</title>
+    <link>https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/</link>
+    <guid isPermaLink="false">2026-11-16:g5944</guid>
+    <description>The Apple Health AI Study app allows U.S. adults aged 21 and older with an iPhone 15 Pro or later to ask health questions. It also provides the peer-reviewed citations associated with the answers.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
   <item>
     <title>ChatGPT Wallet lets AI agents pay after approval</title>
     <link>https://openai.com/index/introducing-chatgpt-wallet/</link>
@@ -13,15 +63,6 @@
     <description>OpenAI is beginning to roll out ChatGPT Wallet. The feature allows an AI agent to pay online securely after the user’s approval.</description>
     <pubDate>Sun, 15 Nov 2026 19:34:00 GMT</pubDate>
     <category>The Neuron</category>
-  </item>
-  <item>
-    <title>Jensen Huang steps down as NVIDIA CEO after 33 years</title>
-    <link>https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/</link>
-    <guid isPermaLink="false">2026-11-16:g5079</guid>
-    <description>Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.</description>
-    <pubDate>Sun, 15 Nov 2026 19:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-    <category>Business Insider</category>
   </item>
   <item>
     <title>Adobe integrates AI agents into Firefly and Creative Cloud creative workflows</title>
@@ -47,6 +88,222 @@
     <description>OpenAI has invited brands to claim free verified profiles in ChatGPT, track how often they are mentioned, and set up AI agents for shoppers.</description>
     <pubDate>Sun, 15 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
+  </item>
+  <item>
+    <title>The first AI Music Awards rely on humans to portray AI artists</title>
+    <link>https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/</link>
+    <guid isPermaLink="false">2026-11-16:g5935</guid>
+    <description>The first AI Music Awards ceremony was held in Los Angeles, featuring AI presenters, lip-syncing, and human stand-ins. Technical problems interrupted the ceremony several times.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>Nvidia reportedly supplied computing capacity to Chinese companies through Asia</title>
+    <link>https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d</link>
+    <guid isPermaLink="false">2026-11-16:g5936</guid>
+    <description>According to The Wall Street Journal, Nvidia developed partnerships with Asian data centers that leased its advanced chips to Chinese customers. One of these partners reportedly arranged nearly 12 billion dollars’ worth of chip orders in 2024 and 2025.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>Pax Silica countries seek better protection for key AI technologies and supply chains</title>
+    <link>https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22</link>
+    <guid isPermaLink="false">2026-11-16:g5940</guid>
+    <description>Members of Pax Silica, including Japan, Australia, Israel, India, and the United Kingdom, agreed to establish a joint list of AI technologies and supply chains requiring greater protection.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>SK Hynix will invest 1.05 billion dollars in its South Korean suppliers</title>
+    <link>https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/</link>
+    <guid isPermaLink="false">2026-11-16:g5942</guid>
+    <description>SK Hynix has committed to investing approximately 1.05 billion dollars over five years to strengthen Korean suppliers of semiconductor materials, components, and equipment.</description>
+    <pubDate>Mon, 16 Nov 2026 11:04:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>LongCat-2.5 is close behind Claude Opus 5 without using Nvidia chips</title>
+    <link>https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/</link>
+    <guid isPermaLink="false">2026-11-16:g5908</guid>
+    <description>Meituan’s Chinese model scores 88.4 points on Terminal Bench, nearly matching Claude Opus 5, and was reportedly trained entirely on Huawei chips. It combines 1,600 billion parameters, a one-million-token context window, and advanced agent capabilities.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>A robot independently assembles a structure in orbit</title>
+    <link>https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever</link>
+    <guid isPermaLink="false">2026-11-16:g5909</guid>
+    <description>Caltech’s ASTRA robot built a section of an antenna frame in low Earth orbit without an astronaut. This DARPA-supported demonstration is intended to pave the way for much larger space structures.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Alibaba opens Qwen4-Max Preview for two weeks</title>
+    <link>https://x.com/Alibaba_Qwen/status/2120335993643684315</link>
+    <guid isPermaLink="false">2026-11-16:g5910</guid>
+    <description>Alibaba is allowing users to test Qwen4-Max Preview until November 25. This multimodal model has a one-million-token context window, agent tools, and compatibility with several development environments.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Washington is preparing three laws to tighten AI chip exports to China</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
+    <guid isPermaLink="false">2026-11-16:g5911</guid>
+    <description>Following unproven allegations targeting Jensen Huang, the U.S. Congress is preparing three bills designed to strengthen restrictions on AI chips exported to China. No bill has yet been adopted, and the details of the measures remain unknown.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>A middle-school student invents a water-powered solar tracker</title>
+    <link>https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/</link>
+    <guid isPermaLink="false">2026-11-16:g5914</guid>
+    <description>Jason Chang designed a system costing less than 25 dollars that orients a solar panel using a bucket filled drop by drop, with no motor or electricity. The device produces about 20% more voltage than a fixed panel.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>A Vulcan rocket failure destroys 40 Amazon satellites</title>
+    <link>https://www.theinformation.com/briefings/amazon-loses-40-leo-satellites-ula-rocket-failure</link>
+    <guid isPermaLink="false">2026-11-16:g5915</guid>
+    <description>A United Launch Alliance Vulcan rocket failed about ten minutes after liftoff, destroying 40 satellites belonging to Amazon’s Leo internet network. The cause of the failure remains unknown.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Confucius4-R2T2 freezes words in live speech transcripts</title>
+    <link>https://arxiv.org/abs/2611.06043</link>
+    <guid isPermaLink="false">2026-11-16:g5916</guid>
+    <description>This transcription system freezes each word as soon as it appears, without rewriting the beginnings of sentences, while remaining fast and almost as accurate as delayed transcription. It is based on an adaptation of Qwen3-ASR-1.7B trained on 1,500 hours of Chinese and English audio.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Apple runs an 816-billion-parameter model on four Mac Studio computers</title>
+    <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+    <guid isPermaLink="false">2026-11-16:g5917</guid>
+    <description>The new version of MLX distributes a very large model across several Mac Studio computers connected via Thunderbolt. Muse Spark Open reaches more than 36 tokens per second on four machines, while some models fit on a single 512 GB Mac Studio.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Alibaba releases its open-source AI code review tool</title>
+    <link>https://github.com/alibaba/open-code-review</link>
+    <guid isPermaLink="false">2026-11-16:g5918</guid>
+    <description>Alibaba has open-sourced open-code-review, a tool combining traditional rules with an AI agent to comment on code line by line. It searches in particular for XSS vulnerabilities, SQL injections, and common crashes.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Claude Cowork lets users launch desktop tasks from a phone</title>
+    <link>https://claude.com/download</link>
+    <guid isPermaLink="false">2026-11-16:g5919</guid>
+    <description>Claude Cowork can sort files, turn screenshots into spreadsheets, and compile notes into a report. The integration of the desktop and mobile apps lets users launch a task from a phone for execution on a computer.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Claude Fable 5.2 paints its images with Python code</title>
+    <link>https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/</link>
+    <guid isPermaLink="false">2026-11-16:g5920</guid>
+    <description>Claude Fable 5.2 generates images by writing Python code that simulates hundreds of thousands of brushstrokes. A photorealistic parking-lot scene reportedly required about 700,000 brushstrokes.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>OATs modules turn connected objects into AI Tamagotchis</title>
+    <link>https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/</link>
+    <guid isPermaLink="false">2026-11-16:g5921</guid>
+    <description>OATs modules display expressions generated by Nano Banana on an E Ink screen based on humidity, light, or motion sensors. These devices cost about 20 dollars and are not yet commercially available.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Google’s Gemini glasses are available for preorder</title>
+    <link>https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/</link>
+    <guid isPermaLink="false">2026-11-16:g5662</guid>
+    <description>Google is opening preorders for smart glasses designed with Warby Parker, Gentle Monster, and Samsung. They offer translation, directions, and environmental descriptions, with a 12-megapixel camera and nine hours of battery life.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Agile Robots raises 500 million dollars for its humanoids</title>
+    <link>https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html</link>
+    <guid isPermaLink="false">2026-11-16:g5923</guid>
+    <description>The Munich-based company Agile Robots wants to deploy more industrial robots, particularly in the United States. It raised 500 million dollars from SoftBank and Nvidia to fund its expansion and a possible IPO.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Apple launches a study on AI use in healthcare</title>
+    <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
+    <guid isPermaLink="false">2026-11-16:g5924</guid>
+    <description>With OpenEvidence, Apple is offering a study in which participants ask health questions to an AI system relying on recognized medical sources and potentially using their HealthKit data. The study aims to enroll up to 200,000 U.S. participants over the age of 21.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>AI is affecting young workers first, according to an Australian study</title>
+    <link>https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/</link>
+    <guid isPermaLink="false">2026-11-16:g5925</guid>
+    <description>The Reserve Bank of Australia observes a sharper decline in job postings and employment among 15–24-year-olds in occupations highly exposed to AI. The study remains cautious, as the economic cycle and remote work could also explain the trend.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Tech job postings plunge as AI appears in half of listings</title>
+    <link>https://www.hntrends.com/2026/november.html</link>
+    <guid isPermaLink="false">2026-11-16:g5926</guid>
+    <description>The Hacker News monthly job-posting thread contains 244 listings in November, down 37% from a year earlier. AI appears in 51.6% of postings, while junior positions remain around 3%.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>A developer argues that all AI-generated code should be open source</title>
+    <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
+    <guid isPermaLink="false">2026-11-16:g5927</guid>
+    <description>Jakub Jankiewicz argues that AI-generated code should be open, since the models were trained on free code and Stack Overflow without permission. He also cites the lack of U.S. copyright protection for works created without human intervention.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>YouTube Music and Spotify’s AI hosts disappoint</title>
+    <link>https://www.wired.com/story/ai-djs-completely-kill-my-groove/</link>
+    <guid isPermaLink="false">2026-11-16:g5928</guid>
+    <description>A Wired journalist tested YouTube Music and Spotify’s AI hosts and found empty commentary as well as several errors. She ultimately disabled the feature.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>In Singapore, 94% of small-business owners are asking for AI help</title>
+    <link>https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/</link>
+    <guid isPermaLink="false">2026-11-16:g5929</guid>
+    <description>According to a YouGov study commissioned by Meta, 94% of surveyed small-business owners in Singapore want more support using AI. Meta trained more than 180 merchants and creators during its Meta Upskill Day 2026.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Jensen Huang is reportedly considering taking over Nvidia again</title>
+    <link>https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says</link>
+    <guid isPermaLink="false">2026-11-16:g5930</guid>
+    <description>A few days after his resignation linked to the scandal, Jensen Huang reportedly discussed returning to lead Nvidia with people close to him, according to the Financial Times as relayed by Bloomberg. No official confirmation or timeline has been provided.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Older connected devices remain a major network vulnerability</title>
+    <link>https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/</link>
+    <guid isPermaLink="false">2026-11-16:g5932</guid>
+    <description>According to Cisco, nearly 40% of the most exploited vulnerabilities affect end-of-life hardware, including routers and cameras that no longer receive updates. Cisco recommends regularly replacing this equipment, but few brands disclose their support lifespans.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>Anthropic’s IPO becomes a test for the entire AI sector</title>
+    <link>https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html</link>
+    <guid isPermaLink="false">2026-11-16:g5933</guid>
+    <description>The creator of Claude is set to list on the Nasdaq at between 70 and 78 dollars per share, amid a difficult environment for AI and Nvidia. Anthropic expects more than 900 billion dollars in supplier spending, despite a loss of 104 billion over nine months.</description>
+    <pubDate>Mon, 16 Nov 2026 09:59:00 GMT</pubDate>
+    <category>Vision IA</category>
   </item>
   <item>
     <title>An AI learns words using a sleep-inspired method</title>
@@ -109,6 +366,14 @@
     <link>https://compass.gse.harvard.edu/explore/</link>
     <guid isPermaLink="false">2026-11-16:g5902</guid>
     <description>Harvard researchers published a guide explaining when AI can help or hinder learning at different ages.</description>
+    <pubDate>Sun, 15 Nov 2026 19:34:00 GMT</pubDate>
+    <category>The Neuron</category>
+  </item>
+  <item>
+    <title>Jensen Huang steps down as NVIDIA CEO after 33 years</title>
+    <link>https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/</link>
+    <guid isPermaLink="false">2026-11-16:g5079</guid>
+    <description>Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.</description>
     <pubDate>Sun, 15 Nov 2026 19:34:00 GMT</pubDate>
     <category>The Neuron</category>
   </item>
@@ -238,54 +503,6 @@
     <guid isPermaLink="false">2026-11-16:g5882</guid>
     <description>At Disney, employees pressed their leaders about potential layoffs as uncertainty weighed on team morale.</description>
     <pubDate>Sun, 15 Nov 2026 15:05:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>U.S. air disruptions continue after a nationwide ground stop</title>
-    <link>https://www.businessinsider.com/faa-national-ground-stop-flights-2026-11</link>
-    <guid isPermaLink="false">2026-11-16:g5820</guid>
-    <description>Thousands of flights were canceled Saturday after Friday night’s ground stop, and further disruptions are expected. Authorities are blaming an FAA contractor, while the Transportation Secretary is requesting $50 billion to modernize the systems.</description>
-    <pubDate>Sun, 15 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Deloitte drops coverage of GLP-1 drugs for weight loss</title>
-    <link>https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/066c9723d94f4cc3a85827b5352c248b</link>
-    <guid isPermaLink="false">2026-11-16:g5872</guid>
-    <description>Deloitte will stop reimbursing US employees for GLP-1 medications used for weight loss, while continuing to cover those needed for diabetes. The firm is also increasing health insurance premiums because of rising costs.</description>
-    <pubDate>Sun, 15 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Contractors accuse Handshake AI of owing them more than $60,000</title>
-    <link>https://www.businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11</link>
-    <guid isPermaLink="false">2026-11-16:g5873</guid>
-    <description>Nearly two dozen current and former contractors say AI training startup Handshake underpaid them. Joel Thomas, in particular, says the company owes him $11,000 in unpaid wages.</description>
-    <pubDate>Sun, 15 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>RV businesses benefit from the data center boom</title>
-    <link>https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/6086e46722f640ff858541a284320d4e</link>
-    <guid isPermaLink="false">2026-11-16:g5874</guid>
-    <description>Workers traveling for well-paid data center jobs are using their per diem to rent an RV rather than stay in a hotel. The trend is giving the RV industry a boost and filling campgrounds with long-term workers.</description>
-    <pubDate>Sun, 15 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Students flock to job fairs to land work</title>
-    <link>https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/f74a9756e7ca4cb0ba15640febf50499</link>
-    <guid isPermaLink="false">2026-11-16:g5875</guid>
-    <description>With 42.5% of recent graduates underemployed, job fairs have become particularly important and crowded. Students describe competing for internships and the benefits they gain from them.</description>
-    <pubDate>Sun, 15 Nov 2026 11:31:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>Americans are moving less, complicating competition between regions</title>
-    <link>https://www.businessinsider.com/america-emptier-great-people-shortage-less-immigration-fewer-tourists-2026-11</link>
-    <guid isPermaLink="false">2026-11-16:g5876</guid>
-    <description>US regions are competing for a shrinking number of young people as residents move less than they used to.</description>
-    <pubDate>Sun, 15 Nov 2026 11:31:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
 </channel>
