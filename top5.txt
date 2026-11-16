@@ -1,10 +1,10 @@
 # Top 5 news of the day — 2026-11-16
 
-Period: 2026-11-15T13:25+01:00 → 2026-11-16T13:25+01:00 · 62 news received
+Period: 2026-11-15T19:25+01:00 → 2026-11-16T19:25+01:00 · 131 news received
 
 ## 1. Jensen Huang steps down as NVIDIA CEO after 33 years
 
-**Why it matters:** Jensen Huang’s departure from NVIDIA after 33 years could materially affect the company’s strategy, valuation, and leadership of the AI-chip market.
+**Why it matters:** Jensen Huang’s departure after 33 years would create major uncertainty for Nvidia’s strategy, valuation, leadership succession, and the broader AI-chip market.
 
 Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.
 
@@ -14,7 +14,7 @@ Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succ
 
 ## 2. Anthropic’s IPO becomes a test for the entire AI sector
 
-**Why it matters:** Anthropic’s planned Nasdaq listing and enormous supplier commitments will be a major market test of whether investors still accept the AI sector’s massive spending and losses.
+**Why it matters:** Anthropic’s planned IPO and enormous supplier commitments will be a crucial test of investor confidence in the economics and capital intensity of the AI industry.
 
 The creator of Claude is set to list on the Nasdaq at between 70 and 78 dollars per share, amid a difficult environment for AI and Nvidia. Anthropic plans to spend more than 900 billion dollars with suppliers despite a 104-billion-dollar loss over nine months.
 
@@ -22,19 +22,19 @@ The creator of Claude is set to list on the Nasdaq at between 70 and 78 dollars 
 - Sources: Vision IA
 - Received: 2026-11-16T10:59+01:00
 
-## 3. Washington prepares three bills to tighten AI chip exports to China
+## 3. OpenAI rolls out ChatGPT Wallet to let agents make payments
 
-**Why it matters:** New US legislation to tighten AI-chip exports to China could reshape semiconductor supply chains and intensify technological and geopolitical competition.
+**Why it matters:** OpenAI’s ChatGPT Wallet moves AI agents toward real-world commerce and could establish new payment, tokenization, and platform relationships.
 
-Following unproven allegations involving Jensen Huang, the US Congress is preparing three bills designed to strengthen restrictions on AI chips exported to China. None has yet been passed, and the details of the measures remain unknown.
+ChatGPT Wallet, developed with American Express, Mastercard and Visa, lets agents make payments by replacing card details with a token. The rollout begins on Dots for ChatGPT Pro subscribers in the United States.
 
-- Link: https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china
-- Sources: Vision IA
-- Received: 2026-11-16T10:59+01:00
+- Link: https://openai.com/index/introducing-chatgpt-wallet/
+- Sources: Superhuman, The Neuron
+- Received: 2026-11-16T15:08+01:00
 
 ## 4. A compromised MCP server can hijack an AI agent’s other tools
 
-**Why it matters:** The finding that a compromised MCP server can hijack an agent’s other tools exposes a serious security risk for businesses deploying interconnected AI agents.
+**Why it matters:** The finding that a compromised MCP server can hijack an agent’s other tools exposes a serious security risk as enterprises connect autonomous agents to multiple systems.
 
 A test cited by VentureBeat found that a compromised MCP server could prompt an agent connected to five servers to misuse the other tools in 78.3% of cases. The article recommends limiting credentials, adding human approvals, and logging the entire call chain.
 
@@ -42,12 +42,12 @@ A test cited by VentureBeat found that a compromised MCP server could prompt an 
 - Sources: The Neuron, Vision IA
 - Received: 2026-11-16T12:04+01:00
 
-## 5. Agility goes public as the first publicly traded humanoid company
+## 5. SpaceX successfully catches Starship in midair in Texas
 
-**Why it matters:** Agility’s public listing makes humanoid robotics investable in public markets, despite its very small current revenue and substantial execution risk.
+**Why it matters:** SpaceX’s successful midair Starship catch is a major milestone toward a rapidly reusable heavy-lift launch system with potentially transformative effects on space access.
 
-Agility has gone public on the Nasdaq as the first publicly traded company specializing in humanoid robots, with a pre-money valuation of $2.5 billion. However, it generated just $1.8 million in revenue last year.
+SpaceX successfully caught Starship with the mechanical arms of its launch tower after its spaceflight. The catch is important proof of feasibility, although an attempt to catch Super Heavy was aborted during the previous flight.
 
-- Link: https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/
-- Sources: AI Gen Art
-- Received: 2026-11-15T17:02+01:00
+- Link: https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU2NSwiZXhwIjoxNzk1NDA4MzY1LCJhcnRpY2xlSWQiOiJUT0dJOEpLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.NrVZWmopPeBEKMN8K4AWG1ZaJ2iOF45JpdpkRSGMnEw
+- Sources: TLDR
+- Received: 2026-11-16T13:26+01:00
