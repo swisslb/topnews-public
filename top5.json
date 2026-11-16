@@ -1,68 +1,67 @@
 {
   "date": "2026-11-16",
-  "news_count": 35,
+  "news_count": 62,
   "top5": [
     {
       "rank": 1,
       "id": "g5079",
       "title": "Jensen Huang steps down as NVIDIA CEO after 33 years",
-      "description": "Jensen Huang has stepped down as CEO of NVIDIA after 33 years. The proposed succession and its consequences for the company are at the center of questions.",
+      "description": "Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.",
       "link": "https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/",
       "sources": [
-        "The Neuron",
-        "Business Insider"
+        "The Neuron"
       ],
       "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 2,
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Jensen Huang’s departure after 33 years would create major uncertainty for NVIDIA’s strategy, leadership succession and valuation at the center of the AI-chip market."
+      "why": "Jensen Huang’s departure from NVIDIA after 33 years could materially affect the company’s strategy, valuation, and leadership of the AI-chip market."
     },
     {
       "rank": 2,
-      "id": "g5883",
-      "title": "Adobe integrates AI agents into Firefly and Creative Cloud creative workflows",
-      "description": "Adobe is introducing new ways to direct the Creative Agent in Firefly and Creative Cloud to handle complex creative tasks while retaining control over the direction and outcome. Users will be able to delegate repetitive tasks, set their preferences, adjust the agent’s plan, and choose which AI models are used.",
-      "link": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
+      "id": "g5933",
+      "title": "Anthropic’s IPO becomes a test for the entire AI sector",
+      "description": "The creator of Claude is set to list on the Nasdaq at between 70 and 78 dollars per share, amid a difficult environment for AI and Nvidia. Anthropic plans to spend more than 900 billion dollars with suppliers despite a 104-billion-dollar loss over nine months.",
+      "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
       "sources": [
-        "Techpresso",
-        "AI Gen Art"
+        "Vision IA"
       ],
-      "received_at": "2026-11-15T18:12+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Adobe’s integration of AI agents into Firefly and Creative Cloud signals a major shift toward delegated creative workflows and could reshape competition in professional software."
+      "why": "Anthropic’s planned Nasdaq listing and enormous supplier commitments will be a major market test of whether investors still accept the AI sector’s massive spending and losses."
     },
     {
       "rank": 3,
-      "id": "g5901",
-      "title": "LangChain reportedly raises 300 million dollars at a 3 billion dollar valuation",
-      "description": "LangChain, which helps developers build AI agents, reportedly raised 300 million dollars in a deal valuing the company at 3 billion dollars.",
-      "link": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology",
+      "id": "g5911",
+      "title": "Washington prepares three bills to tighten AI chip exports to China",
+      "description": "Following unproven allegations involving Jensen Huang, the US Congress is preparing three bills designed to strengthen restrictions on AI chips exported to China. None has yet been passed, and the details of the measures remain unknown.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "sources": [
-        "The Neuron"
+        "Vision IA"
       ],
-      "received_at": "2026-11-15T20:34+01:00",
+      "received_at": "2026-11-16T10:59+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "LangChain’s reported $300 million financing at a $3 billion valuation highlights strong investor conviction in the infrastructure powering enterprise AI agents."
+      "why": "New US legislation to tighten AI-chip exports to China could reshape semiconductor supply chains and intensify technological and geopolitical competition."
     },
     {
       "rank": 4,
-      "id": "g5791",
-      "title": "ChatGPT Wallet lets AI agents make payments after approval",
-      "description": "OpenAI is beginning to roll out ChatGPT Wallet. The feature allows an AI agent to pay online securely after the user approves the transaction.",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet/",
+      "id": "g5931",
+      "title": "A compromised MCP server can hijack an AI agent’s other tools",
+      "description": "A test cited by VentureBeat found that a compromised MCP server could prompt an agent connected to five servers to misuse the other tools in 78.3% of cases. The article recommends limiting credentials, adding human approvals, and logging the entire call chain.",
+      "link": "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust",
       "sources": [
-        "The Neuron"
+        "The Neuron",
+        "Vision IA"
       ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 2,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "ChatGPT Wallet moves AI agents toward making approved purchases, a potentially important development for online commerce, payments and consumer-control regulation."
+      "followed_topic": null,
+      "why": "The finding that a compromised MCP server can hijack an agent’s other tools exposes a serious security risk for businesses deploying interconnected AI agents."
     },
     {
       "rank": 5,
@@ -77,12 +76,12 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Agility’s public listing gives investors direct exposure to humanoid robotics while testing whether the sector’s ambitious valuations can be justified by still-minimal revenue."
+      "why": "Agility’s public listing makes humanoid robotics investable in public markets, despite its very small current revenue and substantial execution risk."
     }
   ],
   "period": {
-    "from": "2026-11-15T06:25+01:00",
-    "to": "2026-11-16T06:25+01:00"
+    "from": "2026-11-15T13:25+01:00",
+    "to": "2026-11-16T13:25+01:00"
   },
-  "generated_at": "2026-11-16T06:25+01:00"
+  "generated_at": "2026-11-16T13:25+01:00"
 }
