@@ -1,11 +1,91 @@
 {
   "date": "2026-11-16",
   "period": {
-    "from": "2026-11-15T06:25+01:00",
-    "to": "2026-11-16T06:25+01:00"
+    "from": "2026-11-15T13:25+01:00",
+    "to": "2026-11-16T13:25+01:00"
   },
-  "news_count": 35,
+  "news_count": 62,
   "news": [
+    {
+      "id": "g5912",
+      "title": "GPT-6 Astra helps demonstrate a mathematical construction of the Standard Model",
+      "description": "OpenAI and physicist Nathaniel Craig have published a candidate lattice construction of the Standard Model. GPT-6 Astra reportedly contributed to its development and demonstration.",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model/",
+      "sources": [
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5937",
+      "title": "Samsung reportedly approached Anthropic and OpenAI to lease its future AI data centers",
+      "description": "Samsung’s IT division reportedly began discussions with Anthropic and OpenAI about becoming tenants of its future artificial intelligence data centers.",
+      "link": "https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5931",
+      "title": "A compromised MCP server can hijack an AI agent’s other tools",
+      "description": "A test cited by VentureBeat indicates that a compromised MCP server prompted an agent connected to five servers to misuse the other tools in 78.3% of cases. The article recommends limiting credentials, adding human validation, and logging the entire call chain.",
+      "link": "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust",
+      "sources": [
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5941",
+      "title": "Apple is reportedly preparing Siri-controlled smart glasses for 2027",
+      "description": "Apple’s first smart glasses would use Siri to control existing iPhone apps. Apple is reportedly targeting a presentation at WWDC 2027 and a commercial launch at the end of the same year.",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g5943",
+      "title": "The Atlantic tests ChatGPT on 32,245 personal messages and raises consent questions",
+      "description": "The Atlantic tested ChatGPT on 32,245 personal messages. The experiment raises consent questions when an analysis conducted for one person includes other people’s private conversations.",
+      "link": "https://www.theatlantic.com/family/2026/11/ai-text-message-analysis-friendship/689436/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5944",
+      "title": "Apple launches an AI health study involving 200,000 people",
+      "description": "The Apple Health AI Study app allows U.S. adults aged 21 and older with an iPhone 15 Pro or later to ask health questions. It also provides the peer-reviewed citations associated with the answers.",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
     {
       "id": "g5791",
       "title": "ChatGPT Wallet lets AI agents pay after approval",
@@ -18,20 +98,6 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g5079",
-      "title": "Jensen Huang steps down as NVIDIA CEO after 33 years",
-      "description": "Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.",
-      "link": "https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/",
-      "sources": [
-        "The Neuron",
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
     },
     {
       "id": "g5883",
@@ -72,6 +138,357 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5935",
+      "title": "The first AI Music Awards rely on humans to portray AI artists",
+      "description": "The first AI Music Awards ceremony was held in Los Angeles, featuring AI presenters, lip-syncing, and human stand-ins. Technical problems interrupted the ceremony several times.",
+      "link": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5936",
+      "title": "Nvidia reportedly supplied computing capacity to Chinese companies through Asia",
+      "description": "According to The Wall Street Journal, Nvidia developed partnerships with Asian data centers that leased its advanced chips to Chinese customers. One of these partners reportedly arranged nearly 12 billion dollars’ worth of chip orders in 2024 and 2025.",
+      "link": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5940",
+      "title": "Pax Silica countries seek better protection for key AI technologies and supply chains",
+      "description": "Members of Pax Silica, including Japan, Australia, Israel, India, and the United Kingdom, agreed to establish a joint list of AI technologies and supply chains requiring greater protection.",
+      "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5942",
+      "title": "SK Hynix will invest 1.05 billion dollars in its South Korean suppliers",
+      "description": "SK Hynix has committed to investing approximately 1.05 billion dollars over five years to strengthen Korean suppliers of semiconductor materials, components, and equipment.",
+      "link": "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T12:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5908",
+      "title": "LongCat-2.5 is close behind Claude Opus 5 without using Nvidia chips",
+      "description": "Meituan’s Chinese model scores 88.4 points on Terminal Bench, nearly matching Claude Opus 5, and was reportedly trained entirely on Huawei chips. It combines 1,600 billion parameters, a one-million-token context window, and advanced agent capabilities.",
+      "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5909",
+      "title": "A robot independently assembles a structure in orbit",
+      "description": "Caltech’s ASTRA robot built a section of an antenna frame in low Earth orbit without an astronaut. This DARPA-supported demonstration is intended to pave the way for much larger space structures.",
+      "link": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5910",
+      "title": "Alibaba opens Qwen4-Max Preview for two weeks",
+      "description": "Alibaba is allowing users to test Qwen4-Max Preview until November 25. This multimodal model has a one-million-token context window, agent tools, and compatibility with several development environments.",
+      "link": "https://x.com/Alibaba_Qwen/status/2120335993643684315",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5911",
+      "title": "Washington is preparing three laws to tighten AI chip exports to China",
+      "description": "Following unproven allegations targeting Jensen Huang, the U.S. Congress is preparing three bills designed to strengthen restrictions on AI chips exported to China. No bill has yet been adopted, and the details of the measures remain unknown.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5914",
+      "title": "A middle-school student invents a water-powered solar tracker",
+      "description": "Jason Chang designed a system costing less than 25 dollars that orients a solar panel using a bucket filled drop by drop, with no motor or electricity. The device produces about 20% more voltage than a fixed panel.",
+      "link": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5915",
+      "title": "A Vulcan rocket failure destroys 40 Amazon satellites",
+      "description": "A United Launch Alliance Vulcan rocket failed about ten minutes after liftoff, destroying 40 satellites belonging to Amazon’s Leo internet network. The cause of the failure remains unknown.",
+      "link": "https://www.theinformation.com/briefings/amazon-loses-40-leo-satellites-ula-rocket-failure",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5916",
+      "title": "Confucius4-R2T2 freezes words in live speech transcripts",
+      "description": "This transcription system freezes each word as soon as it appears, without rewriting the beginnings of sentences, while remaining fast and almost as accurate as delayed transcription. It is based on an adaptation of Qwen3-ASR-1.7B trained on 1,500 hours of Chinese and English audio.",
+      "link": "https://arxiv.org/abs/2611.06043",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5917",
+      "title": "Apple runs an 816-billion-parameter model on four Mac Studio computers",
+      "description": "The new version of MLX distributes a very large model across several Mac Studio computers connected via Thunderbolt. Muse Spark Open reaches more than 36 tokens per second on four machines, while some models fit on a single 512 GB Mac Studio.",
+      "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5918",
+      "title": "Alibaba releases its open-source AI code review tool",
+      "description": "Alibaba has open-sourced open-code-review, a tool combining traditional rules with an AI agent to comment on code line by line. It searches in particular for XSS vulnerabilities, SQL injections, and common crashes.",
+      "link": "https://github.com/alibaba/open-code-review",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5919",
+      "title": "Claude Cowork lets users launch desktop tasks from a phone",
+      "description": "Claude Cowork can sort files, turn screenshots into spreadsheets, and compile notes into a report. The integration of the desktop and mobile apps lets users launch a task from a phone for execution on a computer.",
+      "link": "https://claude.com/download",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5920",
+      "title": "Claude Fable 5.2 paints its images with Python code",
+      "description": "Claude Fable 5.2 generates images by writing Python code that simulates hundreds of thousands of brushstrokes. A photorealistic parking-lot scene reportedly required about 700,000 brushstrokes.",
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5921",
+      "title": "OATs modules turn connected objects into AI Tamagotchis",
+      "description": "OATs modules display expressions generated by Nano Banana on an E Ink screen based on humidity, light, or motion sensors. These devices cost about 20 dollars and are not yet commercially available.",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5662",
+      "title": "Google’s Gemini glasses are available for preorder",
+      "description": "Google is opening preorders for smart glasses designed with Warby Parker, Gentle Monster, and Samsung. They offer translation, directions, and environmental descriptions, with a 12-megapixel camera and nine hours of battery life.",
+      "link": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5923",
+      "title": "Agile Robots raises 500 million dollars for its humanoids",
+      "description": "The Munich-based company Agile Robots wants to deploy more industrial robots, particularly in the United States. It raised 500 million dollars from SoftBank and Nvidia to fund its expansion and a possible IPO.",
+      "link": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5924",
+      "title": "Apple launches a study on AI use in healthcare",
+      "description": "With OpenEvidence, Apple is offering a study in which participants ask health questions to an AI system relying on recognized medical sources and potentially using their HealthKit data. The study aims to enroll up to 200,000 U.S. participants over the age of 21.",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5925",
+      "title": "AI is affecting young workers first, according to an Australian study",
+      "description": "The Reserve Bank of Australia observes a sharper decline in job postings and employment among 15–24-year-olds in occupations highly exposed to AI. The study remains cautious, as the economic cycle and remote work could also explain the trend.",
+      "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5926",
+      "title": "Tech job postings plunge as AI appears in half of listings",
+      "description": "The Hacker News monthly job-posting thread contains 244 listings in November, down 37% from a year earlier. AI appears in 51.6% of postings, while junior positions remain around 3%.",
+      "link": "https://www.hntrends.com/2026/november.html",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5927",
+      "title": "A developer argues that all AI-generated code should be open source",
+      "description": "Jakub Jankiewicz argues that AI-generated code should be open, since the models were trained on free code and Stack Overflow without permission. He also cites the lack of U.S. copyright protection for works created without human intervention.",
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5928",
+      "title": "YouTube Music and Spotify’s AI hosts disappoint",
+      "description": "A Wired journalist tested YouTube Music and Spotify’s AI hosts and found empty commentary as well as several errors. She ultimately disabled the feature.",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5929",
+      "title": "In Singapore, 94% of small-business owners are asking for AI help",
+      "description": "According to a YouGov study commissioned by Meta, 94% of surveyed small-business owners in Singapore want more support using AI. Meta trained more than 180 merchants and creators during its Meta Upskill Day 2026.",
+      "link": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5930",
+      "title": "Jensen Huang is reportedly considering taking over Nvidia again",
+      "description": "A few days after his resignation linked to the scandal, Jensen Huang reportedly discussed returning to lead Nvidia with people close to him, according to the Financial Times as relayed by Bloomberg. No official confirmation or timeline has been provided.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5932",
+      "title": "Older connected devices remain a major network vulnerability",
+      "description": "According to Cisco, nearly 40% of the most exploited vulnerabilities affect end-of-life hardware, including routers and cameras that no longer receive updates. Cisco recommends regularly replacing this equipment, but few brands disclose their support lifespans.",
+      "link": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5933",
+      "title": "Anthropic’s IPO becomes a test for the entire AI sector",
+      "description": "The creator of Claude is set to list on the Nasdaq at between 70 and 78 dollars per share, amid a difficult environment for AI and Nvidia. Anthropic expects more than 900 billion dollars in supplier spending, despite a loss of 104 billion over nine months.",
+      "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T10:59+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g5894",
@@ -169,6 +586,19 @@
       "title": "Harvard publishes a guide on AI’s effects by learner age",
       "description": "Harvard researchers published a guide explaining when AI can help or hinder learning at different ages.",
       "link": "https://compass.gse.harvard.edu/explore/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5079",
+      "title": "Jensen Huang steps down as NVIDIA CEO after 33 years",
+      "description": "Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.",
+      "link": "https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/",
       "sources": [
         "The Neuron"
       ],
@@ -381,84 +811,6 @@
         "Business Insider"
       ],
       "received_at": "2026-11-15T16:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5820",
-      "title": "U.S. air disruptions continue after a nationwide ground stop",
-      "description": "Thousands of flights were canceled Saturday after Friday night’s ground stop, and further disruptions are expected. Authorities are blaming an FAA contractor, while the Transportation Secretary is requesting $50 billion to modernize the systems.",
-      "link": "https://www.businessinsider.com/faa-national-ground-stop-flights-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5872",
-      "title": "Deloitte drops coverage of GLP-1 drugs for weight loss",
-      "description": "Deloitte will stop reimbursing US employees for GLP-1 medications used for weight loss, while continuing to cover those needed for diabetes. The firm is also increasing health insurance premiums because of rising costs.",
-      "link": "https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/066c9723d94f4cc3a85827b5352c248b",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5873",
-      "title": "Contractors accuse Handshake AI of owing them more than $60,000",
-      "description": "Nearly two dozen current and former contractors say AI training startup Handshake underpaid them. Joel Thomas, in particular, says the company owes him $11,000 in unpaid wages.",
-      "link": "https://www.businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5874",
-      "title": "RV businesses benefit from the data center boom",
-      "description": "Workers traveling for well-paid data center jobs are using their per diem to rent an RV rather than stay in a hotel. The trend is giving the RV industry a boost and filling campgrounds with long-term workers.",
-      "link": "https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/6086e46722f640ff858541a284320d4e",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5875",
-      "title": "Students flock to job fairs to land work",
-      "description": "With 42.5% of recent graduates underemployed, job fairs have become particularly important and crowded. Students describe competing for internships and the benefits they gain from them.",
-      "link": "https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/f74a9756e7ca4cb0ba15640febf50499",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5876",
-      "title": "Americans are moving less, complicating competition between regions",
-      "description": "US regions are competing for a shrinking number of young people as residents move less than they used to.",
-      "link": "https://www.businessinsider.com/america-emptier-great-people-shortage-less-immigration-fewer-tourists-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T12:31+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
