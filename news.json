@@ -1,15 +1,42 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "period": {
-    "from": "2026-11-14T19:25+01:00",
-    "to": "2026-11-15T19:25+01:00"
+    "from": "2026-11-15T06:25+01:00",
+    "to": "2026-11-16T06:25+01:00"
   },
-  "news_count": 19,
+  "news_count": 35,
   "news": [
+    {
+      "id": "g5791",
+      "title": "ChatGPT Wallet lets AI agents pay after approval",
+      "description": "OpenAI is beginning to roll out ChatGPT Wallet. The feature allows an AI agent to pay online securely after the user’s approval.",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5079",
+      "title": "Jensen Huang steps down as NVIDIA CEO after 33 years",
+      "description": "Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.",
+      "link": "https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/",
+      "sources": [
+        "The Neuron",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
     {
       "id": "g5883",
       "title": "Adobe integrates AI agents into Firefly and Creative Cloud creative workflows",
-      "description": "Adobe is introducing new ways to direct the Creative Agent in Firefly and Creative Cloud to handle complex creative tasks while maintaining control over the direction and outcome. Users will be able to delegate repetitive tasks, set their preferences, adjust the agent’s plan, and choose which AI models are used.",
+      "description": "Adobe is introducing new ways to direct the Creative Agent in Firefly and Creative Cloud to handle complex creative tasks while retaining control over the direction and outcome. Users will be able to delegate repetitive tasks, set their preferences, adjust the agent’s plan, and choose which AI models are used.",
       "link": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
       "sources": [
         "Techpresso",
@@ -23,7 +50,7 @@
     {
       "id": "g5884",
       "title": "ChatGPT Images 2.6 turns product photos into animated GIFs",
-      "description": "OpenAI has added GIF creation to ChatGPT with its Images 2.6 model, using either a prompt or an uploaded photo. The feature can, among other things, animate an element in a product photo, but it is not yet available to all accounts.",
+      "description": "OpenAI has added GIF creation to ChatGPT with its Images 2.6 model, using either a prompt or an uploaded photo. The feature can, among other things, animate an element of a product photo, but it is not yet available to all accounts.",
       "link": "https://www.tomsguide.com/ai/chatgpt-can-now-turn-your-photos-into-gifs-and-free-users-get-the-upgrade-too",
       "sources": [
         "AI Gen Art"
@@ -47,9 +74,204 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g5894",
+      "title": "An AI learns words using a sleep-inspired method",
+      "description": "Princeton researchers trained an AI using recordings of a baby’s daily life. Regularly replaying recent memories enabled it to recognize thousands of words, whereas it had recognized none before.",
+      "link": "https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5895",
+      "title": "Oakland employees negotiate AI protections",
+      "description": "A tentative agreement provides that the city must retrain or reassign employees whose jobs would be eliminated by AI. The agreement also includes a 9% pay increase over three years and helped avert a strike.",
+      "link": "https://www.oaklandca.gov/News-Releases/Oakland-Reaches-Tentative-3-Year-Agreement-with-IFPTE-Local-21",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5896",
+      "title": "Claude Sheets automatically compares two quotes",
+      "description": "Anthropic has launched Claude Sheets in beta for its paid plans. The tool creates an editable spreadsheet with formulas to compare rates, quantities, and recurring costs.",
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5897",
+      "title": "Mister Blocks turns a photo of LEGO bricks into building ideas",
+      "description": "Mister Blocks analyzes a photo of loose LEGO bricks and suggests builds that can be made with the available pieces. The service also provides rotatable 3D instructions.",
+      "link": "https://www.producthunt.com/products/mister-blocks",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5899",
+      "title": "MIT improves a small model by having another AI correct it",
+      "description": "MIT researchers used one AI to correct another, much as developers fix software. The small model’s score on a math test rose from 8% to 48% without retraining.",
+      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5225",
+      "title": "Notion alerts customers after access keys leak at Fireworks",
+      "description": "Notion warned companies that access keys issued by its services had been exposed during a breach at Fireworks, its AI provider.",
+      "link": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5901",
+      "title": "LangChain reportedly raised $300 million at a $3 billion valuation",
+      "description": "LangChain, which helps developers build AI agents, reportedly raised $300 million in a deal valuing the company at $3 billion.",
+      "link": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5902",
+      "title": "Harvard publishes a guide on AI’s effects by learner age",
+      "description": "Harvard researchers published a guide explaining when AI can help or hinder learning at different ages.",
+      "link": "https://compass.gse.harvard.edu/explore/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5904",
+      "title": "Anthropic releases two versions of its Fable and Mythos models",
+      "description": "Anthropic released Fable 5.2 and Mythos 5.2, two versions of the same model with different safety rules.",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTdv7UzbY5JUHyG9jxxrKN_Hf3WxsZ3wjMoXRrbfQFrhji3CRC2bo6bYqsLPcYKKyi7S-5ef6YDC9DT3UEYqQDRpp28O6WEPQtkPauKJq2quWKMMwdihBvRgfyqQJF_1V71DbIRTOZDK7N2xV6nisICiqf-FPGLu-s0yIaofCOGazqzz-HpLagjnj0W1eedc_nmn2R750vO9jgRinENjPhXOzA6KTTH-r81uP3OV64JNlOxjNoT9CAbL8ZyRTP8hHby3RS8bLB7jhn0meeCfCsFzREfbXeapRni2bKr3d1B4Z6DoVyGJpZ_SqILhsfBn8y_Bd49tIYhq_6swACfhFCc3-aVHQAf1StHcha_3L4St4hl9PeF8CcwGK09VwsrZ8xNAGpiz9I5pV8cV3sXjPGY48dHuUvirjxnijQMFOgvtg0LvRTPCVXj3VhkF71VwCMeVUJhlf-0spX8douFl_3J_9C9Efbw8SWxnRCqEfD22bUWQfC8yeYdLwXuET3bwb7D8B5DAR3ncJ6aOnKmLoT_GfRUVmS6REYWTbdip4zNt3f4noRenmW6p7YRyCdR7h1iFK3hKKd8_aSWyZmqNcNNM8jATIQX2tvB-ejLMtUeoi3V7iE54uXzPzoMJHfCyArBt-97q5Xm0rbaLV0MWRdPGMdl9ECg8nM1gUkYwRIv5SyT7YQjlBM1dQ0s0Xq8dTaHYL0I3ObBJPAMb42EmwIXJE7yhJ8MfkF2H7VwvI6P5AvdOsJZn5yEVUymo3vsHVkA/4vr/rIJ2oxarTNaqCiunOabTrg/h34/h001.U9KCmaDLhyTvdKuH7tf7o70MxLjT9SAZU-I64s0Gh9s",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5511",
+      "title": "Google DeepMind launches AlphaGenome 2 to predict the effects of DNA mutations",
+      "description": "AlphaGenome 2 predicts why the same DNA change may affect one cell type but not another.",
+      "link": "https://www.theneuron.ai/news/googles-alphagenome-2-wants-to-find-where-disease-begins/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5510",
+      "title": "United Airlines bans unauthorized AI agents from booking flights",
+      "description": "United Airlines has banned unauthorized AI agents from booking flights, citing risks including accidental purchases and the misuse of miles.",
+      "link": "https://www.theneuron.ai/news/united-wants-you-to-book-the-flight-your-ai-agent-isnt-invited/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5907",
+      "title": "Google DeepMind uses AI to verify Signal’s code",
+      "description": "Google DeepMind used AI agents to mathematically prove that Signal’s code provides some of its privacy protections.",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTdDj5W_b3XtWLsSLRK36X-N5ha4wity_FVITnigxA722jOAohXEmf-aZ5g8yY73dUpxAYTQgIpRSqdB_gF7_TSMV8x8V30nD6JGzn_5FAgkrkJVP6Iqt6NAbv6o0TbkilAFVl4ccP9vu0uVW2QJsyQMmLPQZp1wZOyo4sQEtx1-0o3ULlA5nuhTekolF0HNdjq022kmNJpVmgY9RGqAxOv1TIqCjT8eAzfd53A38WqjLaIMmktj4KMswzkpyj6eOkwM6PIdEBvqAh8PXrCSDf8Cq7uhc9ipN0VgrPOZLpmOvzLDZHNY41w0OLd1PEazp2M-ax889EC1MTo4VZtl_EkeauXOTq-bAitWY8xZCPLw9H3df-sRyDxkKmrrjZGoAB9FXjR3WvmX-0SmYzKams3AzdfcFK_pLu9ckHGBgCS9LIKKAPeDTTDmu_qPLWrURMVPvWHiz2Z-ky63hRwbS5zSjkNzosqDrmxY12bElXO9o0DjWsSMymZF7C_4IZMaHII3qvcK76N7k0qT8drXDH3XsZPp8z6CgUs8_iGozntOFBogo3_tykh2Xf94ZVWP-N-14yIgMyvqts1c7LPFvkWgbmLPLlkdmVejSIYMUC8WOWUhLbwU4hLJumSJBW5VIz3jdVCu7PaiXBifwg_rnE_vvICMP0eMN5jYFUISODANNerCNpXt98GkAXaag1FG0jCGlmtG1GzFh3hj8ymawrvFxS3O3Krw7lvoixJJQrZ0Vw/4vr/rIJ2oxarTNaqCiunOabTrg/h37/h001.RR9Zg107VyrkeZ-dClZTRdkh7lvl9T4sD61HtXSoINk",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-15T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5891",
+      "title": "Building your first AI automation",
+      "description": "Automation consists of a trigger, an action, and an outcome. It is recommended to start with a low-risk task so that an error has no consequences.",
+      "link": "https://link.mail.beehiiv.com/v2/c/b192cf15b88811dc0594c404071f33ccc55d03860f7313183034ff24e1c5348bf20147a1e7422d79113070c77b99bfab1e193b472c6c84680d5f5960e4613cb897d35095a271272971f77f7f3522099c46c8d453b0fb074a6b2d85ea0f8ef442428492c2ef441dd5c125210d7fbf0ab990b9cf7d2de7ee2c8cebfe806b9874cbe08acee877897641ba2aad1f7e366e7bd7753259cba37cc264b66fe95514af08/714ca81e82cff18b",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-15T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5892",
+      "title": "Five questions to identify tasks to automate",
+      "description": "After creating a first automation, five questions can help determine which tasks are worth delegating to AI.",
+      "link": "https://link.mail.beehiiv.com/v2/c/d3c0b4b29169bc92069bb0714a6dfafefdd8bba833842223572e700f1166a7ce54c2d532256079b58299bac2c9c3310f9e289eea5a09496897d7a679150f5c3024048b713506760bebac82f43b00e316d950d7651c2dd74ba63f7658af24c96d99005e3c52d6335ccd8d7b98abd0e1e83385af7970afa35ca7b9dd290d440ea9bd729a6966bb1deb7392e83ddba90181c95f6b6a367c12114682ca048b0d6441/4728bfedd2e044fd",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-15T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5893",
+      "title": "Automating your inbox and calendar",
+      "description": "AI can prepare email and calendar actions up to the send button. Sending messages and accepting meetings, however, remain under the user’s control.",
+      "link": "https://link.mail.beehiiv.com/v2/c/4cc0b5cff5510c15eb60696970eccd5ea2b4f9f5c0a311d9c10740552ecf0db6a3e2e59e4933d0ad1ad4d289c6e3b55d7943d5f6a2ab17cdc3c8bf98ecd35562491c58659e7dadcaae66b768c33017c8dd794aaa53cfd2ecd3b76dce62f109ea7bd473240cde47a0e8e6ee614284ce984b3a9b34a08067c87fee86277cbce188f64fd6e39e1d9f37d94f8a987db1487b0d61efa55d10394b67b28ecace66836f/12121ae47cf1806f",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-15T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5890",
       "title": "Adobe prepares local MCP integrations to edit native files",
-      "description": "Adobe has unveiled local MCP integrations that connect third-party agents to Photoshop, Illustrator, Premiere, and After Effects to directly edit native project files while keeping them editable. These integrations will be offered in a private beta in early 2027.",
+      "description": "Adobe has unveiled local MCP integrations that let third-party agents connect to Photoshop, Illustrator, Premiere, and After Effects to directly edit native project files while keeping them editable. These integrations will be offered in private beta in early 2027.",
       "link": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
       "sources": [
         "Techpresso"
@@ -61,7 +283,7 @@
     },
     {
       "id": "g5888",
-      "title": "Dermatologist recommends skipping face washing",
+      "title": "A dermatologist recommends skipping face washing",
       "description": "A dermatologist says your skin might thank you for not washing your face.",
       "link": "https://l.businessinsider.com/a/zc/21432/30f26c517d3f4dc8b76dd432d824d225/80ba39c04f8d4f79b9ff766afbf2ea6d",
       "sources": [
@@ -75,7 +297,7 @@
     {
       "id": "g5885",
       "title": "Ring launches a home security drone and patrol robot",
-      "description": "Ring has launched Ring Robotics with the Ring Drone Cam, a $270 indoor flying camera, and the Ring Rover Cam, a $1,000 patrol robot designed for businesses. The drone can travel to the source of an alarm, and the robot can follow predefined routes, but the cameras raise privacy concerns.",
+      "description": "Ring has launched Ring Robotics with the Ring Drone Cam, a $270 indoor flying camera, and the Ring Rover Cam, a $1,000 patrol robot designed for businesses. The drone can travel to the source of an alarm, and the robot can follow preset routes, but these cameras raise privacy concerns.",
       "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
       "sources": [
         "AI Gen Art"
@@ -88,7 +310,7 @@
     {
       "id": "g5887",
       "title": "Agility goes public as the first publicly traded humanoid company",
-      "description": "Agility debuted on the Nasdaq as the first publicly traded company specializing in humanoid robots, with a $2.5 billion pre-money valuation. However, it generated just $1.8 million in revenue last year.",
+      "description": "Agility has gone public on the Nasdaq as the first publicly traded company specializing in humanoid robots, with a pre-money valuation of $2.5 billion. However, it generated just $1.8 million in revenue last year.",
       "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
       "sources": [
         "AI Gen Art"
@@ -100,8 +322,8 @@
     },
     {
       "id": "g5878",
-      "title": "Business Insider reveals its 2026 Wall Street Rising Stars",
-      "description": "Business Insider has unveiled its 2026 selection of Wall Street Rising Stars, highlighting the people shaping the future of finance.",
+      "title": "Business Insider unveils its 2026 Rising Stars of Wall Street",
+      "description": "Business Insider has presented its 2026 selection of Wall Street Rising Stars, highlighting the people shaping the future of finance.",
       "link": "https://l.businessinsider.com/a/sc/vtXmvQZw7UwFQVgEn4cNXim5VcTD_gv6y_kCygWjTjqPWuqSpPkquu9ZeCVpy0xsilMKAzZlWVMNDUWFC1MpOdFaMtFcCg7j_yQ9AHd0s0P7npvyMLtTIIsbivAp2CTZewb1C_TgbETorsnOc7PKB58ToIKmDTB31cRWo3z9S7FIeeW1muB2gwS583r6rXcDUbpyprXMfRDSq03J_z0lx4NGFX4JpX3fQQp_MAGHNO-wWe-FlNdx7hbpv5jLyGAr2DiWWxV3m2mGpdBOeKVaAKB6UqNPqQCpQdkf5ARw5fu_qrZ2WAUNR0ErVQeorVtAQUWNMRQXBocchMweg5sQybSrXykCJfAFYqqsmSnZMTCuXtd5Kr8zC8tOeTklr4SJpIOM89GBivz1-HoQgQAEAzsqfztIkTDbd2_Q5kVOaE8I6A810w8VNkJTMiWpiC9_UWR1PWfIYRA4qCWsEW-6Awj-gse53OhcrxAIi0mRP0Drj6SqaWcv_Bdp5wUJYLbNP7RZza8Kj-JMNfF0g-aaXOa0ItWCdQd3oPw76-9cGZ7X27di0YxMCR-wO-t82dsu3kTtmQMEcq-cwi7Klp3eQFNUZQHXTsV9rTrMsVbNMMHYf3Hp4AM9U4Vhg0nx8SWFl85yudJKzIKAWgSalimYH8ZYKw4PNEq_GccVBUN4K63HZRhow2ieT__G07IqjURn3LFhsOyGaL7_daX3Fl1EXsnCI1GwjHSXFxCVTdGaWhybjgFC5893mSw/jWrBZ7jis_RL8_r5AS0fuSWjtSZ9x07b/26",
       "sources": [
         "Business Insider"
@@ -127,7 +349,7 @@
     {
       "id": "g5880",
       "title": "Skydance reshuffles power after its merger with Paramount-WBD",
-      "description": "Business Insider examines Skydance’s new leadership and the power shifts following its merger with Paramount-WBD.",
+      "description": "Business Insider examines Skydance’s new leadership and the shifts in power following its merger with Paramount-WBD.",
       "link": "https://l.businessinsider.com/a/sc/lmTQ9pZpVWohKVlfXOmcIdxMaroivRrIx-KnKgUUyoL_QHsYxej5VjtMesijhYN95pDHBrS1XHEjHYAS-ZMIFWYLivtHePKFlK8lp-UGcaOLn4Q3ZRBB78nxKQmrKigTfpyQ239mewqTVbAroFfgnPpTiuQeNdgYQnUYEXdo3sqC6jrM7Mrr5AzIUZKrf2o4s5lntuw2wnMhqbqVp-LTcaUKgNuM2ZJfi_Sqk4XweyB7BTD4CHhQHAK2QVZWy4UjESwu0Za54QyJAP2QcuDrBL04eAo8L80ClFOv-SvoViuH0dVanX6TAcRjrRUYT4BH0qjiiaiFwzm482m30ljcEDkoNj_B825-Ak4cGFWZW9KXQnugc2LdJ3N4tkulVdqDBolYNU9SUdwaRxA5W2YhKriRXR8YOymWZLuR1gD5QXxvaOFknW2YSYx_Rm0Els_oFouBIJlYsiwv25lNy5MF3sVjGDD1TqchxgleCq9n6JDTWxQC1kgRmIV9lRweL10_tEmw0ujpMiRzs9P9mm4w0rLBALBS-FwHOyg_kMk7QsWnyzTgaq7bQg8KIyRchmiUPvLEK0bq1QLgYXpQ-BtJ4sOiGfRHzPetYk2kFA1mIZFyV1TajKP0uGpGBhgVOwBRcxw5ISTUu41mg6p0Ql-nw-rmuWu3GQavx_mLnf7c7cQWdkuPv8dEhH6of641COq8LucbM5OLRNgyz-0W4u2dVQW5tJWSQHfzJMO8lbsHYGk9e9ivRNE8xzx2fX5jJmXMv0ibWwIAFal02FLv7c-5QUBTJpQ04Nxi1BHTQRTZm3t-nTtM2P2X3Zuio4KoV9fzD_M3Taw-/NJkZ3NnoX5ENudqordii9dKWHDNikqo1/26",
       "sources": [
         "Business Insider"
@@ -140,7 +362,7 @@
     {
       "id": "g5881",
       "title": "China-based executives gain power at TikTok",
-      "description": "Business Insider examines how China-based executives have gained power at TikTok Shop.",
+      "description": "Business Insider analyzes how China-based executives have gained power at TikTok Shop.",
       "link": "https://l.businessinsider.com/a/sc/izMJW9i7po2XZ7ARuuVXsonOtQnKZQwLYbJjsBHVVD-fmtHBVF4wo5zRaLjnVwHPO8mMAzod6iXwJmVHhJdb8m8rhnuqcshmgpm0RqHwyZS6ItuUEQ6D3zGJzIQUhp6002O_0Jz3yi1Rfy5LkQBrkCi4sGlW_PlsRee6BUtcTs4clc7iH0X9SF5VJw_I_Z_mBL22b_fm67lkVwG0IiAfERqKs_GvV_T1aH4nVHmdGWV2hUTYeIWESrnEi8iG5Y0CAq4iLOHBAc4EHSHivjW-N629jWTE79k6lquyy-mm513LmOMR3jf1B7was6z8tmPE5TXbEXOLhFWaUe8xcVxyFS5RzDbZplMnKUbBIo9MMGysfhwAb7W9jQc-7W2yHtpsVDoTKYfzdq9n7vlx7YsgVZi7ETsmY5U8m8cmFxp3hR_pWkfdcpbaRNy5sSVZLZTboAnVUb4VNPSjlj6kybJTYQM9IgckeLldP-Zccnxs6fiUYw5kL8wLyEuxeyWkWy1bQkD1cBmOuDVwSbXq-FwlHrSou8k_VB1TzHA6v9mNYiqzgfnd2-Yl_F6eL2_ExXmXgGHNAFmLwqFijTUSuYFxIrM85w5LQPW3K8P6SVIaI_TLGdpq3Hho0nLoMzQF85TyqRfludDAF9-Zte6pBJ3kEV2dxI1DX73KaEL7HatjX-5qu1coNxhTgHgQ6tzS8Rs5D2tu8Xrk129EhyoUhmiLtGsRR4cs5cQIXvWbiGC3hUXRGq21iLe-cCk6YRe9sX8W-lgpW6w7JTsS61G3wN5sQg/4gLfdDYLijKWqv_teTTLMsyCNK-9-AMd/26",
       "sources": [
         "Business Insider"
@@ -164,9 +386,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5870",
-      "title": "US air travel disruptions continue after nationwide ground stop",
-      "description": "Thousands of flights were canceled Saturday after Friday night’s ground stop, and further disruptions are expected. Authorities blame an FAA contractor, while the Transportation Secretary is calling for $50 billion to modernize the systems.",
+      "id": "g5820",
+      "title": "U.S. air disruptions continue after a nationwide ground stop",
+      "description": "Thousands of flights were canceled Saturday after Friday night’s ground stop, and further disruptions are expected. Authorities are blaming an FAA contractor, while the Transportation Secretary is requesting $50 billion to modernize the systems.",
       "link": "https://www.businessinsider.com/faa-national-ground-stop-flights-2026-11",
       "sources": [
         "Business Insider"
@@ -177,22 +399,9 @@
       "followed_topic": null
     },
     {
-      "id": "g5079",
-      "title": "Jensen Huang’s downfall puts Nvidia to the test",
-      "description": "Jensen Huang, Nvidia’s former CEO and a central figure at the company, is facing revelations about relationships with female employees, while the company investigates a possible foreign intelligence operation. Nvidia’s market capitalization fell by $573 billion in one week, renewing questions about succession and key-person risk.",
-      "link": "https://www.businessinsider.com/nvidia-successor-rebuild-trust-focus-culture-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-15T12:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5872",
-      "title": "Deloitte eliminates GLP-1 coverage for weight loss",
-      "description": "Deloitte will stop covering GLP-1 drugs used for weight loss for its US employees, while continuing to cover those needed for diabetes. The firm is also increasing health insurance premiums because of rising costs.",
+      "title": "Deloitte drops coverage of GLP-1 drugs for weight loss",
+      "description": "Deloitte will stop reimbursing US employees for GLP-1 medications used for weight loss, while continuing to cover those needed for diabetes. The firm is also increasing health insurance premiums because of rising costs.",
       "link": "https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/066c9723d94f4cc3a85827b5352c248b",
       "sources": [
         "Business Insider"
@@ -205,7 +414,7 @@
     {
       "id": "g5873",
       "title": "Contractors accuse Handshake AI of owing them more than $60,000",
-      "description": "Nearly two dozen current and former contractors say AI-training startup Handshake underpaid them. Joel Thomas, in particular, says the company owes him $11,000 in unpaid wages.",
+      "description": "Nearly two dozen current and former contractors say AI training startup Handshake underpaid them. Joel Thomas, in particular, says the company owes him $11,000 in unpaid wages.",
       "link": "https://www.businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11",
       "sources": [
         "Business Insider"
@@ -217,8 +426,8 @@
     },
     {
       "id": "g5874",
-      "title": "RVs benefit from the data center boom",
-      "description": "Workers traveling for well-paid data center jobs are using their per diem to rent an RV instead of a hotel. The trend is giving the RV industry a boost and filling campgrounds with long-term workers.",
+      "title": "RV businesses benefit from the data center boom",
+      "description": "Workers traveling for well-paid data center jobs are using their per diem to rent an RV rather than stay in a hotel. The trend is giving the RV industry a boost and filling campgrounds with long-term workers.",
       "link": "https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/6086e46722f640ff858541a284320d4e",
       "sources": [
         "Business Insider"
@@ -230,8 +439,8 @@
     },
     {
       "id": "g5875",
-      "title": "Students flock to career fairs to land jobs",
-      "description": "With 42.5% of recent graduates underemployed, career fairs have become especially important and crowded. Students describe competing for internships and the benefits they gain from them.",
+      "title": "Students flock to job fairs to land work",
+      "description": "With 42.5% of recent graduates underemployed, job fairs have become particularly important and crowded. Students describe competing for internships and the benefits they gain from them.",
       "link": "https://l.businessinsider.com/a/zc/21432/2d42022c73a7491b88ce619bf4858049/f74a9756e7ca4cb0ba15640febf50499",
       "sources": [
         "Business Insider"
@@ -244,7 +453,7 @@
     {
       "id": "g5876",
       "title": "Americans are moving less, complicating competition between regions",
-      "description": "US regions are competing for an increasingly limited number of young people as residents move less than they used to.",
+      "description": "US regions are competing for a shrinking number of young people as residents move less than they used to.",
       "link": "https://www.businessinsider.com/america-emptier-great-people-shortage-less-immigration-fewer-tourists-2026-11",
       "sources": [
         "Business Insider"
