@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "news_count": 62,
+  "news_count": 131,
   "top5": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Jensen Huang’s departure from NVIDIA after 33 years could materially affect the company’s strategy, valuation, and leadership of the AI-chip market."
+      "why": "Jensen Huang’s departure after 33 years would create major uncertainty for Nvidia’s strategy, valuation, leadership succession, and the broader AI-chip market."
     },
     {
       "rank": 2,
@@ -30,22 +30,23 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Anthropic’s planned Nasdaq listing and enormous supplier commitments will be a major market test of whether investors still accept the AI sector’s massive spending and losses."
+      "why": "Anthropic’s planned IPO and enormous supplier commitments will be a crucial test of investor confidence in the economics and capital intensity of the AI industry."
     },
     {
       "rank": 3,
-      "id": "g5911",
-      "title": "Washington prepares three bills to tighten AI chip exports to China",
-      "description": "Following unproven allegations involving Jensen Huang, the US Congress is preparing three bills designed to strengthen restrictions on AI chips exported to China. None has yet been passed, and the details of the measures remain unknown.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "id": "g5791",
+      "title": "OpenAI rolls out ChatGPT Wallet to let agents make payments",
+      "description": "ChatGPT Wallet, developed with American Express, Mastercard and Visa, lets agents make payments by replacing card details with a token. The rollout begins on Dots for ChatGPT Pro subscribers in the United States.",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet/",
       "sources": [
-        "Vision IA"
+        "Superhuman",
+        "The Neuron"
       ],
-      "received_at": "2026-11-16T10:59+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-16T15:08+01:00",
+      "covered_by": 2,
       "favorite": false,
-      "followed_topic": null,
-      "why": "New US legislation to tighten AI-chip exports to China could reshape semiconductor supply chains and intensify technological and geopolitical competition."
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI’s ChatGPT Wallet moves AI agents toward real-world commerce and could establish new payment, tokenization, and platform relationships."
     },
     {
       "rank": 4,
@@ -61,27 +62,27 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "The finding that a compromised MCP server can hijack an agent’s other tools exposes a serious security risk for businesses deploying interconnected AI agents."
+      "why": "The finding that a compromised MCP server can hijack an agent’s other tools exposes a serious security risk as enterprises connect autonomous agents to multiple systems."
     },
     {
       "rank": 5,
-      "id": "g5887",
-      "title": "Agility goes public as the first publicly traded humanoid company",
-      "description": "Agility has gone public on the Nasdaq as the first publicly traded company specializing in humanoid robots, with a pre-money valuation of $2.5 billion. However, it generated just $1.8 million in revenue last year.",
-      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "id": "g5980",
+      "title": "SpaceX successfully catches Starship in midair in Texas",
+      "description": "SpaceX successfully caught Starship with the mechanical arms of its launch tower after its spaceflight. The catch is important proof of feasibility, although an attempt to catch Super Heavy was aborted during the previous flight.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU2NSwiZXhwIjoxNzk1NDA4MzY1LCJhcnRpY2xlSWQiOiJUT0dJOEpLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.NrVZWmopPeBEKMN8K4AWG1ZaJ2iOF45JpdpkRSGMnEw",
       "sources": [
-        "AI Gen Art"
+        "TLDR"
       ],
-      "received_at": "2026-11-15T17:02+01:00",
+      "received_at": "2026-11-16T13:26+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": null,
-      "why": "Agility’s public listing makes humanoid robotics investable in public markets, despite its very small current revenue and substantial execution risk."
+      "followed_topic": "SpaceX et Starlink",
+      "why": "SpaceX’s successful midair Starship catch is a major milestone toward a rapidly reusable heavy-lift launch system with potentially transformative effects on space access."
     }
   ],
   "period": {
-    "from": "2026-11-15T13:25+01:00",
-    "to": "2026-11-16T13:25+01:00"
+    "from": "2026-11-15T19:25+01:00",
+    "to": "2026-11-16T19:25+01:00"
   },
-  "generated_at": "2026-11-16T13:25+01:00"
+  "generated_at": "2026-11-16T19:25+01:00"
 }
