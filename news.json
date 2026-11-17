@@ -1,51 +1,68 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "period": {
-    "from": "2026-11-15T19:25+01:00",
-    "to": "2026-11-16T19:25+01:00"
+    "from": "2026-11-16T06:25+01:00",
+    "to": "2026-11-17T06:25+01:00"
   },
-  "news_count": 131,
+  "news_count": 128,
   "news": [
     {
       "id": "g5790",
-      "title": "160 000 people call for Jensen Huang’s return to Nvidia",
-      "description": "An open letter claims that Jensen Huang was removed without due process and calls for his return as CEO during the investigation. It also demands publication of the findings and the opportunity for Huang to respond.",
-      "link": "https://standwithjensen.com/#letter",
+      "title": "165,000 people call for Jensen Huang’s return to Nvidia",
+      "description": "Elon Musk and more than 165,000 people have signed an open letter asking Nvidia’s board to reinstate Jensen Huang as its leader. More than 7,500 signatories identified themselves as Nvidia employees.",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
       "sources": [
+        "Techpresso",
         "Superhuman",
         "TLDR",
         "Business Insider"
       ],
-      "received_at": "2026-11-16T15:08+01:00",
-      "covered_by": 3,
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 4,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g5791",
-      "title": "OpenAI rolls out ChatGPT Wallet to let agents make payments",
-      "description": "ChatGPT Wallet, developed with American Express, Mastercard and Visa, lets agents make payments by replacing card details with a token. The rollout begins on Dots for ChatGPT Pro subscribers in the United States.",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet/",
-      "sources": [
-        "Superhuman",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-16T15:08+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g5924",
-      "title": "Apple launches study on using AI for health",
-      "description": "The Apple Health AI study will examine understanding, response quality, user trust factors and daily health actions. It is intended to help design responsible health AI experiences and help patients prepare for medical appointments.",
-      "link": "https://www.cnet.com/health/apple-launches-ai-health-app-study/",
+      "title": "Apple launches study on trust in medical AI",
+      "description": "Apple has launched a one-year study with clinical tool OpenEvidence to understand what inspires trust in healthcare chatbots and whether users understand their answers. Up to 200,000 Americans can participate, subject to certain hardware and software requirements.",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
       "sources": [
+        "Techpresso",
         "TLDR",
         "The Neuron",
         "Vision IA"
       ],
-      "received_at": "2026-11-16T13:26+01:00",
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5849",
+      "title": "SpaceX completes first catch of an orbit-returning Starship",
+      "description": "On Saturday, SpaceX caught its Starship spacecraft with the mechanical arms of its launch tower in Texas. The spacecraft released 26 Starlink satellites and completed 14 orbits of Earth, but the Super Heavy booster exploded during its descent.",
+      "link": "https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g5941",
+      "title": "Apple’s Siri AI glasses could launch next year",
+      "description": "Apple is reportedly preparing to launch smart glasses equipped with Siri and AI features next year.",
+      "link": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
       "covered_by": 3,
       "favorite": false,
       "followed_topic": null
@@ -63,6 +80,74 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5915",
+      "title": "Failed launch destroys 40 Amazon Leo satellites",
+      "description": "A United Launch Alliance Vulcan rocket failed about ten minutes after liftoff, destroying 40 satellites intended for Amazon Leo. The failure occurred during ignition of the Centaur upper stage, whose cause remains unknown.",
+      "link": "https://www.geekwire.com/2026/amazon-loses-40-leo-satellites-as-ula-vulcan-launch-failure-deals-setback-to-tech-giants-starlink-rival/",
+      "sources": [
+        "Techpresso",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6042",
+      "title": "Nvidia, OpenAI and Anthropic could become AI “national champions”",
+      "description": "The Trump administration is reportedly considering designating Nvidia, OpenAI and Anthropic as “national champions” of artificial intelligence.",
+      "link": "https://www.cryptopolitan.com/trump-ai-national-champions-nvidia-openai-anthropic/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5299",
+      "title": "Microsoft outage takes down 80% of servers",
+      "description": "A Microsoft outage caused 80% of servers to shut down. The article explains what happened.",
+      "link": "https://9to5mac.com/2026/11/16/microsoft-outage-saw-80-of-servers-fail-heres-what-happened/",
+      "sources": [
+        "Techpresso",
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6047",
+      "title": "Papa John’s uses AI to reduce pizza inconsistencies",
+      "description": "Papa John’s is turning to artificial intelligence to tackle variations in how its pizzas are prepared.",
+      "link": "https://www.independent.co.uk/tech/papa-johns-ai-pizza-photos-b3085616.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5820",
+      "title": "Two HPE Juniper routers ground all U.S. flights",
+      "description": "Two HPE Juniper network routers caused all flights in the United States to be grounded on Friday.",
+      "link": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
+      "sources": [
+        "Techpresso",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6030",
@@ -105,6 +190,20 @@
       "followed_topic": null
     },
     {
+      "id": "g5350",
+      "title": "Claude Meetings arrives in beta for Google Meet calls",
+      "description": "Anthropic launched Claude Meetings in beta, allowing Claude to join Google Meet calls on Team and Enterprise plans. The assistant can take notes, answer questions, and begin creating documents and whiteboards.",
+      "link": "https://claude.com/resources/articles/claude-meetings",
+      "sources": [
+        "AI Gen Art",
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-16T17:03+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6015",
       "title": "Embedded browser works on a 2015 Tesla Model S",
       "description": "A user says that the map and globe work in the built-in browser of their 2015 Model S, although using them is not particularly practical.",
@@ -118,30 +217,17 @@
       "followed_topic": "Véhicules électriques et Tesla"
     },
     {
-      "id": "g5979",
-      "title": "Apple is betting on Siri apps for its future smart glasses",
-      "description": "Apple is preparing developers for the arrival of smart glasses expected in 2027. The company is relying on integration with iPhone apps as its main advantage over offerings from Meta and Google.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzUxNSwiZXhwIjoxNzk1NDA4MzE1LCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.F4kCAMHwyEjSSET-07buU5rxHigBfIXPCp6e111N86A",
+      "id": "g5791",
+      "title": "OpenAI rolls out ChatGPT Wallet to let agents make payments",
+      "description": "ChatGPT Wallet, developed with American Express, Mastercard and Visa, lets agents make payments by replacing card details with a token. The rollout begins on Dots for ChatGPT Pro subscribers in the United States.",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet/",
       "sources": [
-        "TLDR"
+        "Superhuman"
       ],
-      "received_at": "2026-11-16T13:26+01:00",
+      "received_at": "2026-11-16T15:08+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g5980",
-      "title": "SpaceX successfully catches Starship in midair in Texas",
-      "description": "SpaceX successfully caught Starship with the mechanical arms of its launch tower after its spaceflight. The catch is an important proof of feasibility, although an attempt to catch Super Heavy had been aborted during the previous flight.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU2NSwiZXhwIjoxNzk1NDA4MzY1LCJhcnRpY2xlSWQiOiJUT0dJOEpLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.NrVZWmopPeBEKMN8K4AWG1ZaJ2iOF45JpdpkRSGMnEw",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-16T13:26+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
+      "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
       "id": "g5949",
@@ -236,19 +322,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5941",
-      "title": "Apple reportedly preparing Siri-powered smart glasses for 2027",
-      "description": "Apple’s first smart glasses would use Siri to control existing iPhone apps. Apple is reportedly targeting a presentation at WWDC 2027 and a commercial launch at the end of the same year.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-16T12:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
       "id": "g5943",
       "title": "The Atlantic tests ChatGPT on 32,245 personal messages and raises consent questions",
       "description": "The Atlantic tested ChatGPT on 32,245 personal messages. The experiment raises consent questions when an analysis conducted for one person includes other people’s private conversations.",
@@ -260,6 +333,175 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6056",
+      "title": "Nvidia’s board is not considering Jensen Huang’s return",
+      "description": "Support for Jensen Huang’s return is growing inside and outside Nvidia. However, a person familiar with the board’s position confirmed to Business Insider that it is not considering reinstating him as CEO.",
+      "link": "https://l.businessinsider.com/a/zc/21432/24ebce6f3bb940cfa5d0e046cebfa072/2f150c7d5f7945758453b043e1da73ae",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-16T19:41+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6055",
+      "title": "A guide to cleanly transferring AI work into your documents",
+      "description": "Chapter 31 of AI Bootcamp explains how to choose the destination format before asking AI for help, then how to export or copy the work without losing its formatting. It also recommends three checks before sharing the result: read everything, be able to explain every fact, and follow the team’s format.",
+      "link": "https://link.mail.beehiiv.com/v2/c/37a1fdfca9128161d4a84abccbf7f49929104d4d07e480ad852625594cee382bd374fc09f073c1a90a4db390c2c8e721abe1d45bcc84a205e52d8d796a91a7ffdac3f7c0d0445ec2261281f39c504d8693e3e718b1a24baff2bfa9548737319748c751db785db4d4cc0dcf4c869c33930cd170c43cdef07ac6e070ac624c737fee8c5de5856217a398283575d0ce135fb0eb742db44a5f0156a06fffd7f14441/89c8fe55ad7a5bb0",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-16T19:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6038",
+      "title": "U.S. blocks overseas leasing of Chinese AI chips",
+      "description": "The Trump administration is introducing new export controls to prevent Chinese companies from remotely accessing AI chips and data centers located in other countries. The rule will require licenses for infrastructure capable of providing more than 12 million TPP.",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6040",
+      "title": "Alibaba says Qwen4-Max cuts task costs by 62%",
+      "description": "According to Alibaba’s Work360 benchmark, the Qwen4-Max model performs professional tasks for 62% less than the previous version, with average costs falling from $4.43 to $1.67. The model activates fewer parameters per token and uses 35% fewer tokens.",
+      "link": "https://www.csoonline.com/article/4249015/alibaba-touts-62-lower-task-costs-with-qwen4-max-adds-cyber-safeguards-2.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6044",
+      "title": "AI tools can now find zero-day vulnerabilities for $4",
+      "description": "AI tools can find zero-day vulnerabilities for just $4, allowing even inexperienced hackers to exploit them.",
+      "link": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6045",
+      "title": "Apple steps up its development of video podcasts",
+      "description": "Apple is increasing its efforts in the video podcast space.",
+      "link": "https://www.engadget.com/2317689/apple-is-making-a-bigger-push-into-video-podcasts/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6046",
+      "title": "Top Korean candidate in tax exam admits cheating with AI",
+      "description": "The candidate who ranked first in South Korea on a notoriously difficult tax exam admitted to using AI to cheat.",
+      "link": "https://www.digitaltrends.com/computing/a-national-tax-exams-top-scorer-just-confessed-to-outsourcing-the-test-to-ai/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6048",
+      "title": "Italy fines Meta €805 million over access to Android photos",
+      "description": "Italy has fined Meta €805 million over Facebook’s access to photos stored on Android devices.",
+      "link": "https://thenextweb.com/news/italy-fines-meta-805m-facebook-android-photos",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6050",
+      "title": "Google Maps creates routes with real-time information",
+      "description": "Google Maps can now create routes that include real-time information about each leg of the journey.",
+      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6051",
+      "title": "Judge allows DRAM price-fixing lawsuit to proceed",
+      "description": "A judge rejected a motion to dismiss a lawsuit against Micron, Samsung and SK hynix. The judge found plausible the evidence suggesting a DRAM price-fixing conspiracy after prices rose by 500%.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6052",
+      "title": "Camera attacks disrupt autonomous vehicle tracking",
+      "description": "Camera attacks can fool an autonomous car’s vehicle-tracking system by subtly altering its video feed. Tracking accuracy can thus drop from about 55% to 15% or lower.",
+      "link": "https://arxiv.org/abs/2611.17505",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6053",
+      "title": "Mass adoption of AI video tools could increase their emissions 75-fold",
+      "description": "Emissions from AI video tools could increase nearly 75-fold by 2030 if their growth continues despite efficiency gains. Keeping usage at its current level would reduce emissions by about two-fifths.",
+      "link": "https://arxiv.org/abs/2611.17938",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6054",
+      "title": "Medical AI spending reaches $3.7 billion",
+      "description": "Spending on AI in healthcare increased 2.5-fold to $3.7 billion in 2026, surpassing the legal and financial sectors combined. The market is shifting from note-taking to complex clinical workflows and drug discovery.",
+      "link": "https://menlovc.com/perspective/2026-the-state-of-ai-in-healthcare/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-16T18:47+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6032",
@@ -318,19 +560,6 @@
       "title": "Gemini 4 Hydrogen lets users adjust the reasoning level",
       "description": "Google launched Gemini 4 Hydrogen, a model designed for everyday coding and agentic tasks, available worldwide since November 12. It offers four reasoning levels — low, medium, high and xhigh — to balance quality, speed and cost, with a context window of up to one million tokens.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-16T17:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5350",
-      "title": "Claude Meetings arrives in beta for Google Meet calls",
-      "description": "Anthropic launched Claude Meetings in beta, allowing Claude to join Google Meet calls on Team and Enterprise plans. The assistant can take notes, answer questions, and begin creating documents and whiteboards.",
-      "link": "https://claude.com/resources/articles/claude-meetings",
       "sources": [
         "AI Gen Art"
       ],
@@ -574,19 +803,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5299",
-      "title": "Microsoft restores services after a prolonged global outage",
-      "description": "Microsoft says it restored service for all customers after an outage disrupted Exchange Online, Teams, Copilot and other related services. Servers failing automated health checks contributed to the disruption.",
-      "link": "https://www.theregister.com/saas/2026/11/13/microsoft-services-restored-to-all-customers-company-says-its-deeply-sorry/5309609",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-16T14:51+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5993",
       "title": "Microsoft raises cloud prices in India and New Zealand",
       "description": "Microsoft will increase prices for its commercial cloud by 15.7% in India and 10% in New Zealand starting January 1, 2027, citing currency adjustments. Prices will fall in China, Australia and Norway, while some on-premises products will increase by up to 20% in India.",
@@ -604,19 +820,6 @@
       "title": "AI recovery requires more than a simple undo button",
       "description": "Restoring an AI agent, undoing its changes in internal systems, and neutralizing their business consequences are three distinct problems. Commvault’s recovery tools address part of the first two, but some actions require controls before execution.",
       "link": "https://futurumgroup.com/insights/commvault-bets-that-recovery-is-what-lets-enterprises-say-yes-to-ai/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-16T14:51+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5996",
-      "title": "Claude joins meetings through integrations with Granola and Otter",
-      "description": "Anthropic is rolling out Claude Meetings in beta for Team and Enterprise customers, allowing Claude to join Google Meet calls, answer questions, draft documents, and record action items. Integrations with Granola, Gong, Attention, Fireflies.ai, Otter, and Plaud are planned.",
-      "link": "https://claude.com/resources/articles/claude-meetings",
       "sources": [
         "TLDR IT"
       ],
@@ -1094,19 +1297,6 @@
       "followed_topic": null
     },
     {
-      "id": "g5820",
-      "title": "Family stranded at airport after FAA flight stoppage",
-      "description": "An FAA ground stop left a traveler stranded at the airport with his three children until 4 a.m. The delay lasted three days, resulting in thousands of dollars in additional expenses.",
-      "link": "https://www.businessinsider.com/faa-ground-stop-stranded-airport-twin-toddlers-family-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-16T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g5972",
       "title": "Parents save for a future without college",
       "description": "Some parents are abandoning 529 savings plans to prepare financially for their children’s future, which may not necessarily include college.",
@@ -1293,19 +1483,6 @@
       "title": "A middle school student invents a water-powered solar tracker",
       "description": "Jason Chang designed a system costing less than 25 dollars that points a solar panel using a bucket filled by dripping water, without a motor or electricity. The device produces approximately 20% more voltage than a fixed panel.",
       "link": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-16T10:59+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5915",
-      "title": "A Vulcan rocket failure destroys 40 Amazon satellites",
-      "description": "A United Launch Alliance Vulcan rocket failed about ten minutes after launch, destroying 40 satellites belonging to Amazon’s Leo internet network. The cause of the failure remains unknown.",
-      "link": "https://www.theinformation.com/briefings/amazon-loses-40-leo-satellites-ula-rocket-failure",
       "sources": [
         "Vision IA"
       ],
@@ -1505,214 +1682,6 @@
         "Vision IA"
       ],
       "received_at": "2026-11-16T10:59+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5894",
-      "title": "An AI learns words using a sleep-inspired method",
-      "description": "Princeton researchers trained an AI using recordings of a baby’s daily life. Regularly replaying recent memories enabled it to recognize thousands of words, whereas it had recognized none before.",
-      "link": "https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5895",
-      "title": "Oakland employees negotiate AI protections",
-      "description": "A tentative agreement provides that the city must retrain or reassign employees whose jobs would be eliminated by AI. The agreement also includes a 9% pay increase over three years and helped avert a strike.",
-      "link": "https://www.oaklandca.gov/News-Releases/Oakland-Reaches-Tentative-3-Year-Agreement-with-IFPTE-Local-21",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5896",
-      "title": "Claude Sheets automatically compares two quotes",
-      "description": "Anthropic has launched Claude Sheets in beta for its paid plans. The tool creates an editable spreadsheet with formulas to compare rates, quantities, and recurring costs.",
-      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5897",
-      "title": "Mister Blocks turns a photo of LEGO bricks into building ideas",
-      "description": "Mister Blocks analyzes a photo of loose LEGO bricks and suggests builds that can be made with the available pieces. The service also provides rotatable 3D instructions.",
-      "link": "https://www.producthunt.com/products/mister-blocks",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5899",
-      "title": "MIT improves a small model by having another AI correct it",
-      "description": "MIT researchers used one AI to correct another, much as developers fix software. The small model’s score on a math test rose from 8% to 48% without retraining.",
-      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5225",
-      "title": "Notion alerts customers after access keys leak at Fireworks",
-      "description": "Notion warned companies that access keys issued by its services had been exposed during a breach at Fireworks, its AI provider.",
-      "link": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5901",
-      "title": "LangChain reportedly raised $300 million at a $3 billion valuation",
-      "description": "LangChain, which helps developers build AI agents, reportedly raised $300 million in a deal valuing the company at $3 billion.",
-      "link": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5902",
-      "title": "Harvard publishes a guide on AI’s effects by learner age",
-      "description": "Harvard researchers published a guide explaining when AI can help or hinder learning at different ages.",
-      "link": "https://compass.gse.harvard.edu/explore/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5079",
-      "title": "Jensen Huang steps down as NVIDIA CEO after 33 years",
-      "description": "Jensen Huang has stepped down as NVIDIA’s CEO after 33 years. The planned succession and its implications for the company are at the center of questions.",
-      "link": "https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5009",
-      "title": "Anthropic releases two versions of its Fable and Mythos models",
-      "description": "Anthropic has released Fable 5.2 and Mythos 5.2, two versions of the same model with different safety rules.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTdv7UzbY5JUHyG9jxxrKN_Hf3WxsZ3wjMoXRrbfQFrhji3CRC2bo6bYqsLPcYKKyi7S-5ef6YDC9DT3UEYqQDRpp28O6WEPQtkPauKJq2quWKMMwdihBvRgfyqQJF_1V71DbIRTOZDK7N2xV6nisICiqf-FPGLu-s0yIaofCOGazqzz-HpLagjnj0W1eedc_nmn2R750vO9jgRinENjPhXOzA6KTTH-r81uP3OV64JNlOxjNoT9CAbL8ZyRTP8hHby3RS8bLB7jhn0meeCfCsFzREfbXeapRni2bKr3d1B4Z6DoVyGJpZ_SqILhsfBn8y_Bd49tIYhq_6swACfhFCc3-aVHQAf1StHcha_3L4St4hl9PeF8CcwGK09VwsrZ8xNAGpiz9I5pV8cV3sXjPGY48dHuUvirjxnijQMFOgvtg0LvRTPCVXj3VhkF71VwCMeVUJhlf-0spX8douFl_3J_9C9Efbw8SWxnRCqEfD22bUWQfC8yeYdLwXuET3bwb7D8B5DAR3ncJ6aOnKmLoT_GfRUVmS6REYWTbdip4zNt3f4noRenmW6p7YRyCdR7h1iFK3hKKd8_aSWyZmqNcNNM8jATIQX2tvB-ejLMtUeoi3V7iE54uXzPzoMJHfCyArBt-97q5Xm0rbaLV0MWRdPGMdl9ECg8nM1gUkYwRIv5SyT7YQjlBM1dQ0s0Xq8dTaHYL0I3ObBJPAMb42EmwIXJE7yhJ8MfkF2H7VwvI6P5AvdOsJZn5yEVUymo3vsHVkA/4vr/rIJ2oxarTNaqCiunOabTrg/h34/h001.U9KCmaDLhyTvdKuH7tf7o70MxLjT9SAZU-I64s0Gh9s",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5511",
-      "title": "Google DeepMind launches AlphaGenome 2 to predict the effects of DNA mutations",
-      "description": "AlphaGenome 2 predicts why the same DNA change may affect one cell type but not another.",
-      "link": "https://www.theneuron.ai/news/googles-alphagenome-2-wants-to-find-where-disease-begins/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5510",
-      "title": "United Airlines bans unauthorized AI agents from booking flights",
-      "description": "United Airlines has banned unauthorized AI agents from booking flights, citing risks including accidental purchases and the misuse of miles.",
-      "link": "https://www.theneuron.ai/news/united-wants-you-to-book-the-flight-your-ai-agent-isnt-invited/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5907",
-      "title": "Google DeepMind uses AI to verify Signal’s code",
-      "description": "Google DeepMind used AI agents to mathematically prove that Signal’s code provides some of its privacy protections.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTdDj5W_b3XtWLsSLRK36X-N5ha4wity_FVITnigxA722jOAohXEmf-aZ5g8yY73dUpxAYTQgIpRSqdB_gF7_TSMV8x8V30nD6JGzn_5FAgkrkJVP6Iqt6NAbv6o0TbkilAFVl4ccP9vu0uVW2QJsyQMmLPQZp1wZOyo4sQEtx1-0o3ULlA5nuhTekolF0HNdjq022kmNJpVmgY9RGqAxOv1TIqCjT8eAzfd53A38WqjLaIMmktj4KMswzkpyj6eOkwM6PIdEBvqAh8PXrCSDf8Cq7uhc9ipN0VgrPOZLpmOvzLDZHNY41w0OLd1PEazp2M-ax889EC1MTo4VZtl_EkeauXOTq-bAitWY8xZCPLw9H3df-sRyDxkKmrrjZGoAB9FXjR3WvmX-0SmYzKams3AzdfcFK_pLu9ckHGBgCS9LIKKAPeDTTDmu_qPLWrURMVPvWHiz2Z-ky63hRwbS5zSjkNzosqDrmxY12bElXO9o0DjWsSMymZF7C_4IZMaHII3qvcK76N7k0qT8drXDH3XsZPp8z6CgUs8_iGozntOFBogo3_tykh2Xf94ZVWP-N-14yIgMyvqts1c7LPFvkWgbmLPLlkdmVejSIYMUC8WOWUhLbwU4hLJumSJBW5VIz3jdVCu7PaiXBifwg_rnE_vvICMP0eMN5jYFUISODANNerCNpXt98GkAXaag1FG0jCGlmtG1GzFh3hj8ymawrvFxS3O3Krw7lvoixJJQrZ0Vw/4vr/rIJ2oxarTNaqCiunOabTrg/h37/h001.RR9Zg107VyrkeZ-dClZTRdkh7lvl9T4sD61HtXSoINk",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-15T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5891",
-      "title": "Building your first AI automation",
-      "description": "Automation consists of a trigger, an action, and an outcome. It is recommended to start with a low-risk task so that an error has no consequences.",
-      "link": "https://link.mail.beehiiv.com/v2/c/b192cf15b88811dc0594c404071f33ccc55d03860f7313183034ff24e1c5348bf20147a1e7422d79113070c77b99bfab1e193b472c6c84680d5f5960e4613cb897d35095a271272971f77f7f3522099c46c8d453b0fb074a6b2d85ea0f8ef442428492c2ef441dd5c125210d7fbf0ab990b9cf7d2de7ee2c8cebfe806b9874cbe08acee877897641ba2aad1f7e366e7bd7753259cba37cc264b66fe95514af08/714ca81e82cff18b",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-15T19:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5892",
-      "title": "Five questions to identify tasks to automate",
-      "description": "After creating a first automation, five questions can help determine which tasks are worth delegating to AI.",
-      "link": "https://link.mail.beehiiv.com/v2/c/d3c0b4b29169bc92069bb0714a6dfafefdd8bba833842223572e700f1166a7ce54c2d532256079b58299bac2c9c3310f9e289eea5a09496897d7a679150f5c3024048b713506760bebac82f43b00e316d950d7651c2dd74ba63f7658af24c96d99005e3c52d6335ccd8d7b98abd0e1e83385af7970afa35ca7b9dd290d440ea9bd729a6966bb1deb7392e83ddba90181c95f6b6a367c12114682ca048b0d6441/4728bfedd2e044fd",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-15T19:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5893",
-      "title": "Automating your inbox and calendar",
-      "description": "AI can prepare email and calendar actions up to the send button. Sending messages and accepting meetings, however, remain under the user’s control.",
-      "link": "https://link.mail.beehiiv.com/v2/c/4cc0b5cff5510c15eb60696970eccd5ea2b4f9f5c0a311d9c10740552ecf0db6a3e2e59e4933d0ad1ad4d289c6e3b55d7943d5f6a2ab17cdc3c8bf98ecd35562491c58659e7dadcaae66b768c33017c8dd794aaa53cfd2ecd3b76dce62f109ea7bd473240cde47a0e8e6ee614284ce984b3a9b34a08067c87fee86277cbce188f64fd6e39e1d9f37d94f8a987db1487b0d61efa55d10394b67b28ecace66836f/12121ae47cf1806f",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-15T19:31+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
