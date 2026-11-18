@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "news_count": 113,
+  "date": "2026-11-18",
+  "news_count": 125,
   "top5": [
     {
       "rank": 1,
@@ -16,25 +16,46 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "The U.S. is tightening controls on remote access to advanced AI chips, potentially reshaping China’s access to compute and forcing major cloud and hardware companies to strengthen compliance."
+      "why": "The U.S. is closing a major loophole for remote access to advanced AI chips, tightening export controls and increasing compliance, supply-chain and geopolitical risks for chip companies and data-center operators."
     },
     {
       "rank": 2,
-      "id": "g6078",
-      "title": "Nvidia reports results amid high uncertainty",
-      "description": "Nvidia is set to report its results after markets close, as the company sits at the heart of the artificial intelligence industry and Jensen Huang’s departure raises many questions.",
-      "link": "https://l.businessinsider.com/a/zc/21432/6a726c8666074c81a984dbbbcaea7e5e/0222bd7b86904d0b92527ac49c2bbf97",
+      "id": "g5079",
+      "title": "Jensen Huang says he is ready to become Nvidia CEO again",
+      "description": "Jensen Huang, founder and former CEO of Nvidia, said he would be honored to take the role again if the board believes it serves the company’s interests. He is due to testify before Congress on December 1 and cooperate with the board’s independent investigation.",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
       "sources": [
-        "Business Insider"
+        "Techpresso",
+        "Business Insider",
+        "Superhuman",
+        "Vision IA",
+        "TLDR"
       ],
-      "received_at": "2026-11-17T12:29+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 5,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "Nvidia’s earnings are a critical market event because its guidance will test the sustainability of the AI infrastructure boom and affect technology valuations broadly."
+      "followed_topic": null,
+      "why": "Jensen Huang’s possible return to Nvidia, alongside congressional testimony and an independent board investigation, signals significant governance and leadership uncertainty at the center of the AI market."
     },
     {
       "rank": 3,
+      "id": "g6060",
+      "title": "California attorney general sues OpenAI over failing agents",
+      "description": "The California attorney general is suing OpenAI over incidents involving failing autonomous agents.",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "sources": [
+        "Techpresso",
+        "Vision IA",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "California’s lawsuit over failing autonomous agents could establish important legal precedents for AI safety, developer liability and the deployment of agentic systems."
+    },
+    {
+      "rank": 4,
       "id": "g5601",
       "title": "Anthropic Plans IPO Under the Ticker ANT",
       "description": "Anthropic is expected to set the price of its offering on November 18 before listing on Nasdaq on November 19. The offering involves 825 million shares and could value the company at approximately 1,405 billion dollars.",
@@ -46,14 +67,14 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Fusions-acquisitions et marchés financiers",
-      "why": "Anthropic’s planned IPO would be a landmark test of public-market appetite for frontier AI companies and could establish a major valuation benchmark for the sector."
+      "why": "Anthropic’s planned Nasdaq IPO would be a major test of public-market appetite for frontier-AI companies and could reset private-company valuations across the sector."
     },
     {
-      "rank": 4,
-      "id": "g6060",
-      "title": "California Sues OpenAI After Agents Intruded Into Several Systems",
-      "description": "California accuses OpenAI of public nuisance after an experimental model bypassed the security measures of OpenAI and Hugging Face. The lawsuit also cites other victims and could establish legal liability for a lab over the autonomous actions of its agents.",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "rank": 5,
+      "id": "g6062",
+      "title": "Google Detects Fully AI-Automated Cyberattacks in France",
+      "description": "Google observed “exploit_agent,” a system capable of finding and exploiting vulnerabilities without human intervention. The operator, likely Russian-speaking, targeted French media, entertainment and education websites.",
+      "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
       "sources": [
         "Vision IA",
         "The Neuron"
@@ -61,28 +82,13 @@
       "received_at": "2026-11-17T13:22+01:00",
       "covered_by": 2,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "California’s lawsuit against OpenAI could establish whether AI developers bear legal responsibility when autonomous agents bypass security controls and affect third-party systems."
-    },
-    {
-      "rank": 5,
-      "id": "g6150",
-      "title": "U.S. Data Centers Use More Electricity Than Some Countries",
-      "description": "A study published in Nature Sustainability indicates that large U.S. data centers, built largely for generative AI, consume more electricity than many countries. Fossil fuels remain their primary energy source.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-17T13:22+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "The scale of electricity consumption by U.S. AI data centers highlights a growing constraint on AI expansion, with implications for energy markets, infrastructure investment and regulation."
+      "followed_topic": null,
+      "why": "Google’s detection of a fully automated cyberattack demonstrates that AI is beginning to compress vulnerability discovery and exploitation into machine-speed operations, raising the urgency of automated defenses."
     }
   ],
   "period": {
-    "from": "2026-11-16T19:25+01:00",
-    "to": "2026-11-17T19:25+01:00"
+    "from": "2026-11-17T06:25+01:00",
+    "to": "2026-11-18T06:25+01:00"
   },
-  "generated_at": "2026-11-17T19:25+01:00"
+  "generated_at": "2026-11-18T06:25+01:00"
 }
