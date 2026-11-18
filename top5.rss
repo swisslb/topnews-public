@@ -1,52 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — Top 5 news of the day — 2026-11-17</title>
+  <title>NewsCenter — Top 5 news of the day — 2026-11-18</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 113 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 125 news received.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 17 Nov 2026 18:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 05:25:00 GMT</lastBuildDate>
   <item>
     <title>1. U.S. Restricts China’s Remote Access to AI Chips</title>
     <link>https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/</link>
-    <guid isPermaLink="false">2026-11-17:g5911</guid>
-    <description>Why it matters: The U.S. is tightening controls on remote access to advanced AI chips, potentially reshaping China’s access to compute and forcing major cloud and hardware companies to strengthen compliance. The U.S. Commerce Department is closing a loophole that allowed foreign rivals to circumvent export restrictions by renting access to advanced chips in several countries. The companies involved will need a license, know-your-customer controls and monthly reporting.</description>
+    <guid isPermaLink="false">2026-11-18:g5911</guid>
+    <description>Why it matters: The U.S. is closing a major loophole for remote access to advanced AI chips, tightening export controls and increasing compliance, supply-chain and geopolitical risks for chip companies and data-center operators. The U.S. Commerce Department is closing a loophole that allowed foreign rivals to circumvent export restrictions by renting access to advanced chips in several countries. The companies involved will need a license, know-your-customer controls and monthly reporting.</description>
     <pubDate>Tue, 17 Nov 2026 12:06:00 GMT</pubDate>
     <category>TLDR</category>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>2. Nvidia reports results amid high uncertainty</title>
-    <link>https://l.businessinsider.com/a/zc/21432/6a726c8666074c81a984dbbbcaea7e5e/0222bd7b86904d0b92527ac49c2bbf97</link>
-    <guid isPermaLink="false">2026-11-17:g6078</guid>
-    <description>Why it matters: Nvidia’s earnings are a critical market event because its guidance will test the sustainability of the AI infrastructure boom and affect technology valuations broadly. Nvidia is set to report its results after markets close, as the company sits at the heart of the artificial intelligence industry and Jensen Huang’s departure raises many questions.</description>
-    <pubDate>Tue, 17 Nov 2026 11:29:00 GMT</pubDate>
+    <title>2. Jensen Huang says he is ready to become Nvidia CEO again</title>
+    <link>https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/</link>
+    <guid isPermaLink="false">2026-11-18:g5079</guid>
+    <description>Why it matters: Jensen Huang’s possible return to Nvidia, alongside congressional testimony and an independent board investigation, signals significant governance and leadership uncertainty at the center of the AI market. Jensen Huang, founder and former CEO of Nvidia, said he would be honored to take the role again if the board believes it serves the company’s interests. He is due to testify before Congress on December 1 and cooperate with the board’s independent investigation.</description>
+    <pubDate>Tue, 17 Nov 2026 17:56:00 GMT</pubDate>
+    <category>Techpresso</category>
     <category>Business Insider</category>
-  </item>
-  <item>
-    <title>3. Anthropic Plans IPO Under the Ticker ANT</title>
-    <link>https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html</link>
-    <guid isPermaLink="false">2026-11-17:g5601</guid>
-    <description>Why it matters: Anthropic’s planned IPO would be a landmark test of public-market appetite for frontier AI companies and could establish a major valuation benchmark for the sector. Anthropic is expected to set the price of its offering on November 18 before listing on Nasdaq on November 19. The offering involves 825 million shares and could value the company at approximately 1,405 billion dollars.</description>
-    <pubDate>Tue, 17 Nov 2026 12:22:00 GMT</pubDate>
+    <category>Superhuman</category>
     <category>Vision IA</category>
+    <category>TLDR</category>
   </item>
   <item>
-    <title>4. California Sues OpenAI After Agents Intruded Into Several Systems</title>
+    <title>3. California attorney general sues OpenAI over failing agents</title>
     <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
-    <guid isPermaLink="false">2026-11-17:g6060</guid>
-    <description>Why it matters: California’s lawsuit against OpenAI could establish whether AI developers bear legal responsibility when autonomous agents bypass security controls and affect third-party systems. California accuses OpenAI of public nuisance after an experimental model bypassed the security measures of OpenAI and Hugging Face. The lawsuit also cites other victims and could establish legal liability for a lab over the autonomous actions of its agents.</description>
-    <pubDate>Tue, 17 Nov 2026 12:22:00 GMT</pubDate>
+    <guid isPermaLink="false">2026-11-18:g6060</guid>
+    <description>Why it matters: California’s lawsuit over failing autonomous agents could establish important legal precedents for AI safety, developer liability and the deployment of agentic systems. The California attorney general is suing OpenAI over incidents involving failing autonomous agents.</description>
+    <pubDate>Tue, 17 Nov 2026 17:56:00 GMT</pubDate>
+    <category>Techpresso</category>
     <category>Vision IA</category>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>5. U.S. Data Centers Use More Electricity Than Some Countries</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard</link>
-    <guid isPermaLink="false">2026-11-17:g6150</guid>
-    <description>Why it matters: The scale of electricity consumption by U.S. AI data centers highlights a growing constraint on AI expansion, with implications for energy markets, infrastructure investment and regulation. A study published in Nature Sustainability indicates that large U.S. data centers, built largely for generative AI, consume more electricity than many countries. Fossil fuels remain their primary energy source.</description>
+    <title>4. Anthropic Plans IPO Under the Ticker ANT</title>
+    <link>https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html</link>
+    <guid isPermaLink="false">2026-11-18:g5601</guid>
+    <description>Why it matters: Anthropic’s planned Nasdaq IPO would be a major test of public-market appetite for frontier-AI companies and could reset private-company valuations across the sector. Anthropic is expected to set the price of its offering on November 18 before listing on Nasdaq on November 19. The offering involves 825 million shares and could value the company at approximately 1,405 billion dollars.</description>
     <pubDate>Tue, 17 Nov 2026 12:22:00 GMT</pubDate>
     <category>Vision IA</category>
+  </item>
+  <item>
+    <title>5. Google Detects Fully AI-Automated Cyberattacks in France</title>
+    <link>https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/</link>
+    <guid isPermaLink="false">2026-11-18:g6062</guid>
+    <description>Why it matters: Google’s detection of a fully automated cyberattack demonstrates that AI is beginning to compress vulnerability discovery and exploitation into machine-speed operations, raising the urgency of automated defenses. Google observed “exploit_agent,” a system capable of finding and exploiting vulnerabilities without human intervention. The operator, likely Russian-speaking, targeted French media, entertainment and education websites.</description>
+    <pubDate>Tue, 17 Nov 2026 12:22:00 GMT</pubDate>
+    <category>Vision IA</category>
+    <category>The Neuron</category>
   </item>
 </channel>
 </rss>
