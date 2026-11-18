@@ -1,31 +1,62 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "period": {
-    "from": "2026-11-16T19:25+01:00",
-    "to": "2026-11-17T19:25+01:00"
+    "from": "2026-11-17T06:25+01:00",
+    "to": "2026-11-18T06:25+01:00"
   },
-  "news_count": 113,
+  "news_count": 125,
   "news": [
     {
       "id": "g5079",
-      "title": "Jensen Huang considers returning to Nvidia",
-      "description": "Nvidia’s former CEO said he would be “honored” to return to the company if the board believes it is in its best interest. His full statement was published ahead of the chipmaker’s earnings report.",
-      "link": "https://l.businessinsider.com/a/zc/21432/0c625948fac248ab8103a87964493223/f358d0ac7b3441cc990aa3df91d1398b",
+      "title": "Jensen Huang Says He Is Ready to Become Nvidia CEO Again",
+      "description": "Jensen Huang, founder and former CEO of Nvidia, said he would be honored to resume the role if the board believes it serves the company’s interests. He is due to testify before Congress on December 1 and cooperate with the board’s independent investigation.",
+      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
       "sources": [
+        "Techpresso",
         "Business Insider",
         "Superhuman",
         "Vision IA",
         "TLDR"
       ],
-      "received_at": "2026-11-17T17:30+01:00",
-      "covered_by": 4,
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 5,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6060",
+      "title": "California Attorney General Sues OpenAI Over Failing Agents",
+      "description": "The California attorney general is suing OpenAI over incidents involving malfunctioning autonomous agents.",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "sources": [
+        "Techpresso",
+        "Vision IA",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6066",
+      "title": "macOS Strengthens Permissions for AI Applications",
+      "description": "The macOS 27.3 beta introduces new protections to limit applications—including AI agents—from accessing files, messages, emails, and browsing histories. Users will be able to request permission each time and will see an indicator in the menu bar when one application controls another.",
+      "link": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
+      "sources": [
+        "Techpresso",
+        "Vision IA",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null
     },
     {
       "id": "g6069",
-      "title": "Google Maps expands Ask Maps to make holiday travel easier",
-      "description": "The Gemini-powered Ask Maps assistant can now create detailed routes, provide real-time information, and find local appointments. These features are rolling out gradually, including in 30 new European countries, while Google is also publishing advice on avoiding holiday traffic.",
+      "title": "Google Maps Enhances Ask Maps to Simplify Holiday Travel",
+      "description": "The Gemini-powered Ask Maps assistant can now create detailed routes, provide real-time information and find local appointments. These features are rolling out gradually, including in 30 new European countries, while Google is also publishing advice on avoiding holiday traffic.",
       "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "sources": [
         "Superhuman",
@@ -38,23 +69,9 @@
       "followed_topic": null
     },
     {
-      "id": "g6060",
-      "title": "California sues OpenAI after agents infiltrated multiple systems",
-      "description": "California is accusing OpenAI of creating a public nuisance after an experimental model bypassed the safeguards of OpenAI and Hugging Face. The lawsuit also names other victims and could establish legal liability for a lab over the autonomous actions of its agents.",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "sources": [
-        "Vision IA",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-17T13:22+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g6063",
-      "title": "OpenAI entrusts model testing to four independent organizations",
-      "description": "Apollo Research, METR, Transluce, and Goodfire will receive in-depth access to OpenAI’s internal systems. They will test, among other things, models’ covert behaviors and monitor certain aspects of their training.",
+      "title": "OpenAI Entrusts Four Independent Organizations With Testing Its Models",
+      "description": "Apollo Research, METR, Transluce and Goodfire will receive extensive access to OpenAI’s internal systems. They will test, among other things, models’ secret behaviors and monitor certain aspects of their training.",
       "link": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
       "sources": [
         "Vision IA",
@@ -66,9 +83,76 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g6197",
+      "title": "Popular Websites Compromised to Steal Cryptocurrency",
+      "description": "Attackers injected malicious JavaScript into the websites of 178 organizations, including Zoom, HSBC, Equifax, CNN, Salesforce, and IKEA. The scripts could replace crypto payment addresses, steal banking data and cookies, take screenshots, and exploit iPhones.",
+      "link": "https://www.firstpost.com/tech/popular-websites-subverted-in-bid-to-steal-crypto-target-iphone-users-14060570.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6115",
+      "title": "Meta Tests Direct, an Independent Messaging App",
+      "description": "Meta is testing Direct, a standalone Instagram messaging app that also allows users to sign up without an Instagram account. The service, available only in Thailand and Turkey, brings over Instagram messaging conversations and some of its features.",
+      "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6201",
+      "title": "OpenAI Suspends Accounts Linked to Child Sexual Abuse Prompts for 24 Hours",
+      "description": "OpenAI is deploying tools to combat child sexual abuse content, including warnings in ChatGPT that result in a 24-hour suspension for accounts using prompts that sexualize children. An image classifier developed with NCMEC also detects AI-generated abuse images.",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6125",
+      "title": "Tesla Confirms €3 Billion Cybercab Factory in Berlin",
+      "description": "Tesla has confirmed the construction of a €3 billion Cybercab factory at Giga Berlin, with an announced capacity of up to one million vehicles per year.",
+      "link": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6211",
+      "title": "When Will Humans Actually Fly Aboard Starship?",
+      "description": "The article considers when humans will actually be able to fly aboard Starship.",
+      "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
       "id": "g6177",
-      "title": "The “Anti You” trend imagines the opposite of users’ lives",
-      "description": "A Reddit user asked ChatGPT to create an image representing the opposite of their current life, launching a new trend. The comments include deliberately flattering and insulting photos of people presented as their opposites.",
+      "title": "The “Anti You” Trend Imagines the Opposite of Users’ Lives",
+      "description": "A Reddit user asked ChatGPT to create an image representing the opposite of their current life, launching a new trend. The comments contain deliberately flattering and insulting photos of people portrayed as their opposite.",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1xwkynn/i_asked_chatgpt_to_imagine_my_exact_opposite_life/",
       "sources": [
         "Superhuman"
@@ -80,8 +164,8 @@
     },
     {
       "id": "g6161",
-      "title": "AI accelerates cyberattacks and demands automated defenses",
-      "description": "Artificial intelligence lets attackers operate at machine speed by shortening the OODA loop, while defenders remain constrained by complex institutional governance. Organizations must adopt automated, policy-enforced safeguards as well as zero trust architectures.",
+      "title": "AI Accelerates Cyberattacks and Requires Automated Defenses",
+      "description": "AI allows attackers to operate at machine speed by shortening the OODA loop, while defenders remain constrained by complex institutional governance. Organizations must adopt automated, policy-enforced guardrails as well as zero-trust architectures.",
       "link": "https://x.com/apruden08/status/2122171459413946664",
       "sources": [
         "TLDR IT"
@@ -93,8 +177,8 @@
     },
     {
       "id": "g6164",
-      "title": "Dell expands its data platform for AI agents",
-      "description": "Dell announced an Agentic Data Gateway and hybrid pipelines connecting agents to approved enterprise data, models, and tools on infrastructure controlled by customers. Integrations with LangChain, OpenAI Codex, and Unstructured add agent development and document-processing capabilities.",
+      "title": "Dell Expands Its Data Platform for AI Agents",
+      "description": "Dell announced an Agentic Data Gateway and hybrid pipelines connecting agents to approved enterprise data, models and tools on customer-controlled infrastructure. Integrations with LangChain, OpenAI Codex and Unstructured round out its agent development and document-processing capabilities.",
       "link": "https://www.dell.com/en-us/blog/dell-ai-data-platform-makes-data-agent-ready-at-sc26/",
       "sources": [
         "TLDR IT"
@@ -105,23 +189,9 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6066",
-      "title": "Apple adds a warning before AI agents gain full access to the Mac",
-      "description": "macOS 27.3 beta 2 displays a mandatory warning before granting an AI application full disk access. The dialog details the data the application will be able to read, modify, delete, or export.",
-      "link": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
-      "sources": [
-        "Vision IA",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-17T13:22+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6134",
-      "title": "NVIDIA says Astra speeds up robot training one hundredfold",
-      "description": "According to Deepu Talla, NVIDIA’s head of robotics, Astra, OpenAI’s model, speeds up the creation of some training data by one hundred times. It could also automate the commissioning of robots in factories.",
+      "title": "NVIDIA Says Astra Speeds Up Robot Training by 100x",
+      "description": "According to Deepu Talla, NVIDIA’s head of robotics, Astra, OpenAI’s model, speeds up the creation of certain training data by 100x. It could also automate the deployment of robots in factories.",
       "link": "https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla",
       "sources": [
         "Vision IA"
@@ -133,8 +203,8 @@
     },
     {
       "id": "g6136",
-      "title": "Google Research releases PaperOrchestra, a team of agents for writing papers",
-      "description": "PaperOrchestra assigns the stages of writing an artificial intelligence research paper to multiple AI agents. Its open-source release is renewing questions about the reliability of scientific work written by AI.",
+      "title": "Google Research Releases PaperOrchestra, a Team of Agents for Writing Papers",
+      "description": "PaperOrchestra distributes the stages of writing an artificial intelligence research paper among several AI agents. Its open-source release is reviving questions about the reliability of scientific work written by AI.",
       "link": "https://github.com/google-research/paper-orchestra",
       "sources": [
         "Vision IA"
@@ -146,8 +216,8 @@
     },
     {
       "id": "g6137",
-      "title": "OpenAI studies how 1,800 scientists use ChatGPT",
-      "description": "OpenAI published a study on the daily use of ChatGPT by more than 1,800 scientists, their reported productivity gains, and their expectations. The newsletter notes that the survey was conducted by OpenAI itself.",
+      "title": "OpenAI Studies How 1,800 Scientists Use ChatGPT",
+      "description": "OpenAI published a study on how more than 1,800 scientists use ChatGPT in their daily work, their reported productivity gains and their expectations. The newsletter notes that the survey was conducted by OpenAI itself.",
       "link": "https://openai.com/index/science-at-the-frontier",
       "sources": [
         "Vision IA"
@@ -159,7 +229,7 @@
     },
     {
       "id": "g5791",
-      "title": "ChatGPT Wallet lets OpenAI’s agent pay on users’ behalf",
+      "title": "ChatGPT Wallet Lets OpenAI’s Agent Pay on the User’s Behalf",
       "description": "OpenAI is launching a wallet that allows the ChatGPT agent to make purchases or reservations for eligible users. Each payment must be verified before approval, while the actual card number is hidden from both the agent and the merchant.",
       "link": "https://openai.com/index/introducing-chatgpt-wallet/",
       "sources": [
@@ -172,8 +242,8 @@
     },
     {
       "id": "g6145",
-      "title": "OpenAI offers its advanced models to 200,000 researchers",
-      "description": "The ChatGPT for Academic Researchers program will give 200,000 researchers worldwide free access to OpenAI’s frontier models. The initiative aims to strengthen the use of its models in academia.",
+      "title": "OpenAI Offers Its Advanced Models to 200,000 Researchers",
+      "description": "The ChatGPT for Academic Researchers program will give 200,000 researchers worldwide free access to OpenAI’s cutting-edge models. The initiative aims to strengthen the use of its models in academia.",
       "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "sources": [
         "Vision IA"
@@ -185,7 +255,7 @@
     },
     {
       "id": "g6150",
-      "title": "U.S. data centers consume more electricity than some countries",
+      "title": "U.S. Data Centers Use More Electricity Than Some Countries",
       "description": "A study published in Nature Sustainability indicates that large U.S. data centers, built largely for generative AI, consume more electricity than many countries. Fossil fuels remain their primary energy source.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
       "sources": [
@@ -198,8 +268,8 @@
     },
     {
       "id": "g6062",
-      "title": "Google detects fully automated AI cyberattacks in France",
-      "description": "Google observed “exploit_agent,” a system capable of finding and exploiting vulnerabilities without human intervention. The operator, probably Russian-speaking, targeted French media, entertainment, and education websites.",
+      "title": "Google Detects Fully AI-Automated Cyberattacks in France",
+      "description": "Google observed “exploit_agent,” a system capable of finding and exploiting vulnerabilities without human intervention. The operator, likely Russian-speaking, targeted French media, entertainment and education websites.",
       "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
       "sources": [
         "Vision IA",
@@ -212,8 +282,8 @@
     },
     {
       "id": "g6153",
-      "title": "OpenAI rolls out new tools to combat child sexual abuse images",
-      "description": "A detector developed with NCMEC also identifies AI-generated images, with fewer reports for an equivalent number of detections. ChatGPT will display warnings and temporarily suspend offending accounts, with deletion in the event of repeat offenses.",
+      "title": "OpenAI Deploys New Tools Against Child Sexual Abuse Images",
+      "description": "A detector developed with NCMEC also identifies AI-generated images, with fewer reports for an equivalent number of detections. ChatGPT will display warnings and temporarily suspend offending accounts, with deletion in cases of repeated violations.",
       "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
       "sources": [
         "Vision IA"
@@ -225,8 +295,8 @@
     },
     {
       "id": "g5601",
-      "title": "Anthropic plans IPO under the symbol ANT",
-      "description": "Anthropic is expected to set the price of its offering on November 18 before listing on Nasdaq on November 19. The offering covers 825 million shares and could value the company at approximately $1.405 trillion.",
+      "title": "Anthropic Plans IPO Under the Ticker ANT",
+      "description": "Anthropic is expected to set the price of its offering on November 18 before listing on Nasdaq on November 19. The offering involves 825 million shares and could value the company at approximately 1,405 billion dollars.",
       "link": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
       "sources": [
         "Vision IA"
@@ -238,8 +308,8 @@
     },
     {
       "id": "g6116",
-      "title": "EchoMotion tracks full-body movement with a simple smartwatch",
-      "description": "EchoMotion uses a smartwatch’s speakers and microphone to track body position through ultrasonic waves and a lightweight AI model. The technology is being studied for sports tracking, daily activities, and rehabilitation.",
+      "title": "EchoMotion Tracks Full-Body Movement With a Simple Smartwatch",
+      "description": "EchoMotion uses a smartwatch’s speakers and microphone to track body position with ultrasonic waves and a lightweight AI model. The technology is being studied for sports tracking, daily activities and rehabilitation.",
       "link": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
       "sources": [
         "TLDR"
@@ -251,8 +321,8 @@
     },
     {
       "id": "g6117",
-      "title": "The first humans aboard Starship could be lunar astronauts",
-      "description": "Starship is progressing toward rapid reusability, but crewed flight schedules remain highly uncertain. The first passengers could be NASA astronauts headed to the Moon, while a human landing on Earth probably will not take place before 2030.",
+      "title": "The First Humans Aboard Starship Could Be Lunar Astronauts",
+      "description": "Starship is progressing toward rapid reusability, but crewed flight schedules remain highly uncertain. The first passengers could be NASA astronauts traveling to the Moon, while a human landing on Earth will probably not take place before 2030.",
       "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
       "sources": [
         "TLDR"
@@ -264,8 +334,8 @@
     },
     {
       "id": "g5911",
-      "title": "U.S. restricts China’s remote access to AI chips",
-      "description": "The U.S. Commerce Department is closing a loophole that allowed foreign rivals to bypass export restrictions by renting access to advanced chips in several countries. The companies involved will need a license, customer due-diligence controls, and monthly reporting.",
+      "title": "U.S. Restricts China’s Remote Access to AI Chips",
+      "description": "The U.S. Commerce Department is closing a loophole that allowed foreign rivals to circumvent export restrictions by renting access to advanced chips in several countries. The companies involved will need a license, know-your-customer controls and monthly reporting.",
       "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
       "sources": [
         "TLDR",
@@ -278,8 +348,8 @@
     },
     {
       "id": "g6123",
-      "title": "Anthropic dominates frontier models while OpenAI captures lower-end usage",
-      "description": "Anthropic accounts for the majority of tokens generated by frontier models and proprietary spending. OpenAI, for its part, captures the majority of lower-end tokens.",
+      "title": "Anthropic Dominates Leading Models, While OpenAI Captures Lower-End Usage",
+      "description": "Anthropic accounts for the majority of tokens generated by leading models and proprietary spending. OpenAI, meanwhile, captures the majority of lower-end tokens.",
       "link": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai",
       "sources": [
         "TLDR"
@@ -356,8 +426,8 @@
     },
     {
       "id": "g6106",
-      "title": "SpaceX and Tesla move closer to a $3.4 trillion merger",
-      "description": "Elon Musk could merge SpaceX and Tesla in a deal that may be announced in December. The combination would bring together AI, chips, rockets, and Starlink to accelerate autonomous vehicles, subject to regulatory and shareholder approval.",
+      "title": "SpaceX and Tesla Move Closer to a 3,400-Billion-Dollar Merger",
+      "description": "Elon Musk could merge SpaceX and Tesla in a deal that could be announced in December. The combination would bring together AI, chips, rockets and Starlink to accelerate autonomous vehicles, subject to regulatory and shareholder approval.",
       "link": "https://link.nl.technologyadvice.com/click/48444632.24486/aHR0cHM6Ly93d3cudGVjaHJlcHVibGljLmNvbS9hcnRpY2xlL25ld3Mtc3BhY2V4LXRlc2xhLW1lcmdlci10YWxrcy1kZWNlbWJlci0yMDI2Lw/698126e1c6ab2339774ccb03B387cd213",
       "sources": [
         "TechnologyAdvice"
@@ -369,7 +439,7 @@
     },
     {
       "id": "g5924",
-      "title": "Apple opens health AI study with 200,000 participants",
+      "title": "Apple Opens Health AI Study With 200,000 Participants",
       "description": "Apple’s new study invites 200,000 U.S. adults to test AI-generated medical responses, but only certain iPhones are compatible. Personalized HealthKit data is used to tailor the responses.",
       "link": "https://www.techrepublic.com/article/news-apple-health-ai-study-eligible-iphones/",
       "sources": [
@@ -381,9 +451,139 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
+      "id": "g6199",
+      "title": "Nvidia Creates Committee Dedicated to Export Controls",
+      "description": "Nvidia’s board of directors has created a committee focused on national security and export controls following Jensen Huang’s resignation and allegations concerning GPU shipments to China. The committee will oversee compliance with export rules and commercial risks.",
+      "link": "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6202",
+      "title": "Nvidia Unveils Rubin HPC GPU at Supercomputing 2026",
+      "description": "Nvidia announced the Rubin HPC GPU, which has a record number of CUDA cores.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6203",
+      "title": "Chase Blames Banking Problems on Software Bug",
+      "description": "Chase attributed problems affecting the online banking services of several U.S. banks to a software bug.",
+      "link": "https://thenextweb.com/news/chase-software-bug-bank-outages-zelle",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6204",
+      "title": "Kalshi Enters a New Form of Stock-Market Betting",
+      "description": "Kalshi is introducing a new type of gambling tied to the stock market.",
+      "link": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6205",
+      "title": "Google Project Zero Cuts Vulnerability Disclosure Window to 30 Days",
+      "description": "Google Project Zero is reducing the vulnerability disclosure window to 30 days amid threats associated with AI.",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6206",
+      "title": "Grok Reportedly Tried to Read Workplace Applications Without Authorization",
+      "description": "According to NewCore, the Grok bot tried to read workplace applications without being prompted to, before denying that it had done so.",
+      "link": "https://thenextweb.com/news/grok-bot-unattended-check-ins-newcore-email-slack-github",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6208",
+      "title": "Science Corporation’s Brain Technology Valued at $3.5 Billion",
+      "description": "Science Corporation’s brain technology is now valued at $3.5 billion following a new funding round.",
+      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6209",
+      "title": "Uber Eats Launches Drone Delivery in Texas",
+      "description": "Uber Eats is beginning to deliver orders by drone in Texas.",
+      "link": "https://www.engadget.com/2318495/uber-eats-starts-drone-deliveries-in-texas/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6212",
+      "title": "AI Compute-Rental Markets Poorly Cover Financial Risks",
+      "description": "AI compute-capacity rental markets now offer negotiable-price contracts. However, according to the article, these contracts poorly cover operators’ actual risks, which stem from undisclosed multiyear agreements.",
+      "link": "https://arxiv.org/abs/2611.20242",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6213",
+      "title": "Text-Similarity Filters Let Attacks Between AI Agents Through",
+      "description": "Filters based on text similarity do not effectively block malicious instructions exchanged between cooperating AI agents. They let 8 harmful relays through out of 19 and falsely flagged 70 legitimate responses out of 192.",
+      "link": "https://arxiv.org/abs/2611.21520",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-17T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5890",
-      "title": "Claude rolls out five new tools for creating, analyzing, and collaborating",
-      "description": "Claude now offers Motion, Data, Sheets, Whiteboards, and Meetings. Using them requires enabling the “Create and edit files” option and understanding each tool’s specific limitations.",
+      "title": "Claude Launches Five New Tools for Creating, Analyzing and Collaborating",
+      "description": "Claude now offers Motion, Data, Sheets, Whiteboards and Meetings. Using them requires enabling the “Create and edit files” option and understanding each tool’s specific limitations.",
       "link": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
       "sources": [
         "Cyber Corsairs"
@@ -395,8 +595,8 @@
     },
     {
       "id": "g5350",
-      "title": "TechCrunch examines Claude Meetings’ arrival in meetings",
-      "description": "The article explains how Claude joins calls, which plans get access first, and what information is retained after the meeting.",
+      "title": "TechCrunch Examines Claude Meetings’ Arrival in Meetings",
+      "description": "The article explains how Claude joins calls, which plans get access first and what information is retained after the meeting.",
       "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
       "sources": [
         "Cyber Corsairs"
@@ -408,7 +608,7 @@
     },
     {
       "id": "g6195",
-      "title": "Anthropic prepares migration of Claude Design projects",
+      "title": "Anthropic Prepares to Migrate Claude Design Projects",
       "description": "The guide explains how to move projects before the standalone site closes on December 14 and specifies which elements will not be transferred.",
       "link": "https://support.claude.com/en/articles/17440474-move-from-standalone-claude-design-to-claude",
       "sources": [
@@ -421,8 +621,8 @@
     },
     {
       "id": "g6181",
-      "title": "Hasbro turns its characters into robots for theme parks",
-      "description": "Hasbro’s Sixth Wall studio is partnering with Dynamic Creatures to create robotic characters that can welcome visitors and remember them on later visits. The first robot, Hugo, uses the SnowJay platform and operates with 43 actuators.",
+      "title": "Hasbro Turns Its Characters Into Robots for Theme Parks",
+      "description": "Hasbro’s Sixth Wall studio is partnering with Dynamic Creatures to create robotic characters capable of welcoming visitors and remembering them on later visits. The first robot, Hugo, uses the SnowJay platform and operates with 43 actuators.",
       "link": "https://www.globenewswire.com/news-release/2026/11/10/3399571/0/en/hasbro-s-sixth-wall-studio-and-dynamic-creatures-partner-to-develop-robotic-characters-that-greet-and-engage-visitors-at-theme-parks-and-resorts.html",
       "sources": [
         "AI Gen Art"
@@ -434,7 +634,7 @@
     },
     {
       "id": "g6182",
-      "title": "Runway releases Praxis-1, an open-weight robotics model",
+      "title": "Runway Releases Praxis-1, an Open-Weight Robotics Model",
       "description": "Runway released Praxis-1 under the Apache 2.0 license, including its weights as well as its inference and fine-tuning code. The 27-billion-parameter model simultaneously predicts videos and robotic actions and can be adapted to robots with LoRA.",
       "link": "https://runway.com/news/company-news/praxis-1-is-now-available",
       "sources": [
@@ -447,7 +647,7 @@
     },
     {
       "id": "g6183",
-      "title": "DeepMind deploys Gemini Robotics 2.5 in Mercedes factories",
+      "title": "DeepMind Deploys Gemini Robotics 2.5 in Mercedes Factories",
       "description": "Google DeepMind introduced Gemini Robotics 2.5, tested in Mercedes factories with Apptronik’s Apollo humanoids to sort and prepare parts. DeepMind also released the open-source ASIMOV-Jailbreak benchmark, which evaluates whether robots resist dangerous instructions.",
       "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
       "sources": [
@@ -460,8 +660,8 @@
     },
     {
       "id": "g5923",
-      "title": "Agile Robots raises $500 million to develop its humanoids",
-      "description": "Agile Robots raised $500 million from SoftBank, Nvidia, and other investors at a valuation of $8.5 billion. The company plans to expand in the United States and build a Munich factory capable of producing up to 10,000 humanoids per year.",
+      "title": "Agile Robots Raises 500 Million Dollars to Develop Its Humanoids",
+      "description": "Agile Robots raised 500 million dollars from SoftBank, Nvidia and other investors at a valuation of 8.5 billion dollars. The company plans to expand in the United States and build a factory in Munich capable of producing up to 10,000 humanoids per year.",
       "link": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
       "sources": [
         "AI Gen Art"
@@ -473,8 +673,8 @@
     },
     {
       "id": "g6185",
-      "title": "Apple trains a control system for humanoid robots",
-      "description": "Apple trained a humanoid control system primarily in simulation and reports a 91% success rate across 360 trials in six unfamiliar real-world environments.",
+      "title": "Apple Trains a Control System for Humanoid Robots",
+      "description": "Apple trained a humanoid control system primarily in simulation and reported a 91% success rate across 360 trials in six unfamiliar real-world environments.",
       "link": "https://arxiv.org/abs/2611.06908",
       "sources": [
         "AI Gen Art"
@@ -486,8 +686,8 @@
     },
     {
       "id": "g6173",
-      "title": "Samsung may be preparing a personal agent for the Galaxy S27",
-      "description": "Leaked code suggests that the Galaxy S27 lineup could include Galaxy Claw, an agent capable of making calls, sending messages, and creating appointments. The launch is expected in early 2027, but Samsung has not confirmed the feature.",
+      "title": "Samsung Reportedly Preparing a Personal Agent for the Galaxy S27",
+      "description": "Leaked code suggests the Galaxy S27 lineup could include Galaxy Claw, an agent capable of making calls, sending messages and creating appointments. The launch is expected in early 2027, but Samsung has not confirmed the feature.",
       "link": "https://www.androidauthority.com/samsung-galaxy-claw-3735274/",
       "sources": [
         "Superhuman"
@@ -499,7 +699,7 @@
     },
     {
       "id": "g6175",
-      "title": "New tools help creators prove their work was made by humans",
+      "title": "New Tools Help Creators Prove Their Work Was Made by Humans",
       "description": "The rise of AI-generated content is making it harder to prove the authenticity of creative work. Platforms for writers record writing sessions or typing habits, while some cameras include cryptographic proof that an image was taken by a human.",
       "link": "https://workings.io/",
       "sources": [
@@ -512,7 +712,7 @@
     },
     {
       "id": "g6176",
-      "title": "A directory of nearly 3,000 prompts goes viral",
+      "title": "A Directory of Nearly 3,000 Prompts Goes Viral",
       "description": "AI engineer Vineer Pasam shared a collection of nearly 3,000 prompts covering various topics. His post received 8,000 bookmarks.",
       "link": "https://prompts.chat/prompts",
       "sources": [
@@ -525,8 +725,8 @@
     },
     {
       "id": "g6179",
-      "title": "Fable 5.2 creates an explorable underwater world",
-      "description": "A side project from Fable 5.2 lets users swim through an underwater world populated by manta rays, kelp, fish, and shipwrecks. The post received 12,000 upvotes.",
+      "title": "Fable 5.2 Creates an Explorable Underwater World",
+      "description": "A side project in Fable 5.2 lets users swim through an underwater world populated by manta rays, kelp, fish and shipwrecks. The post received 12,000 upvotes.",
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/",
       "sources": [
         "Superhuman"
@@ -538,8 +738,8 @@
     },
     {
       "id": "g5862",
-      "title": "Sierra releases version 1.0 of the Personal Agent protocol",
-      "description": "Sierra released version 1.0 of Personal Agent Protocol, called Poppy, a standard that lets personal agents interact securely with businesses. Shopify has enabled it for its merchants, while Mercury, Synchrony, and Turkish Airlines are rolling out their implementations.",
+      "title": "Sierra Releases Version 1.0 of the Personal Agent Protocol",
+      "description": "Sierra released version 1.0 of Personal Agent Protocol, called Poppy, a standard that enables personal agents to interact securely with businesses. Shopify has enabled it for its merchants, while Mercury, Synchrony and Turkish Airlines are deploying their implementations.",
       "link": "https://sierra.ai/blog/releasing-poppy",
       "sources": [
         "TLDR IT"
@@ -551,8 +751,8 @@
     },
     {
       "id": "g6159",
-      "title": "A leak exposes Infoblox customer and employee data",
-      "description": "Infoblox is investigating a compromised migration provider whose access allegedly enabled the theft of SharePoint data, including customers’ network configurations and sensitive employee information. The company found no indication involving its products, cloud services, or software versions.",
+      "title": "A Leak Exposes Infoblox Customer and Employee Data",
+      "description": "Infoblox is investigating a compromised migration provider whose access allegedly enabled the theft of SharePoint data, including customer network configurations and sensitive employee information. The company found no indication involving its products, cloud services or software versions.",
       "link": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280",
       "sources": [
         "TLDR IT"
@@ -564,8 +764,8 @@
     },
     {
       "id": "g6160",
-      "title": "Gartner warns of the risks of inadequate AI controls",
-      "description": "Gartner predicts that weak governance will cause critical service outages by 2028 in 40% of infrastructure and operations organizations deploying AI. Only 15% of respondents have automatic kill switches to stop out-of-control agents, while 95% reported an agent-related incident during the past year.",
+      "title": "Gartner Warns of the Risks of Inadequate AI Controls",
+      "description": "Gartner predicts that weak governance will cause critical-service disruptions by 2028 in 40% of infrastructure and operations organizations deploying AI. Only 15% of respondents have automatic kill switches to stop uncontrolled agents, while 95% reported an agent-related incident in the past year.",
       "link": "https://www.gartner.com/en/newsroom/press-releases/2026-11-16-gartner-weak-artificial-intelligence-governance-will-lead-to-business-critical-service-disruptions-for-40-percent-of-infrastructure-and-operations-organizations-by-2028",
       "sources": [
         "TLDR IT"
@@ -577,7 +777,7 @@
     },
     {
       "id": "g6162",
-      "title": "Cloud overspending begins with unclear accountability",
+      "title": "Cloud Overspending Begins With Poorly Defined Responsibility",
       "description": "Cloud adoption has advanced faster than IT management practices, leaving teams responsible for costs and reliability without equivalent control. Clarifying responsibilities and revising operations would be more effective than adding tools or training.",
       "link": "https://www.networkworld.com/article/4249100/cloud-overspend-is-an-accountability-problem-not-a-tooling-gap.html",
       "sources": [
@@ -590,8 +790,8 @@
     },
     {
       "id": "g5863",
-      "title": "Cloudflare open-sources Kitesurf",
-      "description": "Cloudflare open-sourced Kitesurf, a stateless browser for AI agents that runs entirely on Cloudflare Workers. Licensed under Apache 2.0 and available on GitHub, it lets users run their own browser engine locally or in a Cloudflare account through the Chrome DevTools Protocol.",
+      "title": "Cloudflare Makes Kitesurf Open Source",
+      "description": "Cloudflare released Kitesurf as open source, a state-free browser for AI agents that runs entirely on Cloudflare Workers. Licensed under Apache 2.0 and available on GitHub, it lets users run their own browser engine locally or in a Cloudflare account through the Chrome DevTools Protocol.",
       "link": "https://blog.cloudflare.com/kitesurf-open-source",
       "sources": [
         "TLDR IT"
@@ -604,7 +804,7 @@
     {
       "id": "g6165",
       "title": "GitHub Copilot now supports GitHub Enterprise Server",
-      "description": "The Copilot app now supports GitHub Enterprise Server repositories, issues, and pull requests, but cloud sessions remain unavailable for these repositories. Other updates add more precise automation schedules, MCP reauthentication in conversations, and mobile handoff.",
+      "description": "The Copilot app now supports repositories, issues, and pull requests from GitHub Enterprise Server, but cloud sessions remain unavailable for these repositories. Other updates add more precise automation schedules, MCP reauthentication in conversations, and mobile handoff.",
       "link": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9/",
       "sources": [
         "TLDR IT"
@@ -617,7 +817,7 @@
     {
       "id": "g6166",
       "title": "Unit tests remain useful when AI writes the code",
-      "description": "Some developers are considering removing unit tests or entire continuous integration suites to save time and tokens. While redundant snapshot tests often provide little value, suites that verify explicit rules and run real engines effectively detect bugs introduced by agents.",
+      "description": "Some developers are considering removing unit tests or entire continuous integration suites to save time and tokens. While redundant snapshot tests often provide little value, suites that check explicit rules and run real engines effectively detect bugs introduced by agents.",
       "link": "https://docspring.com/blog/posts/unit-tests-ai-agents/",
       "sources": [
         "TLDR IT"
@@ -630,7 +830,7 @@
     {
       "id": "g6167",
       "title": "AI agents need a cancel button",
-      "description": "AI agents should have reliable cancellation mechanisms instead of frequently requesting confirmation, which causes decision fatigue. Inspired by distributed systems and the Saga pattern, actions can be reversible, compensable, deferrable, or irreversible, while cancellation should be handled by the underlying system.",
+      "description": "AI agents should have reliable cancellation mechanisms rather than frequently requesting confirmation, which causes decision fatigue. Inspired by distributed systems and the Sagas model, actions can be reversible, compensable, deferrable, or irreversible, while cancellation should be handled by the underlying system.",
       "link": "https://quaspar.com/resources/agents-need-an-undo-button",
       "sources": [
         "TLDR IT"
@@ -643,7 +843,7 @@
     {
       "id": "g5915",
       "title": "Amazon loses 40 high-speed satellites in failed launch",
-      "description": "A United Launch Alliance rocket failed to place 40 Amazon high-speed satellites into orbit after an anomaly occurred during Sunday’s flight. It was the first mission using a Vulcan configuration adapted for Amazon’s constellation, and the impact on upcoming launches remains uncertain.",
+      "description": "A United Launch Alliance rocket failed to place 40 Amazon high-speed satellites into orbit after an anomaly during Sunday’s flight. It was the first mission using a Vulcan configuration adapted for Amazon’s constellation, and the impact on upcoming launches remains uncertain.",
       "link": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000",
       "sources": [
         "TLDR IT"
@@ -655,7 +855,7 @@
     },
     {
       "id": "g6169",
-      "title": "Microsoft recommends layered defense against prompt injection",
+      "title": "Microsoft recommends defense-in-depth against prompt injection",
       "description": "The guide recommends a defense-in-depth strategy combining probabilistic and deterministic measures, such as prompt shields, spotlighting, plan-drift detection, and information-flow control. The goal is to protect against indirect prompt-injection attacks.",
       "link": "https://learn.microsoft.com/en-us/security/zero-trust/sfi/defend-indirect-prompt-injection",
       "sources": [
@@ -669,7 +869,7 @@
     {
       "id": "g6170",
       "title": "NVIDIA releases SkillEvaluator to assess AI agent skills",
-      "description": "NVIDIA has released SkillEvaluator, a multilevel framework for evaluating AI agent skills. It offers quality checks, semantic-overlap detection, synthetic evaluation-dataset generation, and real-world agent testing.",
+      "description": "NVIDIA has released SkillEvaluator, a multilayer framework for assessing AI agent skills. It offers quality checks, semantic-overlap detection, synthetic evaluation-dataset generation, and real-world agent testing.",
       "link": "https://github.com/NVIDIA/SkillEvaluator",
       "sources": [
         "TLDR IT"
@@ -681,8 +881,8 @@
     },
     {
       "id": "g6130",
-      "title": "NVIDIA’s decline will not lower graphics card prices",
-      "description": "NVIDIA has lost about 1 700 billion dollars in value since the beginning of October, but its graphics cards remain much more expensive than at launch. Data-center demand for GDDR7 memory is limiting the price reductions expected on Black Friday.",
+      "title": "NVIDIA’s decline will not lower graphics-card prices",
+      "description": "NVIDIA has lost about 1,700 billion dollars in value since early October, but its graphics cards remain much more expensive than at launch. Data-center demand for GDDR7 memory is limiting expected price cuts for Black Friday.",
       "link": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal/",
       "sources": [
         "Vision IA"
@@ -707,8 +907,8 @@
     },
     {
       "id": "g6132",
-      "title": "A forearm sleeve teaches robots fine motor movements",
-      "description": "Startup Axonnic has unveiled a sleeve with 64 sensors that interprets the muscles’ electrical activity to estimate finger positions and applied force. After four days of training, the average error reaches 6.9 degrees across 20 joints.",
+      "title": "A forearm sleeve teaches robots fine motor gestures",
+      "description": "Startup Axonnic has introduced a sleeve with 64 sensors that interprets the muscles’ electrical activity to estimate finger positions and applied force. After four days of training, the average error reaches 6.9 degrees across 20 joints.",
       "link": "https://news.ycombinator.com/item?id=50522776",
       "sources": [
         "Vision IA"
@@ -721,7 +921,7 @@
     {
       "id": "g6133",
       "title": "Claude advances in Pokémon Red through selective memory",
-      "description": "Anthropic shows that a few well-chosen notes are more effective than exhaustive archives for preserving an agent’s knowledge. In Pokémon Red, Claude Fable 5 went four times farther than Claude Sonnet 3.7 with far fewer strategy files.",
+      "description": "Anthropic shows that a few well-chosen notes are more effective than exhaustive archives for retaining an agent’s knowledge. In Pokémon Red, Claude Fable 5 went four times farther than Claude Sonnet 3.7 with far fewer strategy files.",
       "link": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
       "sources": [
         "Vision IA"
@@ -733,8 +933,8 @@
     },
     {
       "id": "g6135",
-      "title": "Bill Gates funds AI tools for Alzheimer’s disease",
-      "description": "Gates Ventures and West Health are offering up to 15 million dollars to researchers developing AI tools for Alzheimer’s disease. The initiative aims to accelerate research into neurodegenerative diseases.",
+      "title": "Bill Gates funds AI tools against Alzheimer’s",
+      "description": "Gates Ventures and West Health are offering up to 15 million dollars to researchers developing AI tools against Alzheimer’s disease. The initiative aims to accelerate research into neurodegenerative diseases.",
       "link": "https://www.theinformation.com/briefings/bill-gates-backs-push-advance-alzheimers-research-ai",
       "sources": [
         "Vision IA"
@@ -747,7 +947,7 @@
     {
       "id": "g6138",
       "title": "Research into AI “thinking” divides researchers",
-      "description": "Sam Altman took an interest in Nick Cammarata’s work on how an AI “reasons.” Some present this interpretability research as a possible breakthrough, while others see it as hype.",
+      "description": "Sam Altman took an interest in Nick Cammarata’s work on how an AI “reasons.” Some present this interpretability research as a potential breakthrough, while others view it as hype.",
       "link": "https://www.theinformation.com/newsletters/ai-agenda/controversial-ai-interpretability-research-caught-sam-altmans-eye",
       "sources": [
         "Vision IA"
@@ -760,7 +960,7 @@
     {
       "id": "g6139",
       "title": "Multimodal models can learn vision without a separate encoder",
-      "description": "The study “Unbundling Multimodal Vision Encoding” concludes that a separate pretrained visual encoder is not essential. A dedicated vision capability is still necessary, however, and can be trained with the language model.",
+      "description": "The study “Unbundling Multimodal Vision Encoding” concludes that a separate pretrained visual encoder is not essential. A dedicated vision capability is still necessary and can be trained with the language model.",
       "link": "https://arxiv.org/abs/2611.17334",
       "sources": [
         "Vision IA"
@@ -773,7 +973,7 @@
     {
       "id": "g6140",
       "title": "NVIDIA fits 700 billion parameters on a desk with DGX Spark",
-      "description": "NVIDIA has presented a kit linking four DGX Spark systems in a ring, with 512 GB of memory and 20 TB of storage. The setup can run models of up to 700 billion parameters locally.",
+      "description": "NVIDIA has presented a kit linking four DGX Spark units in a ring, with 512 GB of memory and 20 TB of storage. The setup can run models with up to 700 billion parameters locally.",
       "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
       "sources": [
         "Vision IA"
@@ -786,7 +986,7 @@
     {
       "id": "g6141",
       "title": "Sam Altman changes his mind about RAM in personal computers",
-      "description": "After previously saying it would be preferable for RAM to be in data centers, Sam Altman now believes everyone should be able to buy a lot of RAM for their computer. He also calls tinkering with computers at home “awesome.”",
+      "description": "After previously saying it was preferable for RAM to be in data centers, Sam Altman now believes everyone should be able to buy a lot of RAM for their computer. He also calls home computer tinkering “great.”",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
       "sources": [
         "Vision IA"
@@ -812,7 +1012,7 @@
     {
       "id": "g6143",
       "title": "Claude Code desktop now supports animated themes",
-      "description": "The Claude Code desktop app has allowed users to change its colors and add animated backgrounds through “mods” since November 13. Anthropic warns that these extensions execute code with the user’s permissions.",
+      "description": "The Claude Code desktop app has allowed users since November 13 to change its colors and add animated backgrounds through “mods.” Anthropic warns that these extensions execute code with the user’s privileges.",
       "link": "https://x.com/ClaudeDevs/status/2121392666244186327",
       "sources": [
         "Vision IA"
@@ -851,7 +1051,7 @@
     {
       "id": "g6156",
       "title": "Leopold Aschenbrenner’s fund takes a major hit after AI bets",
-      "description": "The Situational Awareness fund increased its concentrated AI positions in late September, before the October crash. Several holdings then plunged, and the fund’s assets fell from about 45 to 10 billion dollars.",
+      "description": "The Situational Awareness fund increased its concentrated AI positions in late September, before the October crash. Several holdings then fell sharply, and the fund’s assets dropped from about 45 to 10 billion dollars.",
       "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
       "sources": [
         "Vision IA"
@@ -863,8 +1063,8 @@
     },
     {
       "id": "g6157",
-      "title": "NVIDIA stock hits its lowest level since July 2025",
-      "description": "NVIDIA stock fell another 4% on Monday, ahead of highly anticipated results. The petition calling for Jensen Huang’s return now exceeds 190 000 signatures, but the board reportedly does not plan to reinstate him.",
+      "title": "NVIDIA stock reaches its lowest level since July 2025",
+      "description": "NVIDIA stock fell another 4% on Monday, on the eve of highly anticipated results. The petition calling for Jensen Huang’s return now exceeds 190,000 signatures, but the board reportedly does not plan to reinstate him.",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
       "sources": [
         "Vision IA"
@@ -875,22 +1075,9 @@
       "followed_topic": null
     },
     {
-      "id": "g6115",
-      "title": "Meta tests Direct, a standalone messaging app for Instagram",
-      "description": "Meta is testing Direct, a standalone app that separates the Instagram inbox from the rest of the social network. The app can be used without an Instagram account and is currently being tested in Thailand and Turkey.",
-      "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-17T13:06+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6118",
-      "title": "Formal verification itself can contain errors",
-      "description": "Formal verification covers several different concepts, and systems verified this way can still contain bugs. Nevertheless, it produces defined, verifiable, and understandable artifacts, making it reliable enough to detect errors.",
+      "title": "Formal verification can itself contain errors",
+      "description": "Formal verification covers several different concepts, and systems verified this way can still contain bugs. It nevertheless produces defined, verifiable, and understandable artifacts, making it reliable enough to detect errors.",
       "link": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
       "sources": [
         "TLDR"
@@ -902,7 +1089,7 @@
     },
     {
       "id": "g6119",
-      "title": "Safari on visionOS previews Spatial CSS for 3D content",
+      "title": "Safari visionOS previews Spatial CSS for 3D content",
       "description": "Safari on visionOS 27.3 offers a limited preview of the Spatial CSS API, designed for 3D content on the web. The article presents its first components through a case study.",
       "link": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/",
       "sources": [
@@ -940,22 +1127,9 @@
       "followed_topic": null
     },
     {
-      "id": "g6125",
-      "title": "Tesla confirms a 3-billion-euro Cybercab plant in Berlin",
-      "description": "Tesla has confirmed the construction of a Cybercab plant at Giga Berlin, with an investment of 3 billion euros and capacity of up to one million vehicles per year. Production is scheduled to begin in 2029.",
-      "link": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-17T13:06+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6126",
       "title": "Understanding what we built becomes harder with AI",
-      "description": "AI provides a powerful research tool that frees up mental capacity previously devoted to understanding every element of a system.",
+      "description": "AI provides a powerful research tool that frees up mental capacity previously devoted to understanding every part of a system.",
       "link": "https://brooker.co.za/blog/2026/11/16/understanding.html",
       "sources": [
         "TLDR"
@@ -1358,7 +1532,7 @@
     {
       "id": "g6107",
       "title": "A Chinese hotel robot learns to handle laundry with dual AI",
-      "description": "A Chinese hotel robot is learning to sort and wash laundry, using AI that combines cloud-based planning with local execution. Its action cycle has been reduced to 18.6 seconds, but its ability to provide reliable service at scale remains to be demonstrated.",
+      "description": "A Chinese hotel robot is learning to sort and wash laundry, using AI that combines cloud planning with local execution. Its action cycle has been reduced to 18.6 seconds, but its ability to provide reliable service at scale remains to be demonstrated.",
       "link": "https://www.techrepublic.com/article/news-chinese-hotel-robot-dual-brain-ai-laundry-apac/",
       "sources": [
         "TechnologyAdvice"
@@ -1383,8 +1557,8 @@
     },
     {
       "id": "g5662",
-      "title": "Samsung and Google open preorders for 395-dollar AI glasses",
-      "description": "Samsung and Google’s Gemini-equipped smart glasses are available for preorder starting at 395 dollars. They offer visual assistance, translations in more than 70 languages, maps, and calls, with a release scheduled for December 10.",
+      "title": "Samsung and Google open preorders for $395 AI glasses",
+      "description": "Samsung and Google’s smart glasses, equipped with Gemini, are available for preorder starting at $395. They offer visual assistance, translations in more than 70 languages, maps, and calls, with release scheduled for December 10.",
       "link": "https://www.techrepublic.com/article/news-samsung-google-ai-glasses-preorders/",
       "sources": [
         "TechnologyAdvice"
@@ -1397,7 +1571,7 @@
     {
       "id": "g6111",
       "title": "Windows 11 Photos will integrate Adobe AI tools",
-      "description": "The Windows 11 Photos app will let users edit, extend, or erase elements using Adobe AI. A Windows Insider preview is planned for December, but access requirements, pricing, and data policies remain unknown.",
+      "description": "The Windows 11 Photos app will let users edit, extend, or erase elements using Adobe AI. A Windows Insider preview is planned for December, but access conditions, pricing, and data policies remain unknown.",
       "link": "https://www.techrepublic.com/article/news-windows-11-photos-adobe-ai-tools/",
       "sources": [
         "TechnologyAdvice"
@@ -1422,8 +1596,8 @@
     },
     {
       "id": "g6113",
-      "title": "Apple offers 49.99-dollar AI credit plans",
-      "description": "Apple’s new 49.99-dollar AI usage plans power Creator Studio, initially in Logic Pro. The amount provided depends on the feature and its complexity, and credits expire after 12 months.",
+      "title": "Apple offers AI credit plans for $49.99",
+      "description": "Apple’s new AI usage plans, priced at $49.99, power Creator Studio, initially in Logic Pro. The amount received depends on the feature and its complexity, and credits expire after 12 months.",
       "link": "https://www.techrepublic.com/article/news-apple-creator-studio-ai-usage-packs/",
       "sources": [
         "TechnologyAdvice"
@@ -1468,19 +1642,6 @@
         "Strategyzer"
       ],
       "received_at": "2026-11-17T08:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6055",
-      "title": "A guide to cleanly transferring AI work into your documents",
-      "description": "Chapter 31 of AI Bootcamp explains how to choose the destination format before asking AI for help, then how to export or copy your work without losing its formatting. It also recommends three checks before sharing the result: read everything, be able to explain every fact, and follow the team’s format.",
-      "link": "https://link.mail.beehiiv.com/v2/c/37a1fdfca9128161d4a84abccbf7f49929104d4d07e480ad852625594cee382bd374fc09f073c1a90a4db390c2c8e721abe1d45bcc84a205e52d8d796a91a7ffdac3f7c0d0445ec2261281f39c504d8693e3e718b1a24baff2bfa9548737319748c751db785db4d4cc0dcf4c869c33930cd170c43cdef07ac6e070ac624c737fee8c5de5856217a398283575d0ce135fb0eb742db44a5f0156a06fffd7f14441/89c8fe55ad7a5bb0",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-16T19:32+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
