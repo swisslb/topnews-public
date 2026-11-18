@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-18
 
-Period: 2026-11-17T06:25+01:00 → 2026-11-18T06:25+01:00 · 125 news received
+Period: 2026-11-17T13:25+01:00 → 2026-11-18T13:25+01:00 · 99 news received
 
-## 1. U.S. Restricts China’s Remote Access to AI Chips
+## 1. Nvidia board rules out Jensen Huang’s return as CEO
 
-**Why it matters:** The U.S. is closing a major loophole for remote access to advanced AI chips, tightening export controls and increasing compliance, supply-chain and geopolitical risks for chip companies and data-center operators.
+**Why it matters:** Nvidia’s CEO succession crisis creates major uncertainty for the company’s strategy, investor confidence and control of the AI-chip supply chain.
 
-The U.S. Commerce Department is closing a loophole that allowed foreign rivals to circumvent export restrictions by renting access to advanced chips in several countries. The companies involved will need a license, know-your-customer controls and monthly reporting.
+Nvidia’s board chair said Jensen Huang’s resignation was unanimously accepted and that the board did not plan to reinstate him as CEO. Huang nevertheless said he would be honored to return if the board decided that was preferable.
 
-- Link: https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/
-- Sources: TLDR, The Neuron
-- Received: 2026-11-17T13:06+01:00
+- Link: https://www.businessinsider.com/jensen-huang-honored-return-to-nvidia-if-board-asks-2026-11
+- Sources: Business Insider, Techpresso, Superhuman
+- Received: 2026-11-18T12:05+01:00
 
-## 2. Jensen Huang says he is ready to become Nvidia CEO again
+## 2. OpenAI launches GPT-6.2 Astra and the cheaper Sol model
 
-**Why it matters:** Jensen Huang’s possible return to Nvidia, alongside congressional testimony and an independent board investigation, signals significant governance and leadership uncertainty at the center of the AI market.
+**Why it matters:** OpenAI’s cheaper, more capable GPT-6.2 Astra and Sol models intensify price and performance competition across enterprise AI, despite early reliability concerns.
 
-Jensen Huang, founder and former CEO of Nvidia, said he would be honored to take the role again if the board believes it serves the company’s interests. He is due to testify before Congress on December 1 and cooperate with the board’s independent investigation.
+OpenAI has launched GPT-6.2 Astra for coding, research, documents and complex spreadsheets, as well as Sol for everyday tasks. The company says Astra outperforms its previous model on a professional benchmark while costing less, but early feedback points to steering difficulties and inconsistent results.
 
-- Link: https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/
-- Sources: Techpresso, Business Insider, Superhuman, Vision IA, TLDR
+- Link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-18T12:06+01:00
+
+## 3. Popular Websites Compromised to Steal Cryptocurrency
+
+**Why it matters:** A coordinated compromise of 178 major websites demonstrates the growing scale and sophistication of supply-chain cyberattacks, with direct risks to payments, credentials and customer data.
+
+Attackers injected malicious JavaScript into the websites of 178 organizations, including Zoom, HSBC, Equifax, CNN, Salesforce, and IKEA. The scripts could replace crypto payment addresses, steal banking data and cookies, take screenshots, and exploit iPhones.
+
+- Link: https://www.firstpost.com/tech/popular-websites-subverted-in-bid-to-steal-crypto-target-iphone-users-14060570.html
+- Sources: Techpresso
 - Received: 2026-11-17T18:56+01:00
 
-## 3. California attorney general sues OpenAI over failing agents
+## 4. Isomorphic Labs raises $5 billion to accelerate drug discovery
 
-**Why it matters:** California’s lawsuit over failing autonomous agents could establish important legal precedents for AI safety, developer liability and the deployment of agentic systems.
+**Why it matters:** Isomorphic Labs’ $5 billion financing is a landmark bet on AI-driven drug discovery and could reshape competition between technology and pharmaceutical companies.
 
-The California attorney general is suing OpenAI over incidents involving failing autonomous agents.
+Isomorphic Labs, Demis Hassabis’s AI drug-discovery company, has raised $5 billion in a Series C round. The company wants to develop its drug-design engine and its own therapeutic pipeline, though this does not guarantee a shortcut to approved treatments.
 
-- Link: https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
-- Sources: Techpresso, Vision IA, The Neuron
-- Received: 2026-11-17T18:56+01:00
+- Link: https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-18T12:06+01:00
 
-## 4. Anthropic Plans IPO Under the Ticker ANT
+## 5. Google’s AI answers reduce clicks to websites by 40%
 
-**Why it matters:** Anthropic’s planned Nasdaq IPO would be a major test of public-market appetite for frontier-AI companies and could reset private-company valuations across the sector.
+**Why it matters:** Evidence that Google AI Overviews reduce external clicks by about 40% signals a potentially disruptive shift in traffic, advertising and business models across the web.
 
-Anthropic is expected to set the price of its offering on November 18 before listing on Nasdaq on November 19. The offering involves 825 million shares and could value the company at approximately 1,405 billion dollars.
+A randomized experiment indicates that Google’s AI Overviews reduce clicks to external websites by about 40%. They now appear in 61% of tracked searches in the United States.
 
-- Link: https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html
+- Link: https://revscope.co/blog/search-seo-geo-2026/
 - Sources: Vision IA
-- Received: 2026-11-17T13:22+01:00
-
-## 5. Google Detects Fully AI-Automated Cyberattacks in France
-
-**Why it matters:** Google’s detection of a fully automated cyberattack demonstrates that AI is beginning to compress vulnerability discovery and exploitation into machine-speed operations, raising the urgency of automated defenses.
-
-Google observed “exploit_agent,” a system capable of finding and exploiting vulnerabilities without human intervention. The operator, likely Russian-speaking, targeted French media, entertainment and education websites.
-
-- Link: https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/
-- Sources: Vision IA, The Neuron
-- Received: 2026-11-17T13:22+01:00
+- Received: 2026-11-18T11:06+01:00
