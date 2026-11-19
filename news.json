@@ -1,11 +1,55 @@
 {
   "date": "2026-11-19",
   "period": {
-    "from": "2026-11-18T13:25+01:00",
-    "to": "2026-11-19T13:25+01:00"
+    "from": "2026-11-18T19:25+01:00",
+    "to": "2026-11-19T19:25+01:00"
   },
-  "news_count": 124,
+  "news_count": 115,
   "news": [
+    {
+      "id": "g6367",
+      "title": "Google launches Gemini 4 Neon, its new flagship model",
+      "description": "Google has launched Gemini 4 Neon, a model positioned between Carbon, its most powerful model, and Hydrogen, its faster and cheaper option. Neon ranks third on the Artificial Analysis Intelligence Index and is available in AI Studio, the Gemini API, Antigravity and the Gemini app for paid Pro and Ultra subscribers.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "sources": [
+        "Superhuman",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6411",
+      "title": "ChatGPT rolls out real-time voice dictation",
+      "description": "ChatGPT dictation now converts speech to text as the user speaks, instead of waiting for the recording to end. The feature is available on all plans, on iOS, Android, the web and desktop.",
+      "link": "https://archive.superhuman.ai/2123114715257946334",
+      "sources": [
+        "Superhuman",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6408",
+      "title": "OpenAI launches ChatGPT for Accounting for accounting workflows",
+      "description": "OpenAI has launched ChatGPT for Accounting, a plugin that connects to popular accounting tools to manage billing, monthly closes and other processes.",
+      "link": "https://openai.com/business/solutions/accounting/",
+      "sources": [
+        "Superhuman",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
     {
       "id": "g6400",
       "title": "Anthropic prices its IPO at $83",
@@ -35,17 +79,136 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g5079",
-      "title": "Nvidia employees call for Jensen Huang’s return, but the board refuses",
-      "description": "A week after Jensen Huang’s resignation, Nvidia employees called for his return, while the board says it does not want to reinstate him. Management is offering raises and stock grants to retain talent.",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "id": "g6437",
+      "title": "Anthropic surges 34% in its IPO debut",
+      "description": "Anthropic shares surged 34% in their first trading session, pushing the AI company's valuation above $2 trillion.",
+      "link": "https://l.businessinsider.com/a/zc/21432/4793556fe3e940cfac9a71642c62e049/407429845914484dbf1e0db8a0995144",
       "sources": [
-        "Vision IA",
-        "Techpresso",
+        "Business Insider",
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T18:22+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6484",
+      "title": "Founders and executives who could get richer from Anthropic's IPO",
+      "description": "The article profiles the co-founders, executives and companies likely to become significantly wealthier through Anthropic's IPO.",
+      "link": "https://www.businessinsider.com/anthropic-ipo-winners-amazon-google-founders-investors-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-19T18:22+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6485",
+      "title": "Experts assess whether to invest in the AI boom",
+      "description": "Five investment professionals share their views on Anthropic's IPO and whether to buy during the AI boom or be wary of the hype.",
+      "link": "https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-19T18:22+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6337",
+      "title": "Suno turns AI-generated songs into music videos",
+      "description": "Suno has launched Visuals, a tool available on the web, iOS and Android that turns a song into cover art, a synchronized lyric video and a lip-synced video. Clips can be up to 15 seconds long and can be created from a built-in character or a personal image.",
+      "link": "https://suno.com/blog/introducing-visuals",
+      "sources": [
+        "AI Gen Art",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-19T17:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6214",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol, met with mixed reviews",
+      "description": "OpenAI has launched GPT-6.2 Astra and Sol, two models aimed in part at professional work. Astra ranks second on the Artificial Analysis Intelligence Index, but early testers criticized its performance, and Sol's coding has regressed compared with GPT-6.1.",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "sources": [
+        "AI Gen Art"
+      ],
+      "received_at": "2026-11-19T17:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6215",
+      "title": "Google makes Gemini Tasks free in more countries",
+      "description": "Google has made Gemini Tasks free in more countries. The feature allows Gemini to run background projects involving tasks across multiple applications.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "sources": [
+        "AI Gen Art",
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T17:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6232",
+      "title": "Isomorphic Labs raises $5 billion for drug discovery",
+      "description": "Isomorphic Labs has raised $5 billion in a Series C round to develop its AI-driven drug discovery work.",
+      "link": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
+      "sources": [
+        "AI Gen Art"
+      ],
+      "received_at": "2026-11-19T17:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6465",
+      "title": "ChatGPT Images can turn a photo into an animated reaction GIF",
+      "description": "A new ChatGPT Images feature can convert a prompt or image into a looping animated GIF. The tutorial recommends uploading a clear photo, specifying the animation steps and regenerating the image if the face or loop drifts.",
+      "link": "https://archive.superhuman.ai/2118124944928432327",
+      "sources": [
         "Superhuman"
       ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 3,
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6468",
+      "title": "A list catalogs 103 ways to use artificial intelligence",
+      "description": "Alex Lieberman, co-founder of Morning Brew, has published a list of 103 AI use cases, most of which were impossible just a year ago.",
+      "link": "https://archive.superhuman.ai/2122832668815478986",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6330",
+      "title": "The Java4Shell flaw exposes widely used enterprise applications",
+      "description": "Oracle has patched a Java vulnerability that allowed unauthenticated attackers to execute code or crash vulnerable systems. Researchers demonstrated attacks against Jira, Confluence, Jenkins and Elasticsearch, with exposure depending on the Java version and processor configuration.",
+      "link": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661",
+      "sources": [
+        "TLDR IT",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
@@ -155,46 +318,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6367",
-      "title": "Google launches Gemini 4 Neon for coding and knowledge work",
-      "description": "Gemini 4 Neon is Google’s mid-tier Gemini 4 model for coding and knowledge work. It is available in the Gemini app for Pro and Ultra subscribers, as well as in the Gemini API.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6408",
-      "title": "ChatGPT launches accounting module connected to major software",
-      "description": "ChatGPT’s accounting module connects to QuickBooks, Xero and NetSuite, among others. It can identify services ready to be billed in emails and prepare invoices for approval.",
-      "link": "https://x.com/ChatGPT/status/2123159134963196357",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6411",
-      "title": "ChatGPT Live Dictation transcribes speech in real time",
-      "description": "ChatGPT Live Dictation transcribes speech as it is spoken instead of waiting until the recording ends. Users can then ask it to format the text as bullet points on mobile.",
-      "link": "https://x.com/ChatGPT/status/2123114715257946334",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g6413",
       "title": "Microsoft Decision 1.1 becomes multimodal for triage and decision-making",
       "description": "Microsoft Decision 1.1 is a fast, low-cost model for triage and decision-making that is now multimodal. Xbox uses it to group player feedback by topic.",
@@ -247,20 +370,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6337",
-      "title": "Suno turns AI-generated songs into music videos",
-      "description": "Suno’s new Visuals tab automatically creates music videos synchronized with lyrics, as well as images from a description. The feature is available on the web, iOS and Android.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "sources": [
-        "Vision IA",
-        "Techpresso"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6396",
       "title": "Microsoft negotiates a $500 million deal with ByteDance",
       "description": "TikTok’s parent company wants greater access to OpenAI models through Azure. OpenAI accuses Microsoft of not applying the same restrictions to Chinese companies that it does, alleging that they distill its models.",
@@ -287,82 +396,420 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6323",
-      "title": "Testers harshly criticize OpenAI’s new GPT-6.2 Astra model",
-      "description": "OpenAI’s GPT-6.2 Astra model drew heavy criticism in pre-release testing, with some users calling it very bad or unusable. It costs 20% less than GPT-6 Astra and follows the launch of Claude Fable 5.2.",
-      "link": "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users",
+      "id": "g6486",
+      "title": "Anthropic devises an unusual plan to prevent insider trading",
+      "description": "Anthropic has developed an unusual plan to prevent its employees from engaging in insider trading.",
+      "link": "https://www.businessinsider.com/anthropic-unusual-setup-for-employees-sell-stock-post-ipo-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
-        "Techpresso"
+        "Business Insider"
       ],
-      "received_at": "2026-11-18T18:54+01:00",
+      "received_at": "2026-11-19T18:22+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6238",
-      "title": "AI models designated civilians as military targets",
-      "description": "Models from Anthropic, OpenAI, Google and DeepSeek designated civilians, surrendering soldiers and schools as targets in simulated war scenarios. Anthropic’s models performed worst, with Claude Opus 5.5 targeting a bombed Iranian school in 69% of standard trials.",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "id": "g6478",
+      "title": "Microsoft unveils MAI Image 2.7, a cheaper image-editing model",
+      "description": "Microsoft has unveiled MAI Image 2.7 and its Flash version, saying the main model ranks first on Artificial Analysis for image editing. Microsoft says it delivers results comparable to GPT Image 2.6 Sunburst at one-fifth the price, while the Flash version targets high-volume processing.",
+      "link": "https://microsoft.ai/news/introducing-mai-image-2-7/",
       "sources": [
-        "Techpresso"
+        "AI Gen Art"
       ],
-      "received_at": "2026-11-18T18:54+01:00",
+      "received_at": "2026-11-19T17:04+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6331",
-      "title": "Amazon and Google reportedly hold around 28% of Anthropic",
-      "description": "Anthropic’s IPO filing shows that Amazon and Google together reportedly hold around 28% of its shares.",
-      "link": "https://qz.com/anthropic-ipo-amazon-google-28-percent-stock-111726",
+      "id": "g6471",
+      "title": "A seven-day plan to turn Claude into a true work system",
+      "description": "The plan recommends starting with a personal brief, then creating projects, connecting tools and turning repetitive methods into skills. It then suggests using artifacts, automations and Claude Code to build more autonomous workflows.",
+      "link": "https://link.mail.beehiiv.com/v2/c/e4c4240da9ead748244a9ec43971232b1d600838d16ed0d15e0427a4fb3192a17f6708fc185aaa893a380c0b1428988b377f481eb27689f4b99fe41594b103070c400b1ce3fda52cd3a7b9c2789188c0433038e680631af8a30e53b34ad426dd9e173b8f7490d96cc8136df4708c61e88d20cbc28aaa01d6fdf43b212c88327438ec4ea08c73bbadad4b4609e5d5115d3cad4a157044074b567c770c9901619a24254125c9d021620b1f0f086c5242bcc9551235e0f9acd506ffb3b3319e59a9/55cdf1bef1b0c527",
       "sources": [
-        "Techpresso"
+        "Cyber Corsairs"
       ],
-      "received_at": "2026-11-18T18:54+01:00",
+      "received_at": "2026-11-19T16:36+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
+      "followed_topic": null
     },
     {
-      "id": "g6334",
-      "title": "Trump administration considers requiring disclosure of Chinese AI use",
-      "description": "The Trump administration is considering requiring U.S. companies to disclose their use of Chinese artificial intelligence systems.",
-      "link": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+      "id": "g6472",
+      "title": "Anthropic explains how to customize Claude with global instructions",
+      "description": "The guide shows where to write instructions that apply across an account, including the brief to provide before the first interaction with Claude.",
+      "link": "https://support.claude.com/en/articles/10185728-understanding-claude-s-personalization-features",
       "sources": [
-        "Techpresso"
+        "Cyber Corsairs"
       ],
-      "received_at": "2026-11-18T18:54+01:00",
+      "received_at": "2026-11-19T16:36+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6338",
-      "title": "OpenAI opens its Daybreak cybersecurity tool to NATO and European governments",
-      "description": "OpenAI is making its Daybreak cybersecurity tool available to NATO and European governments.",
-      "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+      "id": "g6473",
+      "title": "Anthropic details how projects work in Claude",
+      "description": "The explanation describes how each project keeps its own files, instructions and conversations so that one client does not get mixed up with another.",
+      "link": "https://support.claude.com/en/articles/9517075-what-are-projects",
       "sources": [
-        "Techpresso"
+        "Cyber Corsairs"
       ],
-      "received_at": "2026-11-18T18:54+01:00",
+      "received_at": "2026-11-19T16:36+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6214",
-      "title": "OpenAI launches GPT-6.2 Astra, GPT-6.2 Sol and ChatGPT for Sales",
-      "description": "OpenAI launched GPT-6.2 Astra, its new flagship model, along with GPT-6.2 Sol, a more efficient version. The lab also launched ChatGPT for Sales, with ready-to-use sales workflows, while early reviews of the models are often negative.",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "id": "g6474",
+      "title": "Claude for Google Workspace can edit Docs, Sheets and Slides",
+      "description": "The beta version presented allows Claude to create and edit Google documents, spreadsheets and presentations for paid subscribers.",
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-19T16:36+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6475",
+      "title": "Anthropic shows how to turn a proven workflow into a Claude skill",
+      "description": "The guide explains how to add a skill so that a well-established process becomes a method Claude can repeat.",
+      "link": "https://support.claude.com/en/articles/12512180-use-skills-in-claude",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-19T16:36+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6476",
+      "title": "Claude's scheduled tasks can run while the computer sleeps",
+      "description": "The guide confirms that tasks can run while the computer is asleep, while noting that they work only with a local folder when the computer remains on.",
+      "link": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-19T16:36+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6461",
+      "title": "Helios aims to assess health from a few drops of blood",
+      "description": "Helios analyzes around 1,000 blood proteins to determine how health is changing and detect certain problems before symptoms appear. The startup, founded by Omar Abudayyeh, Jonathan Gootenberg and Yousef Badran, is currently available by waitlist only.",
+      "link": "https://www.myhelios.com/",
       "sources": [
         "Superhuman"
       ],
-      "received_at": "2026-11-18T15:12+01:00",
+      "received_at": "2026-11-19T15:09+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
+    },
+    {
+      "id": "g6466",
+      "title": "A coalition accuses Anthropic of not being a safe company",
+      "description": "The MisAnthropic Statement, signed by nearly 90 researchers, founders and academics, says Anthropic's actions do not match its image as an AI safety company. Signatories particularly criticize its race toward recursive self-improvement, which could make the technology uncontrollable by humans.",
+      "link": "https://misanthropicstatement.com/",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6469",
+      "title": "Fable 5.2 creates a painting in Microsoft Paint",
+      "description": "The Fable 5.2 language model created an image in Microsoft Paint in 2 hours and 30 minutes after being given a virtual brush.",
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xvghd1/fable_52_painting_in_ms_paint/",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6470",
+      "title": "SpaceXAI says it uses five Grok agents for accounting",
+      "description": "SpaceXAI says it has five Grok agents on its accounting team and detailed how they were trained and integrated before working autonomously.",
+      "link": "https://x.ai/news/grok-bot-accounting",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6451",
+      "title": "AWS Interconnect now privately links AWS and Azure",
+      "description": "AWS Interconnect now privately connects AWS and Microsoft Azure, replacing the networks customers previously had to build themselves.",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6452",
+      "title": "Microsoft launches initiative to strengthen AI transparency",
+      "description": "Microsoft and organizations from several sectors are launching an initiative to establish open standards for AI safety, governance and transparency. It is intended to help companies independently verify the behavior of AI agents.",
+      "link": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6453",
+      "title": "AI blurs the boundaries between CIOs, CISOs and risk leaders",
+      "description": "Autonomous AI agents are blurring traditional responsibilities between CIOs, CISOs and risk departments. Companies must define explicit decision-making mandates, predetermined trade-offs and complete audit trails to preserve human accountability.",
+      "link": "https://www.cio.com/article/4249210/ai-is-blurring-the-lines-between-cio-ciso-and-cro.html",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6454",
+      "title": "A capsule manufacturer highlights AI's limitations",
+      "description": "A manufacturer's presentation challenged the idea that all business processes are ready for AI automation, citing aging equipment, limited digital skills and low margins. Successful adoption starts with understanding employees' practical knowledge and operational constraints.",
+      "link": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6456",
+      "title": "Microsoft expands availability of its Windows endpoint security platform",
+      "description": "Microsoft has announced general availability of its Windows endpoint security platform, which allows third-party security vendors to protect systems with less reliance on kernel-level software. The new API can warn users, limit functionality or block applications if a PC fails a security check.",
+      "link": "https://blogs.windows.com/windowsexperience/2026/11/17/windows-security-at-ignite-2026-start-secure-protect-what-matters-prepare-for-ai/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6457",
+      "title": "Microsoft presents governed AI-agent deployment on Windows",
+      "description": "Windows and Microsoft tools support the enterprise deployment of governed AI agents through identity, containment and management mechanisms. Entra Agent ID and Execution Containers impose limits, while Intune, Defender and Purview provide management, runtime protection and data-leak prevention.",
+      "link": "https://blogs.windows.com/windowsdeveloper/2026/11/17/enterprise-deployment-of-governed-agents-on-windows/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6459",
+      "title": "Neo4j offers an ontology to structure AI knowledge",
+      "description": "A Neo4j-based ontology helps enterprise AI agents interpret ambiguous business terms through governed definitions, rules and provenance.",
+      "link": "https://neo4j.com/blog/developer/the-knowledge-layer-for-enterprise-ai-domain-ontology/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6460",
+      "title": "Intel strengthens its Azure infrastructure partnership",
+      "description": "The expanded agreement between Microsoft and Intel provides for several years of Xeon processor supply and the use of Intel's EMIB packaging technology for Azure's own chips.",
+      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/microsoft-azure-infrastructure-collaboration.html",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6438",
+      "title": "Tesla is preparing an autonomous Model Y without a steering wheel or pedals",
+      "description": "Tesla is developing an autonomous version of the Model Y without a steering wheel or pedals, capable of carrying up to six or seven passengers. The company will continue producing conventional Model Ys for the foreseeable future.",
+      "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6439",
+      "title": "Hardware engineers should design design algorithms",
+      "description": "Much of hardware engineering is actually a form of software engineering because it relies on calculations. Design algorithms could allow small teams to build complex systems.",
+      "link": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6440",
+      "title": "A study proposes wireless communication using gravity",
+      "description": "The study presents gravity as a potentially jamming-resistant platform. It describes a protocol in which a binary message is transmitted through the movement of a mass and detected with a portable gravimeter.",
+      "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6441",
+      "title": "AWS launches ExtendDB 1.0, a DynamoDB-compatible adapter",
+      "description": "ExtendDB is a DynamoDB API-compatible adapter that can run on PostgreSQL, SQLite, Cassandra and MongoDB. Open source under the Apache 2.0 license, it allows DynamoDB workloads to run on premises, in the cloud or at the edge without rewriting code.",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6442",
+      "title": "Developers are urged to publish forks instead of AI-generated PRs",
+      "description": "Open-source projects are receiving many pull requests produced with AI assistance. Developers could instead publish forks, which maintainers would then review to select the changes to integrate.",
+      "link": "https://jacobtomlinson.dev/posts/2026/foundation-software/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6443",
+      "title": "Waymo may not be able to solve road-safety problems on its own",
+      "description": "Waymo may have little incentive to exceed a safety limit it defines itself. According to the article, the company could shift responsibility for road-safety policies from public authorities to a private company that is difficult to hold accountable.",
+      "link": "https://azhdarchid.com/notes/waymo-safety-2026-11-18/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6444",
+      "title": "Nvidia's interim CEO urges employees to move forward",
+      "description": "Nvidia held its first all-hands meeting since Jensen Huang's resignation. Executives announced progress on salary increases and annual reviews, while the board does not plan to reinstate Huang.",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6445",
+      "title": "A Chrome extension can change its behavior based on the prompt it receives",
+      "description": "Prompt in a Box is a Chrome extension that dynamically adapts its behavior based on the prompt it is given.",
+      "link": "https://aifoc.us/my-chrome-extensions-are-just-prompts/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6447",
+      "title": "AI agents increase individual output without improving alignment",
+      "description": "Agents enable each person to produce more. However, they do not improve teams’ ability to align with one another.",
+      "link": "https://www.clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6448",
+      "title": "Complex systems depend on capable and committed people",
+      "description": "The world relies on complex systems that depend on capable and committed people. Their disappearance can lead to the collapse of these systems.",
+      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6449",
+      "title": "Companies are slow to adapt when economic scarcity shifts",
+      "description": "Every major economic era tells the story of what was scarce, where that scarcity shifted, and how long companies and institutions took to respond.",
+      "link": "https://betterthangood.xyz/blog/scarcity-migration/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6450",
+      "title": "AI makes it possible to create engaging presentations with less effort",
+      "description": "AI makes it possible to create engaging presentations with far less effort.",
+      "link": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6415",
@@ -664,6 +1111,19 @@
       "followed_topic": null
     },
     {
+      "id": "g5079",
+      "title": "Nvidia employees call for Jensen Huang’s return, but the board refuses",
+      "description": "A week after Jensen Huang’s resignation, Nvidia employees called for his return, while the board says it does not want to reinstate him. Management is offering raises and stock grants to retain talent.",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-19T10:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6372",
       "title": "Voyager 1 is now one light-day from Earth",
       "description": "Launched in 1977, Voyager 1 has reportedly passed 26 billion kilometers, with each message taking about 24 hours to arrive. The probe is heading toward the star Gliese 445, which it will pass close to in 40,000 years.",
@@ -759,19 +1219,6 @@
       "title": "Mastra Factory opens an open-source agent-run software factory",
       "description": "Mastra is releasing the tool used to maintain its own code: AI agents handle tasks and are controlled through Slack. The previous week, Factory merged 238 code changes, compared with 630 by human developers.",
       "link": "https://news.ycombinator.com/item?id=50548660",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6381",
-      "title": "AI discovers a critical Java vulnerability triggered by 64 A letters",
-      "description": "With help from GPT-6 Cyber, the startup Calif discovered that a sequence of 64 “A” letters followed by an equals sign could crash Java’s base64 decoder. Oracle has released a fix, but the vulnerability may remain on unupdated machines.",
-      "link": "https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/",
       "sources": [
         "Vision IA"
       ],
@@ -1062,565 +1509,6 @@
         "GPT Central"
       ],
       "received_at": "2026-11-18T19:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6325",
-      "title": "Microsoft unveils coding AI nearly on par with Claude",
-      "description": "Microsoft says its MAI Code 2 model achieves 96% of Claude Opus 5.5’s coding performance for just 5% of the price. These figures include a launch discount, and the model does not handle the most complex research or agentic tasks.",
-      "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6326",
-      "title": "Apple attributes global iCloud outage to an internal update",
-      "description": "Apple attributed the global outage on November 17 to an internal update and ruled out a cyberattack. The outage affected iCloud, the App Store, Apple Music and other services, but Apple has not yet explained the changes that caused the problem.",
-      "link": "https://www.theapplepost.com/2026/11/17/74448/apple-confirms-what-caused-widespread-outage-affecting-millions-of-users/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6328",
-      "title": "Startup wants to drill into a volcano to generate geothermal energy",
-      "description": "Google has signed an agreement to purchase 50 megawatts of geothermal energy from Quaise Energy, which plans to drill near Newberry volcano in Oregon. The project aims to reach rocks above 300 °C, then use millimeter waves to drill deeper and power Google’s data centers.",
-      "link": "https://finance.yahoo.com/energy/articles/texas-company-plans-drill-oregon-183730773.html",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6329",
-      "title": "NSA’s version of Slack reportedly down as U.S. services malfunction",
-      "description": "The version of Slack used by the NSA reportedly went down as several U.S. services experienced problems.",
-      "link": "https://gizmodo.com/nsas-version-of-slack-reportedly-borked-as-americans-wonder-why-everything-is-breaking-2000841102",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6330",
-      "title": "CISA warns of “Java4Shell,” a Java vulnerability discovered by AI",
-      "description": "CISA is warning about a Java vulnerability called “Java4Shell,” which reportedly affects most Fortune 500 companies.",
-      "link": "https://therecord.media/cisa-issues-java4shell-alert",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6332",
-      "title": "Google lets Gemini users opt out of AI training",
-      "description": "Google now allows Gemini users to disable the use of their conversations for AI training while keeping their history.",
-      "link": "https://www.androidauthority.com/gemini-new-chat-history-settings-3736303/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6333",
-      "title": "Hyperscale data centers consume 2% of U.S. electricity",
-      "description": "Hyperscale data centers now account for 2% of electricity consumption in the United States.",
-      "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6335",
-      "title": "Kalshi suspends markets mentioning Donald Trump",
-      "description": "Prediction market platform Kalshi suspended markets mentioning Donald Trump.",
-      "link": "https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6336",
-      "title": "Spotify developing tool to prevent deepfakes from being attributed to artists",
-      "description": "Spotify is developing a tool designed to prevent deepfakes from being attributed to real artists.",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6215",
-      "title": "Google expands access to Gemini Tasks to automate calls and purchases",
-      "description": "Google is expanding access to Gemini Tasks, which can help users make calls and complete purchases.",
-      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6231",
-      "title": "Waymo suspends robotaxi rides on U.S. highways",
-      "description": "Waymo suspended all robotaxi rides on U.S. highways after a ban in California.",
-      "link": "https://www.cryptopolitan.com/waymo-robotaxis-us-freeways-california-ban/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6247",
-      "title": "Nvidia stops shipping H200 chips to customers in China",
-      "description": "Nvidia has halted deliveries of its H200 chips to customers in China.",
-      "link": "https://gizmodo.com/nvidia-stops-shipping-h200s-to-customers-in-china-2000841474",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6286",
-      "title": "Microsoft integrates Office into Copilot, billed as the new OS for work",
-      "description": "Microsoft is presenting Copilot as the “new OS for work” and now allows users to run Office in it.",
-      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6343",
-      "title": "AI shopping agents become more confident without becoming more accurate",
-      "description": "AI shopping agents show more confidence when asked to think longer, without improving their accuracy. Their confidence level rarely matches the frequency of their correct answers.",
-      "link": "https://arxiv.org/abs/2611.22033",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6344",
-      "title": "AI assistant memory can remove critical warnings",
-      "description": "AI assistants can silently remove essential warnings after memorizing a preference for brevity. Two assistants tested omitted key safety information in more than 80% of subsequent responses.",
-      "link": "https://arxiv.org/abs/2611.22697",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6345",
-      "title": "One in four U.S. adults has made a friend online",
-      "description": "According to a Pew Research Center survey, about one in four U.S. adults has made friends online. The proportion reaches 43% among people under 30 and 45% among LGBT+ adults.",
-      "link": "https://www.pewresearch.org/short-reads/2026/11/17/younger-and-lgbtq-adults-in-the-us-stand-out-for-finding-friendship-online/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-18T18:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6319",
-      "title": "Reckitt lets consumers decide which ideas deserve to be pursued",
-      "description": "Gianluca Balzamo’s team now tests concepts with consumers before seeking company funding. Tested with 302 people, the CleanQuest concept ranked last out of ten, ending the debate based on data rather than opinions.",
-      "link": "https://link.mail.beehiiv.com/v2/c/1406190ec72760252e39ee30d41592ce3d3904a4951a3bc90b17fa828c022d28dfb6b608a39248fb6e42e6772b058f346ab42f9ddb9ca053376a6bdfdc6c368f2cd996261e74133ea48dcc129e0075c1eec6b1b6f87bf259b199bd08b2ecf6e0b372abd606f8aa3cc4a220b8826da9f12c3e5072f4a2d06dcd59e253e65e55df30535f81b510b872ae8ae6808b7e642f849504efb8d6844f4148c799a813bb95/aac5df2900035708",
-      "sources": [
-        "The Compass"
-      ],
-      "received_at": "2026-11-18T17:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6320",
-      "title": "Adding friction so teams take ownership of their decisions",
-      "description": "According to Vincent Atallah, small manual work steps help teams take ownership of conclusions produced with AI. He recommends adding this friction when checking assumptions, before research, at the decision meeting and in early discussions with executives.",
-      "link": "https://link.mail.beehiiv.com/v2/c/39ac596f79277698dcedabef344ca18d0588c0cfc67eae9e1cfb1af2d50d76f47b1b6e921aa017f26e1fa2abb9527c82879535b846e8b546b160c02c0ce522cfa30817929f32d3a44bc9234c420137d940677f5ca8855f5f667a80cc32af0e7af89b921195d83f4772b8050d1566ca39b9d198c98e069ee2811bcdbd5718ae5e529f08c6ad921ef0c453cb379c1cb40d427da79d84c35981755b55da26213e36/655cb7fcaa9ab4b6",
-      "sources": [
-        "The Compass"
-      ],
-      "received_at": "2026-11-18T17:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6321",
-      "title": "At Telefónica, three roles share the decision to stop a project",
-      "description": "The board evaluates each project against a written strategy, the sponsor gradually commits more resources and customers, and innovation leaders flag stalled projects. The decision to stop a project is therefore not made by any one group alone.",
-      "link": "https://link.mail.beehiiv.com/v2/c/8709f55cfbec149d6654e658893d5e87bff0e8613e246514d7a5680f455ae245c1397303c35f42059f80deef79517b0dbcccf7aac57e453f143e16094874e76673ac27941b405d45ee895201927dca9ad96c151d10d69a470398070058cbce8951d1e7dd395afc9032b5f2a9f1eef0e21220b9a83d726530798c068f90bfb4966ffc2d15a775f834eaec00166cdcddf8dd551753a4292c0fe02640a14b164a17/2be12b8219137d08",
-      "sources": [
-        "The Compass"
-      ],
-      "received_at": "2026-11-18T17:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6322",
-      "title": "Microsoft broadens market assessment with its Inclusive Design Toolkit",
-      "description": "Microsoft’s toolkit recommends starting with people facing the greatest barrier, then counting everyone who shares the same need. For a product usable with one arm, this approach raises the potential market to more than 21 million people by including temporary or situational limitations.",
-      "link": "https://link.mail.beehiiv.com/v2/c/73834de5674432daa48914194d56626413b19edb01d143f3bc10ade44180b3dcf706ae8bd67f18c6689c47aacef361445d812c937f4a434911df5e82b449879f6b7491cc71e6df97299edd7721d85349611a1660559522f155eb8931ef3704b1b26da750dd7d35816eea3d99d92e3042f8362389106250b82030773596e3837849671aaff7d58e02f9fd435a8f74a1916c5129331fb405553b3f3704a608e178/768828e4af4bec1a",
-      "sources": [
-        "The Compass"
-      ],
-      "received_at": "2026-11-18T17:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6310",
-      "title": "A first long Model Y trip between California and Utah",
-      "description": "An owner plans to drive from California to Utah during Thanksgiving week, from November 21 to 28 depending on the weather and snow conditions.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsOyTGpXmlMKjSQsukoBxkY1qJsznmHcqOIitj3rw_scwD6eeNNXBgRQdPMmfcHk2z2tP4ADiVUpcIQ5oJbUK_xbadK-_J7ona7aMvodURF5CsR4pukmfPBf_vuaCEKmsmamybWjYIWGRJuctgddcyRcye3KlTvJZey8siHg0UgASORV2JULwr5rlExm7TFO2UIPnMDqbTj0kJWMPh7I7YqXO5OZgZ2-4KV5iH_Kodd_q0NkYhhJtQXPRUOFEW0OCh2ZO9KoDsFud9znp5IPla4gPtrEfyOppL-fFB2vy6OdfWGPAd4qf1UmCTkZIjIDY_/4vu/wrC9j09RRE-nXfdKTVFCqA/h18/h001.JJEh0Ye5chUCzYiHfgcZaWupRooBiLNCbYkZStIgEOQ",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5850",
-      "title": "The Cybercab is now available by invitation",
-      "description": "A post announces that the Cybercab is now available by invitation. One participant is concerned about the vehicle’s operating costs and the lack of a guarantee that the 299-dollar-per-month FSD subscription will remain available.",
-      "link": "https://www.teslaownersonline.com/threads/cybercab-now-available-by-invite.39976/?post_id=480874#post-480874",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6312",
-      "title": "Free radio and music app for Tesla fixes a crash",
-      "description": "A user says that searching on the globe no longer causes a crash, although the app remains slow, probably because of the older Intel Atom processor. The user also mentions sound quality, without further details in the email.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVspZdLxjrtXp6CyHTmylxirpsSazWXJcjYPq-9zMQ5ot70dLxus3tIbvpSqgapl7NYpY-cwb5MR7qprf72RT2FVzUk1WM8urfVttnlCfiBSlnOW_QHb7EwgLQZUQY-e5RVH14_F--zyVX7cjkhtOrvBjw0sL2krfJRD-BZZYjFZanFkramC1FeznX1vOATt6PN4QtdMpnzIGHHSLZFwYRQJbQ0UJ47x99VRX9KWdFSQryG3WHQWTt5Z5u6vcYbNmvD6jTW64XsVkVo6Ez3CfFoGirFon0Eotl5PjPARDRzj0RoXcAbZyZx-3uS-ij3YAS6/4vu/wrC9j09RRE-nXfdKTVFCqA/h48/h001.8bTVACPHhJc57ZbEys-s1E0MBHNcOmrKkegnkAsixcw",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6313",
-      "title": "Long trips do not always require a charging adapter",
-      "description": "Depending on the route, some long trips such as Miami-Seattle, Bangor-San Diego or Halifax-Vancouver can be completed without an adapter, except when using certain specific chargers.",
-      "link": "https://www.teslaownersonline.com/threads/adapters-needed.39990/?post_id=480838#post-480838",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6314",
-      "title": "Tesla Mobile Connector appears to be receiving stealth updates",
-      "description": "One participant believes the Mobile Connector update was probably installed during a brief period of a few minutes while they were not monitoring it.",
-      "link": "https://www.teslaownersonline.com/threads/tesla-mobile-connector-firmware-updates.39968/?post_id=480884#post-480884",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6315",
-      "title": "Why are some Teslas still not receiving an update?",
-      "description": "An owner of a 2017 Model X 100D equipped with FSD presents its three latest software versions and thinks the newest one is the version currently available for the vehicle.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsL9tDgxrfX7yhifI8n5ielEv4DMovO1Y90XuUrF9hbDaryumNiuIAOshxkOJZpKff-c7MMam9KQrHualBLNY1--N1eqDPxF7Sa6XMQ8kQhEXXlTu6rfKwPIOG8axsJX2y9jIqBKqZCCqmz7eu-QXNCndca4gl7FQy1HCwy9sJi61cfM44EWh5edXlu8vY3lIUiLk0z0FJtpl4QTkQrPcnQPJbEoWnRuN_dx6i79T0GU6qk6wuykgAdy83Ei1cj5_cBMK9xfelJGM2KXNnZ50QJd9lT0fe15wCpPh8d9P_rGKB_PF7ssjfxAkCVHD1QxhdjmWSpyqg-2XL8f-kmoJqfg/4vu/wrC9j09RRE-nXfdKTVFCqA/h66/h001.wVBucoR7ckJuzrX4NPZQWqRGxTo1yZzAXxGm0cnEh3s",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6316",
-      "title": "Model Y delivery times are getting longer",
-      "description": "A buyer of a Model Y Standard ordered in mid-August says they received their VIN on November 13. Tesla then reportedly asked them to pick up the car before Sunday, leaving very little business-day notice.",
-      "link": "https://www.teslaownersonline.com/threads/long-wait-time.39974/?post_id=480872#post-480872",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6317",
-      "title": "Home charging is not essential for a short stay",
-      "description": "For a visit of one month or less, one participant recommends charging the Tesla to 80% at a Supercharger rather than installing Level 1 or Level 2 charging at relatives’ home.",
-      "link": "https://www.teslaownersonline.com/threads/level-1-2-mobil-charging.39942/page-2?post_id=481022#post-481022",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6318",
-      "title": "A Model 3’s air conditioning remains functional after condenser replacement",
-      "description": "More than a week after replacing a leaking condenser, an owner says the air conditioning still works perfectly, including both HVAC systems.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsugBYO94zJYO4qtQMHlqWpcu01hZmDi41PrbdgZg_K6e1vQZP4wguGI-jh7i-NXdNpo0G5bBu17lLMA-y_Coh643xtGLTWD5cHCFL0nH-nKoonIfSj60M8-TWjwE0fgbZHNZZH3AaaZaAhABtmOtqmvMrWaDXBKDeg2M8pTzxLyHIhNuVxROO3OwBVRpzqOc0FclHVgTPSiZ2cE4-xKoDCaN8E45mEHk1lIgnxKlsgvYis79YblYUKe6J0NpJ74t3a16uIGLB61lW3Ou3T-lMX2JWnHqeXiu4eaRGdF8h6Tk3iCNJuQ0bAcbrxjGSu9RCrB4kQZYFm1CRC9H_5CpIec3D0xkDhy_fVMzcEg9l9he9sf7-SVPDYZpKeZZ7oFxYrFpe4xTRW61SH7YMWkosqkskd9Ip8yOLuF5w8m5ZonmzPYxuDlRZr1enIZ_mLTNs/4vu/wrC9j09RRE-nXfdKTVFCqA/h82/h001.kOp3Sx4brQl00JRvCaFilmxX1joG9egcrAPms6jjuPo",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6265",
-      "title": "Google expands Gemini Tasks to manage everyday tasks",
-      "description": "Google has extended Gemini Tasks to more users. This mode lets Gemini manage projects in the background on a computer or in Google apps, with support for calls and payments.",
-      "link": "https://archive.superhuman.ai/2122737596971503885",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-18T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6306",
-      "title": "Microsoft unveils Copilot Workspaces, a multiplayer workspace",
-      "description": "At its Ignite 2026 conference, Microsoft introduced Copilot Workspaces, a shared space where people and agents can collaborate. The company also announced Agent 365 Business Analytics to measure the concrete value of AI-related spending.",
-      "link": "https://archive.superhuman.ai/2122793040058442116",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-18T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6308",
-      "title": "Cyber threats intensify as Lastbook goes viral",
-      "description": "Google Threat Intelligence Group believes cyberwarfare and espionage are reaching a critical inflection point as AI-powered campaigns become more sophisticated. Hackers notably hijacked Optimizely Web to distribute malware to 178 organizations.",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-18T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6293",
-      "title": "Windows strengthens controls for AI agents",
-      "description": "Microsoft is announcing new Windows controls for AI agents, including improvements to process containers and hardware-isolated micro virtual machines. Learning modes make it possible to observe agent behavior before applying restrictions.",
-      "link": "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6294",
-      "title": "An Optimizely vulnerability spreads malware across major websites",
-      "description": "Attackers exploited Optimizely’s experimentation software to distribute malicious JavaScript on the websites of at least 178 organizations. The payloads targeted cryptocurrency wallets and payment data, among other things.",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6295",
-      "title": "AI-generated data risks becoming treated as source-of-truth facts",
-      "description": "AI-generated conclusions can lose their context and be treated as established facts when integrated into operational systems. Decision traceability links these claims to their sources, workflows and downstream decisions to facilitate corrections.",
-      "link": "https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6296",
-      "title": "Microsoft and Salesforce announce Copilotforce",
-      "description": "Microsoft and Salesforce announced integrations connecting Salesforce with Copilot, Teams and Fabric. A Copilot plug-in is available in public preview with more than 38 sales skills, allowing users to view customer information and perform certain actions according to Salesforce permissions.",
-      "link": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6297",
-      "title": "Teams strengthens protection against impersonation",
-      "description": "Microsoft is introducing new features against social engineering and impersonation in Teams meetings and calls. They include warnings about suspicious participants, automated transcript analysis and a Microsoft Defender data table for investigations.",
-      "link": "https://office365itpros.com/2026/11/17/impersonation-teams-protection/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6298",
-      "title": "Snowflake opens data sharing to external users",
-      "description": "Snowflake is launching Open Data Sharing, which allows Apache Iceberg tables to be shared with external users through clients compatible with Iceberg REST Catalog. Consumers do not need a Snowflake account or scheduled exports.",
-      "link": "https://www.snowflake.com/en/blog/open-data-sharing-iceberg-rest-catalog/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6299",
-      "title": "Major providers’ API catalogs are not ready for agents",
-      "description": "An analysis of the API catalogs of Amazon, Google and Microsoft concludes that consistency depends on a single, machine-readable source of truth. All three companies show gaps particularly in workflows, costs and lifecycle management for agents.",
-      "link": "https://apievangelist.com/2026/11/17/google-amazon-and-microsoft-three-api-estates-and-what-a-source-of-truth-does/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6300",
-      "title": "An open-source e-reader project faces a surge of AI-generated contributions",
-      "description": "Crosspoint Reader has surpassed 300,000 installations with its open-source firmware for small, low-cost e-readers. Its growth also illustrates the pressure AI-generated contributions place on volunteer maintainers and hardware limitations.",
-      "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6301",
-      "title": "SAP completes its acquisition of TechWolf",
-      "description": "TechWolf will join the SAP SuccessFactors portfolio to support talent and workforce intelligence strategies.",
-      "link": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6302",
-      "title": "RHEL images for hosted GitHub runners are available",
-      "description": "Development teams using GitHub Enterprise Cloud and GitHub Enterprise Server can now run their CI/CD pipelines directly in native RHEL environments.",
-      "link": "https://developers.redhat.com/articles/2026/11/17/red-hat-enterprise-linux-github-hosted-runner-images-ga",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-18T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6292",
-      "title": "Evaluate AI agents by their behavior, not just their final answer",
-      "description": "Agents can produce a correct answer while looping, making excessive API calls or consuming too many tokens. The article recommends creating evaluations before changing their behavior, checking traces, tool calls, latency and costs in a test set run locally and then in CI.",
-      "link": "https://www.newline.co/@Dipen/how-to-build-ai-agents-write-evals-first-code-second--e25819a8",
-      "sources": [
-        "Fullstack.io"
-      ],
-      "received_at": "2026-11-18T13:47+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
