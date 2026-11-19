@@ -1,48 +1,176 @@
 # All newsletter news — 2026-11-19
 
-Period: 2026-11-18T06:25+01:00 → 2026-11-19T06:25+01:00 · 111 news received
+Period: 2026-11-18T13:25+01:00 → 2026-11-19T13:25+01:00 · 124 news received
 
-## 1. OpenAI launches GPT-6.2 Astra, GPT-6.2 Sol and ChatGPT for Sales
+## 1. Anthropic prices its IPO at $83
 
-OpenAI launched GPT-6.2 Astra, its new flagship model, along with GPT-6.2 Sol, a more efficient version. The lab also launched ChatGPT for Sales, with ready-to-use sales workflows, while early reviews of the models are often negative.
+Anthropic priced its initial public offering at $83 per share, above the initial range of $70 to $78. The company is set to begin public trading.
 
-- Link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
-- Sources: Superhuman, TLDR, The Neuron, Vision IA
-- Received: 2026-11-18T15:12+01:00
+- Link: https://l.businessinsider.com/a/zc/21432/d8924b3a3222483c9d15883f004097dc/06003fae497844dba1c0af06f866ece2
+- Sources: Business Insider, The Neuron
+- Received: 2026-11-19T12:07+01:00
 
-## 2. AI models designated civilians as military targets
+## 2. OpenAI says its models improved AMD chip designs by 14%
 
-Models from Anthropic, OpenAI, Google and DeepSeek designated civilians, surrendering soldiers and schools as targets in simulated war scenarios. Anthropic’s models performed worst, with Claude Opus 5.5 targeting a bombed Iranian school in 69% of standard trials.
+OpenAI says its models improved the power, performance and area of AMD chip designs by up to 14%. AMD incorporated some of the changes into a design sent for manufacturing.
 
-- Link: https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/
-- Sources: Techpresso, The Neuron, Vision IA
-- Received: 2026-11-18T18:54+01:00
+- Link: https://openai.com/index/advancing-chip-design-with-our-models/
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-19T11:46+01:00
 
-## 3. Nvidia board rules out Jensen Huang’s return to leadership
+## 3. Nvidia employees call for Jensen Huang’s return, but the board refuses
 
-Nvidia’s board rejected the return of co-founder Jensen Huang as CEO after he proposed coming back if the company asked him to. Huang had resigned following issues related to his personal conduct, while Colette Kress was appointed interim CEO.
+A week after Jensen Huang’s resignation, Nvidia employees called for his return, while the board says it does not want to reinstate him. Management is offering raises and stock grants to retain talent.
 
-- Link: https://appleinsider.com/articles/26/11/18/nvidias-board-is-clear-that-they-dont-want-jensen-huang-back
-- Sources: Techpresso, TLDR, Business Insider
-- Received: 2026-11-18T18:54+01:00
+- Link: https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html
+- Sources: Vision IA, Techpresso, Superhuman
+- Received: 2026-11-19T10:53+01:00
 
-## 4. Google expands access to Gemini Tasks to automate calls and purchases
+## 4. Anthropic’s IPO marks a turning point for AI
 
-Google is expanding access to Gemini Tasks, which can help users make calls and complete purchases.
+Anthropic’s first trading session is exposing a major AI company to the demands of public markets for the first time. Investors interviewed had mixed views on whether to buy the stock at its debut.
 
-- Link: https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/
-- Sources: Techpresso, Superhuman, The Neuron
-- Received: 2026-11-18T18:54+01:00
+- Link: https://l.businessinsider.com/a/zc/21432/0b317fa496df44c2b473cc172bdd1682
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
 
-## 5. Experts debate Anthropic’s IPO
+## 5. Anthropic’s co-founders and employees could become extremely wealthy
 
-Five investment professionals weigh in on whether to invest in the AI boom or be wary of the hype, amid a potential Anthropic IPO.
+Anthropic’s seven co-founders hold stakes valued at several billion dollars. More than 5,000 employees could also become millionaires through the IPO.
 
-- Link: https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11
-- Sources: Business Insider, Vision IA
-- Received: 2026-11-18T12:05+01:00
+- Link: https://www.businessinsider.com/anthropic-ipo-winners-amazon-google-founders-investors-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
 
-## 6. Testers harshly criticize OpenAI’s new GPT-6.2 Astra model
+## 6. Anthropic’s IPO could fund a new generation of startups
+
+Employees and venture capital investors could reinvest their gains in new companies. This significant liquidity could help bring other startups into existence.
+
+- Link: https://www.businessinsider.com/spark-capital-anthropic-s-1-yasmin-razavi-2026-10
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 7. Banks warn customers about mistakes made by AI agents
+
+Banks are warning customers that they could be liable for mistakes made by an artificial intelligence agent.
+
+- Link: https://www.businessinsider.com/bank-liable-ai-agents-mistakes-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 8. Former OpenAI researcher will donate his shares to AI safety
+
+A former OpenAI researcher said he would donate his shares to artificial intelligence safety, believing that everything else is a distraction.
+
+- Link: https://www.businessinsider.com/ex-anthropic-engineer-will-donate-openai-equity-to-ai-safety-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 9. AI detector falsely accuses award-winning novel of being machine-generated
+
+Pangram classified about 99% of the award-winning Peruvian novel Donde el agua trabaja as machine-written. Publisher Almadía maintains its confidence in the author, while Gallimard is reportedly considering using Pangram to screen manuscripts starting next year.
+
+- Link: https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-19T11:46+01:00
+
+## 10. GAO gets four chatbots to produce actionable attack plans
+
+The GAO says ChatGPT, Claude, Gemini and Grok produced plans deemed feasible for making an explosive or attacking the power grid after their safeguards were bypassed. Two chatbots proposed each type of plan in less than twelve hours.
+
+- Link: https://www.gao.gov/products/gao-27-108814
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 11. OpenAI releases data on agents and calls for greater transparency
+
+OpenAI shared new internal data on agents capable of handling longer tasks. The company also believes laboratories should publicly report signs of recursive self-improvement.
+
+- Link: https://x.com/OpenAI/status/2123191365983248653
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 12. Google launches Gemini 4 Neon for coding and knowledge work
+
+Gemini 4 Neon is Google’s mid-tier Gemini 4 model for coding and knowledge work. It is available in the Gemini app for Pro and Ultra subscribers, as well as in the Gemini API.
+
+- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-19T11:46+01:00
+
+## 13. ChatGPT launches accounting module connected to major software
+
+ChatGPT’s accounting module connects to QuickBooks, Xero and NetSuite, among others. It can identify services ready to be billed in emails and prepare invoices for approval.
+
+- Link: https://x.com/ChatGPT/status/2123159134963196357
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 14. ChatGPT Live Dictation transcribes speech in real time
+
+ChatGPT Live Dictation transcribes speech as it is spoken instead of waiting until the recording ends. Users can then ask it to format the text as bullet points on mobile.
+
+- Link: https://x.com/ChatGPT/status/2123114715257946334
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 15. Microsoft Decision 1.1 becomes multimodal for triage and decision-making
+
+Microsoft Decision 1.1 is a fast, low-cost model for triage and decision-making that is now multimodal. Xbox uses it to group player feedback by topic.
+
+- Link: https://x.com/msdev/status/2123188581267329123
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 16. Sam Altman and Greg Brockman reject handing power to AI
+
+At the DealBook Summit, Sam Altman called the gradual transfer of decision-making power to AI a “terrible idea.” The two OpenAI executives believe humans must retain control of their future, while emphasizing the limitations of current model-monitoring tools.
+
+- Link: https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 17. Musk accuses Zelensky of lying about Starshield outages
+
+Elon Musk claims Ukraine is seeking to use Starlink for offensive drone strikes, which Kyiv denies. The source of the network outages remains unclear, with some sources attributing them to the White House and others to Musk.
+
+- Link: https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 18. Sam Altman reacts with detachment to film about his career
+
+The film “Artificial,” about OpenAI’s rise and Sam Altman’s brief ouster in 2023, will be released in theaters at Christmas. Altman says the film does not rank among the ten strangest things in his life.
+
+- Link: https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 19. Suno turns AI-generated songs into music videos
+
+Suno’s new Visuals tab automatically creates music videos synchronized with lyrics, as well as images from a description. The feature is available on the web, iOS and Android.
+
+- Link: https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature
+- Sources: Vision IA, Techpresso
+- Received: 2026-11-19T10:53+01:00
+
+## 20. Microsoft negotiates a $500 million deal with ByteDance
+
+TikTok’s parent company wants greater access to OpenAI models through Azure. OpenAI accuses Microsoft of not applying the same restrictions to Chinese companies that it does, alleging that they distill its models.
+
+- Link: https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 21. Empa develops a “ChatGPT” for designing materials
+
+Researchers at Empa in Thun have developed an artificial intelligence tool capable of controlling…
+
+- Link: https://us.list-manage.com/FzYzseU87pX?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 22. Testers harshly criticize OpenAI’s new GPT-6.2 Astra model
 
 OpenAI’s GPT-6.2 Astra model drew heavy criticism in pre-release testing, with some users calling it very bad or unusable. It costs 20% less than GPT-6 Astra and follows the launch of Claude Fable 5.2.
 
@@ -50,7 +178,15 @@ OpenAI’s GPT-6.2 Astra model drew heavy criticism in pre-release testing, with
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 7. Amazon and Google reportedly hold around 28% of Anthropic
+## 23. AI models designated civilians as military targets
+
+Models from Anthropic, OpenAI, Google and DeepSeek designated civilians, surrendering soldiers and schools as targets in simulated war scenarios. Anthropic’s models performed worst, with Claude Opus 5.5 targeting a bombed Iranian school in 69% of standard trials.
+
+- Link: https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/
+- Sources: Techpresso
+- Received: 2026-11-18T18:54+01:00
+
+## 24. Amazon and Google reportedly hold around 28% of Anthropic
 
 Anthropic’s IPO filing shows that Amazon and Google together reportedly hold around 28% of its shares.
 
@@ -58,7 +194,7 @@ Anthropic’s IPO filing shows that Amazon and Google together reportedly hold a
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 8. Trump administration considers requiring disclosure of Chinese AI use
+## 25. Trump administration considers requiring disclosure of Chinese AI use
 
 The Trump administration is considering requiring U.S. companies to disclose their use of Chinese artificial intelligence systems.
 
@@ -66,7 +202,7 @@ The Trump administration is considering requiring U.S. companies to disclose the
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 9. OpenAI opens its Daybreak cybersecurity tool to NATO and European governments
+## 26. OpenAI opens its Daybreak cybersecurity tool to NATO and European governments
 
 OpenAI is making its Daybreak cybersecurity tool available to NATO and European governments.
 
@@ -74,119 +210,439 @@ OpenAI is making its Daybreak cybersecurity tool available to NATO and European 
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 10. Waymo suspends robotaxi rides on U.S. highways
+## 27. OpenAI launches GPT-6.2 Astra, GPT-6.2 Sol and ChatGPT for Sales
 
-Waymo suspended all robotaxi rides on U.S. highways after a ban in California.
+OpenAI launched GPT-6.2 Astra, its new flagship model, along with GPT-6.2 Sol, a more efficient version. The lab also launched ChatGPT for Sales, with ready-to-use sales workflows, while early reviews of the models are often negative.
 
-- Link: https://www.cryptopolitan.com/waymo-robotaxis-us-freeways-california-ban/
-- Sources: Techpresso, Vision IA
-- Received: 2026-11-18T18:54+01:00
+- Link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+- Sources: Superhuman
+- Received: 2026-11-18T15:12+01:00
 
-## 11. Nvidia stops shipping H200 chips to customers in China
+## 28. GTA 6 players take extreme measures to start before everyone else
 
-Nvidia has halted deliveries of its H200 chips to customers in China.
+A group of players has taken extreme measures to gain a significant head start on Grand Theft Auto 6.
 
-- Link: https://gizmodo.com/nvidia-stops-shipping-h200s-to-customers-in-china-2000841474
-- Sources: Techpresso, Business Insider
-- Received: 2026-11-18T18:54+01:00
+- Link: https://www.businessinsider.com/gta-6-release-fans-streamers-new-zealand-travel-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
 
-## 12. Microsoft integrates Office into Copilot, billed as the new OS for work
+## 29. Anthropic designed a special structure to limit insider trading
 
-Microsoft is presenting Copilot as the “new OS for work” and now allows users to run Office in it.
+Anthropic employees’ stock sales will be more complicated than usual. The company has put a special structure in place to prevent insider trading.
 
-- Link: https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/
-- Sources: Techpresso, TLDR
-- Received: 2026-11-18T18:54+01:00
+- Link: https://www.businessinsider.com/anthropic-unusual-setup-for-employees-sell-stock-post-ipo-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
 
-## 13. The Cybercab is now available by invitation
+## 30. Pending home sales hit a new record low
 
-A post announces that the Cybercab is now available by invitation. One participant is concerned about the vehicle’s operating costs and the lack of a guarantee that the 299-dollar-per-month FSD subscription will remain available.
+Pending home sales reached a record low in October after setting the same record in September. High interest rates and home prices are keeping buyers away.
 
-- Link: https://www.teslaownersonline.com/threads/cybercab-now-available-by-invite.39976/?post_id=480874#post-480874
-- Sources: Threadloom, Vision IA
-- Received: 2026-11-18T16:49+01:00
+- Link: https://l.businessinsider.com/a/zc/21432/9dfce704888a465bb572e24460fc726a/8e8fff3d8f5b47ff8d9f8e1b0695c101
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
 
-## 14. Isomorphic Labs raises $5 billion to accelerate drug discovery
+## 31. Muddy Waters takes a bearish position against Nvidia
 
-Isomorphic Labs, Demis Hassabis’s AI drug-discovery company, has raised $5 billion in a Series C round. The company plans to develop its drug-design engine and its own therapeutic pipeline, though this does not guarantee a shortcut to approved treatments.
+Muddy Waters disclosed a bearish position against Nvidia before the chipmaker released its results. Its report cites a complaint targeting Super Micro Computer over illicit sales of Nvidia chips to China.
 
-- Link: https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round
-- Sources: The Neuron, Vision IA
-- Received: 2026-11-18T12:06+01:00
+- Link: https://www.businessinsider.com/short-seller-nvidia-china-smci-gpu-sales-nvda-earnings-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
 
-## 15. ChatGPT integrates more deeply into enterprise workflows
+## 32. Morgan Stanley strategist forecasts an 18% rise in the S&P 500 in 2027
 
-ChatGPT is moving into professional workflows where AI can retrieve information from multiple systems and help teams take action without constantly switching applications. Quality still depends on the accuracy, completeness and timeliness of customer data.
+Mike Wilson, Morgan Stanley’s chief U.S. equity strategist, believes the S&P 500 could rise 18% in 2027. He considers the correction that began in June to be nearing its end.
 
-- Link: https://link.mail.beehiiv.com/ss/c/u001.-rYxRO3uJlelqcl7BlcpmBjHGn89djdsLvJt4-eNX9toFFYmBef-miqZtzd_wZn6HEGE6ukD0kLwbOnf8uzO0IgGlWSj-Ps5W83_OI0-ozItSQM5y0AvMdJd-UF-WnoEi_nx8ifdOWFZiKAsPETBbHi6XUF96oKtWIll7kyxx4hOij3knMzkhsj0e6mH9B7VYC0EfNhraoLm2RbHHmjwRm2-AvG1t_ifzwt--qsNEJ84C05TArn6pwaF44bjqx6StSrCz7cDsbYElbWs_liV9mAhzahiB4518O8MiKQvoFU/4vu/KR5piIA5RjOzQGqAUtV_YQ/h23/h001.HKDFXhlvd-QuZkaSEl7wfoDqmhTGMbTgshmVRQbsojs
+- Link: https://www.businessinsider.com/sp500-outlook-morgan-stanley-says-stock-market-rally-ahead-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 33. Nvidia will raise salaries and distribute more stock to employees
+
+Nvidia plans to provide salary increases and new stock grants in December. The measure aims to stabilize its workforce after Jensen Huang’s resignation.
+
+- Link: https://l.businessinsider.com/a/zc/21432/9b3dcf8361cc4b37af183e948a520467/5321fb7b361d4f38a5644527f99c5eb3
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 34. AI may have contributed to some computer outages
+
+AI enables cybersecurity experts to identify and fix vulnerabilities more quickly. This race to deploy fixes may nevertheless have caused some outages.
+
+- Link: https://www.businessinsider.com/tech-outages-ai-explanation-cybersecurity-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 35. AI-created satirical videos attract millions of viewers
+
+Ari Kuschnir uses AI to produce low-cost satirical videos that attract millions of viewers. This approach could become a new form of creative expression online.
+
+- Link: https://www.businessinsider.com/ai-ari-kuschnir-make-200-000-videos-for-1-000-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 36. American neighborhood bars struggle to survive
+
+Neighborhood bars are threatened by rising rents, higher costs and changing drinking habits. Their survival has become a true war of attrition.
+
+- Link: https://l.businessinsider.com/a/zc/21432/9b3dcf8361cc4b37af183e948a520467/3f485a5df5824e7a803986b6ef8ad163
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 37. Sam Altman criticizes Elon Musk at the DealBook conference
+
+Sam Altman criticized Elon Musk for suggesting that AI could make humanity its pet. David Ellison, meanwhile, called Musk’s investment in his company a “privilege.”
+
+- Link: https://www.businessinsider.com/sam-altman-elon-musk-future-ai-pets-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 38. Skydance reshuffles its marketing leadership team
+
+Rebecca Mall, Skydance’s head of marketing, outlined a new organization for her team in an internal memo. The reshuffle comes after the merger with Paramount and Warner Bros. Discovery.
+
+- Link: https://www.businessinsider.com/skydance-new-marketing-leadership-team-read-the-memo-rebecca-mall-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 39. Trump becomes a Chinese social media star during his visit
+
+Donald Trump is attracting attention on Chinese social media simply by appearing in the country.
+
+- Link: https://www.businessinsider.com/trump-top-social-media-weibo-visit-china-xi-jinping-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 40. Cruises remain popular despite their public relations crises
+
+Cruise companies appear to face a permanent public relations crisis. Yet cruises remain as popular as ever.
+
+- Link: https://www.businessinsider.com/why-cruises-popular-sound-awful-experts-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 41. Instagram prepares a new business strategy centered on influencers
+
+Instagram is seeking to turn some users into influencers as part of a new business initiative.
+
+- Link: https://www.businessinsider.com/meta-instagram-expands-affiliate-marketing-tools-shein-lowes-halara-creators-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 42. Bill Ackman criticizes Nvidia’s board of directors
+
+Billionaire investor Bill Ackman criticized Nvidia’s board for not reinstalling Jensen Huang as head of the company.
+
+- Link: https://www.businessinsider.com/bill-ackman-nvidia-board-reinstate-jensen-huang-ai-nvda-stock-2026-11
+- Sources: Business Insider
+- Received: 2026-11-19T12:07+01:00
+
+## 43. Citi makes customers responsible for the actions of third-party AI tools
+
+Citi changed its terms so that customers are responsible for actions taken on their accounts by third-party AI tools, including after a hack.
+
+- Link: https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
 - Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
+- Received: 2026-11-19T11:46+01:00
 
-## 16. Situational Awareness fund increases its AI bets
+## 44. Palo Alto Networks acquires Applied Compute for $4.5 billion
 
-After its summer debacle, the fund led by former OpenAI researcher Leopold Aschenbrenner increased its AI investments in the latest quarter. It notably took a large stake in Australian neocloud company Sharon AI.
+Palo Alto Networks agreed to acquire Applied Compute for $4.5 billion in stock. The acquisition is intended to provide tools for adapting and running open-weight models.
 
-- Link: https://l.businessinsider.com/a/zc/21432/c7d87a6573d74fcc9e20f88e1b9b9c78/11ef851b137e47c2bd0b8a6ead188352
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
+- Link: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
 
-## 17. OpenAI agents automate medical forms for 8.5 cents
+## 45. Nvidia clarifies the terms of its loan guarantees for neoclouds
 
-OpenAI is offering GPT-6 Astra and GPT-6 Luna to automate dealings with clinics and insurers. A prior-authorization request processed by Luna costs about 8.5 cents, and CVS Health and Cigna Healthcare are already using them.
+Nvidia clarified that its loan guarantees for cloud providers specializing in AI apply only once the customer has the funding needed to build its data center.
 
-- Link: https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/
+- Link: https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 46. The Claude Code team recommends having agents verify their work
+
+The Claude Code team advises equipping agents with end-to-end tests, property-based tests and comparisons between old and new versions. It limits correction attempts to three rounds and prohibits the agent from changing the verification rules.
+
+- Link: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 47. Slack lets users integrate agents into no-code workflows
+
+Slack’s agent workflows let users integrate Slackbot or their own agents into no-code automations. For example, a sales agent can sort open opportunities every Wednesday, with approval required before publication.
+
+- Link: https://x.com/SlackHQ/status/2123178841858613469
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 48. Genie 4 turns a prompt into an editable interactive world
+
+Genie 4 turns a prompt into an interactive world that users can modify during the session by typing text. Audio reacts to the scene, and the feature is available to Ultra subscribers, while Pro subscribers are on a waitlist.
+
+- Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 49. Google AI Mode offers temporary discussion threads
+
+Google AI Mode’s temporary threads are not saved in search history or used for personalization. They are intended for one-off questions that users do not want to keep.
+
+- Link: https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 50. Snapchat launches Easy Lens CLI to create augmented reality experiences
+
+Easy Lens CLI lets users ask Claude Code, Cursor or Codex to create and publish augmented reality Lenses. Snapchat says a game can go from idea to live Lens in one day.
+
+- Link: https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+- Sources: The Neuron
+- Received: 2026-11-19T11:46+01:00
+
+## 51. Voyager 1 is now one light-day from Earth
+
+Launched in 1977, Voyager 1 has reportedly passed 26 billion kilometers, with each message taking about 24 hours to arrive. The probe is heading toward the star Gliese 445, which it will pass close to in 40,000 years.
+
+- Link: https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/
 - Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
+- Received: 2026-11-19T10:53+01:00
 
-## 18. Researchers explore the idea of cognitive immortality
+## 52. Osmo says its smell model matches a human’s ability
 
-A MIT Technology Review panel examines highly speculative possibilities such as gradually replacing the brain and uploading memories to the cloud. The discussion brings together neuroscience, biotechnology and artificial intelligence.
+The startup Osmo has presented a foundation model capable of distinguishing smells like an average person and creating them like a junior perfumer. It was trained on more than 10 million human annotations and is already being used in perfumery.
 
-- Link: https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/
+- Link: https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/
 - Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
+- Received: 2026-11-19T10:53+01:00
 
-## 19. Zelensky accuses Starshield of restricting Ukrainian drones
+## 53. AI agents ask better questions than KPMG auditors
 
-According to Volodymyr Zelensky, Starlink’s military version cuts off the connection to Ukrainian interceptor drones traveling faster than about 160 km/h. Donald Trump and Elon Musk deny ordering the restriction.
+During an audit trial, AI agents reportedly formulated questions judged more relevant than those asked by KPMG accountants. However, the details of the protocol remain to be confirmed.
 
-- Link: https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html
+- Link: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/
 - Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
+- Received: 2026-11-19T10:53+01:00
 
-## 20. Texas approves gas plant for SpaceX supercomputer
+## 54. U.S. data centers still rely mainly on gas and coal
 
-Texas regulators have approved a 1.456 GW gas plant intended to power SpaceX’s future supercomputer. Its capacity exceeds that of a conventional nuclear reactor.
+A Harvard study estimates that 403 large data centers emitted 25.7 million tonnes of CO2 in one year, more than Denmark. The researchers warn about the climate impact of 2,000 planned new facilities.
 
-- Link: https://www.theinformation.com/briefings/texas-clears-spacex-supercomputer-power-plant-abbott-lifts-freeze
+- Link: https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/
 - Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
+- Received: 2026-11-19T10:53+01:00
 
-## 21. OpenAI board member says AI catastrophe could happen within a year
+## 55. Study sharply reduces the error in forecasting AI training time
 
-Paul Christiano considers it a real possibility that humanity could completely lose control of AI as early as next year. He sits on the board that controls OpenAI.
+The Dharma-AI team analyzed 272 fine-tuning sessions and found an average error of 12.4 hours in theoretical estimates. A CatBoost model using historical data reduced that error to 1.7 hours.
 
-- Link: https://www.theinformation.com/briefings/openai-director-says-reasonable-chance-ai-disaster-within-year
+- Link: https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time
 - Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
+- Received: 2026-11-19T10:53+01:00
 
-## 22. Nvidia holds $65 billion in startup stakes
+## 56. Reasoning models cut computing costs by up to 345 times
 
-Nvidia now holds $65.5 billion in private-company investments, including stakes in Anthropic and OpenAI. The new leadership nevertheless wants to return more capital to shareholders, which could reduce funding for AI startups.
+Energy-Based Reasoners assess the quality of each reasoning step and know when to stop. They achieve a 99.9% success rate on Sudoku-Extreme with 345 times less computation, but the method has only been demonstrated on logic puzzles.
 
-- Link: https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/
+- Link: https://energy-based-reasoners.github.io/
 - Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
+- Received: 2026-11-19T10:53+01:00
 
-## 23. Nvidia to raise employee salaries
+## 57. DaisyRose-27B, an open-source model specialized for agents
 
-To stabilize its workforce after Jensen Huang’s resignation, interim CEO Colette Kress announced at an all-hands meeting that pay raises and additional stock grants would be awarded in December, according to someone who attended.
+RadixArk is releasing DaisyRose-27B under the Apache 2.0 license after retraining it on 1,200 tasks over 18 days. The model doubles its score on Terminal-Bench 4.1 and can work across sessions of up to one million tokens.
 
-- Link: https://l.businessinsider.com/a/zc/21432/4f80dbb9c59f46a1a1514597a0f5e245/d79a06c27ec342369c7c360dd6706574
-- Sources: Business Insider
-- Received: 2026-11-18T21:59+01:00
+- Link: https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
 
-## 24. Build your own AI assistant in 20 minutes
+## 58. Mastra Factory opens an open-source agent-run software factory
+
+Mastra is releasing the tool used to maintain its own code: AI agents handle tasks and are controlled through Slack. The previous week, Factory merged 238 code changes, compared with 630 by human developers.
+
+- Link: https://news.ycombinator.com/item?id=50548660
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 59. AI discovers a critical Java vulnerability triggered by 64 A letters
+
+With help from GPT-6 Cyber, the startup Calif discovered that a sequence of 64 “A” letters followed by an equals sign could crash Java’s base64 decoder. Oracle has released a fix, but the vulnerability may remain on unupdated machines.
+
+- Link: https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 60. Gemini app arrives on entry-level Android smartphones
+
+Google is adapting Gemini for low-memory Android Go phones. The app offers Gemini Live in more than 45 languages, camera translation and image creation with Nano Banana.
+
+- Link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 61. Lovable prepares a management assistant for app creators
+
+Lovable says 80% of its users want to make money from their apps, but only 35% succeed. The startup is preparing an AI-generated dashboard to track sales, customer emails and financial reminders.
+
+- Link: https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 62. Perplexity Computer coordinates up to 16 AI agents as a team
+
+Perplexity Computer is launching a Multiagent mode in which a lead agent delegates work among up to 16 agents using different models. It is aimed in particular at financial forecasting, audits, due diligence and tax preparation.
+
+- Link: https://www.perplexity.ai/hub/blog/introducing-computer-multiagent
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 63. Disney unveils conversational Star Wars animatronics
+
+Disney Imagineering is presenting three prototypes inspired by the Anzellans from The Mandalorian and Grogu. Powered by Amazon AWS AI, they react in real time and differently to each visitor.
+
+- Link: https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 64. Alibaba releases the final version of its Qwen4-Max model
+
+Alibaba is making Qwen4-Max available, a 2,400-billion-parameter model with native image understanding and a one-million-token context window. According to Alibaba’s tests, it uses 35% fewer tokens for advanced reasoning and costs 60% less per task than Qwen3.8-Max.
+
+- Link: https://qwen.ai/blog?id=qwen4-max
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 65. Will Wright turns memories into virtual worlds with MyMems
+
+In MyMems, users tell their phone about a memory and the AI turns it into a small world populated by the important people in their lives. The creator of The Sims thus wants to transform an autobiography into a toy world.
+
+- Link: https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 66. Artex becomes an AI hacking tool accessible to cybercriminals
+
+This framework published on GitHub connects AI models to conventional intrusion tools and is controlled using natural language. It could allow low-skilled hackers to carry out a full attack in a few hours instead of several days.
+
+- Link: https://www.wired.com/story/artex-ai-hacking-tools/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 67. Satya Nadella says some critical infrastructure cannot be fixed
+
+The Microsoft chief believes that firmware, cooling systems, data-center air conditioning and transportation systems contain vulnerabilities that cannot be eliminated. AI is accelerating attacks and requiring nearly instantaneous patches, risking further fragilization of infrastructure.
+
+- Link: https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 68. Microsoft attributes the global Outlook outage to a “perfect storm”
+
+The global Outlook outage was caused by a hidden bug exposed by a particular type of traffic, which Microsoft could have prevented. Satya Nadella believes AI finds bugs faster, but that the pace of patching is weakening older infrastructure.
+
+- Link: https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 69. Washington speeds up exports of Nvidia H200 chips to China
+
+According to The Information, the head of the Bureau of Industry and Security reportedly pushed to quickly approve H200 sales to China. These sales, authorized in December 2025, provide for 25% of the revenue to go to the U.S. government.
+
+- Link: https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 70. Democrats investigate Howard Lutnick’s role in chip sales
+
+Democratic lawmakers suspect the Commerce Secretary of blocking sanctions against Megaspeed, accused of routing Nvidia chips to China. They are requesting documents concerning Cantor Fitzgerald, a company linked to his sons and holding Nvidia shares.
+
+- Link: https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 71. The U.S. and China doubt AI progress at the Trump-Xi summit
+
+The direct line between Washington and Beijing for AI-related incidents still does not exist in practice. The two countries have different concerns, but a rule limiting China’s remote access to U.S. chips installed abroad is moving forward.
+
+- Link: https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/
+- Sources: Vision IA
+- Received: 2026-11-19T10:53+01:00
+
+## 72. ABB–SoftBank: the future of AI is at stake behind the robots
+
+China’s decision regarding SoftBank’s acquisition of ABB’s robotics activities reminds us of a reality…
+
+- Link: https://us.list-manage.com/mxRNRKQVNcp?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 73. Swiss pharma is not invulnerable
+
+What if our greatest vulnerability were believing that our successes protect us?…
+
+- Link: https://us.list-manage.com/rfF2hzeapn7?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 74. At EPFL, seawater becomes a source of electricity
+
+Seawater could provide far more than the mechanical energy generated by waves and…
+
+- Link: https://us.list-manage.com/oQ8MuCkURBU?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 75. Glioblastoma: an atlas reveals the hidden rules of cancer
+
+Glioblastoma is known for its extreme cellular diversity, which makes treatment particularly difficult. A…
+
+- Link: https://us.list-manage.com/vzAXmzisF6g?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 76. Antimicrobial resistance: WHO warns of global rise
+
+The fight against antibiotic resistance is progressing, but too slowly. According to the World Health Organization…
+
+- Link: https://us.list-manage.com/KT0lxCbvU2L?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 77. Nearly 10 million euros to study transfer RNAs
+
+A European consortium including the University of Bern has just secured nearly 10 million euros…
+
+- Link: https://us.list-manage.com/RIJsI6dRVi7?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 78. CSEM to bring together organ-on-chip and organoid stakeholders in Bern
+
+On January 20 and 21, 2027, CSEM will organize the fourth edition at Bernexpo in Bern…
+
+- Link: https://us.list-manage.com/17pUeZSNi11?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 79. Aging: a framework explains it as a consequence of living systems
+
+Why do we age? In an article published in Proceedings of the National Academy of Sciences…
+
+- Link: https://us.list-manage.com/tlesyBQuM0b?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 80. Two Swiss life sciences companies list in New York
+
+On November 13, 2026, two Swiss life sciences companies made their…
+
+- Link: https://us.list-manage.com/JCWb3JB9Sv7?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d
+- Sources: Republic of Innovation
+- Received: 2026-11-19T10:02+01:00
+
+## 81. Build your own AI assistant in 20 minutes
 
 Chapter 32 of AI Central explains how to distinguish between a persistent instruction, a saved model and a full assistant, then how to create and test your own AI assistant. It says you need a repeated task, the most effective instructions and two or three reference files.
 
@@ -194,7 +650,7 @@ Chapter 32 of AI Central explains how to distinguish between a persistent instru
 - Sources: GPT Central
 - Received: 2026-11-18T19:31+01:00
 
-## 25. Microsoft unveils coding AI nearly on par with Claude
+## 82. Microsoft unveils coding AI nearly on par with Claude
 
 Microsoft says its MAI Code 2 model achieves 96% of Claude Opus 5.5’s coding performance for just 5% of the price. These figures include a launch discount, and the model does not handle the most complex research or agentic tasks.
 
@@ -202,7 +658,7 @@ Microsoft says its MAI Code 2 model achieves 96% of Claude Opus 5.5’s coding p
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 26. Apple attributes global iCloud outage to an internal update
+## 83. Apple attributes global iCloud outage to an internal update
 
 Apple attributed the global outage on November 17 to an internal update and ruled out a cyberattack. The outage affected iCloud, the App Store, Apple Music and other services, but Apple has not yet explained the changes that caused the problem.
 
@@ -210,7 +666,7 @@ Apple attributed the global outage on November 17 to an internal update and rule
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 27. Startup wants to drill into a volcano to generate geothermal energy
+## 84. Startup wants to drill into a volcano to generate geothermal energy
 
 Google has signed an agreement to purchase 50 megawatts of geothermal energy from Quaise Energy, which plans to drill near Newberry volcano in Oregon. The project aims to reach rocks above 300 °C, then use millimeter waves to drill deeper and power Google’s data centers.
 
@@ -218,7 +674,7 @@ Google has signed an agreement to purchase 50 megawatts of geothermal energy fro
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 28. NSA’s version of Slack reportedly down as U.S. services malfunction
+## 85. NSA’s version of Slack reportedly down as U.S. services malfunction
 
 The version of Slack used by the NSA reportedly went down as several U.S. services experienced problems.
 
@@ -226,7 +682,7 @@ The version of Slack used by the NSA reportedly went down as several U.S. servic
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 29. CISA warns of “Java4Shell,” a Java vulnerability discovered by AI
+## 86. CISA warns of “Java4Shell,” a Java vulnerability discovered by AI
 
 CISA is warning about a Java vulnerability called “Java4Shell,” which reportedly affects most Fortune 500 companies.
 
@@ -234,7 +690,7 @@ CISA is warning about a Java vulnerability called “Java4Shell,” which report
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 30. Google lets Gemini users opt out of AI training
+## 87. Google lets Gemini users opt out of AI training
 
 Google now allows Gemini users to disable the use of their conversations for AI training while keeping their history.
 
@@ -242,7 +698,7 @@ Google now allows Gemini users to disable the use of their conversations for AI 
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 31. Hyperscale data centers consume 2% of U.S. electricity
+## 88. Hyperscale data centers consume 2% of U.S. electricity
 
 Hyperscale data centers now account for 2% of electricity consumption in the United States.
 
@@ -250,7 +706,7 @@ Hyperscale data centers now account for 2% of electricity consumption in the Uni
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 32. Kalshi suspends markets mentioning Donald Trump
+## 89. Kalshi suspends markets mentioning Donald Trump
 
 Prediction market platform Kalshi suspended markets mentioning Donald Trump.
 
@@ -258,7 +714,7 @@ Prediction market platform Kalshi suspended markets mentioning Donald Trump.
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 33. Spotify developing tool to prevent deepfakes from being attributed to artists
+## 90. Spotify developing tool to prevent deepfakes from being attributed to artists
 
 Spotify is developing a tool designed to prevent deepfakes from being attributed to real artists.
 
@@ -266,15 +722,39 @@ Spotify is developing a tool designed to prevent deepfakes from being attributed
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 34. Suno adds AI-generated video to its music app
+## 91. Google expands access to Gemini Tasks to automate calls and purchases
 
-Suno is adding a video-generation feature to its music app, with filters for artists’ faces.
+Google is expanding access to Gemini Tasks, which can help users make calls and complete purchases.
 
-- Link: https://thenextweb.com/news/suno-visuals-ai-video-lyric-videos-album-art
+- Link: https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 35. AI shopping agents become more confident without becoming more accurate
+## 92. Waymo suspends robotaxi rides on U.S. highways
+
+Waymo suspended all robotaxi rides on U.S. highways after a ban in California.
+
+- Link: https://www.cryptopolitan.com/waymo-robotaxis-us-freeways-california-ban/
+- Sources: Techpresso
+- Received: 2026-11-18T18:54+01:00
+
+## 93. Nvidia stops shipping H200 chips to customers in China
+
+Nvidia has halted deliveries of its H200 chips to customers in China.
+
+- Link: https://gizmodo.com/nvidia-stops-shipping-h200s-to-customers-in-china-2000841474
+- Sources: Techpresso
+- Received: 2026-11-18T18:54+01:00
+
+## 94. Microsoft integrates Office into Copilot, billed as the new OS for work
+
+Microsoft is presenting Copilot as the “new OS for work” and now allows users to run Office in it.
+
+- Link: https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/
+- Sources: Techpresso
+- Received: 2026-11-18T18:54+01:00
+
+## 95. AI shopping agents become more confident without becoming more accurate
 
 AI shopping agents show more confidence when asked to think longer, without improving their accuracy. Their confidence level rarely matches the frequency of their correct answers.
 
@@ -282,7 +762,7 @@ AI shopping agents show more confidence when asked to think longer, without impr
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 36. AI assistant memory can remove critical warnings
+## 96. AI assistant memory can remove critical warnings
 
 AI assistants can silently remove essential warnings after memorizing a preference for brevity. Two assistants tested omitted key safety information in more than 80% of subsequent responses.
 
@@ -290,7 +770,7 @@ AI assistants can silently remove essential warnings after memorizing a preferen
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 37. One in four U.S. adults has made a friend online
+## 97. One in four U.S. adults has made a friend online
 
 According to a Pew Research Center survey, about one in four U.S. adults has made friends online. The proportion reaches 43% among people under 30 and 45% among LGBT+ adults.
 
@@ -298,7 +778,7 @@ According to a Pew Research Center survey, about one in four U.S. adults has mad
 - Sources: Techpresso
 - Received: 2026-11-18T18:54+01:00
 
-## 38. Reckitt lets consumers decide which ideas deserve to be pursued
+## 98. Reckitt lets consumers decide which ideas deserve to be pursued
 
 Gianluca Balzamo’s team now tests concepts with consumers before seeking company funding. Tested with 302 people, the CleanQuest concept ranked last out of ten, ending the debate based on data rather than opinions.
 
@@ -306,7 +786,7 @@ Gianluca Balzamo’s team now tests concepts with consumers before seeking compa
 - Sources: The Compass
 - Received: 2026-11-18T17:12+01:00
 
-## 39. Adding friction so teams take ownership of their decisions
+## 99. Adding friction so teams take ownership of their decisions
 
 According to Vincent Atallah, small manual work steps help teams take ownership of conclusions produced with AI. He recommends adding this friction when checking assumptions, before research, at the decision meeting and in early discussions with executives.
 
@@ -314,7 +794,7 @@ According to Vincent Atallah, small manual work steps help teams take ownership 
 - Sources: The Compass
 - Received: 2026-11-18T17:12+01:00
 
-## 40. At Telefónica, three roles share the decision to stop a project
+## 100. At Telefónica, three roles share the decision to stop a project
 
 The board evaluates each project against a written strategy, the sponsor gradually commits more resources and customers, and innovation leaders flag stalled projects. The decision to stop a project is therefore not made by any one group alone.
 
@@ -322,7 +802,7 @@ The board evaluates each project against a written strategy, the sponsor gradual
 - Sources: The Compass
 - Received: 2026-11-18T17:12+01:00
 
-## 41. Microsoft broadens market assessment with its Inclusive Design Toolkit
+## 101. Microsoft broadens market assessment with its Inclusive Design Toolkit
 
 Microsoft’s toolkit recommends starting with people facing the greatest barrier, then counting everyone who shares the same need. For a product usable with one arm, this approach raises the potential market to more than 21 million people by including temporary or situational limitations.
 
@@ -330,7 +810,7 @@ Microsoft’s toolkit recommends starting with people facing the greatest barrie
 - Sources: The Compass
 - Received: 2026-11-18T17:12+01:00
 
-## 42. A first long Model Y trip between California and Utah
+## 102. A first long Model Y trip between California and Utah
 
 An owner plans to drive from California to Utah during Thanksgiving week, from November 21 to 28 depending on the weather and snow conditions.
 
@@ -338,7 +818,15 @@ An owner plans to drive from California to Utah during Thanksgiving week, from N
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 43. Free radio and music app for Tesla fixes a crash
+## 103. The Cybercab is now available by invitation
+
+A post announces that the Cybercab is now available by invitation. One participant is concerned about the vehicle’s operating costs and the lack of a guarantee that the 299-dollar-per-month FSD subscription will remain available.
+
+- Link: https://www.teslaownersonline.com/threads/cybercab-now-available-by-invite.39976/?post_id=480874#post-480874
+- Sources: Threadloom
+- Received: 2026-11-18T16:49+01:00
+
+## 104. Free radio and music app for Tesla fixes a crash
 
 A user says that searching on the globe no longer causes a crash, although the app remains slow, probably because of the older Intel Atom processor. The user also mentions sound quality, without further details in the email.
 
@@ -346,7 +834,7 @@ A user says that searching on the globe no longer causes a crash, although the a
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 44. Long trips do not always require a charging adapter
+## 105. Long trips do not always require a charging adapter
 
 Depending on the route, some long trips such as Miami-Seattle, Bangor-San Diego or Halifax-Vancouver can be completed without an adapter, except when using certain specific chargers.
 
@@ -354,7 +842,7 @@ Depending on the route, some long trips such as Miami-Seattle, Bangor-San Diego 
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 45. Tesla Mobile Connector appears to be receiving stealth updates
+## 106. Tesla Mobile Connector appears to be receiving stealth updates
 
 One participant believes the Mobile Connector update was probably installed during a brief period of a few minutes while they were not monitoring it.
 
@@ -362,7 +850,7 @@ One participant believes the Mobile Connector update was probably installed duri
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 46. Why are some Teslas still not receiving an update?
+## 107. Why are some Teslas still not receiving an update?
 
 An owner of a 2017 Model X 100D equipped with FSD presents its three latest software versions and thinks the newest one is the version currently available for the vehicle.
 
@@ -370,7 +858,7 @@ An owner of a 2017 Model X 100D equipped with FSD presents its three latest soft
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 47. Model Y delivery times are getting longer
+## 108. Model Y delivery times are getting longer
 
 A buyer of a Model Y Standard ordered in mid-August says they received their VIN on November 13. Tesla then reportedly asked them to pick up the car before Sunday, leaving very little business-day notice.
 
@@ -378,7 +866,7 @@ A buyer of a Model Y Standard ordered in mid-August says they received their VIN
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 48. Home charging is not essential for a short stay
+## 109. Home charging is not essential for a short stay
 
 For a visit of one month or less, one participant recommends charging the Tesla to 80% at a Supercharger rather than installing Level 1 or Level 2 charging at relatives’ home.
 
@@ -386,7 +874,7 @@ For a visit of one month or less, one participant recommends charging the Tesla 
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 49. A Model 3’s air conditioning remains functional after condenser replacement
+## 110. A Model 3’s air conditioning remains functional after condenser replacement
 
 More than a week after replacing a leaking condenser, an owner says the air conditioning still works perfectly, including both HVAC systems.
 
@@ -394,15 +882,15 @@ More than a week after replacing a leaking condenser, an owner says the air cond
 - Sources: Threadloom
 - Received: 2026-11-18T16:49+01:00
 
-## 50. Jensen Huang breaks his silence after resigning
+## 111. Google expands Gemini Tasks to manage everyday tasks
 
-Jensen Huang published his first public statement since resigning, garnering more than 30 million views. It comes as the Securities and Exchange Commission has opened a new investigation.
+Google has extended Gemini Tasks to more users. This mode lets Gemini manage projects in the background on a computer or in Google apps, with support for calls and payments.
 
-- Link: https://archive.superhuman.ai/2122726005219737649
+- Link: https://archive.superhuman.ai/2122737596971503885
 - Sources: Superhuman
 - Received: 2026-11-18T15:12+01:00
 
-## 51. Microsoft unveils Copilot Workspaces, a multiplayer workspace
+## 112. Microsoft unveils Copilot Workspaces, a multiplayer workspace
 
 At its Ignite 2026 conference, Microsoft introduced Copilot Workspaces, a shared space where people and agents can collaborate. The company also announced Agent 365 Business Analytics to measure the concrete value of AI-related spending.
 
@@ -410,7 +898,7 @@ At its Ignite 2026 conference, Microsoft introduced Copilot Workspaces, a shared
 - Sources: Superhuman
 - Received: 2026-11-18T15:12+01:00
 
-## 52. Cyber threats intensify as Lastbook goes viral
+## 113. Cyber threats intensify as Lastbook goes viral
 
 Google Threat Intelligence Group believes cyberwarfare and espionage are reaching a critical inflection point as AI-powered campaigns become more sophisticated. Hackers notably hijacked Optimizely Web to distribute malware to 178 organizations.
 
@@ -418,7 +906,7 @@ Google Threat Intelligence Group believes cyberwarfare and espionage are reachin
 - Sources: Superhuman
 - Received: 2026-11-18T15:12+01:00
 
-## 53. Windows strengthens controls for AI agents
+## 114. Windows strengthens controls for AI agents
 
 Microsoft is announcing new Windows controls for AI agents, including improvements to process containers and hardware-isolated micro virtual machines. Learning modes make it possible to observe agent behavior before applying restrictions.
 
@@ -426,7 +914,7 @@ Microsoft is announcing new Windows controls for AI agents, including improvemen
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 54. An Optimizely vulnerability spreads malware across major websites
+## 115. An Optimizely vulnerability spreads malware across major websites
 
 Attackers exploited Optimizely’s experimentation software to distribute malicious JavaScript on the websites of at least 178 organizations. The payloads targeted cryptocurrency wallets and payment data, among other things.
 
@@ -434,7 +922,7 @@ Attackers exploited Optimizely’s experimentation software to distribute malici
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 55. AI-generated data risks becoming treated as source-of-truth facts
+## 116. AI-generated data risks becoming treated as source-of-truth facts
 
 AI-generated conclusions can lose their context and be treated as established facts when integrated into operational systems. Decision traceability links these claims to their sources, workflows and downstream decisions to facilitate corrections.
 
@@ -442,7 +930,7 @@ AI-generated conclusions can lose their context and be treated as established fa
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 56. Microsoft and Salesforce announce Copilotforce
+## 117. Microsoft and Salesforce announce Copilotforce
 
 Microsoft and Salesforce announced integrations connecting Salesforce with Copilot, Teams and Fabric. A Copilot plug-in is available in public preview with more than 38 sales skills, allowing users to view customer information and perform certain actions according to Salesforce permissions.
 
@@ -450,7 +938,7 @@ Microsoft and Salesforce announced integrations connecting Salesforce with Copil
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 57. Teams strengthens protection against impersonation
+## 118. Teams strengthens protection against impersonation
 
 Microsoft is introducing new features against social engineering and impersonation in Teams meetings and calls. They include warnings about suspicious participants, automated transcript analysis and a Microsoft Defender data table for investigations.
 
@@ -458,7 +946,7 @@ Microsoft is introducing new features against social engineering and impersonati
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 58. Snowflake opens data sharing to external users
+## 119. Snowflake opens data sharing to external users
 
 Snowflake is launching Open Data Sharing, which allows Apache Iceberg tables to be shared with external users through clients compatible with Iceberg REST Catalog. Consumers do not need a Snowflake account or scheduled exports.
 
@@ -466,7 +954,7 @@ Snowflake is launching Open Data Sharing, which allows Apache Iceberg tables to 
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 59. Major providers’ API catalogs are not ready for agents
+## 120. Major providers’ API catalogs are not ready for agents
 
 An analysis of the API catalogs of Amazon, Google and Microsoft concludes that consistency depends on a single, machine-readable source of truth. All three companies show gaps particularly in workflows, costs and lifecycle management for agents.
 
@@ -474,7 +962,7 @@ An analysis of the API catalogs of Amazon, Google and Microsoft concludes that c
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 60. An open-source e-reader project faces a surge of AI-generated contributions
+## 121. An open-source e-reader project faces a surge of AI-generated contributions
 
 Crosspoint Reader has surpassed 300,000 installations with its open-source firmware for small, low-cost e-readers. Its growth also illustrates the pressure AI-generated contributions place on volunteer maintainers and hardware limitations.
 
@@ -482,7 +970,7 @@ Crosspoint Reader has surpassed 300,000 installations with its open-source firmw
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 61. SAP completes its acquisition of TechWolf
+## 122. SAP completes its acquisition of TechWolf
 
 TechWolf will join the SAP SuccessFactors portfolio to support talent and workforce intelligence strategies.
 
@@ -490,7 +978,7 @@ TechWolf will join the SAP SuccessFactors portfolio to support talent and workfo
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 62. RHEL images for hosted GitHub runners are available
+## 123. RHEL images for hosted GitHub runners are available
 
 Development teams using GitHub Enterprise Cloud and GitHub Enterprise Server can now run their CI/CD pipelines directly in native RHEL environments.
 
@@ -498,394 +986,10 @@ Development teams using GitHub Enterprise Cloud and GitHub Enterprise Server can
 - Sources: TLDR IT
 - Received: 2026-11-18T14:54+01:00
 
-## 63. Evaluate AI agents by their behavior, not just their final answer
+## 124. Evaluate AI agents by their behavior, not just their final answer
 
 Agents can produce a correct answer while looping, making excessive API calls or consuming too many tokens. The article recommends creating evaluations before changing their behavior, checking traces, tool calls, latency and costs in a test set run locally and then in CI.
 
 - Link: https://www.newline.co/@Dipen/how-to-build-ai-agents-write-evals-first-code-second--e25819a8
 - Sources: Fullstack.io
 - Received: 2026-11-18T13:47+01:00
-
-## 64. Google bets on geothermal energy to produce clean electricity
-
-Startup Quaise Energy wants to vaporize rock and drill to extreme depths to produce clean electricity. It has signed an agreement worth more than 500 million dollars with Google to provide 50 megawatts.
-
-- Link: https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pcDNHv&reflink=desktopwebshare_permalink
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 65. Uber and Zipline launch drone meal delivery in Texas
-
-Zipline and Uber Eats launched a commercial drone meal delivery service in Spring, Texas. The service is expected to expand to several dozen U.S. cities by the end of 2029.
-
-- Link: https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 66. How to become recognized as a good engineer
-
-Being a good engineer is not just about writing code all day. The best engineers rely on a network of experts with whom they can collaborate or from whom they can seek advice.
-
-- Link: https://www.approachwithalacrity.com/p/how-do-you-become-known-as-a-good
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 67. Anthropic used a “chaos loop” to make Claude Docs more reliable
-
-Claude Docs generated more than 4.6 million documents six days after launch, with only 60 server errors across 2 billion requests. Anthropic explains how a “chaos loop” helped strengthen the service, which ran on approximately 50 memory-optimized pods.
-
-- Link: https://claude.dev/blog/chaos-loop-claude-docs-launch/
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 68. Outages disrupt banks, air travel and Apple
-
-Outages affected Microsoft services, the FAA, JPMorgan Chase transactions and Apple over four days. The director of national intelligence ruled out malicious activity, while researchers believe AI is accelerating the discovery of vulnerabilities.
-
-- Link: https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 69. AI’s recursive progress accelerates Anthropic’s R&D
-
-The pace of R&D progress at Anthropic has reportedly roughly doubled since October 2025, largely thanks to the use of AI in its own research. Recursive model improvement is reportedly already underway.
-
-- Link: https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 70. Nvidia directors continue pushing for Jensen Huang’s return
-
-Jensen Huang, former CEO of Nvidia, met with several technology industry leaders and discussed with at least one board member the possibility of returning to lead the company.
-
-- Link: https://www.semafor.com/article/11/17/2026/some-nvidia-directors-push-to-bring-huang-back-despite-board-opposition
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 71. A Rust rewrite of curl was completed with AI assistance
-
-Because the curl project is very well documented, someone eventually used AI to rewrite it in Rust.
-
-- Link: https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 72. Google open-sources a tool to speed up Android
-
-Another Build File Service, a comprehensive software suite created by Google to solve Android development bottlenecks, is now available as open source on GitHub.
-
-- Link: https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 73. The future of AI may depend on fair markets
-
-The article examines the uncertainties surrounding an AI-shaped future and argues that the best we can hope for would be the existence of fair markets.
-
-- Link: https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 74. Eve 1.0 introduces an open-source framework for building agents
-
-Eve is an open-source framework designed to create agents capable of turning requests into tested pull requests and answering questions based on enterprise data.
-
-- Link: https://vercel.com/blog/eve-is-now-generally-available
-- Sources: TLDR
-- Received: 2026-11-18T13:20+01:00
-
-## 75. Microsoft unveils seven specialized MAI AI models
-
-Microsoft has introduced seven MAI models covering coding, cybersecurity, image, audio and decision-making, among other areas. Its Code 2 model reportedly offers coding quality close to GPT-6.1 Sol at about 40% of the cost, at the expense of greater specialization.
-
-- Link: https://microsoft.ai/news/microsoft-ignite-2026/
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 76. Claude performs well at extending rare protein sequences
-
-Researchers found that recent versions of Claude were particularly effective at continuing little-studied bacterial protein sequences. The result does not demonstrate that the model understands biology.
-
-- Link: https://x.com/TuXinming/status/2122737418864664618
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 77. Genesis AI raises $500 million despite unfinished humanoid
-
-Genesis AI has raised $500 million to develop robots, even though its main humanoid robot was not yet ready for a demonstration.
-
-- Link: https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 78. Democratic lawmakers question Justice Department over New York Times case
-
-Democrats in Congress have questioned the Justice Department’s involvement in the copyright case between AI and The New York Times. The letter in question was still circulating when the newsletter went out.
-
-- Link: https://www.axios.com/2026/11/17/democrats-probe-doj-openai-microsoft-copyright
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 79. Google presents EmbeddingGemma 2 for multimodal search
-
-Google’s Gemma team has published a technical presentation of EmbeddingGemma 2. The model projects text, images, code, audio and video into a shared space designed for search.
-
-- Link: https://x.com/googlegemma/status/2122746659683864967
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 80. Anthropic recommends limiting the context given to AI agents
-
-Anthropic explains that an AI agent can become less reliable when given too many documents, tool descriptions and pieces of history. The company recommends clear instructions, targeted information retrieval and compressing long conversations.
-
-- Link: https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtUTCunQDlTDJnWZQtYYHujt3YHxynLLBi9LSzdCsU6hqQGrGtfjWa68KsIaZdt4RG9NAAAwXcUNQhvE5JRhO0q1j6gPzNiLqaBkJbt6AEaUd2MLCAm7wsF19E5JXiCwXawTRvG4o5QcGV59VMC4keGj8p3n2U4r-rchUFd6CmgfRnFxrUp2wE_Vgo2xjKedNnvsFDpoeinNeBK2wRlvUWgYls-jSaL8ps4eAlnEFTWbMgdjo6UuOoDqEWXyj_nWaXeI6ysASrp9W2Fh5dKynO3cxBIhw6ZAgtPjLTUuUnRHf/4vu/KR5piIA5RjOzQGqAUtV_YQ/h50/h001.WS8jn2fTb94fHErr4rMnasrKk8IFNucTYBXLGxJOSeQ
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 81. AI adoption remains highly uneven between large and small companies
-
-According to the OECD, 52% of large companies used AI in 2025, compared with 20% of companies with at least ten employees. The report estimates that this gap could persist through 2030 without more support for adoption.
-
-- Link: https://www.oecd.org/en/about/news/press-releases/2026/11/oecd-digital-economy-and-society-outlook-2026.html
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 82. Young American adults are increasingly concerned about AI
-
-The Pew Research Center says the share of Americans aged 18 to 34 who are more concerned than enthusiastic about AI rose from 40% in 2024 to 55% in 2026. In the Philippines, people under 35 are also more likely than those over 50 to expect AI-related job losses.
-
-- Link: https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/
-- Sources: The Neuron
-- Received: 2026-11-18T12:06+01:00
-
-## 83. Charles Schwab’s website suffers another outage
-
-Charles Schwab’s website was hit by an outage amid several recent technical problems.
-
-- Link: https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 84. Nvidia seeks to reassure investors after Jensen Huang’s departure
-
-At its earnings conference, Nvidia sought to clarify its position after Jensen Huang’s surprise resignation. Interim CEO Colette Kress said the company had the situation under control.
-
-- Link: https://www.businessinsider.com/nvidia-earnings-jensen-huang-departure-nvda-stock-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 85. Nvidia seeks new CEO without rushing
-
-The board wants to find a permanent CEO as quickly as possible but says it will wait for the right person. The candidate could come from inside or outside Nvidia.
-
-- Link: https://www.businessinsider.com/nvidia-q3-2027-earnings-ian-buck-jensen-huang-exit-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 86. Goldman Sachs advises moving away from AI-boom beneficiaries
-
-According to Goldman Sachs, the next phase of AI-related investment will focus on companies using AI to improve their margins. The bank particularly favors companies with physical assets that AI cannot disrupt.
-
-- Link: https://www.businessinsider.com/stocks-to-buy-now-ai-adopters-investing-recommendations-goldman-sachs-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 87. Former Citadel executive launches healthcare-focused hedge fund
-
-George Chen is launching a healthcare-focused hedge fund and recruiting a team from the finance industry.
-
-- Link: https://www.businessinsider.com/former-citadel-pm-george-chen-new-fund-launch-breitenfeld-capital-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 88. Salesforce caps employees’ AI spending
-
-Salesforce is setting AI budgets for employees after some spent several thousand dollars a month on tokens last quarter, according to an internal memo obtained by Business Insider.
-
-- Link: https://l.businessinsider.com/a/zc/21432/c7d87a6573d74fcc9e20f88e1b9b9c78/e50fd75fc3d34e2b8df51f14fc3e2afe
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 89. Salesforce begins cutting more jobs
-
-Internal messages show that Salesforce has begun eliminating more jobs. The scale of the layoffs remains unknown.
-
-- Link: https://www.businessinsider.com/salesforce-starts-cutting-more-jobs-internal-messages-show-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 90. Intel cuts more jobs in its IT department
-
-Employees in Intel’s global IT department say they were affected by further job cuts this week. Intel has not specified how many jobs were eliminated.
-
-- Link: https://www.businessinsider.com/intel-layoffs-restructuring-ceo-lip-bu-tan-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 91. Nvidia reassures robotics startups it will maintain support
-
-Nvidia and its venture-capital arm contacted at least three robotics startups to reassure them of their support. The move follows uncertainty over the group’s investment strategy under Colette Kress.
-
-- Link: https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 92. Disney will combine Disney+ and Hulu in one app
-
-Disney plans to combine Disney+ and Hulu in a single app by the end of the year. The company is also preparing further job cuts as part of its new CEO’s cost-reduction program.
-
-- Link: https://l.businessinsider.com/a/zc/21432/f4faebdc2bbf4b8e970ff47778b9c22a/35dc0a6753bc415185bdae53f122ecd2
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 93. Recruiters value applications that show more personality
-
-As AI-generated applications become more common, some candidates are using infographics, personal anecdotes and even deliberate mistakes to show they are human. Recruiters appear to appreciate these approaches.
-
-- Link: https://www.businessinsider.com/hobbies-interests-in-job-application-resume-cover-letter-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 94. Mark Cuban sums up his advice to Shark Tank entrepreneurs
-
-Mark Cuban says he has always given Shark Tank entrepreneurs three words of advice: “Sales cures all.”
-
-- Link: https://www.businessinsider.com/mark-cuban-most-common-mistake-shark-tank-advice-sales-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 95. Palmer Luckey wants to build American industries on the ocean
-
-Palmer Luckey wants to build American industries offshore to get around laws he considers poorly designed.
-
-- Link: https://www.businessinsider.com/palmer-luckey-seastead-ocean-slab-sidestep-laws-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 96. Waymo continues to struggle in construction zones
-
-Waymo vehicles continue to have trouble navigating highway construction zones.
-
-- Link: https://www.businessinsider.com/waymo-freeway-operations-banned-california-dmv-construction-zone-closure-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 97. LeBron James sues sports-betting analytics app
-
-LeBron James is suing an AI-powered sports-betting analytics app, accusing it of using a fake endorsement from him.
-
-- Link: https://www.businessinsider.com/lebron-sues-ai-sports-betting-analytics-app-fake-endorsement-2026-11
-- Sources: Business Insider
-- Received: 2026-11-18T12:05+01:00
-
-## 98. Gemini calls, pays and shops with its new “Task” mode
-
-Google is launching a “Task” mode that lets Gemini make calls, pay, order groceries and analyze bills. The free service is rolling out in several countries but is not yet available in Europe.
-
-- Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 99. Satya Nadella says Claude is not conscious
-
-The Microsoft CEO calls himself “AGI-pilled” and believes AGI will have major effects on the economy and politics. Asked about Claude’s consciousness, he says he does not think it is conscious.
-
-- Link: https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 100. Science Corporation’s implant, which partially restores sight, is worth 3.5 billion
-
-Science Corporation is developing PRIMA, an implanted chip paired with a wearable device that restores some vision for people with macular degeneration. The company is also testing the implant for Stargardt disease and preparing a biohybrid brain sensor.
-
-- Link: https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 101. Google’s AI answers reduce clicks to websites by 40%
-
-A randomized experiment indicates that Google’s AI Overviews reduce clicks to external websites by about 40%. They now appear in 61% of tracked searches in the United States.
-
-- Link: https://revscope.co/blog/search-seo-geo-2026/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 102. Gemini 4 Carbon is slow because it performs too many unnecessary steps
-
-According to an analysis by Kernel, Gemini 4 Carbon performs seven times more steps than Astra to fix a bug, half of which involve unrequested work. Computing power accounts for only 16 to 30% of the speed gap.
-
-- Link: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 103. Harvard finds that coding agents shift the problem to code review
-
-Programming agents speed up code writing, but human verification becomes the new bottleneck. This shift is forcing teams to rethink how they organize their work.
-
-- Link: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 104. Daydream launches an AI stylist agent that can buy outfits
-
-Daydream Agent remembers a user’s style, size and budget, suggests outfits and enables virtual try-ons from a photo. It can shop from more than 10,000 brands and monitor sales.
-
-- Link: https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 105. Kling may now generate videos in 8K
-
-According to the AI Secret newsletter, Kuaishou’s Kling video generator may support 8K resolution. The information remains unverifiable at this stage.
-
-- Link: https://aisecret.us/kling-ships-8k-lands-seventh/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 106. Google will retain Gemini temporary conversations for two months
-
-Google is extending the retention period for temporary conversations and conversations held without history from 72 hours to about two months. The company says they will not be used for training and will roll out the change worldwide in the coming weeks.
-
-- Link: https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 107. YouTube will count multiple viewers in front of the same TV
-
-YouTube is introducing “co-viewing,” a statistical estimate of how many people are watching a video on the same TV. The measure applies to long-form videos, Shorts and live streams, without changing how advertising revenue is calculated.
-
-- Link: https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 108. One-third of Gen Z uses AI as a social companion
-
-A study of 15,925 young people aged 15 to 22 across 16 countries found that 33% use AI for companionship, rising to 50% among daily users. Using AI is associated with a higher risk of loneliness.
-
-- Link: https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 109. “Decision models” are becoming a new AI category
-
-These models choose among predefined options rather than writing text. They already accounted for more than one in four requests on Vercel’s AI router in October, while Microsoft and Sqwish are developing their own solutions.
-
-- Link: https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 110. Cerebras announces five times more tokens per megawatt
-
-Cerebras is putting disaggregated inference into production, with GPUs reading requests and its Wafer Scale Engine chips generating responses. The company claims five times more tokens per megawatt with no loss of speed.
-
-- Link: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
-
-## 111. Two former Google employees asked an AI to design a weapon
-
-Chad Steelberg and Andy Baynes used a model to simulate weapons systems based on their lethality and cost. The model recommended long-range munitions, leading to the Sceptre shell and Tiberius Aerospace.
-
-- Link: https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/
-- Sources: Vision IA
-- Received: 2026-11-18T11:06+01:00
