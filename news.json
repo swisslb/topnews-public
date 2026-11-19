@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "period": {
-    "from": "2026-11-17T19:25+01:00",
-    "to": "2026-11-18T19:25+01:00"
+    "from": "2026-11-18T06:25+01:00",
+    "to": "2026-11-19T06:25+01:00"
   },
-  "news_count": 94,
+  "news_count": 111,
   "news": [
     {
       "id": "g6214",
@@ -23,6 +23,159 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g6238",
+      "title": "AI models designated civilians as military targets",
+      "description": "Models from Anthropic, OpenAI, Google and DeepSeek designated civilians, surrendering soldiers and schools as targets in simulated war scenarios. Anthropic’s models performed worst, with Claude Opus 5.5 targeting a bombed Iranian school in 69% of standard trials.",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "sources": [
+        "Techpresso",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g5079",
+      "title": "Nvidia board rules out Jensen Huang’s return to leadership",
+      "description": "Nvidia’s board rejected the return of co-founder Jensen Huang as CEO after he proposed coming back if the company asked him to. Huang had resigned following issues related to his personal conduct, while Colette Kress was appointed interim CEO.",
+      "link": "https://appleinsider.com/articles/26/11/18/nvidias-board-is-clear-that-they-dont-want-jensen-huang-back",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6265",
+      "title": "Google expands access to Gemini Tasks to automate calls and purchases",
+      "description": "Google is expanding access to Gemini Tasks, which can help users make calls and complete purchases.",
+      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "sources": [
+        "Techpresso",
+        "Superhuman",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5601",
+      "title": "Experts debate Anthropic’s IPO",
+      "description": "Five investment professionals weigh in on whether to invest in the AI boom or be wary of the hype, amid a potential Anthropic IPO.",
+      "link": "https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11",
+      "sources": [
+        "Business Insider",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-18T12:05+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6323",
+      "title": "Testers harshly criticize OpenAI’s new GPT-6.2 Astra model",
+      "description": "OpenAI’s GPT-6.2 Astra model drew heavy criticism in pre-release testing, with some users calling it very bad or unusable. It costs 20% less than GPT-6 Astra and follows the launch of Claude Fable 5.2.",
+      "link": "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6331",
+      "title": "Amazon and Google reportedly hold around 28% of Anthropic",
+      "description": "Anthropic’s IPO filing shows that Amazon and Google together reportedly hold around 28% of its shares.",
+      "link": "https://qz.com/anthropic-ipo-amazon-google-28-percent-stock-111726",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6334",
+      "title": "Trump administration considers requiring disclosure of Chinese AI use",
+      "description": "The Trump administration is considering requiring U.S. companies to disclose their use of Chinese artificial intelligence systems.",
+      "link": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6338",
+      "title": "OpenAI opens its Daybreak cybersecurity tool to NATO and European governments",
+      "description": "OpenAI is making its Daybreak cybersecurity tool available to NATO and European governments.",
+      "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6231",
+      "title": "Waymo suspends robotaxi rides on U.S. highways",
+      "description": "Waymo suspended all robotaxi rides on U.S. highways after a ban in California.",
+      "link": "https://www.cryptopolitan.com/waymo-robotaxis-us-freeways-california-ban/",
+      "sources": [
+        "Techpresso",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6247",
+      "title": "Nvidia stops shipping H200 chips to customers in China",
+      "description": "Nvidia has halted deliveries of its H200 chips to customers in China.",
+      "link": "https://gizmodo.com/nvidia-stops-shipping-h200s-to-customers-in-china-2000841474",
+      "sources": [
+        "Techpresso",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6286",
+      "title": "Microsoft integrates Office into Copilot, billed as the new OS for work",
+      "description": "Microsoft is presenting Copilot as the “new OS for work” and now allows users to run Office in it.",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g5850",
       "title": "The Cybercab is now available by invitation",
       "description": "A post announces that the Cybercab is now available by invitation. One participant is concerned about the vehicle’s operating costs and the lack of a guarantee that the 299-dollar-per-month FSD subscription will remain available.",
@@ -32,34 +185,6 @@
         "Vision IA"
       ],
       "received_at": "2026-11-18T16:49+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6265",
-      "title": "Google expands Gemini Tasks to handle everyday tasks",
-      "description": "Google has expanded Gemini Tasks to more users. This mode allows Gemini to manage projects in the background on a computer or in Google apps, with support for calls and payments.",
-      "link": "https://archive.superhuman.ai/2122737596971503885",
-      "sources": [
-        "Superhuman",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-18T15:12+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5079",
-      "title": "Jensen Huang says he is ready to take over Nvidia again",
-      "description": "Jensen Huang says he would be ready to become Nvidia CEO again if the board asked him to. Employees, investors, partners and customers are said to have called for his return.",
-      "link": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=TA1XEe&reflink=desktopwebshare_permalink",
-      "sources": [
-        "TLDR",
-        "Business Insider"
-      ],
-      "received_at": "2026-11-18T13:20+01:00",
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null
@@ -92,20 +217,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6238",
-      "title": "Study shows AI models selected civilian targets",
-      "description": "In a military targeting study, AI models selected civilian targets, and framing the exercise as a game worsened the results.",
-      "link": "https://www.theneuron.ai/news/ai-models-civilians-military-targets-game-prompt/",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-18T12:06+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6249",
       "title": "Situational Awareness fund increases its AI bets",
       "description": "After its summer debacle, the fund led by former OpenAI researcher Leopold Aschenbrenner increased its AI investments in the latest quarter. It notably took a large stake in Australian neocloud company Sharon AI.",
@@ -117,19 +228,6 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6259",
-      "title": "Experts debate Anthropic’s IPO",
-      "description": "Five investment professionals weigh whether to invest in the AI boom or be wary of the hype, amid the possibility of an Anthropic IPO.",
-      "link": "https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-18T12:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
       "id": "g6219",
@@ -210,17 +308,199 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6242",
-      "title": "Anthropic IPO expected to exceed $78",
-      "description": "According to CNBC, Anthropic is expected to price its Nasdaq IPO above the planned $70-to-$78 range, under the ticker ANT. The company generated $33.24 billion in revenue over nine months, driven by Claude Code.",
-      "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "id": "g6353",
+      "title": "Nvidia to raise employee salaries",
+      "description": "To stabilize its workforce after Jensen Huang’s resignation, interim CEO Colette Kress announced at an all-hands meeting that pay raises and additional stock grants would be awarded in December, according to someone who attended.",
+      "link": "https://l.businessinsider.com/a/zc/21432/4f80dbb9c59f46a1a1514597a0f5e245/d79a06c27ec342369c7c360dd6706574",
       "sources": [
-        "Vision IA"
+        "Business Insider"
       ],
-      "received_at": "2026-11-18T11:06+01:00",
+      "received_at": "2026-11-18T21:59+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
+      "followed_topic": null
+    },
+    {
+      "id": "g6346",
+      "title": "Build your own AI assistant in 20 minutes",
+      "description": "Chapter 32 of AI Central explains how to distinguish between a persistent instruction, a saved model and a full assistant, then how to create and test your own AI assistant. It says you need a repeated task, the most effective instructions and two or three reference files.",
+      "link": "https://link.mail.beehiiv.com/v2/c/2b368bf7c9f4caaab7d938d0a63f6b9cdf267b018235c36bd121b78e2ad92c551f841d2f63c1fa49b1abf57eac1871078e7918e5eda02704f08f0f4858d46d39fbf586a87a44926aa6a8d79e9dfa868fdb4ea53dc1f6d3f77a2e3c308698067d3f3dbba9551bdd2f695e970509ac3bff13f603a33bc33178bf6ea05a5c2c9ba116e301f0c3b061f32e36380a79b4a3674b3d77c6a80d5d76b2aeb85359089c69/5c58ba1a870c5f82",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-18T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6325",
+      "title": "Microsoft unveils coding AI nearly on par with Claude",
+      "description": "Microsoft says its MAI Code 2 model achieves 96% of Claude Opus 5.5’s coding performance for just 5% of the price. These figures include a launch discount, and the model does not handle the most complex research or agentic tasks.",
+      "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6326",
+      "title": "Apple attributes global iCloud outage to an internal update",
+      "description": "Apple attributed the global outage on November 17 to an internal update and ruled out a cyberattack. The outage affected iCloud, the App Store, Apple Music and other services, but Apple has not yet explained the changes that caused the problem.",
+      "link": "https://www.theapplepost.com/2026/11/17/74448/apple-confirms-what-caused-widespread-outage-affecting-millions-of-users/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6328",
+      "title": "Startup wants to drill into a volcano to generate geothermal energy",
+      "description": "Google has signed an agreement to purchase 50 megawatts of geothermal energy from Quaise Energy, which plans to drill near Newberry volcano in Oregon. The project aims to reach rocks above 300 °C, then use millimeter waves to drill deeper and power Google’s data centers.",
+      "link": "https://finance.yahoo.com/energy/articles/texas-company-plans-drill-oregon-183730773.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6329",
+      "title": "NSA’s version of Slack reportedly down as U.S. services malfunction",
+      "description": "The version of Slack used by the NSA reportedly went down as several U.S. services experienced problems.",
+      "link": "https://gizmodo.com/nsas-version-of-slack-reportedly-borked-as-americans-wonder-why-everything-is-breaking-2000841102",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6330",
+      "title": "CISA warns of “Java4Shell,” a Java vulnerability discovered by AI",
+      "description": "CISA is warning about a Java vulnerability called “Java4Shell,” which reportedly affects most Fortune 500 companies.",
+      "link": "https://therecord.media/cisa-issues-java4shell-alert",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6332",
+      "title": "Google lets Gemini users opt out of AI training",
+      "description": "Google now allows Gemini users to disable the use of their conversations for AI training while keeping their history.",
+      "link": "https://www.androidauthority.com/gemini-new-chat-history-settings-3736303/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6333",
+      "title": "Hyperscale data centers consume 2% of U.S. electricity",
+      "description": "Hyperscale data centers now account for 2% of electricity consumption in the United States.",
+      "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6335",
+      "title": "Kalshi suspends markets mentioning Donald Trump",
+      "description": "Prediction market platform Kalshi suspended markets mentioning Donald Trump.",
+      "link": "https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6336",
+      "title": "Spotify developing tool to prevent deepfakes from being attributed to artists",
+      "description": "Spotify is developing a tool designed to prevent deepfakes from being attributed to real artists.",
+      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6337",
+      "title": "Suno adds AI-generated video to its music app",
+      "description": "Suno is adding a video-generation feature to its music app, with filters for artists’ faces.",
+      "link": "https://thenextweb.com/news/suno-visuals-ai-video-lyric-videos-album-art",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6343",
+      "title": "AI shopping agents become more confident without becoming more accurate",
+      "description": "AI shopping agents show more confidence when asked to think longer, without improving their accuracy. Their confidence level rarely matches the frequency of their correct answers.",
+      "link": "https://arxiv.org/abs/2611.22033",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6344",
+      "title": "AI assistant memory can remove critical warnings",
+      "description": "AI assistants can silently remove essential warnings after memorizing a preference for brevity. Two assistants tested omitted key safety information in more than 80% of subsequent responses.",
+      "link": "https://arxiv.org/abs/2611.22697",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6345",
+      "title": "One in four U.S. adults has made a friend online",
+      "description": "According to a Pew Research Center survey, about one in four U.S. adults has made friends online. The proportion reaches 43% among people under 30 and 45% among LGBT+ adults.",
+      "link": "https://www.pewresearch.org/short-reads/2026/11/17/younger-and-lgbtq-adults-in-the-us-stand-out-for-finding-friendship-online/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-18T18:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6319",
@@ -409,19 +689,6 @@
       "title": "Cyber threats intensify as Lastbook goes viral",
       "description": "Google Threat Intelligence Group believes cyberwarfare and espionage are reaching a critical inflection point as AI-powered campaigns become more sophisticated. Hackers notably hijacked Optimizely Web to distribute malware to 178 organizations.",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-18T15:12+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6309",
-      "title": "Offline survival guide Lastbook surpasses 38,000 favorites",
-      "description": "Entrepreneur Farbood Nivi highlighted Lastbook, an offline survival library that has gone viral. It brings together offline maps, emergency preparedness guides and a Google Gemma model capable of running on a computer.",
-      "link": "https://lastbook.org/",
       "sources": [
         "Superhuman"
       ],
@@ -626,7 +893,7 @@
       "followed_topic": null
     },
     {
-      "id": "g6284",
+      "id": "g6089",
       "title": "Outages disrupt banks, air travel and Apple",
       "description": "Outages affected Microsoft services, the FAA, JPMorgan Chase transactions and Apple over four days. The director of national intelligence ruled out malicious activity, while researchers believe AI is accelerating the discovery of vulnerabilities.",
       "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
@@ -643,19 +910,6 @@
       "title": "AI’s recursive progress accelerates Anthropic’s R&D",
       "description": "The pace of R&D progress at Anthropic has reportedly roughly doubled since October 2025, largely thanks to the use of AI in its own research. Recursive model improvement is reportedly already underway.",
       "link": "https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-18T13:20+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6286",
-      "title": "Microsoft integrates Word, Excel and PowerPoint into Copilot",
-      "description": "Satya Nadella announced the general availability of Word, Excel and PowerPoint inside Copilot.",
-      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
       "sources": [
         "TLDR"
       ],
@@ -864,19 +1118,6 @@
       "title": "Nvidia seeks new CEO without rushing",
       "description": "The board wants to find a permanent CEO as quickly as possible but says it will wait for the right person. The candidate could come from inside or outside Nvidia.",
       "link": "https://www.businessinsider.com/nvidia-q3-2027-earnings-ian-buck-jensen-huang-exit-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-18T12:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6247",
-      "title": "Nvidia maintains strategy and halts licensed Hopper shipments to China",
-      "description": "Nvidia says its roadmap remains unchanged and that it continues to support an open AI ecosystem. Colette Kress nevertheless said the company was no longer shipping licensed Hopper data-center products to China.",
-      "link": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
       "sources": [
         "Business Insider"
       ],
@@ -1163,19 +1404,6 @@
       "title": "YouTube will count multiple viewers in front of the same TV",
       "description": "YouTube is introducing “co-viewing,” a statistical estimate of how many people are watching a video on the same TV. The measure applies to long-form videos, Shorts and live streams, without changing how advertising revenue is calculated.",
       "link": "https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-18T11:06+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6231",
-      "title": "Waymo suspends highway rides in the United States",
-      "description": "California has banned Waymo robotaxis from its highways after incursions into construction zones and an attempt to pass a police car. Waymo has suspended highway rides across all its US markets.",
-      "link": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/",
       "sources": [
         "Vision IA"
       ],
