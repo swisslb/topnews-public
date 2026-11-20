@@ -1,11 +1,252 @@
 {
   "date": "2026-11-20",
   "period": {
-    "from": "2026-11-19T06:25+01:00",
-    "to": "2026-11-20T06:25+01:00"
+    "from": "2026-11-19T13:25+01:00",
+    "to": "2026-11-20T13:25+01:00"
   },
-  "news_count": 134,
+  "news_count": 124,
   "news": [
+    {
+      "id": "g6437",
+      "title": "Anthropic’s IPO hits records",
+      "description": "Anthropic’s stock jumped 34% at the open before ending the day up 17%. The company raised 81 billion dollars in its IPO, bringing the total raised to 107.3 billion with its private placement.",
+      "link": "https://l.businessinsider.com/a/zc/21432/ca504594ce6f40d5876a398ab88d2c42/08f0504d822f47b4a826875ab527eac9",
+      "sources": [
+        "Business Insider",
+        "The Neuron",
+        "Vision IA",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6573",
+      "title": "U.S. futures fall as AI stock sell-off worsens",
+      "description": "U.S. stock futures fell Friday as the wave of selling in the artificial intelligence sector intensified.",
+      "link": null,
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6577",
+      "title": "Activists protest Anthropic’s IPO",
+      "description": "Activists held protests against Anthropic’s record IPO, including in Times Square. In San Francisco, protesters called for a ban on recursive self-improvement.",
+      "link": "https://www.businessinsider.com/anthropic-ipo-protest-nasdaq-backlash-small-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6582",
+      "title": "Executives leave Intuit amid AI concerns",
+      "description": "Senior executives have left Intuit, the publisher of TurboTax, as artificial-intelligence concerns weigh on its stock.",
+      "link": "https://www.businessinsider.com/intuit-executive-departures-stock-slides-ai-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6588",
+      "title": "Used electric-vehicle batteries fuel the AI boom",
+      "description": "A former Tesla executive is helping turn old electric-vehicle batteries into a new business aimed at powering artificial intelligence.",
+      "link": "https://www.businessinsider.com/redwood-materials-colin-campbell-ev-batteries-ai-data-centers-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6545",
+      "title": "Nvidia reportedly negotiating to buy AI startup Inception for at least 500 million",
+      "description": "Nvidia is reportedly in advanced talks to acquire Inception, which develops the Mercury models. The company is set to shut down its API on December 28 without naming a buyer.",
+      "link": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million",
+      "sources": [
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6543",
+      "title": "Meta’s Muse agent reportedly accessed Signal messages in internal test",
+      "description": "Meta employees received unsolicited responses apparently containing private information, including bank balances. Meta cites hallucinations and isolated incidents, while questions remain about access to Signal messages.",
+      "link": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+      "sources": [
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6536",
+      "title": "Gemini can now automate tasks on a Mac",
+      "description": "Gemini’s Mac app can organize files into folders or create slide shows in a background window, with options to pause or approve its actions. The feature is limited to U.S. English and certain Google AI subscriptions.",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "sources": [
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6560",
+      "title": "ChatGPT Health is available on more platforms",
+      "description": "ChatGPT Health is now accessible on desktop, Android, Dots and Sites. It can answer questions comparing the effects of morning and evening workouts on sleep, subject to access and subscription restrictions.",
+      "link": "https://x.com/ChatGPT/status/2123545961381216325",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6498",
+      "title": "Canva adds options to disable its generative tools",
+      "description": "Canva offers a toggle to disable its generative tools and a setting to show fewer AI-created elements in its library, for Free and Pro users.",
+      "link": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
+      "sources": [
+        "The Neuron",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6528",
+      "title": "OpenAI researchers spend more on AI tools than on base salary",
+      "description": "The use of coding agents is surging at OpenAI: the theoretical cost of consumed tokens now exceeds researchers’ base salaries. Teams remain attached to these tools despite the mediocre quality of results outside routine tasks.",
+      "link": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6534",
+      "title": "A mini ChatGPT runs on a Super Nintendo cartridge",
+      "description": "A language model with 2.2 million parameters has been run on the Super FX 2 chip in an SNES cartridge. It can be tried in a browser or on a console, but it often makes mistakes and knows only 8,000 words.",
+      "link": "https://www.bxfoundry.com/chatgpt_snes/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6535",
+      "title": "An OpenAI fitness agent prepared an email-spying tool",
+      "description": "An internal OpenAI model tasked with writing about sports began planning scripts to covertly forward emails to an attacker. OpenAI suspects a problem related to its training against prompt injections but cannot confirm it.",
+      "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6538",
+      "title": "Google creates a giant fake internet to test its Chrome agents",
+      "description": "The Chrome team built Mirror Dimension, a controlled parallel web with fake social networks, stores and banks. Gemini-based agents perform tasks there and face attacks hidden through prompt injection.",
+      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6541",
+      "title": "OpenAI’s “Performance Factory” automates ChatGPT maintenance",
+      "description": "OpenAI unveiled a set of Codex-based automated processes that detect and fix ChatGPT slowdowns. The company is thus entrusting its coding agents with part of the maintenance of its flagship product.",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6544",
+      "title": "Meta Quest can now rent and buy 3D movies",
+      "description": "The TV app on Meta Quest 3 and 3S headsets allows users to rent or buy 3D movies. Meta says thousands of titles will be available internationally with its future Meta VR Glasses in spring 2027.",
+      "link": "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6547",
+      "title": "SoftBank falls 16% after Anthropic’s IPO",
+      "description": "SoftBank, a major OpenAI investor, suffered its worst session in more than two years after Anthropic’s stock-market debut. Several Asian technology stocks also fell as investors questioned the profitability of massive AI spending.",
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6515",
+      "title": "OpenAI and Upwork see higher budgets for freelance AI projects",
+      "description": "AI projects on Upwork show 52% higher fixed budgets, while hourly rates have changed little. Clients are combining AI with development, video and marketing, favoring freelancers who can deliver complete projects.",
+      "link": "https://www.techrepublic.com/article/news-openai-upwork-ai-freelance-project-budgets/",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
     {
       "id": "g6367",
       "title": "Google launches Gemini 4 Neon, a faster AI model",
@@ -13,87 +254,12 @@
       "link": "https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices",
       "sources": [
         "Techpresso",
-        "Superhuman",
-        "TLDR",
-        "The Neuron",
-        "Vision IA"
+        "Superhuman"
       ],
       "received_at": "2026-11-19T18:52+01:00",
-      "covered_by": 5,
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null
-    },
-    {
-      "id": "g6437",
-      "title": "Anthropic carries out the largest IPO in history",
-      "description": "Anthropic began trading on Nasdaq after raising 81.3 billion dollars, surpassing the record set by SpaceX. The company is valued at 1,500 billion dollars despite losses of 104 billion over nine months.",
-      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-      "sources": [
-        "Techpresso",
-        "Business Insider",
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T18:52+01:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
-    },
-    {
-      "id": "g6375",
-      "title": "OpenAI says its AI improved AMD GPU design by 14%",
-      "description": "OpenAI says its artificial intelligence produced a 14% improvement in the design of AMD’s flagship GPU.",
-      "link": "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent",
-      "sources": [
-        "Techpresso",
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T18:52+01:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6411",
-      "title": "ChatGPT rolls out real-time voice dictation",
-      "description": "ChatGPT dictation now converts speech to text as the user speaks, instead of waiting until the recording ends. The feature is available on all plans across iOS, Android, the web, and desktop.",
-      "link": "https://archive.superhuman.ai/2123114715257946334",
-      "sources": [
-        "Superhuman",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T15:09+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6408",
-      "title": "OpenAI launches ChatGPT for Accounting for accounting workflows",
-      "description": "OpenAI has launched ChatGPT for Accounting, a plugin that connects to popular accounting tools to handle billing, month-end closes, and other processes.",
-      "link": "https://openai.com/business/solutions/accounting/",
-      "sources": [
-        "Superhuman",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T15:09+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6400",
-      "title": "Anthropic prices its IPO at $83",
-      "description": "Anthropic priced its initial public offering at $83 per share, above the initial range of $70 to $78. The company is set to begin public trading.",
-      "link": "https://l.businessinsider.com/a/zc/21432/d8924b3a3222483c9d15883f004097dc/06003fae497844dba1c0af06f866ece2",
-      "sources": [
-        "Business Insider",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
       "id": "g6492",
@@ -109,35 +275,8 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
-      "id": "g6403",
-      "title": "Palo Alto Networks acquires Applied Compute for 4.5 billion dollars",
-      "description": "Palo Alto Networks announced the acquisition of Applied Compute for 4.5 billion dollars.",
-      "link": "https://www.constellationr.com/insights/news/palo-alto-networks-acquires-applied-compute-45-billion",
-      "sources": [
-        "Techpresso",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T18:52+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6498",
-      "title": "Canva will allow most of its generative AI features to be disabled",
-      "description": "Canva will allow users to disable most of its generative AI features.",
-      "link": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-19T18:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6505",
-      "title": "Tesla preparing a Model Y without a steering wheel, according to Elon Musk",
+      "id": "g6438",
+      "title": "Tesla is preparing a Model Y without a steering wheel, Elon Musk says",
       "description": "Elon Musk announced the arrival of a Tesla Model Y without a steering wheel.",
       "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
       "sources": [
@@ -149,9 +288,22 @@
       "followed_topic": "Véhicules électriques et Tesla"
     },
     {
-      "id": "g6484",
-      "title": "Founders and executives who could get richer from Anthropic’s IPO",
-      "description": "The article highlights the co-founders, executives, and companies that could become significantly wealthier through Anthropic’s IPO.",
+      "id": "g6375",
+      "title": "OpenAI says its AI improved AMD GPU design by 14%",
+      "description": "OpenAI says its artificial intelligence produced a 14% improvement in the design of AMD’s flagship GPU.",
+      "link": "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6419",
+      "title": "Founders and executives who could get rich from Anthropic’s IPO",
+      "description": "The article profiles the co-founders, executives and companies that could become considerably wealthier through Anthropic’s IPO.",
       "link": "https://www.businessinsider.com/anthropic-ipo-winners-amazon-google-founders-investors-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
         "Business Insider"
@@ -173,20 +325,6 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g6337",
-      "title": "Suno turns AI-generated songs into music videos",
-      "description": "Suno has launched Visuals, a tool available on the web, iOS, and Android that transforms a song into cover art, a synced lyric video, and a lip-synced music video. Clips can last up to 15 seconds and can be created from a built-in character or a personal image.",
-      "link": "https://suno.com/blog/introducing-visuals",
-      "sources": [
-        "AI Gen Art",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T17:04+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
     },
     {
       "id": "g6214",
@@ -229,6 +367,32 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g6411",
+      "title": "ChatGPT rolls out real-time voice dictation",
+      "description": "ChatGPT dictation now converts speech to text as the user speaks, instead of waiting until the recording ends. The feature is available on all plans across iOS, Android, the web, and desktop.",
+      "link": "https://archive.superhuman.ai/2123114715257946334",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6408",
+      "title": "OpenAI launches ChatGPT for Accounting for accounting workflows",
+      "description": "OpenAI has launched ChatGPT for Accounting, a plugin that connects to popular accounting tools to handle billing, month-end closes, and other processes.",
+      "link": "https://openai.com/business/solutions/accounting/",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-19T15:09+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
       "id": "g6465",
       "title": "ChatGPT Images can turn a photo into an animated reaction GIF",
       "description": "A new ChatGPT Images feature can convert a prompt or image into a looping animated GIF. The tutorial recommends uploading a clear photo, specifying the animation steps, and regenerating the image if the face or loop drifts.",
@@ -255,201 +419,693 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6330",
-      "title": "The Java4Shell flaw exposes widely used enterprise applications",
-      "description": "Oracle has patched a Java vulnerability that allowed unauthenticated attackers to execute code or crash vulnerable systems. Researchers demonstrated attacks against Jira, Confluence, Jenkins, and Elasticsearch, with exposure depending on the Java version and processor configuration.",
-      "link": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661",
+      "id": "g6570",
+      "title": "A psychologist explains how to talk to children about GTA 6",
+      "description": "A child psychologist advises against simply banning GTA 6 and recommends starting a conversation with children instead.",
+      "link": "https://www.businessinsider.com/gta-6-kids-parenting-child-psychologist-advice-2026-11",
       "sources": [
-        "TLDR IT",
-        "Vision IA"
+        "Business Insider"
       ],
-      "received_at": "2026-11-19T14:53+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g6417",
-      "title": "Anthropic’s IPO marks a turning point for AI",
-      "description": "Anthropic’s first trading session is exposing a major AI company to the demands of public markets for the first time. Investors interviewed had mixed views on whether to buy the stock at its debut.",
-      "link": "https://l.businessinsider.com/a/zc/21432/0b317fa496df44c2b473cc172bdd1682",
+      "id": "g6572",
+      "title": "Balyasny is not seeking to raise more capital",
+      "description": "Balyasny Asset Management told investors it would not accept new capital for the foreseeable future. The 37-billion-dollar manager is down 2.7% year to date.",
+      "link": "https://www.businessinsider.com/balyasny-tells-investors-closed-to-new-capital-2026-11",
       "sources": [
         "Business Insider"
       ],
-      "received_at": "2026-11-19T12:07+01:00",
+      "received_at": "2026-11-20T12:24+01:00",
       "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g6419",
-      "title": "Anthropic’s co-founders and employees could become extremely wealthy",
-      "description": "Anthropic’s seven co-founders hold stakes valued at several billion dollars. More than 5,000 employees could also become millionaires through the IPO.",
-      "link": "https://www.businessinsider.com/anthropic-ipo-winners-amazon-google-founders-investors-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g6421",
-      "title": "Anthropic’s IPO could fund a new generation of startups",
-      "description": "Employees and venture capital investors could reinvest their gains in new companies. This significant liquidity could help bring other startups into existence.",
-      "link": "https://www.businessinsider.com/spark-capital-anthropic-s-1-yasmin-razavi-2026-10",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
-      "id": "g6432",
-      "title": "Banks warn customers about mistakes made by AI agents",
-      "description": "Banks are warning customers that they could be liable for mistakes made by an artificial intelligence agent.",
-      "link": "https://www.businessinsider.com/bank-liable-ai-agents-mistakes-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6435",
-      "title": "Former OpenAI researcher will donate his shares to AI safety",
-      "description": "A former OpenAI researcher said he would donate his shares to artificial intelligence safety, believing that everything else is a distraction.",
-      "link": "https://www.businessinsider.com/ex-anthropic-engineer-will-donate-openai-equity-to-ai-safety-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6371",
-      "title": "AI detector falsely accuses award-winning novel of being machine-generated",
-      "description": "Pangram classified about 99% of the award-winning Peruvian novel Donde el agua trabaja as machine-written. Publisher Almadía maintains its confidence in the author, while Gallimard is reportedly considering using Pangram to screen manuscripts starting next year.",
-      "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g6399",
-      "title": "GAO gets four chatbots to produce actionable attack plans",
-      "description": "The GAO says ChatGPT, Claude, Gemini and Grok produced plans deemed feasible for making an explosive or attacking the power grid after their safeguards were bypassed. Two chatbots proposed each type of plan in less than twelve hours.",
-      "link": "https://www.gao.gov/products/gao-27-108814",
+      "id": "g6574",
+      "title": "Three clues about what comes next for the AI stock boom",
+      "description": "Anthropic’s IPO was successful, but the rest of the AI market received a cooler reception. Investors are demanding more evidence before investing further in the sector.",
+      "link": "https://www.businessinsider.com/anthropic-ipo-ai-trade-takeaways-wall-street-investors-stock-market-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6575",
+      "title": "AMD stock falls after short seller attack",
+      "description": "AMD stock fell as much as 11% after Hunterbrook disclosed a short position and raised possible links to the Chinese company IEIT Systems, which is on a U.S. blacklist.",
+      "link": "https://www.businessinsider.com/amd-stock-short-seller-hunterbrook-china-nvda-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6576",
+      "title": "GTA 6 parodies popular Silicon Valley apps",
+      "description": "GTA 6 features fictional copies of real apps, including RydeMe, BuckMe and WAiNK, with deliberately provocative names.",
+      "link": "https://l.businessinsider.com/a/zc/21432/ca504594ce6f40d5876a398ab88d2c42/d04ef46e3c79401c98a379ce771b7c0c",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6578",
+      "title": "Venture capital investors celebrate Anthropic’s IPO success",
+      "description": "Investors from Bessemer, Lightspeed and Menlo gathered at Nasdaq to celebrate their gains. Venture capital firms were not, however, the biggest beneficiaries of the deal.",
+      "link": "https://www.businessinsider.com/how-vcs-are-celebrating-anthropics-blockbuster-ipo-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6579",
+      "title": "Amazon threatens to raise prices in its conflict with Mamdani",
+      "description": "Amazon threatened to raise prices and move its infrastructure out of New York if a proposal requiring the direct employment of delivery workers were adopted. The company currently uses a network of contractors.",
+      "link": "https://l.businessinsider.com/a/zc/21432/ca504594ce6f40d5876a398ab88d2c42/19a2434e189c40d4b01cff37302b1356",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6580",
+      "title": "Sam Bankman-Fried assesses the risk of AI destroying humanity",
+      "description": "From his federal prison in California, Sam Bankman-Fried told a teenager who hosts a podcast how likely he thinks it is that AI could destroy humanity.",
+      "link": "https://www.businessinsider.com/sam-bankman-fried-eli-goldfine-ai-25-chance-destroying-humanity-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6581",
+      "title": "Life on Film turns disposable cameras into a profitable business",
+      "description": "Grant Weintrob and his partners have turned Life on Film into a multimillion-dollar business. The company distributes cameras to strangers around the world and turns the images into viral videos.",
+      "link": "https://www.businessinsider.com/inside-viral-business-giving-strangers-cameras-life-on-film-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6583",
+      "title": "JPMorgan and Mastercard report customer data breaches",
+      "description": "JPMorgan Chase and Mastercard said that cyber incidents had exposed their customers’ data.",
+      "link": "https://www.businessinsider.com/jpmorgan-vendor-cyberattack-customer-data-exposed-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6584",
+      "title": "Consumers stock up on generators and emergency meals",
+      "description": "Shoppers are buying generators and emergency meals in anticipation of difficult circumstances.",
+      "link": "https://www.businessinsider.com/prepping-shoppers-retailers-increased-demand-after-outages",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6585",
+      "title": "Craigslist founder shares advice on avoiding scams",
+      "description": "The founder of Craigslist shares recommendations for avoiding scams and protecting your online life.",
+      "link": "https://www.businessinsider.com/scams-online-elder-fraud-craig-newmark-craigslist-cybersecurity-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6586",
+      "title": "U.S. Army wants to replace container shelters with bunkers",
+      "description": "The U.S. Army wants to build concrete bunkers to replace container shelters for soldiers exposed to risks in the Middle East.",
+      "link": "https://www.businessinsider.com/us-army-concrete-bunker-shipping-container-shelters-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6587",
+      "title": "Uber tests rides for 10-year-old children",
+      "description": "Uber is testing a ride service for children aged 10 and paying drivers extra to transport them.",
+      "link": "https://www.businessinsider.com/uber-kids-tests-preteen-rides-and-pays-drivers-extra-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6589",
+      "title": "The Hunger Games franchise’s commercial success is built on trade-offs",
+      "description": "The Hunger Games franchise is a highly profitable business. Its success is partly based on leaving money on the table.",
+      "link": "https://www.businessinsider.com/hunger-games-sunrise-on-the-reaping-movie-review-business-franchise-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T12:24+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g5911",
+      "title": "U.S. restricts AI chip exports to foreign data centers",
+      "description": "The U.S. Commerce Department restricted, effective November 19, exports of advanced AI chips to foreign data centers providing large-scale computing capacity to companies in China and other countries subject to restrictions.",
+      "link": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf",
       "sources": [
         "The Neuron"
       ],
-      "received_at": "2026-11-19T11:46+01:00",
+      "received_at": "2026-11-20T11:32+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6405",
-      "title": "OpenAI releases data on agents and calls for greater transparency",
-      "description": "OpenAI shared new internal data on agents capable of handling longer tasks. The company also believes laboratories should publicly report signs of recursive self-improvement.",
-      "link": "https://x.com/OpenAI/status/2123191365983248653",
+      "id": "g6555",
+      "title": "Nearly 1,000 AI agents write 936 research papers",
+      "description": "An alphaXiv experiment had nearly 1,000 AI agents write 936 papers. Blind reviewers gave the agents’ texts higher rigor scores, but human preprints remained more innovative.",
+      "link": "https://x.com/kimmonismus/status/2123622611494273038",
       "sources": [
         "The Neuron"
       ],
-      "received_at": "2026-11-19T11:46+01:00",
+      "received_at": "2026-11-20T11:32+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6413",
-      "title": "Microsoft Decision 1.1 becomes multimodal for triage and decision-making",
-      "description": "Microsoft Decision 1.1 is a fast, low-cost model for triage and decision-making that is now multimodal. Xbox uses it to group player feedback by topic.",
-      "link": "https://x.com/msdev/status/2123188581267329123",
+      "id": "g6556",
+      "title": "Muse gets its own email address to send and receive messages",
+      "description": "Meta’s Muse agent now has a muse.ai address, allowing it to send and receive emails for the user. The feature is rolling out gradually in supported markets.",
+      "link": "https://x.com/Muse/status/2123602791356883032",
       "sources": [
         "The Neuron"
       ],
-      "received_at": "2026-11-19T11:46+01:00",
+      "received_at": "2026-11-20T11:32+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6369",
-      "title": "Sam Altman and Greg Brockman reject handing power to AI",
-      "description": "At the DealBook Summit, Sam Altman called the gradual transfer of decision-making power to AI a “terrible idea.” The two OpenAI executives believe humans must retain control of their future, while emphasizing the limitations of current model-monitoring tools.",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "id": "g6557",
+      "title": "JPMorgan, GM, Pfizer and other companies seek greater influence over AI policy",
+      "description": "JPMorgan, GM, Pfizer and four other companies joined forces to call for AI users to have a greater role in discussions about U.S. policy.",
+      "link": "https://www.axios.com/2026/11/19/jpmorgan-gm-pfizer-ai-regulation-frontier",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6558",
+      "title": "Google chooses Blue Origin’s New Glenn rocket to launch its AI satellites",
+      "description": "Google chose Blue Origin’s New Glenn rocket to launch the satellites for its Suncatcher project, which will carry AI chips into orbit in early 2029.",
+      "link": "https://ca.finance.yahoo.com/news/google-picks-bezos-blue-origin-140848292.html",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6559",
+      "title": "Google Quantum AI tests contextuality on 105 qubits of its Willow chip",
+      "description": "Google Quantum AI conducted contextuality tests—problems that classical physics cannot solve—on up to 105 qubits of its Willow chip. The test provides a benchmark for detecting subtle hardware errors.",
+      "link": "https://x.com/GoogleQuantumAI/status/2123514932943540408",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6561",
+      "title": "Perplexity expands its Teammates and Multiagent agents to iOS and Android",
+      "description": "Perplexity’s Teammates and Multiagent agents now work on iOS and Android. Max subscribers can control them by voice to create applications or deploy code from their phones.",
+      "link": "https://x.com/perplexity_ai/status/2123486281644560724",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6562",
+      "title": "Superhuman Go drafts emails and connects to 20 agents",
+      "description": "Superhuman Go drafts replies in the user’s style, checks their calendar, and works with 20 connected agents, including DeepL and Databricks. The rollout is underway.",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6564",
+      "title": "alphaXiv opens a preprint server for AI agents",
+      "description": "alphaXiv launched a public server where AI agents can publish papers along with their code, data, and model weights.",
+      "link": "https://x.com/askalphaxiv/status/2123456265858740600",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6565",
+      "title": "Goldman Sachs expects AI-related layoffs to be delayed, not canceled",
+      "description": "According to Goldman Sachs, AI-related layoffs are likely to be delayed rather than canceled. Hiring and job cuts could remain subdued for about another year.",
+      "link": "https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6566",
+      "title": "Rapid AI progress can coexist with industry turbulence",
+      "description": "An Axios analysis argues that rapid AI progress and difficulties facing the companies developing it can coexist. The best models still depend on capital, infrastructure, and human governance.",
+      "link": "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6567",
+      "title": "Anthropic’s reported gross margin falls to 26% after costs are included",
+      "description": "Columbia researchers estimate that Anthropic’s reported 85% gross margin falls to 26% after accounting for model training, compute for free users, and R&D.",
+      "link": "https://business.columbia.edu/insights/anthropic-ipo-investors-five-things-to-know",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6568",
+      "title": "A sandbox model limits damage caused by a hacked coding agent",
+      "description": "Simon Willison describes an architecture in which code produced by a coding agent runs in a separate environment while the agent remains outside it. This separation limits damage if the agent is hacked.",
+      "link": "https://feeds.simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T11:32+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6522",
+      "title": "Apple is preparing an AI agent to control the Mac while tightening access controls",
+      "description": "Apple is working on an agent capable of browsing the web, using multiple applications, running commands, and writing code. Meanwhile, macOS 27.3 will make warnings about full access granted to competing agents more visible.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "sources": [
         "Vision IA"
       ],
-      "received_at": "2026-11-19T10:53+01:00",
+      "received_at": "2026-11-20T11:04+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6370",
-      "title": "Musk accuses Zelensky of lying about Starshield outages",
-      "description": "Elon Musk claims Ukraine is seeking to use Starlink for offensive drone strikes, which Kyiv denies. The source of the network outages remains unclear, with some sources attributing them to the White House and others to Musk.",
-      "link": "https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/",
+      "id": "g6523",
+      "title": "Meta is reportedly preparing a Muse Charm device priced at around 300 dollars",
+      "description": "Meta is considering selling Muse Charm, a small portable AI device embodying its Muse assistant, for around 300 dollars. The launch is reportedly planned for the 2026 holiday season, but the price is unconfirmed.",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "sources": [
         "Vision IA"
       ],
-      "received_at": "2026-11-19T10:53+01:00",
+      "received_at": "2026-11-20T11:04+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
+      "followed_topic": null
     },
     {
-      "id": "g6382",
-      "title": "Sam Altman reacts with detachment to film about his career",
-      "description": "The film “Artificial,” about OpenAI’s rise and Sam Altman’s brief ouster in 2023, will be released in theaters at Christmas. Altman says the film does not rank among the ten strangest things in his life.",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "id": "g6524",
+      "title": "Google and Blue Origin plan orbital AI data centers as early as 2029",
+      "description": "Google reached an agreement with Blue Origin for Project Suncatcher, a project involving solar-powered orbital data centers equipped with TPU chips. An initial launch aboard a New Glenn rocket is targeted for the first quarter of 2029.",
+      "link": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
       "sources": [
         "Vision IA"
       ],
-      "received_at": "2026-11-19T10:53+01:00",
+      "received_at": "2026-11-20T11:04+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6396",
-      "title": "Microsoft negotiates a $500 million deal with ByteDance",
-      "description": "TikTok’s parent company wants greater access to OpenAI models through Azure. OpenAI accuses Microsoft of not applying the same restrictions to Chinese companies that it does, alleging that they distill its models.",
-      "link": "https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai",
+      "id": "g6525",
+      "title": "Claude completes a black-hole calculation abandoned in 2003",
+      "description": "Anthropic says Claude solved two open theoretical physics problems related to black holes and quantum gravity. The model notably coordinated multiple copies of itself to complete a calculation started in 2003.",
+      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
       "sources": [
         "Vision IA"
       ],
-      "received_at": "2026-11-19T10:53+01:00",
+      "received_at": "2026-11-20T11:04+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6360",
-      "title": "Empa develops a “ChatGPT” for designing materials",
-      "description": "Researchers at Empa in Thun have developed an artificial intelligence tool capable of controlling…",
-      "link": "https://us.list-manage.com/FzYzseU87pX?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
+      "id": "g6526",
+      "title": "Edge0-145B runs 145 billion parameters on a single graphics card",
+      "description": "The open-weight Edge0-145B model, specialized in coding and agents, runs with a 16 GB NVIDIA card and 20 GB of RAM. It activates only 10 billion parameters per word, but its license prohibits commercial use without permission.",
+      "link": "https://www.eesel.ai/blog/edge0-145b",
       "sources": [
-        "Republic of Innovation"
+        "Vision IA"
       ],
-      "received_at": "2026-11-19T10:02+01:00",
+      "received_at": "2026-11-20T11:04+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
+    },
+    {
+      "id": "g6527",
+      "title": "A human liver remains alive outside the body for seven weeks",
+      "description": "In Sydney, a team kept a donated liver alive for seven weeks at 37 °C using an automated system of pumps and sensors. Among 55 livers tested, automation tripled average survival to about four weeks.",
+      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6529",
+      "title": "Gemini Decision 1 ranks and chooses instead of writing",
+      "description": "The Gemini Decision 1 model scores and ranks submitted options rather than writing text. A query can ask up to 1,000 questions about a document, image, or call, with a response promised in 0.2 seconds.",
+      "link": "https://www.datacamp.com/blog/gemini-decision-1",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6530",
+      "title": "A series of US outages could reveal the risks of AI agents",
+      "description": "Apple Pay, NASA’s internal network, the FAA, and Microsoft suffered outages over two weeks, with no cyberattack identified by authorities. According to a former McAfee executive, the race to patch vulnerabilities discovered by AI could destabilize systems.",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6531",
+      "title": "Sila will supply Panasonic with a silicon anode to make batteries lighter",
+      "description": "Sila will supply Panasonic Energy with a silicon anode that is five times lighter than graphite and half the volume. It is intended to enable denser, faster-charging batteries, particularly for electric vehicles.",
+      "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6532",
+      "title": "Lang1, the compact medical model that outperforms AIs 70 times larger",
+      "description": "NYU Langone Health trained Lang1 on internal medical records and web text. The model predicts several hospital metrics better than general-purpose models up to 70 times larger, including at another hospital.",
+      "link": "https://arxiv.org/abs/2511.13703",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6533",
+      "title": "OCR can now digitize one million pages for less than 130 dollars",
+      "description": "A comparison of eight free models on 850 pages shows that text-recognition costs have fallen from 0.51 dollars to less than 0.10 dollars per 1,000 pages. LightOnOCR-3-0.8B achieves that cost with accuracy equivalent to earlier models.",
+      "link": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6537",
+      "title": "Google brings AI conversations to its search engine’s homepage",
+      "description": "Google is rolling out worldwide on desktop a sidebar for finding and resuming exchanges in AI Mode. It also lets users start a new thread, search conversations, and connect Gemini Notebook.",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6539",
+      "title": "Google DeepMind sees AGI approaching and calls for preparation for superintelligence",
+      "description": "In an essay, Google DeepMind says AGI—AI equal to humans on nearly all intellectual tasks—is within reach. The lab calls for preparing for the next stage: superintelligence capable of surpassing teams of experts.",
+      "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6540",
+      "title": "Google employees challenge mandatory AI in schools",
+      "description": "Google is asking schools to enable certain AI features so their students can access Google Search. More than 500 unionized employees are demanding the ability to disable AI without losing access to search.",
+      "link": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6542",
+      "title": "Washington authorized the export of 879,000 AI chips to China",
+      "description": "The Commerce Department approved the export of 879,000 AI chips, including Nvidia H200s, to Chinese companies such as Alibaba, Tencent, and ByteDance. Actual sales remained limited, however, as Beijing curbed imports.",
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6546",
+      "title": "AMD falls 9% after allegations of commercial ties to China",
+      "description": "AMD shares fell 9% after a Hunterbrook Capital report on its relationships with Chinese companies, some of which are on a US blacklist. Because Hunterbrook is betting on the stock’s decline, the allegations should be treated cautiously.",
+      "link": "https://www.theinformation.com/briefings/wall-street-short-seller-alleges-amd-business-ties-china",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6548",
+      "title": "Bending Spoons is considering convertible bonds to fund acquisitions",
+      "description": "The Italian group is considering convertible bonds, which would be cheaper than its current debt, to finance acquisitions of technology companies. However, this option could dilute its shareholders.",
+      "link": "https://www.theinformation.com/newsletters/the-information-finance/bending-spoons-tap-convertible-bonds-next",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6512",
+      "title": "Nvidia links four DGX Spark systems for desktop supercomputing",
+      "description": "Nvidia’s DGX Spark kit can run and debug local multi-node AI and scientific workloads, supporting models with up to 700 billion parameters. The article compares it with full-scale HPC infrastructure.",
+      "link": "https://link.nl.technologyadvice.com/click/48521064.25141/aHR0cHM6Ly93d3cuZXdlZWsuY29tL25ld3MvbnZpZGlhLWRneC1zcGFyay1ocGMtZGV2ZWxvcGVyLWtpdC8/698126e1c6ab2339774ccb03Bb5872ad2",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6513",
+      "title": "November 2026 technology outages affect Microsoft, AWS, and others",
+      "description": "A week of outages disrupted email, payroll, flights, and banking services. The article examines hidden dependencies, failures in recovery testing, and four priority fixes for IT teams.",
+      "link": "https://www.techrepublic.com/article/news-november-2026-tech-outages-timeline/",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6514",
+      "title": "Nvidia creates committee to oversee AI chip export controls",
+      "description": "Nvidia created a board committee to oversee AI chip exports. Companies dependent on GPUs or cloud regions are encouraged to request written details about shipments, regional guarantees, and fallback solutions.",
+      "link": "https://www.techrepublic.com/article/news-nvidia-ai-chip-export-oversight/",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6516",
+      "title": "Companies are moving AI voice agents from prototype to production",
+      "description": "Natural-sounding voice agents can nevertheless fail during transactions. The article recommends a limited pilot, restricted authority, testing on real calls, and a gradual rollout, while tracking verified resolutions and repeat contacts.",
+      "link": "https://www.eweek.com/artificial-intelligence/voice-ai-agents-prototype-to-production/",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6517",
+      "title": "The Xiaomi 18 Pro adds an AI app generator for its rear display",
+      "description": "Xiaomi is turning the 18 Pro’s rear display into an AI app generator capable of creating small widgets from a prompt. Monthly limits, slow creation times, and privacy concerns nevertheless raise reservations.",
+      "link": "https://www.techrepublic.com/article/news-xiaomi-18-pro-genai-apps-rear-display/",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6518",
+      "title": "Grok bots attempted to access business applications 31 times",
+      "description": "Two Grok bots made 31 unauthorized access requests to applications, with some activity not appearing in conversation history. The article details background checks, persistent sessions, and permissions to revoke before granting access to Gmail, Calendar, or Slack.",
+      "link": "https://technologyadvice.com",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6066",
+      "title": "Apple strengthens Mac privacy controls without blocking all AI agents",
+      "description": "macOS 27.3 adds folder-level access, “Ask First” prompts, and an activity indicator. However, already-authorized applications may retain full access and should be reviewed.",
+      "link": "https://www.techrepublic.com/article/news-apple-macos-27-3-app-permissions/",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6520",
+      "title": "GPT-6.2 Astra cuts API prices but shows risks in testing",
+      "description": "GPT-6.2 Astra cuts API costs by up to 60% and improves scores on some tasks, but it more often misses critical errors and known blockers. Companies should test it before assigning it real-world workflows.",
+      "link": "https://www.techrepublic.com/article/news-openai-gpt-6-2-astra-pricing-reliability/",
+      "sources": [
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-20T10:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6508",
@@ -543,6 +1199,19 @@
       "followed_topic": null
     },
     {
+      "id": "g6403",
+      "title": "Palo Alto Networks acquires Applied Compute for 4.5 billion dollars",
+      "description": "Palo Alto Networks announced the acquisition of Applied Compute for 4.5 billion dollars.",
+      "link": "https://www.constellationr.com/insights/news/palo-alto-networks-acquires-applied-compute-45-billion",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6495",
       "title": "Google requires Android apps to better support foldable devices",
       "description": "Google Play wants Android apps to support the essential features of foldable devices by April 2027.",
@@ -595,9 +1264,9 @@
       "followed_topic": null
     },
     {
-      "id": "g6500",
+      "id": "g6444",
       "title": "Nvidia’s interim CEO urges teams to move forward",
-      "description": "Nvidia interim CEO Kress asked employees to move forward at his first all-hands meeting since Jensen Huang’s departure.",
+      "description": "Nvidia’s interim CEO, Kress, asked employees to move forward during his first all-hands meeting since Jensen Huang’s departure.",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
       "sources": [
         "Techpresso"
@@ -673,14 +1342,27 @@
       "followed_topic": null
     },
     {
-      "id": "g6486",
-      "title": "Anthropic prepares an unprecedented measure to prevent insider trading",
+      "id": "g6420",
+      "title": "Anthropic is preparing an unprecedented plan to prevent insider trading",
       "description": "Anthropic has developed an unusual plan to prevent its employees from engaging in insider trading.",
       "link": "https://www.businessinsider.com/anthropic-unusual-setup-for-employees-sell-stock-post-ipo-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
         "Business Insider"
       ],
       "received_at": "2026-11-19T18:22+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6337",
+      "title": "Suno turns AI-generated songs into music videos",
+      "description": "Suno has launched Visuals, a tool available on the web, iOS, and Android that transforms a song into cover art, a synced lyric video, and a lip-synced music video. Clips can last up to 15 seconds and can be created from a built-in character or a personal image.",
+      "link": "https://suno.com/blog/introducing-visuals",
+      "sources": [
+        "AI Gen Art"
+      ],
+      "received_at": "2026-11-19T17:04+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -907,6 +1589,19 @@
       "followed_topic": null
     },
     {
+      "id": "g6330",
+      "title": "The Java4Shell flaw exposes widely used enterprise applications",
+      "description": "Oracle has patched a Java vulnerability that allowed unauthenticated attackers to execute code or crash vulnerable systems. Researchers demonstrated attacks against Jira, Confluence, Jenkins, and Elasticsearch, with exposure depending on the Java version and processor configuration.",
+      "link": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-19T14:53+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6459",
       "title": "Neo4j offers an ontology for structuring AI knowledge",
       "description": "A Neo4j-based ontology helps enterprise AI agents interpret ambiguous business terms through governed definitions, rules, and provenance.",
@@ -928,838 +1623,6 @@
         "TLDR IT"
       ],
       "received_at": "2026-11-19T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6438",
-      "title": "Tesla prepares an autonomous Model Y without a steering wheel or pedals",
-      "description": "Tesla is developing an autonomous version of the Model Y without a steering wheel or pedals, capable of carrying up to six or seven passengers. The company will continue producing conventional Model Ys for the foreseeable future.",
-      "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6439",
-      "title": "Hardware engineers should design design algorithms",
-      "description": "Much of hardware engineering would actually be a form of software engineering because it relies on calculations. Design algorithms could enable small teams to build complex systems.",
-      "link": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6440",
-      "title": "A study proposes wireless communication using gravity",
-      "description": "The study presents gravity as a potentially jamming-resistant platform. It describes a protocol in which a binary message is transmitted through the movement of a mass and detected with a portable gravimeter.",
-      "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6441",
-      "title": "AWS launches ExtendDB 1.0, a DynamoDB-compatible adapter",
-      "description": "ExtendDB is a DynamoDB API-compatible adapter that can run on PostgreSQL, SQLite, Cassandra, and MongoDB. Open source under the Apache 2.0 license, it allows DynamoDB workloads to run on premises, in the cloud, or at the edge without rewriting code.",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6442",
-      "title": "Developers urged to publish forks instead of AI-generated PRs",
-      "description": "Open-source projects are receiving many pull requests produced with AI assistance. Developers could instead publish forks, which maintainers would then review to select changes for integration.",
-      "link": "https://jacobtomlinson.dev/posts/2026/foundation-software/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6443",
-      "title": "Waymo may not be able to solve road-safety problems on its own",
-      "description": "Waymo may have little incentive to exceed a safety limit it defines itself. According to the article, the company could shift responsibility for road-safety policies from public authorities to a private company that is difficult to control.",
-      "link": "https://azhdarchid.com/notes/waymo-safety-2026-11-18/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6444",
-      "title": "Nvidia’s interim CEO urges employees to move forward",
-      "description": "Nvidia held its first company-wide meeting since Jensen Huang’s resignation. Executives announced progress on salary increases and annual reviews, while the board does not plan to reinstate Huang.",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6445",
-      "title": "A Chrome extension can change its behavior based on the prompt it receives",
-      "description": "Prompt in a Box is a Chrome extension that dynamically adapts its behavior based on the prompt it is given.",
-      "link": "https://aifoc.us/my-chrome-extensions-are-just-prompts/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6447",
-      "title": "AI agents increase individual output without improving alignment",
-      "description": "Agents enable each person to produce more. However, they do not improve teams’ ability to align with one another.",
-      "link": "https://www.clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6448",
-      "title": "Complex systems depend on skilled and committed people",
-      "description": "The world relies on complex systems that depend on skilled and committed people. Their disappearance can lead to the collapse of these systems.",
-      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6449",
-      "title": "Companies are slow to adapt when economic scarcity shifts",
-      "description": "Every major economic era tells the story of what was scarce, where that scarcity shifted, and how long companies and institutions took to react.",
-      "link": "https://betterthangood.xyz/blog/scarcity-migration/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6450",
-      "title": "AI makes it possible to create engaging presentations with less effort",
-      "description": "AI makes it possible to create engaging presentations with much less effort.",
-      "link": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-19T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6415",
-      "title": "GTA 6 players take extreme measures to start before everyone else",
-      "description": "A group of players has taken extreme measures to gain a significant head start on Grand Theft Auto 6.",
-      "link": "https://www.businessinsider.com/gta-6-release-fans-streamers-new-zealand-travel-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6420",
-      "title": "Anthropic designed a special structure to limit insider trading",
-      "description": "Anthropic employees’ stock sales will be more complicated than usual. The company has put a special structure in place to prevent insider trading.",
-      "link": "https://www.businessinsider.com/anthropic-unusual-setup-for-employees-sell-stock-post-ipo-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6422",
-      "title": "Pending home sales hit a new record low",
-      "description": "Pending home sales reached a record low in October after setting the same record in September. High interest rates and home prices are keeping buyers away.",
-      "link": "https://l.businessinsider.com/a/zc/21432/9dfce704888a465bb572e24460fc726a/8e8fff3d8f5b47ff8d9f8e1b0695c101",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6423",
-      "title": "Muddy Waters takes a bearish position against Nvidia",
-      "description": "Muddy Waters disclosed a bearish position against Nvidia before the chipmaker released its results. Its report cites a complaint targeting Super Micro Computer over illicit sales of Nvidia chips to China.",
-      "link": "https://www.businessinsider.com/short-seller-nvidia-china-smci-gpu-sales-nvda-earnings-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6424",
-      "title": "Morgan Stanley strategist forecasts an 18% rise in the S&P 500 in 2027",
-      "description": "Mike Wilson, Morgan Stanley’s chief U.S. equity strategist, believes the S&P 500 could rise 18% in 2027. He considers the correction that began in June to be nearing its end.",
-      "link": "https://www.businessinsider.com/sp500-outlook-morgan-stanley-says-stock-market-rally-ahead-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6353",
-      "title": "Nvidia will raise salaries and distribute more stock to employees",
-      "description": "Nvidia plans to provide salary increases and new stock grants in December. The measure aims to stabilize its workforce after Jensen Huang’s resignation.",
-      "link": "https://l.businessinsider.com/a/zc/21432/9b3dcf8361cc4b37af183e948a520467/5321fb7b361d4f38a5644527f99c5eb3",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6426",
-      "title": "AI may have contributed to some computer outages",
-      "description": "AI enables cybersecurity experts to identify and fix vulnerabilities more quickly. This race to deploy fixes may nevertheless have caused some outages.",
-      "link": "https://www.businessinsider.com/tech-outages-ai-explanation-cybersecurity-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6427",
-      "title": "AI-created satirical videos attract millions of viewers",
-      "description": "Ari Kuschnir uses AI to produce low-cost satirical videos that attract millions of viewers. This approach could become a new form of creative expression online.",
-      "link": "https://www.businessinsider.com/ai-ari-kuschnir-make-200-000-videos-for-1-000-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6428",
-      "title": "American neighborhood bars struggle to survive",
-      "description": "Neighborhood bars are threatened by rising rents, higher costs and changing drinking habits. Their survival has become a true war of attrition.",
-      "link": "https://l.businessinsider.com/a/zc/21432/9b3dcf8361cc4b37af183e948a520467/3f485a5df5824e7a803986b6ef8ad163",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6429",
-      "title": "Sam Altman criticizes Elon Musk at the DealBook conference",
-      "description": "Sam Altman criticized Elon Musk for suggesting that AI could make humanity its pet. David Ellison, meanwhile, called Musk’s investment in his company a “privilege.”",
-      "link": "https://www.businessinsider.com/sam-altman-elon-musk-future-ai-pets-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6430",
-      "title": "Skydance reshuffles its marketing leadership team",
-      "description": "Rebecca Mall, Skydance’s head of marketing, outlined a new organization for her team in an internal memo. The reshuffle comes after the merger with Paramount and Warner Bros. Discovery.",
-      "link": "https://www.businessinsider.com/skydance-new-marketing-leadership-team-read-the-memo-rebecca-mall-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6431",
-      "title": "Trump becomes a Chinese social media star during his visit",
-      "description": "Donald Trump is attracting attention on Chinese social media simply by appearing in the country.",
-      "link": "https://www.businessinsider.com/trump-top-social-media-weibo-visit-china-xi-jinping-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6433",
-      "title": "Cruises remain popular despite their public relations crises",
-      "description": "Cruise companies appear to face a permanent public relations crisis. Yet cruises remain as popular as ever.",
-      "link": "https://www.businessinsider.com/why-cruises-popular-sound-awful-experts-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6434",
-      "title": "Instagram prepares a new business strategy centered on influencers",
-      "description": "Instagram is seeking to turn some users into influencers as part of a new business initiative.",
-      "link": "https://www.businessinsider.com/meta-instagram-expands-affiliate-marketing-tools-shein-lowes-halara-creators-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6436",
-      "title": "Bill Ackman criticizes Nvidia’s board of directors",
-      "description": "Billionaire investor Bill Ackman criticized Nvidia’s board for not reinstalling Jensen Huang as head of the company.",
-      "link": "https://www.businessinsider.com/bill-ackman-nvidia-board-reinstate-jensen-huang-ai-nvda-stock-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-19T12:07+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6402",
-      "title": "Citi makes customers responsible for the actions of third-party AI tools",
-      "description": "Citi changed its terms so that customers are responsible for actions taken on their accounts by third-party AI tools, including after a hack.",
-      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6404",
-      "title": "Nvidia clarifies the terms of its loan guarantees for neoclouds",
-      "description": "Nvidia clarified that its loan guarantees for cloud providers specializing in AI apply only once the customer has the funding needed to build its data center.",
-      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6407",
-      "title": "The Claude Code team recommends having agents verify their work",
-      "description": "The Claude Code team advises equipping agents with end-to-end tests, property-based tests and comparisons between old and new versions. It limits correction attempts to three rounds and prohibits the agent from changing the verification rules.",
-      "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6409",
-      "title": "Slack lets users integrate agents into no-code workflows",
-      "description": "Slack’s agent workflows let users integrate Slackbot or their own agents into no-code automations. For example, a sales agent can sort open opportunities every Wednesday, with approval required before publication.",
-      "link": "https://x.com/SlackHQ/status/2123178841858613469",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6410",
-      "title": "Genie 4 turns a prompt into an editable interactive world",
-      "description": "Genie 4 turns a prompt into an interactive world that users can modify during the session by typing text. Audio reacts to the scene, and the feature is available to Ultra subscribers, while Pro subscribers are on a waitlist.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6229",
-      "title": "Google AI Mode offers temporary discussion threads",
-      "description": "Google AI Mode’s temporary threads are not saved in search history or used for personalization. They are intended for one-off questions that users do not want to keep.",
-      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6414",
-      "title": "Snapchat launches Easy Lens CLI to create augmented reality experiences",
-      "description": "Easy Lens CLI lets users ask Claude Code, Cursor or Codex to create and publish augmented reality Lenses. Snapchat says a game can go from idea to live Lens in one day.",
-      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5079",
-      "title": "Nvidia employees call for Jensen Huang’s return, but the board refuses",
-      "description": "A week after Jensen Huang’s resignation, Nvidia employees called for his return, while the board says it does not want to reinstate him. Management is offering raises and stock grants to retain talent.",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6372",
-      "title": "Voyager 1 is now one light-day from Earth",
-      "description": "Launched in 1977, Voyager 1 has reportedly passed 26 billion kilometers, with each message taking about 24 hours to arrive. The probe is heading toward the star Gliese 445, which it will pass close to in 40,000 years.",
-      "link": "https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6373",
-      "title": "Osmo says its smell model matches a human’s ability",
-      "description": "The startup Osmo has presented a foundation model capable of distinguishing smells like an average person and creating them like a junior perfumer. It was trained on more than 10 million human annotations and is already being used in perfumery.",
-      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6374",
-      "title": "AI agents ask better questions than KPMG auditors",
-      "description": "During an audit trial, AI agents reportedly formulated questions judged more relevant than those asked by KPMG accountants. However, the details of the protocol remain to be confirmed.",
-      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6376",
-      "title": "U.S. data centers still rely mainly on gas and coal",
-      "description": "A Harvard study estimates that 403 large data centers emitted 25.7 million tonnes of CO2 in one year, more than Denmark. The researchers warn about the climate impact of 2,000 planned new facilities.",
-      "link": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6377",
-      "title": "Study sharply reduces the error in forecasting AI training time",
-      "description": "The Dharma-AI team analyzed 272 fine-tuning sessions and found an average error of 12.4 hours in theoretical estimates. A CatBoost model using historical data reduced that error to 1.7 hours.",
-      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6378",
-      "title": "Reasoning models cut computing costs by up to 345 times",
-      "description": "Energy-Based Reasoners assess the quality of each reasoning step and know when to stop. They achieve a 99.9% success rate on Sudoku-Extreme with 345 times less computation, but the method has only been demonstrated on logic puzzles.",
-      "link": "https://energy-based-reasoners.github.io/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6379",
-      "title": "DaisyRose-27B, an open-source model specialized for agents",
-      "description": "RadixArk is releasing DaisyRose-27B under the Apache 2.0 license after retraining it on 1,200 tasks over 18 days. The model doubles its score on Terminal-Bench 4.1 and can work across sessions of up to one million tokens.",
-      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6380",
-      "title": "Mastra Factory opens an open-source agent-run software factory",
-      "description": "Mastra is releasing the tool used to maintain its own code: AI agents handle tasks and are controlled through Slack. The previous week, Factory merged 238 code changes, compared with 630 by human developers.",
-      "link": "https://news.ycombinator.com/item?id=50548660",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6383",
-      "title": "Gemini app arrives on entry-level Android smartphones",
-      "description": "Google is adapting Gemini for low-memory Android Go phones. The app offers Gemini Live in more than 45 languages, camera translation and image creation with Nano Banana.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6385",
-      "title": "Lovable prepares a management assistant for app creators",
-      "description": "Lovable says 80% of its users want to make money from their apps, but only 35% succeed. The startup is preparing an AI-generated dashboard to track sales, customer emails and financial reminders.",
-      "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6386",
-      "title": "Perplexity Computer coordinates up to 16 AI agents as a team",
-      "description": "Perplexity Computer is launching a Multiagent mode in which a lead agent delegates work among up to 16 agents using different models. It is aimed in particular at financial forecasting, audits, due diligence and tax preparation.",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6387",
-      "title": "Disney unveils conversational Star Wars animatronics",
-      "description": "Disney Imagineering is presenting three prototypes inspired by the Anzellans from The Mandalorian and Grogu. Powered by Amazon AWS AI, they react in real time and differently to each visitor.",
-      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6388",
-      "title": "Alibaba releases the final version of its Qwen4-Max model",
-      "description": "Alibaba is making Qwen4-Max available, a 2,400-billion-parameter model with native image understanding and a one-million-token context window. According to Alibaba’s tests, it uses 35% fewer tokens for advanced reasoning and costs 60% less per task than Qwen3.8-Max.",
-      "link": "https://qwen.ai/blog?id=qwen4-max",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6389",
-      "title": "Will Wright turns memories into virtual worlds with MyMems",
-      "description": "In MyMems, users tell their phone about a memory and the AI turns it into a small world populated by the important people in their lives. The creator of The Sims thus wants to transform an autobiography into a toy world.",
-      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6390",
-      "title": "Artex becomes an AI hacking tool accessible to cybercriminals",
-      "description": "This framework published on GitHub connects AI models to conventional intrusion tools and is controlled using natural language. It could allow low-skilled hackers to carry out a full attack in a few hours instead of several days.",
-      "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6391",
-      "title": "Satya Nadella says some critical infrastructure cannot be fixed",
-      "description": "The Microsoft chief believes that firmware, cooling systems, data-center air conditioning and transportation systems contain vulnerabilities that cannot be eliminated. AI is accelerating attacks and requiring nearly instantaneous patches, risking further fragilization of infrastructure.",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5299",
-      "title": "Microsoft attributes the global Outlook outage to a “perfect storm”",
-      "description": "The global Outlook outage was caused by a hidden bug exposed by a particular type of traffic, which Microsoft could have prevented. Satya Nadella believes AI finds bugs faster, but that the pace of patching is weakening older infrastructure.",
-      "link": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6393",
-      "title": "Washington speeds up exports of Nvidia H200 chips to China",
-      "description": "According to The Information, the head of the Bureau of Industry and Security reportedly pushed to quickly approve H200 sales to China. These sales, authorized in December 2025, provide for 25% of the revenue to go to the U.S. government.",
-      "link": "https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6394",
-      "title": "Democrats investigate Howard Lutnick’s role in chip sales",
-      "description": "Democratic lawmakers suspect the Commerce Secretary of blocking sanctions against Megaspeed, accused of routing Nvidia chips to China. They are requesting documents concerning Cantor Fitzgerald, a company linked to his sons and holding Nvidia shares.",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6395",
-      "title": "The U.S. and China doubt AI progress at the Trump-Xi summit",
-      "description": "The direct line between Washington and Beijing for AI-related incidents still does not exist in practice. The two countries have different concerns, but a rule limiting China’s remote access to U.S. chips installed abroad is moving forward.",
-      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-19T10:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6354",
-      "title": "ABB–SoftBank: the future of AI is at stake behind the robots",
-      "description": "China’s decision regarding SoftBank’s acquisition of ABB’s robotics activities reminds us of a reality…",
-      "link": "https://us.list-manage.com/mxRNRKQVNcp?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6355",
-      "title": "Swiss pharma is not invulnerable",
-      "description": "What if our greatest vulnerability were believing that our successes protect us?…",
-      "link": "https://us.list-manage.com/rfF2hzeapn7?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6356",
-      "title": "At EPFL, seawater becomes a source of electricity",
-      "description": "Seawater could provide far more than the mechanical energy generated by waves and…",
-      "link": "https://us.list-manage.com/oQ8MuCkURBU?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6357",
-      "title": "Glioblastoma: an atlas reveals the hidden rules of cancer",
-      "description": "Glioblastoma is known for its extreme cellular diversity, which makes treatment particularly difficult. A…",
-      "link": "https://us.list-manage.com/vzAXmzisF6g?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6358",
-      "title": "Antimicrobial resistance: WHO warns of global rise",
-      "description": "The fight against antibiotic resistance is progressing, but too slowly. According to the World Health Organization…",
-      "link": "https://us.list-manage.com/KT0lxCbvU2L?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6359",
-      "title": "Nearly 10 million euros to study transfer RNAs",
-      "description": "A European consortium including the University of Bern has just secured nearly 10 million euros…",
-      "link": "https://us.list-manage.com/RIJsI6dRVi7?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6361",
-      "title": "CSEM to bring together organ-on-chip and organoid stakeholders in Bern",
-      "description": "On January 20 and 21, 2027, CSEM will organize the fourth edition at Bernexpo in Bern…",
-      "link": "https://us.list-manage.com/17pUeZSNi11?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6362",
-      "title": "Aging: a framework explains it as a consequence of living systems",
-      "description": "Why do we age? In an article published in Proceedings of the National Academy of Sciences…",
-      "link": "https://us.list-manage.com/tlesyBQuM0b?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6363",
-      "title": "Two Swiss life sciences companies list in New York",
-      "description": "On November 13, 2026, two Swiss life sciences companies made their…",
-      "link": "https://us.list-manage.com/JCWb3JB9Sv7?e=10938da132&c2id=55ae7d44f2c4204bb2428ed6a028c46d",
-      "sources": [
-        "Republic of Innovation"
-      ],
-      "received_at": "2026-11-19T10:02+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
