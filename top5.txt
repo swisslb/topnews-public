@@ -1,30 +1,40 @@
-# Top 5 news of the day — 2026-11-19
+# Top 5 news of the day — 2026-11-20
 
-Period: 2026-11-18T19:25+01:00 → 2026-11-19T19:25+01:00 · 115 news received
+Period: 2026-11-19T06:25+01:00 → 2026-11-20T06:25+01:00 · 134 news received
 
-## 1. Anthropic jumps 34% in its IPO debut
+## 1. Google launches Gemini 4 Neon, a faster AI model
 
-**Why it matters:** Anthropic’s IPO debut, with shares surging 34% and valuation exceeding $2 trillion, signals that public markets are strongly validating—and potentially amplifying—the AI investment boom.
+**Why it matters:** Google’s Gemini 4 Neon launch, covered by five newsletters, intensifies competition at the frontier of AI models and could shift enterprise developer and consumer demand.
 
-Anthropic shares jumped 34% in their first trading session, pushing the AI company’s valuation above $2 trillion.
+Google has launched Gemini 4 Neon on its paid API, Gemini app, and developer tools. The company says it is three times faster than Gemini 4 Carbon and outperforms Claude Sonnet 5.5 and GPT-6.2 Sol on a reasoning benchmark.
 
-- Link: https://l.businessinsider.com/a/zc/21432/4793556fe3e940cfac9a71642c62e049/407429845914484dbf1e0db8a0995144
-- Sources: Business Insider, TLDR
-- Received: 2026-11-19T18:22+01:00
+- Link: https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices
+- Sources: Techpresso, Superhuman, TLDR, The Neuron, Vision IA
+- Received: 2026-11-19T18:52+01:00
 
-## 2. Google launches Gemini 4 Neon, its new flagship model
+## 2. Anthropic carries out the largest IPO in history
 
-**Why it matters:** Google’s Gemini 4 Neon strengthens the competitive frontier-model race and gives enterprises and developers another high-performing option across Google’s rapidly expanding AI ecosystem.
+**Why it matters:** Anthropic’s record $81.3 billion IPO and $1.5 trillion valuation make AI’s capital intensity and path to profitability a defining issue for public markets.
 
-Google has launched Gemini 4 Neon, a model positioned between Carbon, its most powerful model, and Hydrogen, its faster and cheaper option. Neon ranks third on the Artificial Analysis Intelligence Index and is available in AI Studio, the Gemini API, Antigravity, and the Gemini app for paying Pro and Ultra subscribers.
+Anthropic began trading on the Nasdaq after raising $81.3 billion, surpassing the record set by SpaceX. The company is valued at $1.5 trillion despite reporting losses of $104 billion over nine months.
 
-- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
-- Sources: Superhuman, TLDR, The Neuron, Vision IA
-- Received: 2026-11-19T15:09+01:00
+- Link: https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo
+- Sources: Techpresso, Business Insider, TLDR
+- Received: 2026-11-19T18:52+01:00
 
-## 3. The Java4Shell flaw exposes widely used enterprise applications
+## 3. TSMC and Samsung suspend some chip shipments to China
 
-**Why it matters:** The Java4Shell vulnerability threatens widely used enterprise systems such as Jira, Confluence, Jenkins, and Elasticsearch, making immediate exposure assessment and patching a priority.
+**Why it matters:** TSMC and Samsung halting some chip shipments to China shows that tightening U.S. export controls are disrupting global semiconductor supply beyond AI-specific products.
+
+TSMC and Samsung have stopped shipping certain chips to Chinese customers after new US rules requiring licenses took effect. The measures also affect chips intended for non-AI uses, including smartphones.
+
+- Link: https://www.firstpost.com/tech/tsmc-and-samsung-halt-chip-shipments-to-china-following-new-us-export-curbs-report-14061331.html
+- Sources: Techpresso
+- Received: 2026-11-19T18:52+01:00
+
+## 4. The Java4Shell flaw exposes widely used enterprise applications
+
+**Why it matters:** The Java4Shell vulnerability creates immediate enterprise security risk because attackers can remotely compromise widely used platforms including Jira, Confluence, Jenkins, and Elasticsearch.
 
 Oracle has patched a Java vulnerability that allowed unauthenticated attackers to execute code or crash vulnerable systems. Researchers demonstrated attacks against Jira, Confluence, Jenkins, and Elasticsearch, with exposure depending on the Java version and processor configuration.
 
@@ -32,22 +42,12 @@ Oracle has patched a Java vulnerability that allowed unauthenticated attackers t
 - Sources: TLDR IT, Vision IA
 - Received: 2026-11-19T14:53+01:00
 
-## 4. OpenAI says its models improved AMD chip designs by 14%
+## 5. Data center electricity consumption could double by 2030
 
-**Why it matters:** OpenAI’s reported 14% improvement to AMD chip designs suggests AI-assisted hardware engineering is becoming commercially useful and could reshape competition in the semiconductor supply chain.
+**Why it matters:** The IEA’s projection that data-center electricity consumption will double by 2030 highlights a major constraint for AI expansion, with implications for utilities, emissions, and infrastructure investment.
 
-OpenAI says its models improved the power, performance and area of AMD chip designs by up to 14%. AMD incorporated some of the changes into a design sent for manufacturing.
+According to the International Energy Agency, data centers will consume twice as much electricity in 2030, with AI accounting for three-quarters of the increase. The sector’s carbon emissions could rise by 70% in four years.
 
-- Link: https://openai.com/index/advancing-chip-design-with-our-models/
-- Sources: The Neuron, Vision IA
-- Received: 2026-11-19T11:46+01:00
-
-## 5. Washington speeds up exports of Nvidia H200 chips to China
-
-**Why it matters:** The reported acceleration of Nvidia H200 exports to China, with the U.S. taking 25% of sales revenue, could materially affect chip markets, U.S.-China technology policy, and Nvidia’s growth.
-
-According to The Information, the head of the Bureau of Industry and Security reportedly pushed to quickly approve H200 sales to China. These sales, authorized in December 2025, provide for 25% of the revenue to go to the U.S. government.
-
-- Link: https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china
-- Sources: Vision IA
-- Received: 2026-11-19T10:53+01:00
+- Link: https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns
+- Sources: Techpresso
+- Received: 2026-11-19T18:52+01:00
