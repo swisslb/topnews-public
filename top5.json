@@ -1,24 +1,25 @@
 {
   "date": "2026-11-20",
-  "news_count": 124,
+  "news_count": 137,
   "top5": [
     {
       "rank": 1,
       "id": "g6437",
-      "title": "Anthropic’s IPO reaches record highs",
-      "description": "Anthropic’s stock jumped 34% at the open before ending the day up 17%. The company raised 81 billion dollars in its IPO, bringing the total raised to 107.3 billion with its private placement.",
-      "link": "https://l.businessinsider.com/a/zc/21432/ca504594ce6f40d5876a398ab88d2c42/08f0504d822f47b4a826875ab527eac9",
+      "title": "Anthropic makes a record debut on Nasdaq",
+      "description": "Anthropic began trading on Nasdaq on November 19 under the symbol ANT, after setting its IPO price at $83 per share. The company sold 980 million shares for approximately $81.3 billion and must now answer to both its shareholders and its users.",
+      "link": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
       "sources": [
+        "AI Gen Art",
+        "Superhuman",
         "Business Insider",
         "The Neuron",
-        "Vision IA",
-        "Techpresso"
+        "Vision IA"
       ],
-      "received_at": "2026-11-20T12:24+01:00",
-      "covered_by": 4,
+      "received_at": "2026-11-20T17:04+01:00",
+      "covered_by": 5,
       "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers",
-      "why": "Anthropic’s record IPO puts a major market valuation on the AI boom and could reset expectations for the financing and profitability of frontier-model companies."
+      "followed_topic": null,
+      "why": "Anthropic’s record Nasdaq debut marks a major validation of AI’s capital market story while imposing new pressure to deliver sustainable growth and profitability."
     },
     {
       "rank": 2,
@@ -33,58 +34,57 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "New U.S. restrictions on AI-chip exports to foreign data centers materially tighten access to computing capacity and raise compliance risks for global cloud and semiconductor companies."
+      "why": "The U.S. restriction on advanced AI-chip exports to foreign data centers broadens technology controls and could reshape global cloud capacity, supply chains and China’s access to AI computing."
     },
     {
       "rank": 3,
-      "id": "g6491",
-      "title": "Data center electricity consumption could double by 2030",
-      "description": "According to the International Energy Agency, data centers will consume twice as much electricity in 2030, with AI accounting for three-quarters of the increase. The sector’s carbon emissions could rise by 70% in four years.",
-      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "id": "g6403",
+      "title": "Palo Alto Networks acquires Applied Compute for $4.5 billion",
+      "description": "Palo Alto Networks will acquire Applied Compute for $4.5 billion in stock to add tools for training and deploying customized open-weight AI models. The transaction is expected to close in fiscal Q3 2027.",
+      "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
       "sources": [
-        "Techpresso"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-19T18:52+01:00",
+      "received_at": "2026-11-20T14:53+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The projected doubling of data-center electricity demand by 2030 makes power availability, grid investment, and carbon costs central constraints on AI expansion."
+      "why": "Palo Alto Networks’ $4.5 billion acquisition of Applied Compute signals that cybersecurity companies are making large bets on customized open-weight models and AI infrastructure."
     },
     {
       "rank": 4,
-      "id": "g6367",
-      "title": "Google launches Gemini 4 Neon, a faster AI model",
-      "description": "Google launched Gemini 4 Neon on its paid API, Gemini app, and development tools. The company says it is three times faster than Gemini 4 Carbon and outperforms Claude Sonnet 5.5 and GPT-6.2 Sol on a reasoning benchmark.",
-      "link": "https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices",
+      "id": "g6626",
+      "title": "Microsoft launches a service to control AI agent behavior",
+      "description": "Microsoft introduced Agent Controls, an Azure service designed to centrally define, manage and evaluate policies governing AI agent behavior. It provides runtime governance for heterogeneous agent fleets using classifiers, LLM judges and Rego rules.",
+      "link": "https://commandline.microsoft.com/introducing-agent-controls-an-enterprise-control-plane-for-agent-behavior/",
       "sources": [
-        "Techpresso",
-        "Superhuman"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-19T18:52+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Google’s launch of Gemini 4 Neon intensifies competition among frontier-model providers and signals continued pressure on performance, speed, and API pricing."
-    },
-    {
-      "rank": 5,
-      "id": "g6503",
-      "title": "Microsoft’s official Python framework for agents hijacked to spread malware",
-      "description": "Microsoft’s official Python framework for agents was compromised to distribute malicious software.",
-      "link": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-19T18:52+01:00",
+      "received_at": "2026-11-20T14:53+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The compromise of Microsoft’s official agent framework to distribute malware highlights a serious new supply-chain risk as enterprises rapidly adopt AI-agent software."
+      "why": "Microsoft’s Agent Controls gives enterprises centralized policy, evaluation and runtime governance for heterogeneous AI agents, addressing a key barrier to large-scale deployment."
+    },
+    {
+      "rank": 5,
+      "id": "g6603",
+      "title": "Apple is developing an autonomous AI agent to control devices and applications",
+      "description": "Apple is developing an autonomous AI agent capable of writing code, browsing the web, controlling applications, and operating devices. It will be able to plan and execute complex tasks across applications, browsers, command lines, code, and APIs.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-20T13:06+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Apple’s development of an autonomous agent that can operate apps, devices, code and web workflows shows that agentic computing is becoming a core battleground for platform companies."
     }
   ],
   "period": {
-    "from": "2026-11-19T13:25+01:00",
-    "to": "2026-11-20T13:25+01:00"
+    "from": "2026-11-19T19:25+01:00",
+    "to": "2026-11-20T19:25+01:00"
   },
-  "generated_at": "2026-11-20T13:25+01:00"
+  "generated_at": "2026-11-20T19:25+01:00"
 }
