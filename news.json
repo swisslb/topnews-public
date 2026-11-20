@@ -1,31 +1,62 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "period": {
-    "from": "2026-11-18T19:25+01:00",
-    "to": "2026-11-19T19:25+01:00"
+    "from": "2026-11-19T06:25+01:00",
+    "to": "2026-11-20T06:25+01:00"
   },
-  "news_count": 115,
+  "news_count": 134,
   "news": [
     {
       "id": "g6367",
-      "title": "Google launches Gemini 4 Neon, its new flagship model",
-      "description": "Google has launched Gemini 4 Neon, a model positioned between Carbon, its most powerful model, and Hydrogen, its faster and cheaper option. Neon ranks third on the Artificial Analysis Intelligence Index and is available in AI Studio, the Gemini API, Antigravity and the Gemini app for paid Pro and Ultra subscribers.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Google launches Gemini 4 Neon, a faster AI model",
+      "description": "Google launched Gemini 4 Neon on its paid API, Gemini app, and development tools. The company says it is three times faster than Gemini 4 Carbon and outperforms Claude Sonnet 5.5 and GPT-6.2 Sol on a reasoning benchmark.",
+      "link": "https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices",
       "sources": [
+        "Techpresso",
         "Superhuman",
         "TLDR",
         "The Neuron",
         "Vision IA"
       ],
-      "received_at": "2026-11-19T15:09+01:00",
-      "covered_by": 4,
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 5,
       "favorite": false,
       "followed_topic": null
     },
     {
+      "id": "g6437",
+      "title": "Anthropic carries out the largest IPO in history",
+      "description": "Anthropic began trading on Nasdaq after raising 81.3 billion dollars, surpassing the record set by SpaceX. The company is valued at 1,500 billion dollars despite losses of 104 billion over nine months.",
+      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "sources": [
+        "Techpresso",
+        "Business Insider",
+        "TLDR"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g6375",
+      "title": "OpenAI says its AI improved AMD GPU design by 14%",
+      "description": "OpenAI says its artificial intelligence produced a 14% improvement in the design of AMD’s flagship GPU.",
+      "link": "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent",
+      "sources": [
+        "Techpresso",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
       "id": "g6411",
       "title": "ChatGPT rolls out real-time voice dictation",
-      "description": "ChatGPT dictation now converts speech to text as the user speaks, instead of waiting for the recording to end. The feature is available on all plans, on iOS, Android, the web and desktop.",
+      "description": "ChatGPT dictation now converts speech to text as the user speaks, instead of waiting until the recording ends. The feature is available on all plans across iOS, Android, the web, and desktop.",
       "link": "https://archive.superhuman.ai/2123114715257946334",
       "sources": [
         "Superhuman",
@@ -39,7 +70,7 @@
     {
       "id": "g6408",
       "title": "OpenAI launches ChatGPT for Accounting for accounting workflows",
-      "description": "OpenAI has launched ChatGPT for Accounting, a plugin that connects to popular accounting tools to manage billing, monthly closes and other processes.",
+      "description": "OpenAI has launched ChatGPT for Accounting, a plugin that connects to popular accounting tools to handle billing, month-end closes, and other processes.",
       "link": "https://openai.com/business/solutions/accounting/",
       "sources": [
         "Superhuman",
@@ -65,37 +96,62 @@
       "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
-      "id": "g6375",
-      "title": "OpenAI says its models improved AMD chip designs by 14%",
-      "description": "OpenAI says its models improved the power, performance and area of AMD chip designs by up to 14%. AMD incorporated some of the changes into a design sent for manufacturing.",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "id": "g6492",
+      "title": "UK court refuses to keep Apple backdoor request secret",
+      "description": "A UK court overturned the government’s request to keep secret an order requiring Apple to provide access to encrypted iPhone data. Apple refuses to create a backdoor and has disabled Advanced Data Protection for UK users.",
+      "link": "https://appleinsider.com/articles/26/11/19/uk-cant-hide-that-it-tried-ordering-apple-to-allow-access-to-user-data",
       "sources": [
-        "The Neuron",
-        "Vision IA"
+        "Techpresso"
       ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": "Produits high-tech grand public"
     },
     {
-      "id": "g6437",
-      "title": "Anthropic surges 34% in its IPO debut",
-      "description": "Anthropic shares surged 34% in their first trading session, pushing the AI company's valuation above $2 trillion.",
-      "link": "https://l.businessinsider.com/a/zc/21432/4793556fe3e940cfac9a71642c62e049/407429845914484dbf1e0db8a0995144",
+      "id": "g6403",
+      "title": "Palo Alto Networks acquires Applied Compute for 4.5 billion dollars",
+      "description": "Palo Alto Networks announced the acquisition of Applied Compute for 4.5 billion dollars.",
+      "link": "https://www.constellationr.com/insights/news/palo-alto-networks-acquires-applied-compute-45-billion",
       "sources": [
-        "Business Insider",
-        "TLDR"
+        "Techpresso",
+        "The Neuron"
       ],
-      "received_at": "2026-11-19T18:22+01:00",
+      "received_at": "2026-11-19T18:52+01:00",
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
     {
+      "id": "g6498",
+      "title": "Canva will allow most of its generative AI features to be disabled",
+      "description": "Canva will allow users to disable most of its generative AI features.",
+      "link": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6505",
+      "title": "Tesla preparing a Model Y without a steering wheel, according to Elon Musk",
+      "description": "Elon Musk announced the arrival of a Tesla Model Y without a steering wheel.",
+      "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Véhicules électriques et Tesla"
+    },
+    {
       "id": "g6484",
-      "title": "Founders and executives who could get richer from Anthropic's IPO",
-      "description": "The article profiles the co-founders, executives and companies likely to become significantly wealthier through Anthropic's IPO.",
+      "title": "Founders and executives who could get richer from Anthropic’s IPO",
+      "description": "The article highlights the co-founders, executives, and companies that could become significantly wealthier through Anthropic’s IPO.",
       "link": "https://www.businessinsider.com/anthropic-ipo-winners-amazon-google-founders-investors-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
         "Business Insider"
@@ -108,7 +164,7 @@
     {
       "id": "g6485",
       "title": "Experts assess whether to invest in the AI boom",
-      "description": "Five investment professionals share their views on Anthropic's IPO and whether to buy during the AI boom or be wary of the hype.",
+      "description": "Five investment professionals share their views on Anthropic’s IPO and whether to buy during the AI boom or be wary of the hype.",
       "link": "https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
         "Business Insider"
@@ -121,7 +177,7 @@
     {
       "id": "g6337",
       "title": "Suno turns AI-generated songs into music videos",
-      "description": "Suno has launched Visuals, a tool available on the web, iOS and Android that turns a song into cover art, a synchronized lyric video and a lip-synced video. Clips can be up to 15 seconds long and can be created from a built-in character or a personal image.",
+      "description": "Suno has launched Visuals, a tool available on the web, iOS, and Android that transforms a song into cover art, a synced lyric video, and a lip-synced music video. Clips can last up to 15 seconds and can be created from a built-in character or a personal image.",
       "link": "https://suno.com/blog/introducing-visuals",
       "sources": [
         "AI Gen Art",
@@ -134,8 +190,8 @@
     },
     {
       "id": "g6214",
-      "title": "OpenAI launches GPT-6.2 Astra and Sol, met with mixed reviews",
-      "description": "OpenAI has launched GPT-6.2 Astra and Sol, two models aimed in part at professional work. Astra ranks second on the Artificial Analysis Intelligence Index, but early testers criticized its performance, and Sol's coding has regressed compared with GPT-6.1.",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol to mixed reviews",
+      "description": "OpenAI has launched GPT-6.2 Astra and Sol, two models intended in part for professional work. Astra ranks second on the Artificial Analysis Intelligence Index, but early testers criticized its performance, and Sol’s coding has regressed compared with GPT-6.1.",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "sources": [
         "AI Gen Art"
@@ -148,7 +204,7 @@
     {
       "id": "g6215",
       "title": "Google makes Gemini Tasks free in more countries",
-      "description": "Google has made Gemini Tasks free in more countries. The feature allows Gemini to run background projects involving tasks across multiple applications.",
+      "description": "Google has made Gemini Tasks free in more countries. The feature allows Gemini to run task-based projects in the background across multiple applications.",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "sources": [
         "AI Gen Art",
@@ -175,7 +231,7 @@
     {
       "id": "g6465",
       "title": "ChatGPT Images can turn a photo into an animated reaction GIF",
-      "description": "A new ChatGPT Images feature can convert a prompt or image into a looping animated GIF. The tutorial recommends uploading a clear photo, specifying the animation steps and regenerating the image if the face or loop drifts.",
+      "description": "A new ChatGPT Images feature can convert a prompt or image into a looping animated GIF. The tutorial recommends uploading a clear photo, specifying the animation steps, and regenerating the image if the face or loop drifts.",
       "link": "https://archive.superhuman.ai/2118124944928432327",
       "sources": [
         "Superhuman"
@@ -187,7 +243,7 @@
     },
     {
       "id": "g6468",
-      "title": "A list catalogs 103 ways to use artificial intelligence",
+      "title": "A list catalogs 103 ways to use AI",
       "description": "Alex Lieberman, co-founder of Morning Brew, has published a list of 103 AI use cases, most of which were impossible just a year ago.",
       "link": "https://archive.superhuman.ai/2122832668815478986",
       "sources": [
@@ -201,7 +257,7 @@
     {
       "id": "g6330",
       "title": "The Java4Shell flaw exposes widely used enterprise applications",
-      "description": "Oracle has patched a Java vulnerability that allowed unauthenticated attackers to execute code or crash vulnerable systems. Researchers demonstrated attacks against Jira, Confluence, Jenkins and Elasticsearch, with exposure depending on the Java version and processor configuration.",
+      "description": "Oracle has patched a Java vulnerability that allowed unauthenticated attackers to execute code or crash vulnerable systems. Researchers demonstrated attacks against Jira, Confluence, Jenkins, and Elasticsearch, with exposure depending on the Java version and processor configuration.",
       "link": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661",
       "sources": [
         "TLDR IT",
@@ -396,8 +452,229 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g6508",
+      "title": "How to configure Claude Projects like a pro",
+      "description": "This guide explains how to create dedicated workspaces, set custom instructions, and import reference files into Claude Projects. It also shows how to start conversations within a project and avoid mixing contexts.",
+      "link": "https://aicentral.tradepub.com/c/pubRD.mpl/?sr=sr&_t=sr:alg&qf=w_aice256",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-19T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6509",
+      "title": "Claude Cowork: setup guide",
+      "description": "This guide covers setting up Claude Cowork.",
+      "link": "https://aicentral.tradepub.com/c/pubRD.mpl/?sr=sr&_t=sr:alg&qf=w_aice229",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-19T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6510",
+      "title": "Guide to making Claude ten times smarter",
+      "description": "This guide explains how to configure Claude to make it “10x” smarter.",
+      "link": "https://aicentral.tradepub.com/c/pubRD.mpl/?sr=sr&_t=sr:alg&qf=w_aice227",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-19T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6511",
+      "title": "Seven Claude features professionals still use",
+      "description": "This article presents seven Claude features that professionals never overlook.",
+      "link": "https://link.mail.beehiiv.com/v2/c/352a280fd4bde934b3ea4b95d3c985cf6079ca717a0425ab83a9004a529c33bb445c3f93808b46d62bfcd42517237fbd02c6d7bf8ea55bc40fd38adcac649f7d68c986c727ba842803e746a67d939b1ccc9306e3d4423dfac1fa673d9ef47d1b701c5e5ef48b884703c067a8dbd4d7b799c413a3ba74fabcdaa65cf8da79c4af5d46b29cfaaa6ee0e6db51c331c0150f3da7710ed25402893b57e4cb134457af/e6ab934e501777d1",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-19T19:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6489",
+      "title": "AI-discovered security fixes may have caused US outages",
+      "description": "Wall Street executives and the NSA told Congress that several US technology outages may have resulted from emergency patches deployed to fix vulnerabilities detected by AI models. These updates reportedly briefly overloaded some systems.",
+      "link": "https://siliconangle.com/2026/11/18/recent-spate-of-outages-attributed-to-technical-issues-amid-accelerated-ai-bug-discovery/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6491",
+      "title": "Data center electricity consumption could double by 2030",
+      "description": "According to the International Energy Agency, data centers will consume twice as much electricity in 2030, with AI accounting for three-quarters of the increase. The sector’s carbon emissions could rise by 70% in four years.",
+      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6493",
+      "title": "TSMC and Samsung suspend some chip shipments to China",
+      "description": "TSMC and Samsung stopped shipping certain chips to Chinese customers after new US rules required licenses. The measures also affect chips intended for non-AI uses, including smartphones.",
+      "link": "https://www.firstpost.com/tech/tsmc-and-samsung-halt-chip-shipments-to-china-following-new-us-export-curbs-report-14061331.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6495",
+      "title": "Google requires Android apps to better support foldable devices",
+      "description": "Google Play wants Android apps to support the essential features of foldable devices by April 2027.",
+      "link": "https://9to5google.com/2026/11/18/android-foldable-apps-google-play/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6496",
+      "title": "Snapchat enables AR Lens creation with AI assistants",
+      "description": "Snapchat now allows developers to create augmented reality Lenses with AI assistants such as Claude Code and Cursor.",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6497",
+      "title": "Intel signs its first external customer for its advanced 18A chips",
+      "description": "Intel signed its first external customer for chips manufactured using its advanced 18A process.",
+      "link": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6499",
+      "title": "The Accelerationists seek to prevent Anthropic from continuing operations",
+      "description": "The Accelerationists are seeking to prevent Anthropic from continuing its operations.",
+      "link": "https://gizmodo.com/the-accelerationists-are-trying-to-stop-anthropic-2000841831",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6500",
+      "title": "Nvidia’s interim CEO urges teams to move forward",
+      "description": "Nvidia interim CEO Kress asked employees to move forward at his first all-hands meeting since Jensen Huang’s departure.",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6501",
+      "title": "Banks warn that customers using AI agents will bear the risks",
+      "description": "Several banks say that customers using AI agents could be liable for losses, even in the event of a hack.",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6502",
+      "title": "US justice officials accuse Russian national of spying on Palantir employees",
+      "description": "The US Department of Justice accuses a Russian national of spying on and harassing Palantir employees.",
+      "link": "https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6503",
+      "title": "Microsoft’s official Python framework for agents hijacked to spread malware",
+      "description": "Microsoft’s official Python framework for agents was compromised to distribute malicious software.",
+      "link": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6504",
+      "title": "Satya Nadella explains why Microsoft asked 60,000 employees to leave",
+      "description": "Microsoft CEO Satya Nadella explained why he had asked 60,000 employees to leave the company.",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6506",
+      "title": "Moonshot abandons a 150 million dollar Nvidia rental in Indonesia",
+      "description": "Moonshot abandoned a 150 million dollar Nvidia server rental in Indonesia, days after the US tightened its rules.",
+      "link": "https://www.cryptopolitan.com/moonshot-drops-indonesia-nvidia-deal/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-19T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6486",
-      "title": "Anthropic devises an unusual plan to prevent insider trading",
+      "title": "Anthropic prepares an unprecedented measure to prevent insider trading",
       "description": "Anthropic has developed an unusual plan to prevent its employees from engaging in insider trading.",
       "link": "https://www.businessinsider.com/anthropic-unusual-setup-for-employees-sell-stock-post-ipo-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
@@ -410,8 +687,8 @@
     },
     {
       "id": "g6478",
-      "title": "Microsoft unveils MAI Image 2.7, a cheaper image-editing model",
-      "description": "Microsoft has unveiled MAI Image 2.7 and its Flash version, saying the main model ranks first on Artificial Analysis for image editing. Microsoft says it delivers results comparable to GPT Image 2.6 Sunburst at one-fifth the price, while the Flash version targets high-volume processing.",
+      "title": "Microsoft introduces MAI Image 2.7, a cheaper image-editing model",
+      "description": "Microsoft has introduced MAI Image 2.7 and its Flash version, saying the main model ranks first on Artificial Analysis for image editing. Microsoft says it delivers results comparable to GPT Image 2.6 Sunburst at one-fifth the price, while the Flash version targets high-volume processing.",
       "link": "https://microsoft.ai/news/introducing-mai-image-2-7/",
       "sources": [
         "AI Gen Art"
@@ -423,8 +700,8 @@
     },
     {
       "id": "g6471",
-      "title": "A seven-day plan to turn Claude into a true work system",
-      "description": "The plan recommends starting with a personal brief, then creating projects, connecting tools and turning repetitive methods into skills. It then suggests using artifacts, automations and Claude Code to build more autonomous workflows.",
+      "title": "A seven-day plan to turn Claude into a real work system",
+      "description": "The plan recommends starting with a personal brief, then creating projects, connecting tools, and turning repetitive methods into skills. It then suggests using artifacts, automations, and Claude Code to build more autonomous workflows.",
       "link": "https://link.mail.beehiiv.com/v2/c/e4c4240da9ead748244a9ec43971232b1d600838d16ed0d15e0427a4fb3192a17f6708fc185aaa893a380c0b1428988b377f481eb27689f4b99fe41594b103070c400b1ce3fda52cd3a7b9c2789188c0433038e680631af8a30e53b34ad426dd9e173b8f7490d96cc8136df4708c61e88d20cbc28aaa01d6fdf43b212c88327438ec4ea08c73bbadad4b4609e5d5115d3cad4a157044074b567c770c9901619a24254125c9d021620b1f0f086c5242bcc9551235e0f9acd506ffb3b3319e59a9/55cdf1bef1b0c527",
       "sources": [
         "Cyber Corsairs"
@@ -437,7 +714,7 @@
     {
       "id": "g6472",
       "title": "Anthropic explains how to customize Claude with global instructions",
-      "description": "The guide shows where to write instructions that apply across an account, including the brief to provide before the first interaction with Claude.",
+      "description": "The guide shows where to write instructions that apply across an account, including the brief to provide before the first exchange with Claude.",
       "link": "https://support.claude.com/en/articles/10185728-understanding-claude-s-personalization-features",
       "sources": [
         "Cyber Corsairs"
@@ -449,8 +726,8 @@
     },
     {
       "id": "g6473",
-      "title": "Anthropic details how projects work in Claude",
-      "description": "The explanation describes how each project keeps its own files, instructions and conversations so that one client does not get mixed up with another.",
+      "title": "Anthropic explains how projects work in Claude",
+      "description": "The explanation describes how each project keeps its own files, instructions, and conversations so that one client does not get mixed up with another.",
       "link": "https://support.claude.com/en/articles/9517075-what-are-projects",
       "sources": [
         "Cyber Corsairs"
@@ -462,8 +739,8 @@
     },
     {
       "id": "g6474",
-      "title": "Claude for Google Workspace can edit Docs, Sheets and Slides",
-      "description": "The beta version presented allows Claude to create and edit Google documents, spreadsheets and presentations for paid subscribers.",
+      "title": "Claude for Google Workspace can edit Docs, Sheets, and Slides",
+      "description": "The beta version presented allows Claude to create and edit Google documents, spreadsheets, and presentations for paid subscribers.",
       "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
       "sources": [
         "Cyber Corsairs"
@@ -476,7 +753,7 @@
     {
       "id": "g6475",
       "title": "Anthropic shows how to turn a proven workflow into a Claude skill",
-      "description": "The guide explains how to add a skill so that a well-established process becomes a method Claude can repeat.",
+      "description": "The guide explains how to add a skill so that a mastered process becomes a method Claude can repeat.",
       "link": "https://support.claude.com/en/articles/12512180-use-skills-in-claude",
       "sources": [
         "Cyber Corsairs"
@@ -488,8 +765,8 @@
     },
     {
       "id": "g6476",
-      "title": "Claude's scheduled tasks can run while the computer sleeps",
-      "description": "The guide confirms that tasks can run while the computer is asleep, while noting that they work only with a local folder when the computer remains on.",
+      "title": "Claude’s scheduled tasks can run while the computer is asleep",
+      "description": "The guide confirms that tasks can run when the computer is asleep, while noting that they work only with a local folder when the computer remains on.",
       "link": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
       "sources": [
         "Cyber Corsairs"
@@ -502,7 +779,7 @@
     {
       "id": "g6461",
       "title": "Helios aims to assess health from a few drops of blood",
-      "description": "Helios analyzes around 1,000 blood proteins to determine how health is changing and detect certain problems before symptoms appear. The startup, founded by Omar Abudayyeh, Jonathan Gootenberg and Yousef Badran, is currently available by waitlist only.",
+      "description": "Helios analyzes about 1,000 blood proteins to determine how health is changing and detect certain problems before symptoms appear. The startup, founded by Omar Abudayyeh, Jonathan Gootenberg, and Yousef Badran, is currently available only by waitlist.",
       "link": "https://www.myhelios.com/",
       "sources": [
         "Superhuman"
@@ -515,7 +792,7 @@
     {
       "id": "g6466",
       "title": "A coalition accuses Anthropic of not being a safe company",
-      "description": "The MisAnthropic Statement, signed by nearly 90 researchers, founders and academics, says Anthropic's actions do not match its image as an AI safety company. Signatories particularly criticize its race toward recursive self-improvement, which could make the technology uncontrollable by humans.",
+      "description": "The MisAnthropic Statement, signed by nearly 90 researchers, founders, and academics, argues that Anthropic’s actions do not match its image as an AI safety company. Signatories particularly criticize its pursuit of recursive self-improvement, which could make the technology uncontrollable by humans.",
       "link": "https://misanthropicstatement.com/",
       "sources": [
         "Superhuman"
@@ -528,7 +805,7 @@
     {
       "id": "g6469",
       "title": "Fable 5.2 creates a painting in Microsoft Paint",
-      "description": "The Fable 5.2 language model created an image in Microsoft Paint in 2 hours and 30 minutes after being given a virtual brush.",
+      "description": "The Fable 5.2 language model created an image in Microsoft Paint over 2 hours and 30 minutes after being given a virtual paintbrush.",
       "link": "https://www.reddit.com/r/ClaudeAI/comments/1xvghd1/fable_52_painting_in_ms_paint/",
       "sources": [
         "Superhuman"
@@ -541,7 +818,7 @@
     {
       "id": "g6470",
       "title": "SpaceXAI says it uses five Grok agents for accounting",
-      "description": "SpaceXAI says it has five Grok agents on its accounting team and detailed how they were trained and integrated before working autonomously.",
+      "description": "SpaceXAI says it has five Grok agents on its accounting team and has detailed how they were trained and integrated before working autonomously.",
       "link": "https://x.ai/news/grok-bot-accounting",
       "sources": [
         "Superhuman"
@@ -553,7 +830,7 @@
     },
     {
       "id": "g6451",
-      "title": "AWS Interconnect now privately links AWS and Azure",
+      "title": "AWS Interconnect now privately connects AWS and Azure",
       "description": "AWS Interconnect now privately connects AWS and Microsoft Azure, replacing the networks customers previously had to build themselves.",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
       "sources": [
@@ -567,7 +844,7 @@
     {
       "id": "g6452",
       "title": "Microsoft launches initiative to strengthen AI transparency",
-      "description": "Microsoft and organizations from several sectors are launching an initiative to establish open standards for AI safety, governance and transparency. It is intended to help companies independently verify the behavior of AI agents.",
+      "description": "Microsoft and organizations from multiple sectors are launching an initiative to establish open standards for AI safety, governance, and transparency. It is intended to help companies independently verify the behavior of AI agents.",
       "link": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents",
       "sources": [
         "TLDR IT"
@@ -579,8 +856,8 @@
     },
     {
       "id": "g6453",
-      "title": "AI blurs the boundaries between CIOs, CISOs and risk leaders",
-      "description": "Autonomous AI agents are blurring traditional responsibilities between CIOs, CISOs and risk departments. Companies must define explicit decision-making mandates, predetermined trade-offs and complete audit trails to preserve human accountability.",
+      "title": "AI blurs the boundaries between CIOs, CISOs, and risk leaders",
+      "description": "Autonomous AI agents are blurring traditional responsibilities among CIOs, CISOs, and risk departments. Companies must define explicit decision-making mandates, predetermined trade-offs, and complete audit trails to preserve human accountability.",
       "link": "https://www.cio.com/article/4249210/ai-is-blurring-the-lines-between-cio-ciso-and-cro.html",
       "sources": [
         "TLDR IT"
@@ -592,8 +869,8 @@
     },
     {
       "id": "g6454",
-      "title": "A capsule manufacturer highlights AI's limitations",
-      "description": "A manufacturer's presentation challenged the idea that all business processes are ready for AI automation, citing aging equipment, limited digital skills and low margins. Successful adoption starts with understanding employees' practical knowledge and operational constraints.",
+      "title": "A capsule manufacturer highlights AI’s limitations",
+      "description": "A manufacturer’s presentation challenged the idea that all business processes are ready for AI automation, citing aging equipment, limited digital skills, and low margins. Successful adoption starts with understanding employees’ practical know-how and operational constraints.",
       "link": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
       "sources": [
         "TLDR IT"
@@ -605,8 +882,8 @@
     },
     {
       "id": "g6456",
-      "title": "Microsoft expands availability of its Windows endpoint security platform",
-      "description": "Microsoft has announced general availability of its Windows endpoint security platform, which allows third-party security vendors to protect systems with less reliance on kernel-level software. The new API can warn users, limit functionality or block applications if a PC fails a security check.",
+      "title": "Microsoft broadly rolls out its Windows endpoint security platform",
+      "description": "Microsoft has announced general availability of its Windows endpoint security platform, which allows third-party security vendors to protect systems with less reliance on kernel-level software. The new API can warn users, restrict features, or block applications if a PC fails a security check.",
       "link": "https://blogs.windows.com/windowsexperience/2026/11/17/windows-security-at-ignite-2026-start-secure-protect-what-matters-prepare-for-ai/",
       "sources": [
         "TLDR IT"
@@ -619,7 +896,7 @@
     {
       "id": "g6457",
       "title": "Microsoft presents governed AI-agent deployment on Windows",
-      "description": "Windows and Microsoft tools support the enterprise deployment of governed AI agents through identity, containment and management mechanisms. Entra Agent ID and Execution Containers impose limits, while Intune, Defender and Purview provide management, runtime protection and data-leak prevention.",
+      "description": "Windows and Microsoft tools support the enterprise deployment of governed AI agents through identity, containment, and management mechanisms. Entra Agent ID and Execution Containers impose limits, while Intune, Defender, and Purview provide management, runtime protection, and data-leak prevention.",
       "link": "https://blogs.windows.com/windowsdeveloper/2026/11/17/enterprise-deployment-of-governed-agents-on-windows/",
       "sources": [
         "TLDR IT"
@@ -631,8 +908,8 @@
     },
     {
       "id": "g6459",
-      "title": "Neo4j offers an ontology to structure AI knowledge",
-      "description": "A Neo4j-based ontology helps enterprise AI agents interpret ambiguous business terms through governed definitions, rules and provenance.",
+      "title": "Neo4j offers an ontology for structuring AI knowledge",
+      "description": "A Neo4j-based ontology helps enterprise AI agents interpret ambiguous business terms through governed definitions, rules, and provenance.",
       "link": "https://neo4j.com/blog/developer/the-knowledge-layer-for-enterprise-ai-domain-ontology/",
       "sources": [
         "TLDR IT"
@@ -645,7 +922,7 @@
     {
       "id": "g6460",
       "title": "Intel strengthens its Azure infrastructure partnership",
-      "description": "The expanded agreement between Microsoft and Intel provides for several years of Xeon processor supply and the use of Intel's EMIB packaging technology for Azure's own chips.",
+      "description": "The expanded agreement between Microsoft and Intel includes several years of Xeon processor supply and the use of Intel’s EMIB packaging technology for Azure’s own chips.",
       "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/microsoft-azure-infrastructure-collaboration.html",
       "sources": [
         "TLDR IT"
@@ -657,7 +934,7 @@
     },
     {
       "id": "g6438",
-      "title": "Tesla is preparing an autonomous Model Y without a steering wheel or pedals",
+      "title": "Tesla prepares an autonomous Model Y without a steering wheel or pedals",
       "description": "Tesla is developing an autonomous version of the Model Y without a steering wheel or pedals, capable of carrying up to six or seven passengers. The company will continue producing conventional Model Ys for the foreseeable future.",
       "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
       "sources": [
@@ -671,7 +948,7 @@
     {
       "id": "g6439",
       "title": "Hardware engineers should design design algorithms",
-      "description": "Much of hardware engineering is actually a form of software engineering because it relies on calculations. Design algorithms could allow small teams to build complex systems.",
+      "description": "Much of hardware engineering would actually be a form of software engineering because it relies on calculations. Design algorithms could enable small teams to build complex systems.",
       "link": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software",
       "sources": [
         "TLDR"
@@ -697,7 +974,7 @@
     {
       "id": "g6441",
       "title": "AWS launches ExtendDB 1.0, a DynamoDB-compatible adapter",
-      "description": "ExtendDB is a DynamoDB API-compatible adapter that can run on PostgreSQL, SQLite, Cassandra and MongoDB. Open source under the Apache 2.0 license, it allows DynamoDB workloads to run on premises, in the cloud or at the edge without rewriting code.",
+      "description": "ExtendDB is a DynamoDB API-compatible adapter that can run on PostgreSQL, SQLite, Cassandra, and MongoDB. Open source under the Apache 2.0 license, it allows DynamoDB workloads to run on premises, in the cloud, or at the edge without rewriting code.",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/",
       "sources": [
         "TLDR"
@@ -709,8 +986,8 @@
     },
     {
       "id": "g6442",
-      "title": "Developers are urged to publish forks instead of AI-generated PRs",
-      "description": "Open-source projects are receiving many pull requests produced with AI assistance. Developers could instead publish forks, which maintainers would then review to select the changes to integrate.",
+      "title": "Developers urged to publish forks instead of AI-generated PRs",
+      "description": "Open-source projects are receiving many pull requests produced with AI assistance. Developers could instead publish forks, which maintainers would then review to select changes for integration.",
       "link": "https://jacobtomlinson.dev/posts/2026/foundation-software/",
       "sources": [
         "TLDR"
@@ -723,7 +1000,7 @@
     {
       "id": "g6443",
       "title": "Waymo may not be able to solve road-safety problems on its own",
-      "description": "Waymo may have little incentive to exceed a safety limit it defines itself. According to the article, the company could shift responsibility for road-safety policies from public authorities to a private company that is difficult to hold accountable.",
+      "description": "Waymo may have little incentive to exceed a safety limit it defines itself. According to the article, the company could shift responsibility for road-safety policies from public authorities to a private company that is difficult to control.",
       "link": "https://azhdarchid.com/notes/waymo-safety-2026-11-18/",
       "sources": [
         "TLDR"
@@ -735,8 +1012,8 @@
     },
     {
       "id": "g6444",
-      "title": "Nvidia's interim CEO urges employees to move forward",
-      "description": "Nvidia held its first all-hands meeting since Jensen Huang's resignation. Executives announced progress on salary increases and annual reviews, while the board does not plan to reinstate Huang.",
+      "title": "Nvidia’s interim CEO urges employees to move forward",
+      "description": "Nvidia held its first company-wide meeting since Jensen Huang’s resignation. Executives announced progress on salary increases and annual reviews, while the board does not plan to reinstate Huang.",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
       "sources": [
         "TLDR"
@@ -774,8 +1051,8 @@
     },
     {
       "id": "g6448",
-      "title": "Complex systems depend on capable and committed people",
-      "description": "The world relies on complex systems that depend on capable and committed people. Their disappearance can lead to the collapse of these systems.",
+      "title": "Complex systems depend on skilled and committed people",
+      "description": "The world relies on complex systems that depend on skilled and committed people. Their disappearance can lead to the collapse of these systems.",
       "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
       "sources": [
         "TLDR"
@@ -788,7 +1065,7 @@
     {
       "id": "g6449",
       "title": "Companies are slow to adapt when economic scarcity shifts",
-      "description": "Every major economic era tells the story of what was scarce, where that scarcity shifted, and how long companies and institutions took to respond.",
+      "description": "Every major economic era tells the story of what was scarce, where that scarcity shifted, and how long companies and institutions took to react.",
       "link": "https://betterthangood.xyz/blog/scarcity-migration/",
       "sources": [
         "TLDR"
@@ -801,7 +1078,7 @@
     {
       "id": "g6450",
       "title": "AI makes it possible to create engaging presentations with less effort",
-      "description": "AI makes it possible to create engaging presentations with far less effort.",
+      "description": "AI makes it possible to create engaging presentations with much less effort.",
       "link": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
       "sources": [
         "TLDR"
@@ -1011,19 +1288,6 @@
       "title": "Citi makes customers responsible for the actions of third-party AI tools",
       "description": "Citi changed its terms so that customers are responsible for actions taken on their accounts by third-party AI tools, including after a hack.",
       "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-19T11:46+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6403",
-      "title": "Palo Alto Networks acquires Applied Compute for $4.5 billion",
-      "description": "Palo Alto Networks agreed to acquire Applied Compute for $4.5 billion in stock. The acquisition is intended to provide tools for adapting and running open-weight models.",
-      "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
       "sources": [
         "The Neuron"
       ],
@@ -1496,19 +1760,6 @@
         "Republic of Innovation"
       ],
       "received_at": "2026-11-19T10:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6346",
-      "title": "Build your own AI assistant in 20 minutes",
-      "description": "Chapter 32 of AI Central explains how to distinguish between a persistent instruction, a saved model and a full assistant, then how to create and test your own AI assistant. It says you need a repeated task, the most effective instructions and two or three reference files.",
-      "link": "https://link.mail.beehiiv.com/v2/c/2b368bf7c9f4caaab7d938d0a63f6b9cdf267b018235c36bd121b78e2ad92c551f841d2f63c1fa49b1abf57eac1871078e7918e5eda02704f08f0f4858d46d39fbf586a87a44926aa6a8d79e9dfa868fdb4ea53dc1f6d3f77a2e3c308698067d3f3dbba9551bdd2f695e970509ac3bff13f603a33bc33178bf6ea05a5c2c9ba116e301f0c3b061f32e36380a79b4a3674b3d77c6a80d5d76b2aeb85359089c69/5c58ba1a870c5f82",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-18T19:31+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
