@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-20
 
-Period: 2026-11-19T06:25+01:00 → 2026-11-20T06:25+01:00 · 134 news received
+Period: 2026-11-19T13:25+01:00 → 2026-11-20T13:25+01:00 · 124 news received
 
-## 1. Google launches Gemini 4 Neon, a faster AI model
+## 1. Anthropic’s IPO reaches record highs
 
-**Why it matters:** Google’s Gemini 4 Neon launch, covered by five newsletters, intensifies competition at the frontier of AI models and could shift enterprise developer and consumer demand.
+**Why it matters:** Anthropic’s record IPO puts a major market valuation on the AI boom and could reset expectations for the financing and profitability of frontier-model companies.
 
-Google has launched Gemini 4 Neon on its paid API, Gemini app, and developer tools. The company says it is three times faster than Gemini 4 Carbon and outperforms Claude Sonnet 5.5 and GPT-6.2 Sol on a reasoning benchmark.
+Anthropic’s stock jumped 34% at the open before ending the day up 17%. The company raised 81 billion dollars in its IPO, bringing the total raised to 107.3 billion with its private placement.
 
-- Link: https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices
-- Sources: Techpresso, Superhuman, TLDR, The Neuron, Vision IA
-- Received: 2026-11-19T18:52+01:00
+- Link: https://l.businessinsider.com/a/zc/21432/ca504594ce6f40d5876a398ab88d2c42/08f0504d822f47b4a826875ab527eac9
+- Sources: Business Insider, The Neuron, Vision IA, Techpresso
+- Received: 2026-11-20T12:24+01:00
 
-## 2. Anthropic carries out the largest IPO in history
+## 2. U.S. restricts exports of AI chips to foreign data centers
 
-**Why it matters:** Anthropic’s record $81.3 billion IPO and $1.5 trillion valuation make AI’s capital intensity and path to profitability a defining issue for public markets.
+**Why it matters:** New U.S. restrictions on AI-chip exports to foreign data centers materially tighten access to computing capacity and raise compliance risks for global cloud and semiconductor companies.
 
-Anthropic began trading on the Nasdaq after raising $81.3 billion, surpassing the record set by SpaceX. The company is valued at $1.5 trillion despite reporting losses of $104 billion over nine months.
+The U.S. Commerce Department restricted, effective November 19, exports of advanced AI chips to foreign data centers providing large-scale computing capacity to companies in China and other restricted countries.
 
-- Link: https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo
-- Sources: Techpresso, Business Insider, TLDR
-- Received: 2026-11-19T18:52+01:00
+- Link: https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf
+- Sources: The Neuron
+- Received: 2026-11-20T11:32+01:00
 
-## 3. TSMC and Samsung suspend some chip shipments to China
+## 3. Data center electricity consumption could double by 2030
 
-**Why it matters:** TSMC and Samsung halting some chip shipments to China shows that tightening U.S. export controls are disrupting global semiconductor supply beyond AI-specific products.
-
-TSMC and Samsung have stopped shipping certain chips to Chinese customers after new US rules requiring licenses took effect. The measures also affect chips intended for non-AI uses, including smartphones.
-
-- Link: https://www.firstpost.com/tech/tsmc-and-samsung-halt-chip-shipments-to-china-following-new-us-export-curbs-report-14061331.html
-- Sources: Techpresso
-- Received: 2026-11-19T18:52+01:00
-
-## 4. The Java4Shell flaw exposes widely used enterprise applications
-
-**Why it matters:** The Java4Shell vulnerability creates immediate enterprise security risk because attackers can remotely compromise widely used platforms including Jira, Confluence, Jenkins, and Elasticsearch.
-
-Oracle has patched a Java vulnerability that allowed unauthenticated attackers to execute code or crash vulnerable systems. Researchers demonstrated attacks against Jira, Confluence, Jenkins, and Elasticsearch, with exposure depending on the Java version and processor configuration.
-
-- Link: https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661
-- Sources: TLDR IT, Vision IA
-- Received: 2026-11-19T14:53+01:00
-
-## 5. Data center electricity consumption could double by 2030
-
-**Why it matters:** The IEA’s projection that data-center electricity consumption will double by 2030 highlights a major constraint for AI expansion, with implications for utilities, emissions, and infrastructure investment.
+**Why it matters:** The projected doubling of data-center electricity demand by 2030 makes power availability, grid investment, and carbon costs central constraints on AI expansion.
 
 According to the International Energy Agency, data centers will consume twice as much electricity in 2030, with AI accounting for three-quarters of the increase. The sector’s carbon emissions could rise by 70% in four years.
 
 - Link: https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns
+- Sources: Techpresso
+- Received: 2026-11-19T18:52+01:00
+
+## 4. Google launches Gemini 4 Neon, a faster AI model
+
+**Why it matters:** Google’s launch of Gemini 4 Neon intensifies competition among frontier-model providers and signals continued pressure on performance, speed, and API pricing.
+
+Google launched Gemini 4 Neon on its paid API, Gemini app, and development tools. The company says it is three times faster than Gemini 4 Carbon and outperforms Claude Sonnet 5.5 and GPT-6.2 Sol on a reasoning benchmark.
+
+- Link: https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices
+- Sources: Techpresso, Superhuman
+- Received: 2026-11-19T18:52+01:00
+
+## 5. Microsoft’s official Python framework for agents hijacked to spread malware
+
+**Why it matters:** The compromise of Microsoft’s official agent framework to distribute malware highlights a serious new supply-chain risk as enterprises rapidly adopt AI-agent software.
+
+Microsoft’s official Python framework for agents was compromised to distribute malicious software.
+
+- Link: https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858
 - Sources: Techpresso
 - Received: 2026-11-19T18:52+01:00
