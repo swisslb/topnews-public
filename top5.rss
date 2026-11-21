@@ -3,56 +3,50 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-21</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 158 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 74 news received.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 21 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. Anthropic Makes Record Debut on Nasdaq</title>
+    <title>1. Trump administration reportedly authorized shipment of 900,000 AI chips to China</title>
+    <link>https://thehill.com/policy/technology/6231677-trump-approves-ai-chip-sales/</link>
+    <guid isPermaLink="false">2026-11-21:g6681</guid>
+    <description>Why it matters: The reported approval of 900,000 AI-chip shipments to China could materially reshape US export controls, Nvidia’s market access and the broader US-China technology rivalry. The Trump administration approved the shipment of 900,000 artificial-intelligence chips to China.</description>
+    <pubDate>Fri, 20 Nov 2026 17:56:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>2. Anthropic Makes Record Debut on Nasdaq</title>
     <link>https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo</link>
     <guid isPermaLink="false">2026-11-21:g6437</guid>
-    <description>Why it matters: Anthropic’s record Nasdaq debut is a major validation of the AI investment cycle while exposing the company to public-market scrutiny over profitability and governance. Anthropic began trading on Nasdaq on November 19 under the ticker ANT, after pricing its IPO at 83 dollars per share. The company sold 980 million shares for about 81.3 billion dollars and must now answer to both its shareholders and its users.</description>
+    <description>Why it matters: Anthropic’s reported $81.3 billion Nasdaq debut marks a major test of investor appetite and public-market valuations for frontier AI companies. Anthropic began trading on Nasdaq on November 19 under the ticker ANT, after pricing its IPO at 83 dollars per share. The company sold 980 million shares for about 81.3 billion dollars and must now answer to both its shareholders and its users.</description>
     <pubDate>Fri, 20 Nov 2026 16:04:00 GMT</pubDate>
     <category>AI Gen Art</category>
     <category>Superhuman</category>
-    <category>Business Insider</category>
-    <category>The Neuron</category>
-    <category>Vision IA</category>
   </item>
   <item>
-    <title>2. U.S. restricts exports of AI chips to foreign data centers</title>
-    <link>https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf</link>
-    <guid isPermaLink="false">2026-11-21:g5911</guid>
-    <description>Why it matters: U.S. restrictions on advanced AI-chip exports to foreign data centers will reshape global compute access, supply chains and the competitive balance with China. The U.S. Commerce Department restricted, effective November 19, exports of advanced AI chips to foreign data centers providing large-scale computing capacity to companies in China and other restricted countries.</description>
-    <pubDate>Fri, 20 Nov 2026 10:32:00 GMT</pubDate>
-    <category>The Neuron</category>
+    <title>3. Google launches Gemini 4 Neon at a lower price than Carbon</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+    <guid isPermaLink="false">2026-11-21:g6367</guid>
+    <description>Why it matters: Google’s lower-priced Gemini 4 Neon intensifies the AI model price war and could pressure competitors’ margins and enterprise adoption strategies. Google announced Gemini 4 Neon, a model positioned between Carbon and Hydrogen. It costs 3 dollars per million input tokens and 15 dollars per million output tokens, and Google says it is about 32% cheaper per task than Carbon in its default configuration.</description>
+    <pubDate>Fri, 20 Nov 2026 16:04:00 GMT</pubDate>
+    <category>AI Gen Art</category>
+    <category>Superhuman</category>
   </item>
   <item>
-    <title>3. Palo Alto Networks Acquires Applied Compute for 4.5 Billion Dollars</title>
-    <link>https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</link>
-    <guid isPermaLink="false">2026-11-21:g6403</guid>
-    <description>Why it matters: Palo Alto Networks’ $4.5 billion acquisition of Applied Compute signals that cybersecurity companies are moving aggressively into AI-model training and deployment infrastructure. Palo Alto Networks will acquire Applied Compute for 4.5 billion dollars in stock to add tools for training and deploying customized open-weight AI models. The transaction is expected to close in the third fiscal quarter of 2027.</description>
-    <pubDate>Fri, 20 Nov 2026 13:53:00 GMT</pubDate>
-    <category>TLDR IT</category>
+    <title>4. The UK can no longer conceal its Apple data request</title>
+    <link>https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
+    <guid isPermaLink="false">2026-11-21:g6690</guid>
+    <description>Why it matters: The UK’s forced disclosure of its iCloud backdoor request creates a significant precedent for government access to encrypted services and Apple’s privacy policy. The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court sided with Apple on holding the case in public.</description>
+    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
+    <category>AppleInsider</category>
   </item>
   <item>
-    <title>4. Apple is developing an AI agent capable of controlling a Mac</title>
-    <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
-    <guid isPermaLink="false">2026-11-21:g6522</guid>
-    <description>Why it matters: Apple’s planned Mac-controlling AI agent could materially change how users interact with software and intensify competition with Microsoft and Google in autonomous computing. Apple is developing an autonomous AI agent for Mac that can write code, browse the web, and control apps on the user’s behalf. It could launch as early as the end of next year.</description>
+    <title>5. Intuit sells Mailchimp to Bending Spoons for 3.68 billion dollars</title>
+    <link>https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/</link>
+    <guid isPermaLink="false">2026-11-21:g6664</guid>
+    <description>Why it matters: Intuit’s sale of Mailchimp for $3.68 billion—less than a third of its 2021 purchase price—highlights the sharp repricing of SaaS assets and the pressure on software portfolios. Intuit has agreed to sell Mailchimp to Italian holding company Bending Spoons for about 3.68 billion dollars, less than one-third of the price paid in 2021. The transaction is expected to close in early 2027, subject to regulatory approval.</description>
     <pubDate>Fri, 20 Nov 2026 17:56:00 GMT</pubDate>
     <category>Techpresso</category>
-    <category>TLDR</category>
-    <category>Vision IA</category>
-  </item>
-  <item>
-    <title>5. Google books Blue Origin to launch AI satellites in 2029</title>
-    <link>https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/</link>
-    <guid isPermaLink="false">2026-11-21:g6558</guid>
-    <description>Why it matters: Google’s agreement with Blue Origin to test orbital AI data centers points to a potentially significant long-term shift in how hyperscalers obtain energy and deploy compute, despite the project’s early stage. Blue Origin will launch satellites serving as data centers for Google in 2029 as part of the Suncatcher project. The mission will test networking AI chips and running machine-learning tasks in space.</description>
-    <pubDate>Fri, 20 Nov 2026 17:56:00 GMT</pubDate>
-    <category>Techpresso</category>
-    <category>TLDR</category>
-    <category>The Neuron</category>
   </item>
 </channel>
 </rss>
