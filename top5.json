@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-20",
-  "news_count": 137,
+  "date": "2026-11-21",
+  "news_count": 158,
   "top5": [
     {
       "rank": 1,
       "id": "g6437",
-      "title": "Anthropic makes a record debut on Nasdaq",
-      "description": "Anthropic began trading on Nasdaq on November 19 under the symbol ANT, after setting its IPO price at $83 per share. The company sold 980 million shares for approximately $81.3 billion and must now answer to both its shareholders and its users.",
+      "title": "Anthropic Makes Record Debut on Nasdaq",
+      "description": "Anthropic began trading on Nasdaq on November 19 under the ticker ANT, after pricing its IPO at 83 dollars per share. The company sold 980 million shares for about 81.3 billion dollars and must now answer to both its shareholders and its users.",
       "link": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
       "sources": [
         "AI Gen Art",
@@ -19,7 +19,7 @@
       "covered_by": 5,
       "favorite": false,
       "followed_topic": null,
-      "why": "Anthropic’s record Nasdaq debut marks a major validation of AI’s capital market story while imposing new pressure to deliver sustainable growth and profitability."
+      "why": "Anthropic’s record Nasdaq debut is a major validation of the AI investment cycle while exposing the company to public-market scrutiny over profitability and governance."
     },
     {
       "rank": 2,
@@ -34,13 +34,13 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The U.S. restriction on advanced AI-chip exports to foreign data centers broadens technology controls and could reshape global cloud capacity, supply chains and China’s access to AI computing."
+      "why": "U.S. restrictions on advanced AI-chip exports to foreign data centers will reshape global compute access, supply chains and the competitive balance with China."
     },
     {
       "rank": 3,
       "id": "g6403",
-      "title": "Palo Alto Networks acquires Applied Compute for $4.5 billion",
-      "description": "Palo Alto Networks will acquire Applied Compute for $4.5 billion in stock to add tools for training and deploying customized open-weight AI models. The transaction is expected to close in fiscal Q3 2027.",
+      "title": "Palo Alto Networks Acquires Applied Compute for 4.5 Billion Dollars",
+      "description": "Palo Alto Networks will acquire Applied Compute for 4.5 billion dollars in stock to add tools for training and deploying customized open-weight AI models. The transaction is expected to close in the third fiscal quarter of 2027.",
       "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
       "sources": [
         "TLDR IT"
@@ -49,42 +49,46 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Palo Alto Networks’ $4.5 billion acquisition of Applied Compute signals that cybersecurity companies are making large bets on customized open-weight models and AI infrastructure."
+      "why": "Palo Alto Networks’ $4.5 billion acquisition of Applied Compute signals that cybersecurity companies are moving aggressively into AI-model training and deployment infrastructure."
     },
     {
       "rank": 4,
-      "id": "g6626",
-      "title": "Microsoft launches a service to control AI agent behavior",
-      "description": "Microsoft introduced Agent Controls, an Azure service designed to centrally define, manage and evaluate policies governing AI agent behavior. It provides runtime governance for heterogeneous agent fleets using classifiers, LLM judges and Rego rules.",
-      "link": "https://commandline.microsoft.com/introducing-agent-controls-an-enterprise-control-plane-for-agent-behavior/",
+      "id": "g6522",
+      "title": "Apple is developing an AI agent capable of controlling a Mac",
+      "description": "Apple is developing an autonomous AI agent for Mac that can write code, browse the web, and control apps on the user’s behalf. It could launch as early as the end of next year.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "sources": [
-        "TLDR IT"
+        "Techpresso",
+        "TLDR",
+        "Vision IA"
       ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "Microsoft’s Agent Controls gives enterprises centralized policy, evaluation and runtime governance for heterogeneous AI agents, addressing a key barrier to large-scale deployment."
+      "why": "Apple’s planned Mac-controlling AI agent could materially change how users interact with software and intensify competition with Microsoft and Google in autonomous computing."
     },
     {
       "rank": 5,
-      "id": "g6603",
-      "title": "Apple is developing an autonomous AI agent to control devices and applications",
-      "description": "Apple is developing an autonomous AI agent capable of writing code, browsing the web, controlling applications, and operating devices. It will be able to plan and execute complex tasks across applications, browsers, command lines, code, and APIs.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U",
+      "id": "g6558",
+      "title": "Google books Blue Origin to launch AI satellites in 2029",
+      "description": "Blue Origin will launch satellites serving as data centers for Google in 2029 as part of the Suncatcher project. The mission will test networking AI chips and running machine-learning tasks in space.",
+      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
       "sources": [
-        "TLDR"
+        "Techpresso",
+        "TLDR",
+        "The Neuron"
       ],
-      "received_at": "2026-11-20T13:06+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "Apple’s development of an autonomous agent that can operate apps, devices, code and web workflows shows that agentic computing is becoming a core battleground for platform companies."
+      "why": "Google’s agreement with Blue Origin to test orbital AI data centers points to a potentially significant long-term shift in how hyperscalers obtain energy and deploy compute, despite the project’s early stage."
     }
   ],
   "period": {
-    "from": "2026-11-19T19:25+01:00",
-    "to": "2026-11-20T19:25+01:00"
+    "from": "2026-11-20T06:25+01:00",
+    "to": "2026-11-21T06:25+01:00"
   },
-  "generated_at": "2026-11-20T19:25+01:00"
+  "generated_at": "2026-11-21T06:25+01:00"
 }
