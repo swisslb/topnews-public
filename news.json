@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "period": {
-    "from": "2026-11-19T19:25+01:00",
-    "to": "2026-11-20T19:25+01:00"
+    "from": "2026-11-20T06:25+01:00",
+    "to": "2026-11-21T06:25+01:00"
   },
-  "news_count": 137,
+  "news_count": 158,
   "news": [
     {
       "id": "g6437",
@@ -24,6 +24,93 @@
       "followed_topic": null
     },
     {
+      "id": "g6679",
+      "title": "Apple may be reconsidering bringing an OLED display to the iMac",
+      "description": "Apple is reportedly revisiting its plans for an OLED iMac, partly because of the cost and the lack of a sales increase seen with the OLED iPad Pro.",
+      "link": "https://appleinsider.com/articles/26/11/19/imac-may-never-get-an-oled-screen-as-apple-reconsiders-cost",
+      "sources": [
+        "AppleInsider",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6677",
+      "title": "iPhone camera chief Jon McCormack retires",
+      "description": "Jon McCormack, Apple’s head of iPhone cameras, has reportedly retired.",
+      "link": "https://appleinsider.com/articles/26/11/19/iphone-camera-chief-jon-mccormack-has-retired",
+      "sources": [
+        "AppleInsider",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6522",
+      "title": "Apple is developing an AI agent capable of controlling a Mac",
+      "description": "Apple is developing an autonomous AI agent for Mac that can write code, browse the web and control applications on the user’s behalf. It could launch as early as the end of next year.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6558",
+      "title": "Google books Blue Origin to launch AI satellites in 2029",
+      "description": "Blue Origin will launch satellites serving as data centers for Google in 2029 as part of the Suncatcher project. The mission is intended to test networking AI chips and running machine-learning tasks in space.",
+      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "sources": [
+        "Techpresso",
+        "TLDR",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6541",
+      "title": "OpenAI unveils Performance Factory, a Codex-powered optimization system",
+      "description": "OpenAI has unveiled Performance Factory, a software optimization system powered by Codex and designed to keep ChatGPT fast.",
+      "link": "https://venturebeat.com/orchestration/exclusive-openai-reveals-performance-factory-a-codex-powered-software-optimization-system-that-keeps-chatgpt-fast",
+      "sources": [
+        "Techpresso",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6543",
+      "title": "Muse’s privacy violations worry Meta employees",
+      "description": "Internal communications show that Meta employees are concerned about privacy violations linked to Muse.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "sources": [
+        "Techpresso",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6638",
       "title": "OpenAI Launches ChatGPT for Sales with More Than 30 Integrations",
       "description": "OpenAI launched ChatGPT for Sales, a plugin offering ready-to-use sales workflows and more than 30 integrations, including Salesforce and HubSpot.",
@@ -36,6 +123,192 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6685",
+      "title": "iPhone Air 2 and iPhone 18 reveal their designs through dummy units",
+      "description": "Leaked dummy units indicate that the iPhone Air 2 will feature two rear cameras, while the standard iPhone 18 will reportedly have no notable changes.",
+      "link": "https://us.list-manage.com/OCPqBzYhhdC?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6686",
+      "title": "iPhone 20 Pro could adopt a curved display with slimmer bezels",
+      "description": "A new video allegedly shows the iPhone 20 Pro’s curved display, with significantly reduced bezels.",
+      "link": "https://appleinsider.com/articles/26/11/17/this-is-what-the-iphone-20-pro-curved-glass-screen-could-look-like",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6687",
+      "title": "iPhone 20’s curved edges would be nearly invisible from the front",
+      "description": "The future iPhone 20 design would use curved glass edges that would be virtually invisible from the front.",
+      "link": "https://appleinsider.com/articles/26/11/18/curved-glass-edges-of-iphone-20-will-be-practically-invisible-from-the-front",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6691",
+      "title": "France sues Apple over planned obsolescence",
+      "description": "Apple is being sued in France for planned obsolescence over the pairing process applied to certain iPhone and iPad components, which can cause problems when they are reused.",
+      "link": "https://appleinsider.com/articles/26/11/17/france-takes-apple-to-court-over-planned-obsolescence",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6693",
+      "title": "A large-scale malware attack targeted iPhone and iPad users",
+      "description": "Malicious code injected into more than 170 sites through an Optimizely vulnerability attempted to steal banking and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.",
+      "link": "https://us.list-manage.com/mj7NE84VBey?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6696",
+      "title": "24-inch M6 iMac review: a limited but convincing update",
+      "description": "The new 24-inch iMac mainly adds the M6 chip, bringing a major boost for artificial intelligence while retaining its design and 4.5K display. It sells for 1,499 dollars and receives a score of 4 out of 5.",
+      "link": "https://us.list-manage.com/Y1xfemxIx5k?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6697",
+      "title": "How to play Grand Theft Auto VI on iPhone, iPad and Vision Pro",
+      "description": "Cloud or console streaming makes it possible to play new games such as Grand Theft Auto VI on iPhone, iPad or Apple Vision Pro.",
+      "link": "https://appleinsider.com/articles/26/11/20/game-streaming-can-bring-grand-theft-auto-vi-to-your-iphone-ipad-or-apple-vision-pro",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6667",
+      "title": "Google employees call for school access to AI-free Search",
+      "description": "Google employees have launched a petition to let schools use Search without artificial-intelligence features.",
+      "link": "https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6587",
+      "title": "Uber tests rides for children as young as 10 with an extra driver fee",
+      "description": "Uber is testing rides for children aged 10 and over, with additional compensation for drivers.",
+      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "sources": [
+        "Techpresso",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6583",
+      "title": "Hackers leak data from JPMorgan, Visa and Mastercard",
+      "description": "Hackers have leaked data from JPMorgan, Visa and Mastercard.",
+      "link": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
+      "sources": [
+        "Techpresso",
+        "Business Insider"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6538",
+      "title": "Google created a fake Internet to protect Chrome from its AI’s mistakes",
+      "description": "Google built an artificial Internet so Chrome’s AI would not damage the real web.",
+      "link": "https://www.digitaltrends.com/computing/google-builds-fake-internet-to-train-and-test-gemini-ai-agents/",
+      "sources": [
+        "Techpresso",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6680",
+      "title": "Elon Musk says SpaceX wants to eliminate mobile dead zones",
+      "description": "Elon Musk says SpaceX has a plan to eliminate areas without mobile-phone coverage.",
+      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g6681",
+      "title": "Trump administration reportedly authorized shipment of 900,000 AI chips to China",
+      "description": "The Trump administration approved the shipment of 900,000 artificial-intelligence chips to China.",
+      "link": "https://thehill.com/policy/technology/6231677-trump-approves-ai-chip-sales/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6367",
+      "title": "Google launches Gemini 4 Neon at a lower price than Carbon",
+      "description": "Google announced Gemini 4 Neon, a model positioned between Carbon and Hydrogen. It costs 3 dollars per million input tokens and 15 dollars per million output tokens, and Google says it is about 32% cheaper per task than Carbon in its default configuration.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "sources": [
+        "AI Gen Art",
+        "Superhuman"
+      ],
+      "received_at": "2026-11-20T17:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6657",
@@ -116,20 +389,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6558",
-      "title": "Google Will Use a Blue Origin Rocket for Its Data Center Satellites",
-      "description": "Blue Origin’s New Glenn rocket will launch data center satellites for Google in 2029. The Suncatcher project aims to develop space-based AI infrastructure powered by solar energy.",
-      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "sources": [
-        "TLDR",
-        "The Neuron"
-      ],
-      "received_at": "2026-11-20T13:06+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6615",
       "title": "Anthropic IPO Reaches a Valuation of 1.8 Trillion Dollars",
       "description": "Anthropic shares closed at 97.17 dollars after opening at 111.50 dollars on Nasdaq. The offering marks a milestone for the AI industry.",
@@ -141,6 +400,34 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6595",
+      "title": "72% of organizations exceed their token budgets",
+      "description": "According to IDC, only 14% of organizations can track agentic AI costs by agent or action. Spending must therefore be tracked at the agent and workflow levels.",
+      "link": null,
+      "sources": [
+        "Intelligence Newsletter",
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-20T13:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6596",
+      "title": "First-pass success rate becomes a key economic metric",
+      "description": "According to Capgemini, organizations are turning to first-pass success rate and cost per completed workflow. A more expensive agent that succeeds immediately can cost less than a cheaper agent that regularly requires human intervention.",
+      "link": null,
+      "sources": [
+        "Intelligence Newsletter",
+        "Pascal Bornet"
+      ],
+      "received_at": "2026-11-20T13:04+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6573",
@@ -199,20 +486,6 @@
       "title": "Nvidia reportedly negotiating to acquire AI startup Inception for at least 500 million",
       "description": "Nvidia is reportedly in advanced talks to acquire Inception, which develops the Mercury models. The company is set to shut down its API on December 28 without naming a buyer.",
       "link": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-20T11:32+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6543",
-      "title": "Meta’s Muse agent reportedly accessed Signal messages in internal test",
-      "description": "Meta employees received unsolicited replies apparently containing private information, including bank balances. Meta cites hallucinations and isolated incidents, while questions remain about access to Signal messages.",
-      "link": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
       "sources": [
         "The Neuron",
         "Vision IA"
@@ -289,32 +562,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6538",
-      "title": "Google creates a giant fake Internet to test its Chrome agents",
-      "description": "The Chrome team built Mirror Dimension, a controlled parallel web with fake social networks, stores and banks. Gemini-based agents perform tasks there and face hidden prompt-injection attacks.",
-      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-20T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6541",
-      "title": "OpenAI’s “Performance Factory” automates ChatGPT maintenance",
-      "description": "OpenAI unveiled a set of Codex-based automated processes that detect and fix ChatGPT slowdowns. The company is thus entrusting its coding agents with part of the maintenance of its flagship product.",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-20T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g6544",
       "title": "Meta Quest now lets users rent and buy 3D movies",
       "description": "The TV app on Meta Quest 3 and 3S headsets lets users rent or buy 3D movies. Meta says thousands of titles will be available internationally with its future Meta VR Glasses in spring 2027.",
@@ -354,6 +601,240 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g6690",
+      "title": "The UK can no longer conceal its Apple data request",
+      "description": "The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court sided with Apple on holding the case in public.",
+      "link": "https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6692",
+      "title": "US senators increase pressure on Apple over nudify apps",
+      "description": "US senators questioned Apple about apps capable of generating non-consensual nude images, following concerns about teenagers’ access to them.",
+      "link": "https://appleinsider.com/articles/26/11/18/senators-turn-up-the-pressure-on-apple-after-teen-access-to-ai-nudify-apps",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6694",
+      "title": "Cyberattack on Chase supplier exposes customer data",
+      "description": "JPMorgan Chase confirmed a cyberattack targeting suppliers. Stolen marketing data reportedly contained more than 16,000 customer email addresses, sometimes along with phone numbers and ZIP codes.",
+      "link": "https://appleinsider.com/articles/26/11/19/chase-customer-names-and-emails-at-risk-after-vendor-cyberattack",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6695",
+      "title": "VLC lets users keep watching DVDs on macOS",
+      "description": "Apple began removing the technology used for built-in DVD playback with macOS 27. VLC offers a way to continue using physical media on Mac.",
+      "link": "https://us.list-manage.com/tMWhItddmB2?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6684",
+      "title": "Run a task across multiple applications",
+      "description": "This chapter explains how to plan a workflow, add controls, keep it short and assess its cost on Zapier, Make or n8n. It requires a connected tool, an existing automation and a repetitive task involving multiple steps.",
+      "link": "https://link.mail.beehiiv.com/v2/c/a1094f595a599315f3a76b4a4020448ec1415e9b6b6b6141748f54e7a4df0c19e9571872756ea32614cfb743074935c15152e85c8bba1afabaa555526faf8f43d227442c7ceb0330d532e32edae96e62817f329561d6e08b1cf0a2afe669655bf43ec2b2e491ff521cf3cf5b653b873a35f3121e1741780088d40589f2aeaffc03d676793bb02fcbb15579424408231f3ee24a63c5c4894283db28397e1233e3/53d1a2241b921ff7",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-20T19:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6659",
+      "title": "Claude reportedly helped demonstrate the Riemann hypothesis",
+      "description": "Anthropic mathematician Levent Alpöge claims to have worked with Claude to find a proof of the Riemann hypothesis, a 167-year-old number-theory problem. The claim still needs to be confirmed.",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6661",
+      "title": "Signal wants to stop Siri and Gemini from reading conversations",
+      "description": "Signal limits screenshots on iOS 27 and Android when an AI assistant attempts to read the screen, to protect private conversations. The protection remains incomplete, particularly on macOS 27.",
+      "link": "https://www.unite.ai/signal-adds-screenshot-restrictions-to-limit-mobile-ai-data-capture/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6662",
+      "title": "Former employees accuse Jensen Huang of running Nvidia through fear",
+      "description": "Former Nvidia employees say Jensen Huang ran the company through fear and humiliation. His spokesperson calls the accusations fabrications.",
+      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6664",
+      "title": "Intuit sells Mailchimp to Bending Spoons for 3.68 billion dollars",
+      "description": "Intuit has agreed to sell Mailchimp to Italian holding company Bending Spoons for about 3.68 billion dollars, less than one-third of the price paid in 2021. The transaction is expected to close in early 2027, subject to regulatory approval.",
+      "link": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6665",
+      "title": "Google Gemini can now control a Mac",
+      "description": "Google Gemini can now be used to control a Mac.",
+      "link": "https://betanews.com/article/google-gemini-control-macos/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6666",
+      "title": "Meta’s new Muse device could cost 300 dollars",
+      "description": "Meta’s new Muse device could cost 300 dollars.",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6668",
+      "title": "Google’s new homepage puts greater emphasis on Gemini",
+      "description": "Google’s latest homepage redesign gives Gemini an even more prominent position.",
+      "link": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6669",
+      "title": "Amazon opposes the Delivery Protection Act with prominent messages",
+      "description": "Amazon is fighting the Delivery Protection Act by displaying a banner on its homepage and a pop-up in its app.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6672",
+      "title": "Google will require Android app verification worldwide in 2027",
+      "description": "Google will introduce a worldwide Android app verification requirement in January 2027.",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6673",
+      "title": "Kirsten Davies replaces Sean Cairncross as head of US cybersecurity",
+      "description": "Pentagon CIO Kirsten Davies is replacing Sean Cairncross as the US director of cybersecurity.",
+      "link": "https://thenextweb.com/news/national-cyber-director-kirsten-davies-replaces-sean-cairncross",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6674",
+      "title": "Research acceleration: The jagged frontier",
+      "description": "The article presents an analysis of research acceleration and its uneven limits.",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6682",
+      "title": "AI models can identify the author of anonymous text",
+      "description": "A study shows that leading models can identify the origin of anonymous text, including the lab behind 98% of AI-generated texts and the accounts of 69% of certain Reddit commenters.",
+      "link": "https://arxiv.org/abs/2611.26216",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6683",
+      "title": "Guardrails help mobile agents avoid risky actions",
+      "description": "Safeguards allow mobile AI assistants to act autonomously while blocking risky operations such as payments. They increase the blocking of dangerous actions from about 30% to 97% and reduce costly AI calls by up to six times.",
+      "link": "https://arxiv.org/abs/2611.25526",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-20T18:56+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6658",
       "title": "Amazon Threatens to Raise Prices in New York if Law Passes",
       "description": "Amazon opposes the Mamdani-backed Delivery Protection Act, which would require it to employ delivery workers directly. The company threatens to raise its prices if the proposal is adopted.",
@@ -371,19 +852,6 @@
       "title": "Pika Introduces Enact for Directing Live AI Video",
       "description": "Pika introduced Enact, an experimental environment that generates video and sound in fragments of less than a second, allowing users to guide a scene during playback. Users can move actors or objects, give characters directions and control a virtual camera live.",
       "link": "https://pika.art/blog/pika-enact",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-20T17:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6655",
-      "title": "Google Launches Gemini 4 Neon at a Lower Price Than Carbon",
-      "description": "Google announced Gemini 4 Neon, a model positioned between Carbon and Hydrogen. It costs 3 dollars per million input tokens and 15 dollars per million output tokens, and Google says it is about 32% cheaper per task than Carbon in its default configuration.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "sources": [
         "AI Gen Art"
       ],
@@ -527,19 +995,6 @@
       "title": "Petition Supporting Jensen Huang Surpasses 200,000 Signatures",
       "description": "The open letter Stand With Jensen has gathered more than 200,000 signatures. The board nevertheless said that Jensen Huang would not return as CEO, while several investigations are still ongoing.",
       "link": "https://standwithjensen.com/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-20T15:08+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6367",
-      "title": "Google Launches Gemini 4 Hydrogen and Gemini 4 Neon Models",
-      "description": "Google launched Gemini 4 Hydrogen and Gemini 4 Neon after making Gemini 4 Carbon widely available the previous week. Neon currently ranks third on the Artificial Analysis Intelligence Index.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "sources": [
         "Superhuman"
       ],
@@ -731,27 +1186,14 @@
       "followed_topic": null
     },
     {
-      "id": "g6617",
-      "title": "AI Productivity Does Not Guarantee a Return on Investment",
-      "description": "A task accelerated by AI can still cost more after verification, corrections, integration, governance and human handling of exceptions. According to Capgemini, 59% of surveyed organizations spent significantly more than expected on AI, while only one in five calculates AI’s actual return.",
+      "id": "g6591",
+      "title": "AI productivity does not guarantee a return on investment",
+      "description": "A task accelerated by AI may nevertheless cost more after verification, corrections, integration, governance and exceptions handled by humans. According to Capgemini, 59% of the organizations surveyed spent far more than expected on AI, while only one in five companies calculates AI’s actual return.",
       "link": "https://www.linkedin.com/comm/pulse/irreplaceable-ai252-pascal-bornet-zboee?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3BpjqEHMvrR%2BOXarlkBNKgMQ%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=1TVCR_CBv7ysw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mwoxkbyl~8t-null-null&eid=5135t-mwoxkbyl-8t",
       "sources": [
         "Pascal Bornet"
       ],
       "received_at": "2026-11-20T14:27+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6603",
-      "title": "Apple is developing an autonomous AI agent to control devices and applications",
-      "description": "Apple is developing an autonomous AI agent capable of writing code, browsing the web, controlling applications, and operating devices. It will be able to plan and execute complex tasks across applications, browsers, command lines, code, and APIs.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-20T13:06+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -926,35 +1368,9 @@
       "followed_topic": null
     },
     {
-      "id": "g6599",
-      "title": "72% of organizations are exceeding their token budgets",
-      "description": "According to IDC, only 14% of organizations can track agentic AI costs by agent or action. Spending must therefore be tracked at the agent and workflow levels.",
-      "link": null,
-      "sources": [
-        "Intelligence Newsletter"
-      ],
-      "received_at": "2026-11-20T13:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6600",
       "title": "The cost of AI agents could more than quintuple by 2028",
       "description": "Gartner estimates that inference costs per agentic workflow could increase more than fivefold by 2028, as agents reason more and use more tools. Falling token prices therefore do not guarantee lower workflow costs.",
-      "link": null,
-      "sources": [
-        "Intelligence Newsletter"
-      ],
-      "received_at": "2026-11-20T13:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6601",
-      "title": "First-pass success rate is becoming a key economic metric",
-      "description": "According to Capgemini, organizations are turning to first-pass success rate and cost per completed workflow. A more expensive agent that succeeds immediately may cost less than a cheaper agent that regularly requires human intervention.",
       "link": null,
       "sources": [
         "Intelligence Newsletter"
@@ -971,19 +1387,6 @@
       "link": null,
       "sources": [
         "Intelligence Newsletter"
-      ],
-      "received_at": "2026-11-20T13:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6591",
-      "title": "AI productivity does not guarantee a return on investment",
-      "description": "AI can speed up a task while increasing overall costs due to verification, corrections, integration, and governance. The article proposes measuring AI’s actual return after accounting for these costs.",
-      "link": "https://substack.com/app-link/post?publication_id=1510035&post_id=225701094",
-      "sources": [
-        "Pascal Bornet"
       ],
       "received_at": "2026-11-20T13:04+01:00",
       "covered_by": 1,
@@ -1021,32 +1424,6 @@
       "title": "Salesforce is imposing monthly token limits for certain teams",
       "description": "Salesforce reportedly introduced monthly token budgets for certain teams after employees generated substantial AI-related bills.",
       "link": "https://www.businessinsider.com/salesforce-sets-monthly-ai-token-budgets-up-to-1-000-2026-11",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-20T13:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6595",
-      "title": "72% of companies exceeded their AI token budgets",
-      "description": "According to IDC, 72% of surveyed organizations exceeded their token budget over the past year. Only 14% can track agentic AI costs by agent or action.",
-      "link": "https://www.idc.com/resource-center/blog/beyond-the-saaspocalypse-the-pricing-question-most-vendors-arent-answering/",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-20T13:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6596",
-      "title": "First-pass success rate is becoming a key AI metric",
-      "description": "Capgemini says first-pass success should become a priority, along with cost per completed workflow. This metric helps reveal the repair work performed by humans.",
-      "link": "https://www.capgemini.com/news/press-releases/most-organizations-plan-to-adopt-a-multi-model-ai-strategy-as-nearly-six-in-ten-faced-significantly-higher-ai-costs-than-expected/",
       "sources": [
         "Pascal Bornet"
       ],
@@ -1173,19 +1550,6 @@
       "followed_topic": null
     },
     {
-      "id": "g6583",
-      "title": "JPMorgan and Mastercard report customer data leaks",
-      "description": "JPMorgan Chase and Mastercard said that cyber incidents exposed their customers’ data.",
-      "link": "https://www.businessinsider.com/jpmorgan-vendor-cyberattack-customer-data-exposed-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-20T12:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6584",
       "title": "Consumers stock up on generators and emergency meals",
       "description": "Shoppers are buying generators and emergency meals in anticipation of difficult situations.",
@@ -1216,19 +1580,6 @@
       "title": "U.S. Army wants to replace container shelters with bunkers",
       "description": "The U.S. Army wants to build concrete bunkers to replace container shelters for soldiers exposed to risks in the Middle East.",
       "link": "https://www.businessinsider.com/us-army-concrete-bunker-shipping-container-shelters-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-20T12:24+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6587",
-      "title": "Uber tests rides for 10-year-old children",
-      "description": "Uber is testing a ride service for children aged 10 and is paying drivers extra to transport them.",
-      "link": "https://www.businessinsider.com/uber-kids-tests-preteen-rides-and-pays-drivers-extra-2026-11",
       "sources": [
         "Business Insider"
       ],
@@ -1415,19 +1766,6 @@
         "The Neuron"
       ],
       "received_at": "2026-11-20T11:32+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6522",
-      "title": "Apple is preparing an AI agent to control the Mac while tightening access controls",
-      "description": "Apple is working on an agent capable of browsing the web, using multiple applications, executing commands and writing code. At the same time, macOS 27.3 will make warnings about full access granted to competing agents more visible.",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-20T11:04+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -1740,58 +2078,6 @@
         "TechnologyAdvice"
       ],
       "received_at": "2026-11-20T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6508",
-      "title": "How to configure Claude Projects like a pro",
-      "description": "This guide explains how to create dedicated workspaces, set custom instructions, and import reference files into Claude Projects. It also shows how to start conversations within a project and avoid mixing contexts.",
-      "link": "https://aicentral.tradepub.com/c/pubRD.mpl/?sr=sr&_t=sr:alg&qf=w_aice256",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-19T19:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6509",
-      "title": "Claude Cowork: setup guide",
-      "description": "This guide covers setting up Claude Cowork.",
-      "link": "https://aicentral.tradepub.com/c/pubRD.mpl/?sr=sr&_t=sr:alg&qf=w_aice229",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-19T19:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6510",
-      "title": "Guide to making Claude ten times smarter",
-      "description": "This guide explains how to configure Claude to make it “10x” smarter.",
-      "link": "https://aicentral.tradepub.com/c/pubRD.mpl/?sr=sr&_t=sr:alg&qf=w_aice227",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-19T19:31+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6511",
-      "title": "Seven Claude features professionals still use",
-      "description": "This article presents seven Claude features that professionals never overlook.",
-      "link": "https://link.mail.beehiiv.com/v2/c/352a280fd4bde934b3ea4b95d3c985cf6079ca717a0425ab83a9004a529c33bb445c3f93808b46d62bfcd42517237fbd02c6d7bf8ea55bc40fd38adcac649f7d68c986c727ba842803e746a67d939b1ccc9306e3d4423dfac1fa673d9ef47d1b701c5e5ef48b884703c067a8dbd4d7b799c413a3ba74fabcdaa65cf8da79c4af5d46b29cfaaa6ee0e6db51c331c0150f3da7710ed25402893b57e4cb134457af/e6ab934e501777d1",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-19T19:31+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
