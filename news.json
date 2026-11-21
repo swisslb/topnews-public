@@ -1,50 +1,47 @@
 {
   "date": "2026-11-21",
   "period": {
-    "from": "2026-11-20T13:25+01:00",
-    "to": "2026-11-21T13:25+01:00"
+    "from": "2026-11-20T19:25+01:00",
+    "to": "2026-11-21T19:25+01:00"
   },
-  "news_count": 74,
+  "news_count": 33,
   "news": [
     {
-      "id": "g6679",
-      "title": "Apple may be reconsidering bringing an OLED display to the iMac",
-      "description": "Apple is reportedly revisiting its plans for an OLED iMac, partly because of the cost and the lack of a sales increase seen with the OLED iPad Pro.",
-      "link": "https://appleinsider.com/articles/26/11/19/imac-may-never-get-an-oled-screen-as-apple-reconsiders-cost",
+      "id": "g6715",
+      "title": "OpenAI turns written briefs into playable 3D experiences with Astra",
+      "description": "GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model ranks first on a human-evaluated 3D benchmark.",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "sources": [
-        "AppleInsider",
-        "Techpresso"
+        "AI Gen Art"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-21T17:02+01:00",
+      "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
-    },
-    {
-      "id": "g6677",
-      "title": "iPhone camera chief Jon McCormack retires",
-      "description": "Jon McCormack, Apple’s head of iPhone cameras, has reportedly retired.",
-      "link": "https://appleinsider.com/articles/26/11/19/iphone-camera-chief-jon-mccormack-has-retired",
-      "sources": [
-        "AppleInsider",
-        "Techpresso"
-      ],
-      "received_at": "2026-11-21T00:54+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
       "id": "g6408",
-      "title": "OpenAI launches ChatGPT for Sales with more than 30 integrations",
-      "description": "OpenAI has launched ChatGPT for Sales, a plugin offering ready-to-use sales workflows and more than 30 integrations, including Salesforce and HubSpot.",
+      "title": "OpenAI launches ChatGPT for Sales with ready-to-use sales workflows",
+      "description": "ChatGPT for Sales offers workflows for selecting accounts, preparing for calls, and writing follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.",
       "link": "https://openai.com/index/introducing-chatgpt-for-sales/",
       "sources": [
-        "AI Gen Art",
-        "Superhuman"
+        "AI Gen Art"
       ],
-      "received_at": "2026-11-20T17:04+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-21T17:02+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6707",
+      "title": "Oxford researcher offers a guide to preparing children for the AI era",
+      "description": "Daniel Susskind, an associate researcher at the Oxford Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.",
+      "link": "https://www.businessinsider.com/daniel-susskind-what-should-my-children-do-review-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-21T12:33+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
@@ -88,6 +85,32 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
+      "id": "g6679",
+      "title": "Apple may be reconsidering bringing an OLED display to the iMac",
+      "description": "Apple is reportedly revisiting its plans for an OLED iMac, partly because of the cost and the lack of a sales increase seen with the OLED iPad Pro.",
+      "link": "https://appleinsider.com/articles/26/11/19/imac-may-never-get-an-oled-screen-as-apple-reconsiders-cost",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
+      "id": "g6677",
+      "title": "iPhone camera chief Jon McCormack retires",
+      "description": "Jon McCormack, Apple’s head of iPhone cameras, has reportedly retired.",
+      "link": "https://appleinsider.com/articles/26/11/19/iphone-camera-chief-jon-mccormack-has-retired",
+      "sources": [
+        "AppleInsider"
+      ],
+      "received_at": "2026-11-21T00:54+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Produits high-tech grand public"
+    },
+    {
       "id": "g6691",
       "title": "France sues Apple over planned obsolescence",
       "description": "Apple is being sued in France for planned obsolescence over the pairing process applied to certain iPhone and iPad components, which can cause problems when they are reused.",
@@ -101,9 +124,9 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
-      "id": "g6693",
-      "title": "A large-scale malware attack targeted iPhone and iPad users",
-      "description": "Malicious code injected into more than 170 sites through an Optimizely vulnerability attempted to steal banking and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.",
+      "id": "g6661",
+      "title": "A major malware attack targeted iPhone and iPad users",
+      "description": "Malicious code injected into more than 170 sites through an Optimizely vulnerability attempted to steal bank card and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.",
       "link": "https://us.list-manage.com/mj7NE84VBey?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
       "sources": [
         "AppleInsider"
@@ -140,167 +163,217 @@
       "followed_topic": "Produits high-tech grand public"
     },
     {
-      "id": "g6667",
-      "title": "Google employees call for school access to AI-free Search",
-      "description": "Google employees have launched a petition to let schools use Search without artificial-intelligence features.",
-      "link": "https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549",
+      "id": "g6720",
+      "title": "A Caltech math course fascinates readers",
+      "description": "In an introductory mathematics course at Caltech, a professor explained that he no longer grades homework for correctness because students use AI to complete it. Dozens of readers reacted in the comments.",
+      "link": "https://l.businessinsider.com/a/zc/21432/eda32607c93341ac915220c5632aa5cb/349eac756a5f4bfa8585f2b6a71f4afa",
       "sources": [
-        "Techpresso"
+        "Business Insider"
       ],
-      "received_at": "2026-11-20T18:56+01:00",
+      "received_at": "2026-11-21T18:00+01:00",
       "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6541",
-      "title": "OpenAI unveils Performance Factory, a Codex-powered optimization system",
-      "description": "OpenAI has unveiled Performance Factory, a software optimization system powered by Codex and designed to keep ChatGPT fast.",
-      "link": "https://venturebeat.com/orchestration/exclusive-openai-reveals-performance-factory-a-codex-powered-software-optimization-system-that-keeps-chatgpt-fast",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6680",
-      "title": "Elon Musk says SpaceX wants to eliminate mobile dead zones",
-      "description": "Elon Musk says SpaceX has a plan to eliminate areas without mobile-phone coverage.",
-      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "SpaceX et Starlink"
-    },
-    {
-      "id": "g6681",
-      "title": "Trump administration reportedly authorized shipment of 900,000 AI chips to China",
-      "description": "The Trump administration approved the shipment of 900,000 artificial-intelligence chips to China.",
-      "link": "https://thehill.com/policy/technology/6231677-trump-approves-ai-chip-sales/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6437",
-      "title": "Anthropic Makes Record Debut on Nasdaq",
-      "description": "Anthropic began trading on Nasdaq on November 19 under the ticker ANT, after pricing its IPO at 83 dollars per share. The company sold 980 million shares for about 81.3 billion dollars and must now answer to both its shareholders and its users.",
-      "link": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
-      "sources": [
-        "AI Gen Art",
-        "Superhuman"
-      ],
-      "received_at": "2026-11-20T17:04+01:00",
-      "covered_by": 2,
       "favorite": false,
       "followed_topic": null
     },
     {
-      "id": "g6367",
-      "title": "Google launches Gemini 4 Neon at a lower price than Carbon",
-      "description": "Google announced Gemini 4 Neon, a model positioned between Carbon and Hydrogen. It costs 3 dollars per million input tokens and 15 dollars per million output tokens, and Google says it is about 32% cheaper per task than Carbon in its default configuration.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "sources": [
-        "AI Gen Art",
-        "Superhuman"
-      ],
-      "received_at": "2026-11-20T17:04+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6657",
-      "title": "Microsoft Reportedly Preparing a 500 Million Dollar Deal with ByteDance",
-      "description": "Microsoft is reportedly close to a deal worth about 500 million dollars to give ByteDance greater access to OpenAI models on Azure, according to The Information. The move reportedly angered OpenAI.",
-      "link": "https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai",
+      "id": "g6215",
+      "title": "Gemini can now handle multi-step everyday tasks",
+      "description": "Google has expanded Gemini’s Tasks mode to handle tasks such as making appointments, reviewing bills, or placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "sources": [
         "AI Gen Art"
       ],
-      "received_at": "2026-11-20T17:04+01:00",
+      "received_at": "2026-11-21T17:02+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6645",
-      "title": "First Long-Distance Trip Completed in a Model Y",
-      "description": "An owner recounts their first long-distance trip in a Model Y. The discussion focuses on the experience of long-distance travel in an electric vehicle.",
-      "link": "https://www.teslaownersonline.com/threads/first-long-distance-trip-in-model-y.40006/page-2?post_id=481102#post-481102",
+      "id": "g6050",
+      "title": "Google Maps generates complete itineraries for road trips",
+      "description": "The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for outings or multi-day road trips. The itineraries show traffic, opening hours, and the atmosphere of places, among other details.",
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "sources": [
-        "Threadloom"
+        "AI Gen Art"
       ],
-      "received_at": "2026-11-20T16:49+01:00",
+      "received_at": "2026-11-21T17:02+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Véhicules électriques et Tesla"
+      "followed_topic": null
     },
     {
-      "id": "g6648",
-      "title": "A New iPhone Enables Access to a Tesla",
-      "description": "A discussion focuses on accessing a Tesla from a new iPhone. One member points out that Bluetooth must be enabled for the Tesla app, after a relative encountered a problem because the permission had been disabled.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsq8daWhvRBDWDVfYeWOfkksgYKBej-vFPc3wYbdhbcYRn7NJLwTdpp5xIXxQKjNS-hBVI7l0RoEOtg-ao1CjcH1sRh6i5-wDNys-IE1VfNhfg03LsNztSh_8f0iyjGmLI8d8f5k13xopA678to0Rr4vB0XXOo-p5vI6kCfkyFCinuESfKDshE62l--vJvy0TkUe7EjK00JZSomeVCBm81gdbT2jmT1sA7rFo3BsxFW3ADuQqOWxpj8EaS7H2HrideWjOoMtkf2RBFjV8AQza4WvYYO8uLfxhySuAcFzcdF4o/4vw/RyYnohgiSRyE3DtU6s-yDg/h65/h001.1sb9Y3SY3KTD_vf0hkhMh73FLjuFPnGQENQoGG9feG8",
+      "id": "g6718",
+      "title": "Claude Meetings joins Google Meet to create documents live",
+      "description": "Anthropic has launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting, and add Claude.",
+      "link": "https://link.mail.beehiiv.com/v2/c/f4de177cb8f10bcd78e3e0b97167366b3ef0aca735629fe09a390bfbb4a0bc73119a3df840cca7cdc3c0642c9017a430f04feefd72204773f77f358a125045a78afa419fe49db6a3b8bd58f580c667b1f074295c2efdc0a3eacdadbb64074b97e466420a0aaec631b14d37ec2e339741db513339578ee05994f839f4c382f9033ef92606e113ddca4087fc0bcd209836eedab019d7c02df719f0fd968d53223b69b90dce10ce41f60ba5e7f014fc1a3e112b7d866d4d92d878e9089bf675f05a/d1dbff5039f1b10a",
       "sources": [
-        "Threadloom"
+        "AI Gen Art"
       ],
-      "received_at": "2026-11-20T16:49+01:00",
+      "received_at": "2026-11-21T17:02+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6632",
-      "title": "ChatGPT Health Rolls Out to More Plans and Platforms",
-      "description": "ChatGPT’s health platform is rolling out across all plans and most platforms, including the desktop app, Dots, Sites and Android in the United States. It allows health information to be connected across multiple apps.",
-      "link": "https://chatgpt.com/health/",
+      "id": "g6709",
+      "title": "The 50 Claude terms advanced users know",
+      "description": "A glossary of 50 terms explains Claude’s essential features and concepts, including artifacts, context windows, projects, skills, and MCP. The article recommends immediately putting the terms one knows less well into practice.",
+      "link": "https://link.mail.beehiiv.com/v2/c/b84e02d40b79bc1ec254da9371875cbfdc5cfa3fb779e0d22ae8208266a8078c85ccf04e21ee5482cf088503e66dda6ec7d597b01c6261c20749aa2debef8f2b81794f387d0c52715389f5e87046492f7ad09a7907a31114791cd0c34e9a18c3944367f557886a728c64cd98ad58fe09a660ee8f40f9e8093fcb67f46c99bac9473a1bc939ee67d8c963799f78182ed21724c0613ce11b3cdb0d84c14eaad2df8cb89b9526d0efdc615bc6f30e58b6ccccd5bef6d1b46de2296a32e32aa111e8/741c23a7d10a2b0f",
       "sources": [
-        "Superhuman"
+        "Cyber Corsairs"
       ],
-      "received_at": "2026-11-20T15:08+01:00",
+      "received_at": "2026-11-21T15:48+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6214",
-      "title": "OpenAI Launches GPT-6.2 Astra and GPT-6.2 Sol Models",
-      "description": "OpenAI introduced GPT-6.2 Astra, its new flagship model, as well as GPT-6.2 Sol, a more efficient variant.",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "id": "g6710",
+      "title": "Anthropic explains how Claude artifacts work",
+      "description": "The guide presents the documents, designs, and small tools Claude creates in a panel beside the chat, along with options for editing and sharing them.",
+      "link": "https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them",
       "sources": [
-        "Superhuman"
+        "Cyber Corsairs"
       ],
-      "received_at": "2026-11-20T15:08+01:00",
+      "received_at": "2026-11-21T15:48+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6622",
-      "title": "IT Leaders Determine Which Decisions to Delegate to Machines",
-      "description": "IT leaders are assessing the deployment of autonomous IT tools and generative AI in highly secure environments. Organizations are implementing local language models, data governance and strict human controls.",
-      "link": "https://federalnewsnetwork.com/it-modernization/2026/11/it-leaders-are-deciding-which-decisions-machines-can-make-on-their-own/",
+      "id": "g6711",
+      "title": "Claude details the size of its context window",
+      "description": "This article presents the limits of paid plans and explains how Claude summarizes older messages when a long conversation approaches the context limit.",
+      "link": "https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans",
       "sources": [
-        "TLDR IT"
+        "Cyber Corsairs"
       ],
-      "received_at": "2026-11-20T14:53+01:00",
+      "received_at": "2026-11-21T15:48+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6690",
-      "title": "The UK can no longer conceal its Apple data request",
-      "description": "The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court sided with Apple on holding the case in public.",
+      "id": "g6712",
+      "title": "Anthropic explains search in Claude conversations and Claude’s memory",
+      "description": "The guide shows how Claude remembers the user across conversations and how to view, edit, or pause the stored information.",
+      "link": "https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-21T15:48+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6713",
+      "title": "The Model Context Protocol connects AI applications to data and tools",
+      "description": "The Model Context Protocol is presented as an open standard for connecting AI applications to personal data and tools, like a USB-C port for AI.",
+      "link": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-21T15:48+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6714",
+      "title": "Anthropic shows how to enable and create your own skills",
+      "description": "The guide explains how to enable skills in the personalization settings and upload your own skills to automate tasks in Claude.",
+      "link": "https://support.claude.com/en/articles/12512180-use-skills-in-claude",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-21T15:48+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6701",
+      "title": "A woman buys a house with her older sister and her sister’s husband",
+      "description": "A woman says she bought a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.",
+      "link": "https://www.businessinsider.com/bought-house-with-sister-and-her-husband-how-it-works-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-21T12:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6702",
+      "title": "Americans are expected to eat 46 million turkeys at Thanksgiving",
+      "description": "The average price of a turkey has reached 28.55 dollars, up 5.5% from a year ago. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.",
+      "link": "https://www.finder.com/research/american-thanksgiving-turkey-spend",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-21T12:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6703",
+      "title": "Zone 2 cardio isn’t enough to improve fitness",
+      "description": "Zone 2 is often presented as ideal for burning fat, improving endurance, and supporting metabolism. But athletes, doctors, and researchers say that a routine consisting only of Zone 2 is a mistake and that variety is essential.",
+      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8084a26bb8a34aa4a6c4a6bc5b13e910",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-21T12:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6704",
+      "title": "Despite their bad reputation, cruises have never been more popular",
+      "description": "Cruises have faced numerous warnings related to illness and incidents, but the industry continues to grow. Social media, innovation, and affordable prices have supported their popularity, even after the pandemic brought the industry to a halt.",
+      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8a6810cf31114129afc1b21e5e920d47",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-21T12:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6705",
+      "title": "A 19-hour business-class flight makes economy class feel regrettable",
+      "description": "During a 19-hour flight between New Jersey and Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully reclining bed so much that she was disappointed to arrive.",
+      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/0eaf23d1073947f9884d0a42a83c23ab",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-21T12:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6706",
+      "title": "In El Paso, land bought in 1971 has remained almost unchanged",
+      "description": "In 1971, a Business Insider journalist’s grandparents bought a residential plot of land in El Paso for 1,400 dollars, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more litter.",
+      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/5a60cd0cccda4569b0a5393292a10406",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-21T12:33+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6492",
+      "title": "The UK can no longer conceal its request for Apple data",
+      "description": "The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court ruled in Apple’s favor on holding the case in public.",
       "link": "https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
       "sources": [
         "AppleInsider"
@@ -358,617 +431,6 @@
         "GPT Central"
       ],
       "received_at": "2026-11-20T19:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6525",
-      "title": "Claude reportedly helped demonstrate the Riemann hypothesis",
-      "description": "Anthropic mathematician Levent Alpöge claims to have worked with Claude to find a proof of the Riemann hypothesis, a 167-year-old problem in number theory. The claim has yet to be confirmed.",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6522",
-      "title": "Apple is developing an AI agent capable of controlling a Mac",
-      "description": "Apple is developing an autonomous AI agent for Mac that can write code, browse the web and control applications on the user’s behalf. It could launch as early as the end of next year.",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6661",
-      "title": "Signal wants to stop Siri and Gemini from reading conversations",
-      "description": "Signal limits screenshots on iOS 27 and Android when an AI assistant attempts to read the screen, to protect private conversations. The protection remains incomplete, particularly on macOS 27.",
-      "link": "https://www.unite.ai/signal-adds-screenshot-restrictions-to-limit-mobile-ai-data-capture/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6662",
-      "title": "Former employees accuse Jensen Huang of running Nvidia through fear",
-      "description": "Former Nvidia employees say Jensen Huang ran the company through fear and humiliation. His spokesperson calls the accusations fabrications.",
-      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6524",
-      "title": "Google books Blue Origin to launch AI satellites in 2029",
-      "description": "Blue Origin will launch satellites serving as data centers for Google in 2029 as part of the Suncatcher project. The mission is intended to test networking AI chips and running machine-learning tasks in space.",
-      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6664",
-      "title": "Intuit sells Mailchimp to Bending Spoons for 3.68 billion dollars",
-      "description": "Intuit has agreed to sell Mailchimp to Italian holding company Bending Spoons for about 3.68 billion dollars, less than one-third of the price paid in 2021. The transaction is expected to close in early 2027, subject to regulatory approval.",
-      "link": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6536",
-      "title": "Google Gemini can now control a Mac",
-      "description": "Google Gemini can now be used to control a Mac.",
-      "link": "https://betanews.com/article/google-gemini-control-macos/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6666",
-      "title": "Meta’s new Muse device could cost 300 dollars",
-      "description": "Meta’s new Muse device could cost 300 dollars.",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6668",
-      "title": "Google’s new homepage puts greater emphasis on Gemini",
-      "description": "Google’s latest homepage redesign gives Gemini an even more prominent position.",
-      "link": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6669",
-      "title": "Amazon opposes the Delivery Protection Act with prominent messages",
-      "description": "Amazon is fighting the Delivery Protection Act by displaying a banner on its homepage and a pop-up in its app.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6587",
-      "title": "Uber tests rides for children as young as 10 with an extra driver fee",
-      "description": "Uber is testing rides for children aged 10 and over, with additional compensation for drivers.",
-      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6672",
-      "title": "Google will require Android app verification worldwide in 2027",
-      "description": "Google will introduce a worldwide Android app verification requirement in January 2027.",
-      "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6673",
-      "title": "Kirsten Davies replaces Sean Cairncross as head of US cybersecurity",
-      "description": "Pentagon CIO Kirsten Davies is replacing Sean Cairncross as the US director of cybersecurity.",
-      "link": "https://thenextweb.com/news/national-cyber-director-kirsten-davies-replaces-sean-cairncross",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6674",
-      "title": "Research acceleration: The jagged frontier",
-      "description": "The article presents an analysis of research acceleration and its uneven limits.",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6543",
-      "title": "Muse’s privacy violations worry Meta employees",
-      "description": "Internal communications show that Meta employees are concerned about privacy violations linked to Muse.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6583",
-      "title": "Hackers leak data from JPMorgan, Visa and Mastercard",
-      "description": "Hackers have leaked data from JPMorgan, Visa and Mastercard.",
-      "link": "https://futurism.com/future-society/hackers-leak-jpmorgan-visa-mastercard-n0n",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6538",
-      "title": "Google created a fake Internet to protect Chrome from its AI’s mistakes",
-      "description": "Google built an artificial Internet so Chrome’s AI would not damage the real web.",
-      "link": "https://www.digitaltrends.com/computing/google-builds-fake-internet-to-train-and-test-gemini-ai-agents/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6682",
-      "title": "AI models can identify the author of anonymous text",
-      "description": "A study shows that leading models can identify the origin of anonymous text, including the lab behind 98% of AI-generated texts and the accounts of 69% of certain Reddit commenters.",
-      "link": "https://arxiv.org/abs/2611.26216",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6683",
-      "title": "Guardrails help mobile agents avoid risky actions",
-      "description": "Safeguards allow mobile AI assistants to act autonomously while blocking risky operations such as payments. They increase the blocking of dangerous actions from about 30% to 97% and reduce costly AI calls by up to six times.",
-      "link": "https://arxiv.org/abs/2611.25526",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-20T18:56+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6658",
-      "title": "Amazon Threatens to Raise Prices in New York if Law Passes",
-      "description": "Amazon opposes the Mamdani-backed Delivery Protection Act, which would require it to employ delivery workers directly. The company threatens to raise its prices if the proposal is adopted.",
-      "link": "https://l.businessinsider.com/a/zc/21432/0bfd973102ff4ec18c5f97e953c878d1/9419cd270bae492a85fd743e95b54bab",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-20T17:27+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6347",
-      "title": "Pika unveils Enact for directing live AI video",
-      "description": "Pika has unveiled Enact, an experimental environment that generates video and sound in fragments of less than a second, allowing users to guide a scene as it plays. Users can move actors or objects, give characters instructions, and control a virtual camera live.",
-      "link": "https://pika.art/blog/pika-enact",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-20T17:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6641",
-      "title": "Tesla Superchargers Appear to Be Reserved for the Brand’s Vehicles",
-      "description": "A user noticed signs indicating that several chargers in Hinkley, Minnesota, are reserved for Teslas. They wonder whether the stations can detect a non-Tesla vehicle and refuse to charge it.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsn3WhPCtImxcKFj93zLu2BkvojMmqvLw0DgIpd12trEP2XUuWFYf8ujd5G9B7OWQl-WzAyq6v0Vf9KNIMg01Q5kmDxVFwShUBRWl-_ZsZKt6akm125z9yLHNEXS0-jTIWD0qKINYuXkF4uMxRJBqfRp0worMzD3cckURMOnhL1C4tn1hImTAaMTo_1H2xksO_I0yIDgcWUo7XQqf9gz14Zikc6wXP1xp4NgbD3WjapE2zXRHQyewbqjvA6IDBkgHdun7RVllHRTI_n1P6vGUJJguq5cndJ7dftjBgCzlUmNA/4vw/RyYnohgiSRyE3DtU6s-yDg/h22/h001.M4ISHoaB0VNkzJCBU-JLBtKd67y0WAI2JgTu6rrEDwU",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6642",
-      "title": "Tesla’s Cybercab Is Now Available by Invitation",
-      "description": "The Cybercab is now available to individuals by invitation only. One member believes this availability is aimed mainly at people with a great deal of money who are not very concerned about the cost.",
-      "link": "https://www.teslaownersonline.com/threads/cybercab-now-available-by-invite.39976/page-3?post_id=481180#post-481180",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6643",
-      "title": "User Wants to Illuminate Their Tesla’s Charging Port",
-      "description": "A member would like a light in the charging port to make it easier to locate the plug when it is raining. One response suggests adding a piece of fluorescent or white tape near the port.",
-      "link": "https://www.teslaownersonline.com/threads/charging-i%E2%80%99d-like-a-light-in-the-charging-hole-so-when-it%E2%80%99s-raining-i-don%E2%80%99t-have-to-stick-my-finger-in-it-to-find-where-to-place-the-nozzle.40020/?post_id=481048#post-481048",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6644",
-      "title": "Owner Suggests Fluorescent Tape to Make the Charging Port Easier to See",
-      "description": "To make the charging port more visible, a member recommends placing a thin piece of fluorescent or white tape above or below the port.",
-      "link": "https://www.teslaownersonline.com/threads/charging-i%E2%80%99d-like-a-light-in-the-charging-hole-so-when-it%E2%80%99s-raining-i-don%E2%80%99t-have-to-stick-my-finger-in-it-to-find-where-to-place-the-nozzle.40020/?post_id=481048#post-481048",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6646",
-      "title": "Catastrophic Trunk Strut Failure Reported on a Model Y",
-      "description": "An owner reports a catastrophic failure of their Tesla’s trunk strut. Tesla reviewed the photos and confirmed that the repair would be covered under warranty, with a loaner vehicle provided.",
-      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVs41gTZeg5SuRMFCgolkToTU1z6sQMpgfVrce8ma3OoOdvXRVvoXvIhRQ_bQsbSadU3kp2dszb6vlR_2qbzdr-feJaZr2Ckm42ui_QCcWvmxX1mGzoKhYdQ-mIjxLrLY8IHhD3HYU57z4VOMbgpCbhU6JJZTv4cAKT4YTDpZ1LgUO1eBKhPVyn3cHqKzqLI2Y0FvSTg0Xuogml-yOlILNAD9LHcteeWeZNqxS08BdGePvNS_a4UtNv6eKmU9WWnaS3hkgj5oso_rRzv4E8Mh4hnN4-6oJDElcU3jsLjdkj7UvTgJUEiU0rm1zI1Fz4XTtj/4vw/RyYnohgiSRyE3DtU6s-yDg/h58/h001.Q4FbUEHvxMk8Fcnd8STbAbz9lkocVKEqleGLosdoHjU",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6647",
-      "title": "Tesla Software Update 2026.38.* Discussed",
-      "description": "The Tesla software version 2026.38.* is being discussed in relation to updates and the brand’s vehicle firmware.",
-      "link": "https://www.teslaownersonline.com/threads/software-build-2026-38.39412/page-4?post_id=481128#post-481128",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6649",
-      "title": "2018 Model 3 Owners Discuss the 12 V Battery",
-      "description": "Owners of 2018 Model 3s are discussing alerts and replacement of the 12 V battery. Some say they received alerts at regular three- or four-year intervals.",
-      "link": "https://www.teslaownersonline.com/threads/2018-model-3-owners.39840/page-4?post_id=481214#post-481214",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6650",
-      "title": "Discussion Focuses on Level 1 or Level 2 Mobile Charging",
-      "description": "An owner recounts using a mobile charger to finish charging their Tesla after arriving at their daughter’s home with 80% battery.",
-      "link": "https://www.teslaownersonline.com/threads/level-1-2-mobil-charging.39942/page-2?post_id=481218#post-481218",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6651",
-      "title": "Tesla Software Update 2026.44.* Mentioned",
-      "description": "The Tesla software version 2026.44.* is referenced in the section devoted to Tesla software and firmware.",
-      "link": "https://www.teslaownersonline.com/threads/software-build-2026-44.40026/?post_id=481056#post-481056",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6652",
-      "title": "2024 Model X Owner Returns to a Round Steering Wheel and Discusses Tire Wear",
-      "description": "A topic about a 2024 Model X covers switching from the yoke to a round steering wheel, as well as replacing all four tires after 30,000 miles.",
-      "link": "https://www.teslaownersonline.com/threads/2024-model-x-switching-to-round-steering-yoke-issue-not-talked-about-much-and-4-new-tires-at-30k.40028/?post_id=481082#post-481082",
-      "sources": [
-        "Threadloom"
-      ],
-      "received_at": "2026-11-20T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g5079",
-      "title": "Petition Supporting Jensen Huang Surpasses 200,000 Signatures",
-      "description": "The open letter Stand With Jensen has gathered more than 200,000 signatures. The board nevertheless said that Jensen Huang would not return as CEO, while several investigations are still ongoing.",
-      "link": "https://standwithjensen.com/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-20T15:08+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6215",
-      "title": "Google Rolls Out Gemini Tasks to Improve Daily Task Management",
-      "description": "Google rolled out Gemini Tasks, a feature designed to make its main chatbot more effective at handling everyday tasks.",
-      "link": "https://archive.superhuman.ai/2122737596971503885",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-20T15:08+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6639",
-      "title": "Lastbook Offers an Offline Guide for Coping with Power Outages",
-      "description": "Lastbook gathers the information needed to get through a power outage in one’s neighborhood. The guide went viral amid widespread outages.",
-      "link": "https://lastbook.org/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-20T15:08+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6050",
-      "title": "Google Maps Can Now Create Detailed Routes with Gemini",
-      "description": "Google Maps’ Gemini-powered assistant can now create step-by-step routes for both short trips and long road journeys.",
-      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-20T15:08+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6619",
-      "title": "Microsoft and Intel Strengthen Partnership for Azure Infrastructure",
-      "description": "Microsoft and Intel are expanding their collaboration to advance Azure’s cloud and AI infrastructure. The agreement covers advanced EMIB packaging, Xeon processors, CXL memory and confidential computing.",
-      "link": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6403",
-      "title": "Palo Alto Networks Acquires Applied Compute for 4.5 Billion Dollars",
-      "description": "Palo Alto Networks will acquire Applied Compute for 4.5 billion dollars in stock to add tools for training and deploying customized open-weight AI models. The transaction is expected to close in the third fiscal quarter of 2027.",
-      "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6621",
-      "title": "Workday Creates European Entity to Manage Its Sovereign Cloud",
-      "description": "Workday plans to establish an Ireland-based company governed by a board made up of EU citizens to operate its European sovereign cloud. The service is based on AWS European Sovereign Cloud and is expected to be operational in early 2027.",
-      "link": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6623",
-      "title": "Legacy Software Could Hinder Enterprise AI",
-      "description": "According to Google Cloud, maintenance costs and vendor dependence are limiting companies’ AI ambitions. A Google-commissioned study found that 78% of surveyed technology leaders believe legacy systems divert resources away from AI.",
-      "link": "https://federalnewsnetwork.com/commentary/2026/11/when-the-legacy-software-meant-to-delivery-ai-becomes-a-trap/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6624",
-      "title": "Nvidia Expands Azure Infrastructure and On-Premises AI Options",
-      "description": "Nvidia and Microsoft will expand access to Azure virtual machines equipped with Vera Rubin systems and add model customization capabilities through Microsoft Foundry. Azure Local will also support more Nvidia GPUs and Jetson platforms.",
-      "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6625",
-      "title": "OVHcloud Announces 55 Cloud and AI Products",
-      "description": "OVHcloud unveiled 55 cloud and AI offerings covering infrastructure, networking, development tools and enterprise applications. The company notably plans to add Nvidia Blackwell B300 and Rubin R200 GPUs to its services hosted in Europe.",
-      "link": "https://www.cloudcomputing-news.net/news/ovhcloud-cloud-ai-products-europe-sovereignty/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6626",
-      "title": "Microsoft Launches Service to Control AI Agent Behavior",
-      "description": "Microsoft introduced Agent Controls, an Azure service designed to centrally define, manage and evaluate policies governing AI agent behavior. It provides runtime governance for heterogeneous agent fleets using classifiers, LLM judges and Rego rules.",
-      "link": "https://commandline.microsoft.com/introducing-agent-controls-an-enterprise-control-plane-for-agent-behavior/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6627",
-      "title": "Google Introduces Sashiko, an AI System for Reviewing Linux Kernel Code",
-      "description": "Google’s AI and Infrastructure team created Sashiko, an open-source Gemini-based code review system to help maintainers examine Linux kernel patches. After seven months of use, it performs about 1,200 reviews per day and is associated with a 35% decline in follow-up fixes after 60 days.",
-      "link": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6628",
-      "title": "CloudFront Functions Now Supports Network Calls",
-      "description": "CloudFront Functions now allows lightweight JavaScript running at edge locations to make API requests and act on their responses in real time.",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-functions-network-calls/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6629",
-      "title": "Enterprise AI Needs More Than GPUs",
-      "description": "AI agents also need processors, networking, storage and isolated environments to run code and interact with enterprise systems.",
-      "link": "https://siliconangle.com/2026/11/19/enterprise-ai-pushing-cloud-infrastructure-beyond-gpu-kubeconna/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-20T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6618",
-      "title": "Measure AI Agent Cost per Successful Outcome, Not per Token",
-      "description": "AI agents should be evaluated like a workforce, with a mini income statement covering their cost, success rate, human assistance required and value created. The key metric to track is cost per successful outcome, in order to optimize architecture and model usage.",
-      "link": "https://www.linkedin.com/comm/pulse/agentic-intelligence-67-pascal-bornet-k3wwe?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3B84%2Bxi1lcQNC0HkGFEqAGXw%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=1QXbynNqPmysw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mwoxmmzu~4f-null-null&eid=5135t-mwoxmmzu-4f",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-20T14:42+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6591",
-      "title": "AI productivity does not guarantee a return on investment",
-      "description": "A task accelerated by AI may nevertheless cost more after verification, corrections, integration, governance and exceptions handled by humans. According to Capgemini, 59% of the organizations surveyed spent far more than expected on AI, while only one in five companies calculates AI’s actual return.",
-      "link": "https://www.linkedin.com/comm/pulse/irreplaceable-ai252-pascal-bornet-zboee?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3BpjqEHMvrR%2BOXarlkBNKgMQ%3D%3D&midToken=AQGT6pfMLYPQUQ&midSig=1TVCR_CBv7ysw1&trk=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_&trkEmail=eml-email_series_follow_newsletter_02-newsletter_content_preview-0-headline_-null-5135t~mwoxkbyl~8t-null-null&eid=5135t-mwoxkbyl-8t",
-      "sources": [
-        "Pascal Bornet"
-      ],
-      "received_at": "2026-11-20T14:27+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
