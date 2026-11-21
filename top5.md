@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-21
 
-Period: 2026-11-20T06:25+01:00 → 2026-11-21T06:25+01:00 · 158 news received
+Period: 2026-11-20T13:25+01:00 → 2026-11-21T13:25+01:00 · 74 news received
 
-## 1. Anthropic Makes Record Debut on Nasdaq
+## 1. Trump administration reportedly authorized shipment of 900,000 AI chips to China
 
-**Why it matters:** Anthropic’s record Nasdaq debut is a major validation of the AI investment cycle while exposing the company to public-market scrutiny over profitability and governance.
+**Why it matters:** The reported approval of 900,000 AI-chip shipments to China could materially reshape US export controls, Nvidia’s market access and the broader US-China technology rivalry.
+
+The Trump administration approved the shipment of 900,000 artificial-intelligence chips to China.
+
+- Link: https://thehill.com/policy/technology/6231677-trump-approves-ai-chip-sales/
+- Sources: Techpresso
+- Received: 2026-11-20T18:56+01:00
+
+## 2. Anthropic Makes Record Debut on Nasdaq
+
+**Why it matters:** Anthropic’s reported $81.3 billion Nasdaq debut marks a major test of investor appetite and public-market valuations for frontier AI companies.
 
 Anthropic began trading on Nasdaq on November 19 under the ticker ANT, after pricing its IPO at 83 dollars per share. The company sold 980 million shares for about 81.3 billion dollars and must now answer to both its shareholders and its users.
 
 - Link: https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo
-- Sources: AI Gen Art, Superhuman, Business Insider, The Neuron, Vision IA
+- Sources: AI Gen Art, Superhuman
 - Received: 2026-11-20T17:04+01:00
 
-## 2. U.S. restricts exports of AI chips to foreign data centers
+## 3. Google launches Gemini 4 Neon at a lower price than Carbon
 
-**Why it matters:** U.S. restrictions on advanced AI-chip exports to foreign data centers will reshape global compute access, supply chains and the competitive balance with China.
+**Why it matters:** Google’s lower-priced Gemini 4 Neon intensifies the AI model price war and could pressure competitors’ margins and enterprise adoption strategies.
 
-The U.S. Commerce Department restricted, effective November 19, exports of advanced AI chips to foreign data centers providing large-scale computing capacity to companies in China and other restricted countries.
+Google announced Gemini 4 Neon, a model positioned between Carbon and Hydrogen. It costs 3 dollars per million input tokens and 15 dollars per million output tokens, and Google says it is about 32% cheaper per task than Carbon in its default configuration.
 
-- Link: https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf
-- Sources: The Neuron
-- Received: 2026-11-20T11:32+01:00
+- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+- Sources: AI Gen Art, Superhuman
+- Received: 2026-11-20T17:04+01:00
 
-## 3. Palo Alto Networks Acquires Applied Compute for 4.5 Billion Dollars
+## 4. The UK can no longer conceal its Apple data request
 
-**Why it matters:** Palo Alto Networks’ $4.5 billion acquisition of Applied Compute signals that cybersecurity companies are moving aggressively into AI-model training and deployment infrastructure.
+**Why it matters:** The UK’s forced disclosure of its iCloud backdoor request creates a significant precedent for government access to encrypted services and Apple’s privacy policy.
 
-Palo Alto Networks will acquire Applied Compute for 4.5 billion dollars in stock to add tools for training and deploying customized open-weight AI models. The transaction is expected to close in the third fiscal quarter of 2027.
+The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court sided with Apple on holding the case in public.
 
-- Link: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open
-- Sources: TLDR IT
-- Received: 2026-11-20T14:53+01:00
+- Link: https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
+- Sources: AppleInsider
+- Received: 2026-11-21T00:54+01:00
 
-## 4. Apple is developing an AI agent capable of controlling a Mac
+## 5. Intuit sells Mailchimp to Bending Spoons for 3.68 billion dollars
 
-**Why it matters:** Apple’s planned Mac-controlling AI agent could materially change how users interact with software and intensify competition with Microsoft and Google in autonomous computing.
+**Why it matters:** Intuit’s sale of Mailchimp for $3.68 billion—less than a third of its 2021 purchase price—highlights the sharp repricing of SaaS assets and the pressure on software portfolios.
 
-Apple is developing an autonomous AI agent for Mac that can write code, browse the web, and control apps on the user’s behalf. It could launch as early as the end of next year.
+Intuit has agreed to sell Mailchimp to Italian holding company Bending Spoons for about 3.68 billion dollars, less than one-third of the price paid in 2021. The transaction is expected to close in early 2027, subject to regulatory approval.
 
-- Link: https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
-- Sources: Techpresso, TLDR, Vision IA
-- Received: 2026-11-20T18:56+01:00
-
-## 5. Google books Blue Origin to launch AI satellites in 2029
-
-**Why it matters:** Google’s agreement with Blue Origin to test orbital AI data centers points to a potentially significant long-term shift in how hyperscalers obtain energy and deploy compute, despite the project’s early stage.
-
-Blue Origin will launch satellites serving as data centers for Google in 2029 as part of the Suncatcher project. The mission will test networking AI chips and running machine-learning tasks in space.
-
-- Link: https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/
-- Sources: Techpresso, TLDR, The Neuron
+- Link: https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/
+- Sources: Techpresso
 - Received: 2026-11-20T18:56+01:00
