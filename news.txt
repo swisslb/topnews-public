@@ -1,152 +1,264 @@
-# All newsletter news — 2026-11-21
+# All newsletter news — 2026-11-22
 
-Period: 2026-11-20T19:25+01:00 → 2026-11-21T19:25+01:00 · 33 news received
+Period: 2026-11-21T06:25+01:00 → 2026-11-22T06:25+01:00 · 42 news received
 
-## 1. OpenAI turns written briefs into playable 3D experiences with Astra
+## 1. Oracle says its contract with OpenAI is fully funded
 
-GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model ranks first on a human-evaluated 3D benchmark.
+Oracle said its contract with OpenAI was fully funded, in response to reports published in the media.
+
+- Link: https://thenextweb.com/news/oracle-openai-contract-fully-funded-20bn-raise
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 2. Cursor considers phasing out Chinese AI models
+
+Cursor, a SpaceX subsidiary, told U.S. lawmakers that it was considering phasing out the use of Chinese AI models.
+
+- Link: https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 3. ChatGPT runs on a Super Nintendo console
+
+Someone got ChatGPT running on a Super Nintendo, with performance considered better than expected.
+
+- Link: https://www.howtogeek.com/someone-ran-chatgpt-on-a-snes-and-it-performs-better-than-youd-expect/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 4. OpenAI turns written briefs into playable 3D experiences with Astra
+
+GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model leads a human-evaluated 3D benchmark.
 
 - Link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 2. OpenAI launches ChatGPT for Sales with ready-to-use sales workflows
+## 5. OpenAI launches ChatGPT for Sales with ready-to-use sales workflows
 
-ChatGPT for Sales offers workflows for selecting accounts, preparing for calls, and writing follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.
+ChatGPT for Sales offers workflows for selecting accounts, preparing calls and drafting follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.
 
 - Link: https://openai.com/index/introducing-chatgpt-for-sales/
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 3. Oxford researcher offers a guide to preparing children for the AI era
+## 6. Oxford researcher offers a guide to preparing children for the AI era
 
-Daniel Susskind, an associate researcher at the Oxford Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.
+Daniel Susskind, an associate researcher at Oxford’s Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.
 
 - Link: https://www.businessinsider.com/daniel-susskind-what-should-my-children-do-review-2026-11
 - Sources: Business Insider
 - Received: 2026-11-21T12:33+01:00
 
-## 4. iPhone Air 2 and iPhone 18 reveal their designs through dummy units
+## 7. GTA VI generates $3.8 billion on its first day
 
-Leaked dummy units indicate that the iPhone Air 2 will feature two rear cameras, while the standard iPhone 18 will reportedly have no notable changes.
+Grand Theft Auto VI generated $3.79 billion in 24 hours, a record for a cultural release. Rockstar Games had sold 32.5 million copies even before launch.
 
-- Link: https://us.list-manage.com/OCPqBzYhhdC?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://www.business-standard.com/technology/tech-news/gta-vi-generates-3-79-bn-becomes-biggest-entertainment-launch-ever-126112100066_1.html
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 5. iPhone 20 Pro could adopt a curved display with slimmer bezels
+## 8. YouTube nears $3 billion settlement with U.S. schools
 
-A new video allegedly shows the iPhone 20 Pro’s curved display, with significantly reduced bezels.
+YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protection measures, which have not yet been specified.
 
-- Link: https://appleinsider.com/articles/26/11/17/this-is-what-the-iphone-20-pro-curved-glass-screen-could-look-like
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 6. iPhone 20’s curved edges would be nearly invisible from the front
+## 9. SEC investigates Nvidia’s accounting
 
-The future iPhone 20 design would use curved glass edges that would be virtually invisible from the front.
+The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.
 
-- Link: https://appleinsider.com/articles/26/11/18/curved-glass-edges-of-iphone-20-will-be-practically-invisible-from-the-front
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://www.cryptopolitan.com/us-sec-civil-probe-into-nvidias-accounting/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 7. Apple may be reconsidering bringing an OLED display to the iMac
+## 10. FBI investigates suspected intrusion into its criminal database
 
-Apple is reportedly revisiting its plans for an OLED iMac, partly because of the cost and the lack of a sales increase seen with the OLED iPad Pro.
+The FBI is investigating an apparent intrusion into the National Crime Information Center, used by U.S. law enforcement agencies to check warrants and conduct background checks. A former official said the reliability of the data could be called into question, beyond its confidentiality.
 
-- Link: https://appleinsider.com/articles/26/11/19/imac-may-never-get-an-oled-screen-as-apple-reconsiders-cost
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://thenextweb.com/news/fbi-ncic-crime-database-breach-usda-hack
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 8. iPhone camera chief Jon McCormack retires
+## 11. Trump threatens to tax data centers built overseas
 
-Jon McCormack, Apple’s head of iPhone cameras, has reportedly retired.
+Donald Trump said U.S. companies would be barred from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already operate data centers in other countries.
 
-- Link: https://appleinsider.com/articles/26/11/19/iphone-camera-chief-jon-mccormack-has-retired
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 9. France sues Apple over planned obsolescence
+## 12. Meta reconsiders its climate target as AI-related emissions rise
 
-Apple is being sued in France for planned obsolescence over the pairing process applied to certain iPhone and iPad components, which can cause problems when they are reused.
+Meta is reassessing its pledge to reach carbon neutrality by 2030 after its emissions rose 45% in one year. Its total emissions increased from 15.6 million tons in 2024 to more than 21.7 million in 2025, partly due to its data centers and AI equipment.
 
-- Link: https://appleinsider.com/articles/26/11/17/france-takes-apple-to-court-over-planned-obsolescence
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 10. A major malware attack targeted iPhone and iPad users
+## 13. Open Inkling 2 Mini model reasons in loops on a laptop
 
-Malicious code injected into more than 170 sites through an Optimizely vulnerability attempted to steal bank card and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.
+Inkling 2 Mini is a new open model that reasons in loops to solve problems with fewer words while running on a laptop.
 
-- Link: https://us.list-manage.com/mj7NE84VBey?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 11. 24-inch M6 iMac review: a limited but convincing update
+## 14. Etsy abandons plans to use seller content to train AI
 
-The new 24-inch iMac mainly adds the M6 chip, bringing a major boost for artificial intelligence while retaining its design and 4.5K display. It sells for 1,499 dollars and receives a score of 4 out of 5.
+Etsy announced that it would not use seller content to train AI models after sellers opposed policy changes.
 
-- Link: https://us.list-manage.com/Y1xfemxIx5k?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 12. How to play Grand Theft Auto VI on iPhone, iPad and Vision Pro
+## 15. Neuralink participant pilots a GTA VI speedboat with his mind
 
-Cloud or console streaming makes it possible to play new games such as Grand Theft Auto VI on iPhone, iPad or Apple Vision Pro.
+A Neuralink trial participant piloted a speedboat in GTA VI using a brain implant during a new demonstration.
 
-- Link: https://appleinsider.com/articles/26/11/20/game-streaming-can-bring-grand-theft-auto-vi-to-your-iphone-ipad-or-apple-vision-pro
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://interestingengineering.com/culture/neuralink-brain-implant-gta-vi-blindsight-approval
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 13. A Caltech math course fascinates readers
+## 16. AI’s most misunderstood graph gets a major update
 
-In an introductory mathematics course at Caltech, a professor explained that he no longer grades homework for correctness because students use AI to complete it. Dozens of readers reacted in the comments.
+The graph considered the most misunderstood in AI has received a major update.
+
+- Link: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 17. Researchers uncover a privacy flaw in the AI supply chain
+
+A researcher placed 2 million canaries in the AI supply chain, revealing a serious privacy problem.
+
+- Link: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 18. AI is not replacing jobs—it is turning them into precarious work
+
+An article argues that AI does not necessarily eliminate jobs, but transforms them into outsourced, low-paid tasks.
+
+- Link: https://asteriskmag.substack.com/p/the-most-important-number-in-ai
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 19. SoftBank chief considered a $1 trillion takeover of SK Hynix
+
+Masayoshi Son, SoftBank’s chief executive, considered a takeover of SK Hynix valued at $1 trillion, according to The Information.
+
+- Link: https://restofworld.org/2026/ai-jobs-skills-gig-work/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 20. Amazon tells defense teams to automate after China-linked intrusion
+
+Amazon asked its defense teams to automate their processes after China-linked AI agents compromised a campus.
+
+- Link: https://thenextweb.com/news/softbank-son-sk-hynix-buyout-1-trillion-the-information
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 21. Google will shut down the Nest app and Google Assistant
+
+Google plans to shut down the Nest app as well as Google Assistant.
+
+- Link: https://www.cryptopolitan.com/amazon-urges-automated-defenses-ai-agents/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 22. Microsoft will retire its To Do apps next year
+
+Microsoft plans to retire its To Do apps next year.
+
+- Link: https://www.howtogeek.com/google-shutting-down-nest-app-assistant/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 23. Corporate risk disclosures rarely cover AI’s real-world harms
+
+Corporate risk disclosures cite the types of risks responsible for about 67% of technical failures, but only 2% of social harms such as bias.
+
+- Link: https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 24. Chatbots poorly detect distress signals revealed gradually
+
+Tests show that chatbots detect distress signals when they are expressed in a single message, but miss them when they emerge gradually. Most models meet social workers’ standards in only 3% to 6% of these conversations.
+
+- Link: https://arxiv.org/abs/2611.25841
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 25. AI news search engines reduce the diversity of Latin American sources
+
+AI-powered news search tools provide fewer Latin American sources and less diversity than traditional search engines. They provide local users with 3.6 to 11.6 percentage points fewer national news stories.
+
+- Link: https://arxiv.org/abs/2611.26009
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 26. Pre-election polls accurately measured public dissatisfaction
+
+According to the Pew Research Center, polls correctly measured dissatisfaction with the national situation and strong Democratic motivation to vote. However, they underestimated the forces that brought Democrats back to power in Congress and in several states.
+
+- Link: https://arxiv.org/abs/2611.25955
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 27. A Caltech math course captivates readers
+
+In a Caltech introductory mathematics course, a professor explained that he no longer graded homework for accuracy because students use AI to complete it. Dozens of readers responded in the comments.
 
 - Link: https://l.businessinsider.com/a/zc/21432/eda32607c93341ac915220c5632aa5cb/349eac756a5f4bfa8585f2b6a71f4afa
 - Sources: Business Insider
 - Received: 2026-11-21T18:00+01:00
 
-## 14. Gemini can now handle multi-step everyday tasks
+## 28. Gemini can now handle multistep everyday tasks
 
-Google has expanded Gemini’s Tasks mode to handle tasks such as making appointments, reviewing bills, or placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.
+Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.
 
 - Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 15. Google Maps generates complete itineraries for road trips
+## 29. Google Maps generates complete itineraries for road trips
 
-The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for outings or multi-day road trips. The itineraries show traffic, opening hours, and the atmosphere of places, among other details.
+The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for excursions or multiday road trips. The itineraries show traffic, opening hours and the atmosphere of locations, among other details.
 
 - Link: https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 16. Claude Meetings joins Google Meet to create documents live
+## 30. Claude Meetings joins Google Meet to create documents live
 
-Anthropic has launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting, and add Claude.
+Anthropic launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting and add Claude.
 
 - Link: https://link.mail.beehiiv.com/v2/c/f4de177cb8f10bcd78e3e0b97167366b3ef0aca735629fe09a390bfbb4a0bc73119a3df840cca7cdc3c0642c9017a430f04feefd72204773f77f358a125045a78afa419fe49db6a3b8bd58f580c667b1f074295c2efdc0a3eacdadbb64074b97e466420a0aaec631b14d37ec2e339741db513339578ee05994f839f4c382f9033ef92606e113ddca4087fc0bcd209836eedab019d7c02df719f0fd968d53223b69b90dce10ce41f60ba5e7f014fc1a3e112b7d866d4d92d878e9089bf675f05a/d1dbff5039f1b10a
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 17. The 50 Claude terms advanced users know
+## 31. The 50 Claude terms advanced users know
 
-A glossary of 50 terms explains Claude’s essential features and concepts, including artifacts, context windows, projects, skills, and MCP. The article recommends immediately putting the terms one knows less well into practice.
+A glossary of 50 terms explains Claude’s key features and concepts, including artifacts, context windows, projects, skills and MCP. The article recommends immediately putting the terms one understands less well into practice.
 
 - Link: https://link.mail.beehiiv.com/v2/c/b84e02d40b79bc1ec254da9371875cbfdc5cfa3fb779e0d22ae8208266a8078c85ccf04e21ee5482cf088503e66dda6ec7d597b01c6261c20749aa2debef8f2b81794f387d0c52715389f5e87046492f7ad09a7907a31114791cd0c34e9a18c3944367f557886a728c64cd98ad58fe09a660ee8f40f9e8093fcb67f46c99bac9473a1bc939ee67d8c963799f78182ed21724c0613ce11b3cdb0d84c14eaad2df8cb89b9526d0efdc615bc6f30e58b6ccccd5bef6d1b46de2296a32e32aa111e8/741c23a7d10a2b0f
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 18. Anthropic explains how Claude artifacts work
+## 32. Anthropic explains how Claude artifacts work
 
-The guide presents the documents, designs, and small tools Claude creates in a panel beside the chat, along with options for editing and sharing them.
+The guide introduces the documents, designs and small tools Claude creates in a panel beside the chat, as well as the options for editing and sharing them.
 
 - Link: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 19. Claude details the size of its context window
+## 33. Claude explains the size of its context window
 
 This article presents the limits of paid plans and explains how Claude summarizes older messages when a long conversation approaches the context limit.
 
@@ -154,15 +266,15 @@ This article presents the limits of paid plans and explains how Claude summarize
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 20. Anthropic explains search in Claude conversations and Claude’s memory
+## 34. Anthropic explains search across conversations and Claude’s memory
 
-The guide shows how Claude remembers the user across conversations and how to view, edit, or pause the stored information.
+The guide shows how Claude remembers the user across conversations and how to view, edit or pause the information it retains.
 
 - Link: https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 21. The Model Context Protocol connects AI applications to data and tools
+## 35. The Model Context Protocol connects AI applications to data and tools
 
 The Model Context Protocol is presented as an open standard for connecting AI applications to personal data and tools, like a USB-C port for AI.
 
@@ -170,98 +282,58 @@ The Model Context Protocol is presented as an open standard for connecting AI ap
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 22. Anthropic shows how to enable and create your own skills
+## 36. Anthropic shows how to enable and create custom skills
 
-The guide explains how to enable skills in the personalization settings and upload your own skills to automate tasks in Claude.
+The guide explains how to enable skills in the personalization settings and upload custom skills to automate tasks in Claude.
 
 - Link: https://support.claude.com/en/articles/12512180-use-skills-in-claude
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 23. A woman buys a house with her older sister and her sister’s husband
+## 37. A woman buys a house with her older sister and her husband
 
-A woman says she bought a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.
+A woman recounts buying a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.
 
 - Link: https://www.businessinsider.com/bought-house-with-sister-and-her-husband-how-it-works-2026-11
 - Sources: Business Insider
 - Received: 2026-11-21T12:33+01:00
 
-## 24. Americans are expected to eat 46 million turkeys at Thanksgiving
+## 38. Americans are expected to eat 46 million turkeys at Thanksgiving
 
-The average price of a turkey has reached 28.55 dollars, up 5.5% from a year ago. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.
+The average price of a turkey has reached $28.55, up 5.5% year over year. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.
 
 - Link: https://www.finder.com/research/american-thanksgiving-turkey-spend
 - Sources: Business Insider
 - Received: 2026-11-21T12:33+01:00
 
-## 25. Zone 2 cardio isn’t enough to improve fitness
+## 39. Zone 2 cardio isn’t enough to improve fitness
 
-Zone 2 is often presented as ideal for burning fat, improving endurance, and supporting metabolism. But athletes, doctors, and researchers say that a routine consisting only of Zone 2 is a mistake and that variety is essential.
+Zone 2 is often presented as ideal for burning fat, improving endurance and supporting metabolism. But athletes, doctors and researchers say a routine consisting only of Zone 2 is a mistake and that variety is essential.
 
 - Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8084a26bb8a34aa4a6c4a6bc5b13e910
 - Sources: Business Insider
 - Received: 2026-11-21T12:33+01:00
 
-## 26. Despite their bad reputation, cruises have never been more popular
+## 40. Despite their bad reputation, cruises have never been more popular
 
-Cruises have faced numerous warnings related to illness and incidents, but the industry continues to grow. Social media, innovation, and affordable prices have supported their popularity, even after the pandemic brought the industry to a halt.
+Cruises have faced numerous warnings related to illnesses and incidents, but the industry continues to grow. Social media, innovation and affordable prices have supported their popularity, even after the pandemic-induced shutdown.
 
 - Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8a6810cf31114129afc1b21e5e920d47
 - Sources: Business Insider
 - Received: 2026-11-21T12:33+01:00
 
-## 27. A 19-hour business-class flight makes economy class feel regrettable
+## 41. A 19-hour business-class flight makes economy class seem regrettable
 
-During a 19-hour flight between New Jersey and Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully reclining bed so much that she was disappointed to arrive.
+During a 19-hour flight from New Jersey to Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully lie-flat bed so much that she was disappointed when the flight arrived.
 
 - Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/0eaf23d1073947f9884d0a42a83c23ab
 - Sources: Business Insider
 - Received: 2026-11-21T12:33+01:00
 
-## 28. In El Paso, land bought in 1971 has remained almost unchanged
+## 42. In El Paso, land bought in 1971 has remained almost unchanged
 
-In 1971, a Business Insider journalist’s grandparents bought a residential plot of land in El Paso for 1,400 dollars, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more litter.
+In 1971, a Business Insider journalist’s grandparents bought a residential plot in El Paso for $1,400, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more trash.
 
 - Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/5a60cd0cccda4569b0a5393292a10406
 - Sources: Business Insider
 - Received: 2026-11-21T12:33+01:00
-
-## 29. The UK can no longer conceal its request for Apple data
-
-The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court ruled in Apple’s favor on holding the case in public.
-
-- Link: https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
-
-## 30. US senators increase pressure on Apple over nudify apps
-
-US senators questioned Apple about apps capable of generating non-consensual nude images, following concerns about teenagers’ access to them.
-
-- Link: https://appleinsider.com/articles/26/11/18/senators-turn-up-the-pressure-on-apple-after-teen-access-to-ai-nudify-apps
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
-
-## 31. Cyberattack on Chase supplier exposes customer data
-
-JPMorgan Chase confirmed a cyberattack targeting suppliers. Stolen marketing data reportedly contained more than 16,000 customer email addresses, sometimes along with phone numbers and ZIP codes.
-
-- Link: https://appleinsider.com/articles/26/11/19/chase-customer-names-and-emails-at-risk-after-vendor-cyberattack
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
-
-## 32. VLC lets users keep watching DVDs on macOS
-
-Apple began removing the technology used for built-in DVD playback with macOS 27. VLC offers a way to continue using physical media on Mac.
-
-- Link: https://us.list-manage.com/tMWhItddmB2?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
-
-## 33. Run a task across multiple applications
-
-This chapter explains how to plan a workflow, add controls, keep it short and assess its cost on Zapier, Make or n8n. It requires a connected tool, an existing automation and a repetitive task involving multiple steps.
-
-- Link: https://link.mail.beehiiv.com/v2/c/a1094f595a599315f3a76b4a4020448ec1415e9b6b6b6141748f54e7a4df0c19e9571872756ea32614cfb743074935c15152e85c8bba1afabaa555526faf8f43d227442c7ceb0330d532e32edae96e62817f329561d6e08b1cf0a2afe669655bf43ec2b2e491ff521cf3cf5b653b873a35f3121e1741780088d40589f2aeaffc03d676793bb02fcbb15579424408231f3ee24a63c5c4894283db28397e1233e3/53d1a2241b921ff7
-- Sources: GPT Central
-- Received: 2026-11-20T19:33+01:00
