@@ -3,14 +3,14 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-22</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 42 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 35 news received.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 22 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
     <title>1. SEC investigates Nvidia’s accounting</title>
     <link>https://www.cryptopolitan.com/us-sec-civil-probe-into-nvidias-accounting/</link>
     <guid isPermaLink="false">2026-11-22:g6723</guid>
-    <description>Why it matters: The SEC’s investigation into Nvidia’s accounting and possible chip rerouting to China could materially affect the AI leader’s valuation, disclosures and export-control exposure. The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.</description>
+    <description>Why it matters: The SEC’s investigation into Nvidia’s accounting and possible China-linked chip rerouting could materially affect the world’s most valuable AI company, its valuation and semiconductor export controls. The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.</description>
     <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
@@ -18,23 +18,23 @@
     <title>2. Trump threatens to tax data centers built overseas</title>
     <link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
     <guid isPermaLink="false">2026-11-22:g6725</guid>
-    <description>Why it matters: Trump’s threat to tax or prohibit overseas data centers could reshape the global infrastructure strategies and capital spending of America’s largest technology companies. Donald Trump said U.S. companies would be prohibited from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already have data centers in other countries.</description>
+    <description>Why it matters: Trump’s threat to tax or restrict overseas data centers could reshape how major U.S. technology companies deploy global AI infrastructure and increase costs across the industry. Donald Trump said U.S. companies would be barred from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already operate data centers in other countries.</description>
     <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>3. SoftBank chief explored a $1 trillion takeover of SK Hynix</title>
-    <link>https://restofworld.org/2026/ai-jobs-skills-gig-work/</link>
-    <guid isPermaLink="false">2026-11-22:g6736</guid>
-    <description>Why it matters: SoftBank’s reported exploration of a $1 trillion takeover of SK Hynix highlights the strategic and financial stakes surrounding control of advanced memory for AI systems. Masayoshi Son, SoftBank’s chief, explored a $1 trillion takeover of SK Hynix, according to The Information.</description>
-    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
-    <category>Techpresso</category>
-  </item>
-  <item>
-    <title>4. YouTube nears $3 billion settlement with U.S. schools</title>
+    <title>3. YouTube nears $3 billion settlement with U.S. schools</title>
     <link>https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341</link>
     <guid isPermaLink="false">2026-11-22:g6722</guid>
-    <description>Why it matters: A potential $3 billion YouTube settlement with U.S. schools could establish a major financial and regulatory precedent for platform design, child safety and addiction claims. YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protections, though details have not yet been specified.</description>
+    <description>Why it matters: A potential $3 billion YouTube settlement would be one of the largest technology-platform liability deals and could bring significant new protections for children and teenagers. YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protection measures, which have not yet been specified.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>4. Amazon tells defense teams to automate after China-linked intrusion</title>
+    <link>https://thenextweb.com/news/softbank-son-sk-hynix-buyout-1-trillion-the-information</link>
+    <guid isPermaLink="false">2026-11-22:g6737</guid>
+    <description>Why it matters: The China-linked intrusion into an Amazon defense campus highlights the growing ability of AI-enabled attackers to penetrate sensitive systems and is prompting major changes in defense-sector operations. Amazon asked its defense teams to automate their processes after China-linked AI agents compromised a campus.</description>
     <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
@@ -42,7 +42,7 @@
     <title>5. Gemini can now handle multistep everyday tasks</title>
     <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
     <guid isPermaLink="false">2026-11-22:g6215</guid>
-    <description>Why it matters: Google’s expansion of Gemini into multistep tasks such as booking appointments, reviewing bills and ordering groceries signals a shift from chatbots toward agentic consumer automation. Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.</description>
+    <description>Why it matters: Gemini’s ability to schedule appointments, review bills and place orders signals that consumer AI is moving from answering questions toward executing multistep actions in the real world. Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.</description>
     <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
