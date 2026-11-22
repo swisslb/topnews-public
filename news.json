@@ -1,10 +1,10 @@
 {
   "date": "2026-11-22",
   "period": {
-    "from": "2026-11-21T06:25+01:00",
-    "to": "2026-11-22T06:25+01:00"
+    "from": "2026-11-21T13:25+01:00",
+    "to": "2026-11-22T13:25+01:00"
   },
-  "news_count": 42,
+  "news_count": 35,
   "news": [
     {
       "id": "g6728",
@@ -67,19 +67,6 @@
         "AI Gen Art"
       ],
       "received_at": "2026-11-21T17:02+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6707",
-      "title": "Oxford researcher offers a guide to preparing children for the AI era",
-      "description": "Daniel Susskind, an associate researcher at Oxford’s Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.",
-      "link": "https://www.businessinsider.com/daniel-susskind-what-should-my-children-do-review-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-21T12:33+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
@@ -470,84 +457,6 @@
         "Cyber Corsairs"
       ],
       "received_at": "2026-11-21T15:48+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6701",
-      "title": "A woman buys a house with her older sister and her husband",
-      "description": "A woman recounts buying a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.",
-      "link": "https://www.businessinsider.com/bought-house-with-sister-and-her-husband-how-it-works-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-21T12:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6702",
-      "title": "Americans are expected to eat 46 million turkeys at Thanksgiving",
-      "description": "The average price of a turkey has reached $28.55, up 5.5% year over year. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.",
-      "link": "https://www.finder.com/research/american-thanksgiving-turkey-spend",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-21T12:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6703",
-      "title": "Zone 2 cardio isn’t enough to improve fitness",
-      "description": "Zone 2 is often presented as ideal for burning fat, improving endurance and supporting metabolism. But athletes, doctors and researchers say a routine consisting only of Zone 2 is a mistake and that variety is essential.",
-      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8084a26bb8a34aa4a6c4a6bc5b13e910",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-21T12:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6704",
-      "title": "Despite their bad reputation, cruises have never been more popular",
-      "description": "Cruises have faced numerous warnings related to illnesses and incidents, but the industry continues to grow. Social media, innovation and affordable prices have supported their popularity, even after the pandemic-induced shutdown.",
-      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8a6810cf31114129afc1b21e5e920d47",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-21T12:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6705",
-      "title": "A 19-hour business-class flight makes economy class seem regrettable",
-      "description": "During a 19-hour flight from New Jersey to Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully lie-flat bed so much that she was disappointed when the flight arrived.",
-      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/0eaf23d1073947f9884d0a42a83c23ab",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-21T12:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6706",
-      "title": "In El Paso, land bought in 1971 has remained almost unchanged",
-      "description": "In 1971, a Business Insider journalist’s grandparents bought a residential plot in El Paso for $1,400, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more trash.",
-      "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/5a60cd0cccda4569b0a5393292a10406",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-21T12:33+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
