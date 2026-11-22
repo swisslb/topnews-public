@@ -1,53 +1,53 @@
-# Top 5 news of the day — 2026-11-21
+# Top 5 news of the day — 2026-11-22
 
-Period: 2026-11-20T19:25+01:00 → 2026-11-21T19:25+01:00 · 33 news received
+Period: 2026-11-21T06:25+01:00 → 2026-11-22T06:25+01:00 · 42 news received
 
-## 1. The UK can no longer conceal its request for Apple data
+## 1. SEC investigates Nvidia’s accounting
 
-**Why it matters:** The UK’s forced disclosure of its request for an Apple iCloud encryption backdoor is a major test of end-to-end encryption, government surveillance powers and user trust.
+**Why it matters:** The SEC’s investigation into Nvidia’s accounting and possible chip rerouting to China could materially affect the AI leader’s valuation, disclosures and export-control exposure.
 
-The UK was forced to make public its requests to obtain a backdoor into iCloud encryption. The relevant court sided with Apple over holding the case in public.
+The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.
 
-- Link: https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://www.cryptopolitan.com/us-sec-civil-probe-into-nvidias-accounting/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 2. A widespread malware attack targeted iPhone and iPad users
+## 2. Trump threatens to tax data centers built overseas
 
-**Why it matters:** A widespread campaign exploiting more than 170 compromised websites to target iPhone and iPad users highlights a serious and active threat to mobile financial and cryptocurrency security.
+**Why it matters:** Trump’s threat to tax or prohibit overseas data centers could reshape the global infrastructure strategies and capital spending of America’s largest technology companies.
 
-Malicious code inserted on more than 170 sites through an Optimizely vulnerability attempted to steal bank card and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.
+Donald Trump said U.S. companies would be prohibited from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already have data centers in other countries.
 
-- Link: https://us.list-manage.com/mj7NE84VBey?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0
-- Sources: AppleInsider
-- Received: 2026-11-21T00:54+01:00
+- Link: https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
 
-## 3. Gemini can now handle multistep everyday tasks
+## 3. SoftBank chief explored a $1 trillion takeover of SK Hynix
 
-**Why it matters:** Gemini’s ability to execute multistep real-world tasks such as appointments, bill reviews and grocery orders signals a shift from chatbots toward consumer AI agents.
+**Why it matters:** SoftBank’s reported exploration of a $1 trillion takeover of SK Hynix highlights the strategic and financial stakes surrounding control of advanced memory for AI systems.
+
+Masayoshi Son, SoftBank’s chief, explored a $1 trillion takeover of SK Hynix, according to The Information.
+
+- Link: https://restofworld.org/2026/ai-jobs-skills-gig-work/
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 4. YouTube nears $3 billion settlement with U.S. schools
+
+**Why it matters:** A potential $3 billion YouTube settlement with U.S. schools could establish a major financial and regulatory precedent for platform design, child safety and addiction claims.
+
+YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protections, though details have not yet been specified.
+
+- Link: https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341
+- Sources: Techpresso
+- Received: 2026-11-21T18:45+01:00
+
+## 5. Gemini can now handle multistep everyday tasks
+
+**Why it matters:** Google’s expansion of Gemini into multistep tasks such as booking appointments, reviewing bills and ordering groceries signals a shift from chatbots toward agentic consumer automation.
 
 Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.
 
 - Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
-- Sources: AI Gen Art
-- Received: 2026-11-21T17:02+01:00
-
-## 4. The Model Context Protocol connects AI applications to data and tools
-
-**Why it matters:** The Model Context Protocol’s role as an open standard for connecting AI systems to data and tools could become foundational infrastructure for enterprise AI interoperability.
-
-The Model Context Protocol is presented as an open standard for connecting AI applications to personal data and tools, like a USB-C port for AI.
-
-- Link: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
-- Sources: Cyber Corsairs
-- Received: 2026-11-21T15:48+01:00
-
-## 5. OpenAI turns written briefs into playable 3D experiences with Astra
-
-**Why it matters:** OpenAI’s Astra demonstrates models generating playable 3D experiences from written briefs, potentially lowering the cost and expertise required to create software, games and simulations.
-
-GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model leads a human-evaluated 3D benchmark.
-
-- Link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
