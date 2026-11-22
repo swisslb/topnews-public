@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — Top 5 news of the day — 2026-11-21</title>
+  <title>NewsCenter — Top 5 news of the day — 2026-11-22</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 33 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 42 news received.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 21 Nov 2026 18:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 05:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. The UK can no longer conceal its request for Apple data</title>
-    <link>https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-21:g6492</guid>
-    <description>Why it matters: The UK’s forced disclosure of its request for an Apple iCloud encryption backdoor is a major test of end-to-end encryption, government surveillance powers and user trust. The UK was forced to make public its requests to obtain a backdoor into iCloud encryption. The relevant court sided with Apple over holding the case in public.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>1. SEC investigates Nvidia’s accounting</title>
+    <link>https://www.cryptopolitan.com/us-sec-civil-probe-into-nvidias-accounting/</link>
+    <guid isPermaLink="false">2026-11-22:g6723</guid>
+    <description>Why it matters: The SEC’s investigation into Nvidia’s accounting and possible chip rerouting to China could materially affect the AI leader’s valuation, disclosures and export-control exposure. The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>2. A widespread malware attack targeted iPhone and iPad users</title>
-    <link>https://us.list-manage.com/mj7NE84VBey?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-21:g6661</guid>
-    <description>Why it matters: A widespread campaign exploiting more than 170 compromised websites to target iPhone and iPad users highlights a serious and active threat to mobile financial and cryptocurrency security. Malicious code inserted on more than 170 sites through an Optimizely vulnerability attempted to steal bank card and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>2. Trump threatens to tax data centers built overseas</title>
+    <link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
+    <guid isPermaLink="false">2026-11-22:g6725</guid>
+    <description>Why it matters: Trump’s threat to tax or prohibit overseas data centers could reshape the global infrastructure strategies and capital spending of America’s largest technology companies. Donald Trump said U.S. companies would be prohibited from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already have data centers in other countries.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>3. Gemini can now handle multistep everyday tasks</title>
+    <title>3. SoftBank chief explored a $1 trillion takeover of SK Hynix</title>
+    <link>https://restofworld.org/2026/ai-jobs-skills-gig-work/</link>
+    <guid isPermaLink="false">2026-11-22:g6736</guid>
+    <description>Why it matters: SoftBank’s reported exploration of a $1 trillion takeover of SK Hynix highlights the strategic and financial stakes surrounding control of advanced memory for AI systems. Masayoshi Son, SoftBank’s chief, explored a $1 trillion takeover of SK Hynix, according to The Information.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>4. YouTube nears $3 billion settlement with U.S. schools</title>
+    <link>https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341</link>
+    <guid isPermaLink="false">2026-11-22:g6722</guid>
+    <description>Why it matters: A potential $3 billion YouTube settlement with U.S. schools could establish a major financial and regulatory precedent for platform design, child safety and addiction claims. YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protections, though details have not yet been specified.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>5. Gemini can now handle multistep everyday tasks</title>
     <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
-    <guid isPermaLink="false">2026-11-21:g6215</guid>
-    <description>Why it matters: Gemini’s ability to execute multistep real-world tasks such as appointments, bill reviews and grocery orders signals a shift from chatbots toward consumer AI agents. Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.</description>
-    <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
-    <category>AI Gen Art</category>
-  </item>
-  <item>
-    <title>4. The Model Context Protocol connects AI applications to data and tools</title>
-    <link>https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro</link>
-    <guid isPermaLink="false">2026-11-21:g6713</guid>
-    <description>Why it matters: The Model Context Protocol’s role as an open standard for connecting AI systems to data and tools could become foundational infrastructure for enterprise AI interoperability. The Model Context Protocol is presented as an open standard for connecting AI applications to personal data and tools, like a USB-C port for AI.</description>
-    <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
-    <category>Cyber Corsairs</category>
-  </item>
-  <item>
-    <title>5. OpenAI turns written briefs into playable 3D experiences with Astra</title>
-    <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
-    <guid isPermaLink="false">2026-11-21:g6715</guid>
-    <description>Why it matters: OpenAI’s Astra demonstrates models generating playable 3D experiences from written briefs, potentially lowering the cost and expertise required to create software, games and simulations. GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model leads a human-evaluated 3D benchmark.</description>
+    <guid isPermaLink="false">2026-11-22:g6215</guid>
+    <description>Why it matters: Google’s expansion of Gemini into multistep tasks such as booking appointments, reviewing bills and ordering groceries signals a shift from chatbots toward agentic consumer automation. Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.</description>
     <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
