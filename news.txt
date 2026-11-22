@@ -1,283 +1,171 @@
 # All newsletter news — 2026-11-22
 
-Period: 2026-11-21T13:25+01:00 → 2026-11-22T13:25+01:00 · 35 news received
+Period: 2026-11-21T19:25+01:00 → 2026-11-22T19:25+01:00 · 21 news received
 
-## 1. Oracle says its contract with OpenAI is fully funded
+## 1. OpenAI launches ChatGPT for Sales with more than 30 integrations
 
-Oracle said its contract with OpenAI was fully funded, in response to reports published in the media.
-
-- Link: https://thenextweb.com/news/oracle-openai-contract-fully-funded-20bn-raise
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 2. Cursor considers phasing out Chinese AI models
-
-Cursor, a SpaceX subsidiary, told U.S. lawmakers that it was considering phasing out the use of Chinese AI models.
-
-- Link: https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 3. ChatGPT runs on a Super Nintendo console
-
-Someone got ChatGPT running on a Super Nintendo, with performance considered better than expected.
-
-- Link: https://www.howtogeek.com/someone-ran-chatgpt-on-a-snes-and-it-performs-better-than-youd-expect/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 4. OpenAI turns written briefs into playable 3D experiences with Astra
-
-GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model leads a human-evaluated 3D benchmark.
-
-- Link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
-- Sources: AI Gen Art
-- Received: 2026-11-21T17:02+01:00
-
-## 5. OpenAI launches ChatGPT for Sales with ready-to-use sales workflows
-
-ChatGPT for Sales offers workflows for selecting accounts, preparing calls and drafting follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.
+OpenAI has launched ChatGPT for Sales, a plugin offering more than 30 integrations and capable of using customer data from Salesforce and HubSpot, among others.
 
 - Link: https://openai.com/index/introducing-chatgpt-for-sales/
 - Sources: AI Gen Art
-- Received: 2026-11-21T17:02+01:00
+- Received: 2026-11-22T17:03+01:00
 
-## 6. GTA VI generates $3.8 billion on its first day
+## 2. Anthropic seeks a new product that can surpass Claude’s success
 
-Grand Theft Auto VI generated $3.79 billion in 24 hours, a record for a cultural release. Rockstar Games had sold 32.5 million copies even before launch.
+After Claude Code’s spectacular public debut, Anthropic has new financial resources. The company is now looking for an even bigger hit product and is exploring several sectors.
 
-- Link: https://www.business-standard.com/technology/tech-news/gta-vi-generates-3-79-bn-becomes-biggest-entertainment-launch-ever-126112100066_1.html
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 7. YouTube nears $3 billion settlement with U.S. schools
-
-YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protection measures, which have not yet been specified.
-
-- Link: https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 8. SEC investigates Nvidia’s accounting
-
-The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.
-
-- Link: https://www.cryptopolitan.com/us-sec-civil-probe-into-nvidias-accounting/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 9. FBI investigates suspected intrusion into its criminal database
-
-The FBI is investigating an apparent intrusion into the National Crime Information Center, used by U.S. law enforcement agencies to check warrants and conduct background checks. A former official said the reliability of the data could be called into question, beyond its confidentiality.
-
-- Link: https://thenextweb.com/news/fbi-ncic-crime-database-breach-usda-hack
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 10. Trump threatens to tax data centers built overseas
-
-Donald Trump said U.S. companies would be barred from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already operate data centers in other countries.
-
-- Link: https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 11. Meta reconsiders its climate target as AI-related emissions rise
-
-Meta is reassessing its pledge to reach carbon neutrality by 2030 after its emissions rose 45% in one year. Its total emissions increased from 15.6 million tons in 2024 to more than 21.7 million in 2025, partly due to its data centers and AI equipment.
-
-- Link: https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 12. Open Inkling 2 Mini model reasons in loops on a laptop
-
-Inkling 2 Mini is a new open model that reasons in loops to solve problems with fewer words while running on a laptop.
-
-- Link: https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 13. Etsy abandons plans to use seller content to train AI
-
-Etsy announced that it would not use seller content to train AI models after sellers opposed policy changes.
-
-- Link: https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 14. Neuralink participant pilots a GTA VI speedboat with his mind
-
-A Neuralink trial participant piloted a speedboat in GTA VI using a brain implant during a new demonstration.
-
-- Link: https://interestingengineering.com/culture/neuralink-brain-implant-gta-vi-blindsight-approval
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 15. AI’s most misunderstood graph gets a major update
-
-The graph considered the most misunderstood in AI has received a major update.
-
-- Link: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 16. Researchers uncover a privacy flaw in the AI supply chain
-
-A researcher placed 2 million canaries in the AI supply chain, revealing a serious privacy problem.
-
-- Link: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 17. AI is not replacing jobs—it is turning them into precarious work
-
-An article argues that AI does not necessarily eliminate jobs, but transforms them into outsourced, low-paid tasks.
-
-- Link: https://asteriskmag.substack.com/p/the-most-important-number-in-ai
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 18. SoftBank chief considered a $1 trillion takeover of SK Hynix
-
-Masayoshi Son, SoftBank’s chief executive, considered a takeover of SK Hynix valued at $1 trillion, according to The Information.
-
-- Link: https://restofworld.org/2026/ai-jobs-skills-gig-work/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 19. Amazon tells defense teams to automate after China-linked intrusion
-
-Amazon asked its defense teams to automate their processes after China-linked AI agents compromised a campus.
-
-- Link: https://thenextweb.com/news/softbank-son-sk-hynix-buyout-1-trillion-the-information
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 20. Google will shut down the Nest app and Google Assistant
-
-Google plans to shut down the Nest app as well as Google Assistant.
-
-- Link: https://www.cryptopolitan.com/amazon-urges-automated-defenses-ai-agents/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 21. Microsoft will retire its To Do apps next year
-
-Microsoft plans to retire its To Do apps next year.
-
-- Link: https://www.howtogeek.com/google-shutting-down-nest-app-assistant/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 22. Corporate risk disclosures rarely cover AI’s real-world harms
-
-Corporate risk disclosures cite the types of risks responsible for about 67% of technical failures, but only 2% of social harms such as bias.
-
-- Link: https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 23. Chatbots poorly detect distress signals revealed gradually
-
-Tests show that chatbots detect distress signals when they are expressed in a single message, but miss them when they emerge gradually. Most models meet social workers’ standards in only 3% to 6% of these conversations.
-
-- Link: https://arxiv.org/abs/2611.25841
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 24. AI news search engines reduce the diversity of Latin American sources
-
-AI-powered news search tools provide fewer Latin American sources and less diversity than traditional search engines. They provide local users with 3.6 to 11.6 percentage points fewer national news stories.
-
-- Link: https://arxiv.org/abs/2611.26009
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 25. Pre-election polls accurately measured public dissatisfaction
-
-According to the Pew Research Center, polls correctly measured dissatisfaction with the national situation and strong Democratic motivation to vote. However, they underestimated the forces that brought Democrats back to power in Congress and in several states.
-
-- Link: https://arxiv.org/abs/2611.25955
-- Sources: Techpresso
-- Received: 2026-11-21T18:45+01:00
-
-## 26. A Caltech math course captivates readers
-
-In a Caltech introductory mathematics course, a professor explained that he no longer graded homework for accuracy because students use AI to complete it. Dozens of readers responded in the comments.
-
-- Link: https://l.businessinsider.com/a/zc/21432/eda32607c93341ac915220c5632aa5cb/349eac756a5f4bfa8585f2b6a71f4afa
+- Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/f0db9a0d7d7b4b58a2e85a6e5267b1a9
 - Sources: Business Insider
-- Received: 2026-11-21T18:00+01:00
+- Received: 2026-11-22T12:34+01:00
 
-## 27. Gemini can now handle multistep everyday tasks
+## 3. Welcome to New York’s Tech Bro-hemia
 
-Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.
+How a Brooklyn neighborhood went from hipster haven to “San Francisco East.”
 
-- Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
+- Link: https://l.businessinsider.com/a/zc/21432/28c737b3a589432c9bca0de6948af34f/158f1a9d46ab448d85f950be3803412c
+- Sources: Business Insider
+- Received: 2026-11-22T18:01+01:00
+
+## 4. AI boosts post saves from 41 to 57
+
+A creator replaced one-off requests to their AI with a single goal: increase the number of saves on their posts. By analyzing 60 posts, the agent identified the value of posts ending with a practical next step, while leaving final approval to the human.
+
+- Link: https://link.mail.beehiiv.com/v2/c/4ea038cb85082432f35fdeac992ba81a133db4c2e4bd814665b1bff63896439dbe0c02c1aa249326ce4255342ba96148841975cc1f27cc96f2021933218000afc3617e173663d6810a16f89f3d1f9a9f0757b8f22588d62c67a05074a65257321f3023fcf6a03e79b41e89788599c21fa3ee258b778cbb5ecd7e047566fe3a68b698898a3e66eee60ebf1ad0685e3c877f2000e183af71222e635168d2853b3bea9f7750f2c70ec953b37f4e013d9f4cf654576a893fd468cf81b1b304a97b1d/303805ee6970f4b8
+- Sources: Cyber Corsairs
+- Received: 2026-11-22T17:05+01:00
+
+## 5. Saved posts reach 38% more people than liked posts
+
+Hootsuite’s experiment compared saves with likes. Saved posts reached about 38% more people.
+
+- Link: https://blog.hootsuite.com/experiment-instagram-saves-likes/
+- Sources: Cyber Corsairs
+- Received: 2026-11-22T17:05+01:00
+
+## 6. A guide explains what Instagram saves and shares mean
+
+Colorado State’s guide explains what saves and shares mean, as well as where to view this data in Instagram Insights.
+
+- Link: https://link.mail.beehiiv.com/v2/c/22c147b2efc314747c5ae6350d5688736017b639dbece8bc144135d6fb0093d98ef89f5f2c7052fba5707e2ee57c6fbd472f89af88a5c78791d36a1e3d7dfbb0b8c934b5b90d9150a84230f31e10f79bdebde390d9d75e1f0d32e5a754d8ce2fd17e5871bbd52b520b31fe0e57767813fd38273ede2b3f6cf30e2549b67d2938dbe63f5ea10001d625e92b3021f7830b38754dce33210d008425ab0ccbddea9024a92649861aeb0a7799a39d672f561827097306dc5fe8336888182b45a1d4d7/50c33ea3de84c776
+- Sources: Cyber Corsairs
+- Received: 2026-11-22T17:05+01:00
+
+## 7. Slack details how Claude is used in messages and channels
+
+Slack’s guide explains how to connect Claude and use it in messages and channels. It notes that Claude Tag replaced the original app on August 3, 2026.
+
+- Link: https://slack.com/help/articles/53532192117267-Use-Claude-in-Slack
+- Sources: Cyber Corsairs
+- Received: 2026-11-22T17:05+01:00
+
+## 8. Anthropic explains when to let an AI agent choose its own actions
+
+Anthropic’s guide explains when a simple, step-by-step setup is sufficient and when it is better to let the AI choose its own actions.
+
+- Link: https://www.anthropic.com/research/building-effective-agents
+- Sources: Cyber Corsairs
+- Received: 2026-11-22T17:05+01:00
+
+## 9. Real-world examples improve Claude’s responses
+
+Claude’s guide shows that providing a few real examples, such as past posts, produces more accurate responses than instructions alone.
+
+- Link: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#use-examples-effectively
+- Sources: Cyber Corsairs
+- Received: 2026-11-22T17:05+01:00
+
+## 10. Atlassian finds that AI speeds delivery without yet improving customer value
+
+According to Atlassian’s State of Product 2027 study, 80% of product professionals believe AI helps them deliver faster, but customers do not yet perceive that value more quickly. The report also examines persistent limitations, including decision-making and reliance on instinct over customer data.
+
+- Link: https://link.mail.beehiiv.com/v2/c/1b60388908f4d29e42bd1f2f05e0941a802e03f5786c5b5d78cade68b28bde0a5ad572ba1d0d97ac5d56e9cfa0f1aa163f4672c2f7e2554c0df77cb3ededc58df7e873699d5f23b47ae240c8a27cbb7cb483d71d775bc63c02c57f0895b7157f019e956e37935c9305e3013505bc62a32ac80b7f8a0eda3ad750ecabb80de6d3d5df9d95593c92d38e7980ddf0e3e769c2cb8f0090b501499027a30bf286dac523daca754f468c88ca916ca3c9a5762acdedc093da2b12f98f9939cadb80de6d7f1ea4ad481e81ca3b2be4daae5aeede29c23d989246bbd3a03712cebd8afbab98a77bc3eec8db1219fda787323434033cc723b41e3efa28791c125904f860b7/e8a200b42da52910
 - Sources: AI Gen Art
-- Received: 2026-11-21T17:02+01:00
+- Received: 2026-11-22T17:03+01:00
 
-## 28. Google Maps generates complete itineraries for road trips
+## 11. Google Genie 4 turns text prompts into explorable worlds
 
-The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for excursions or multiday road trips. The itineraries show traffic, opening hours and the atmosphere of locations, among other details.
+Google DeepMind has launched Genie 4, a model capable of generating interactive worlds from a description, then changing their weather or characters in real time with matching sound. Available through Project Genie to some Google AI Ultra subscribers, the tool is presented as a way to prototype environments, despite ongoing issues with camera latency and scene persistence.
 
-- Link: https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/
+- Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
 - Sources: AI Gen Art
-- Received: 2026-11-21T17:02+01:00
+- Received: 2026-11-22T17:03+01:00
 
-## 29. Claude Meetings joins Google Meet to create documents live
+## 12. Pika Enact lets users direct AI-generated scenes in real time
 
-Anthropic launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting and add Claude.
+Pika has introduced Enact, an experimental environment that generates video and sound in real time as users position actors, give them directions, and move the camera. The tool offers interactive placement, text- or voice-based actor direction, and camera movements during generation, but is not yet available to the general public.
 
-- Link: https://link.mail.beehiiv.com/v2/c/f4de177cb8f10bcd78e3e0b97167366b3ef0aca735629fe09a390bfbb4a0bc73119a3df840cca7cdc3c0642c9017a430f04feefd72204773f77f358a125045a78afa419fe49db6a3b8bd58f580c667b1f074295c2efdc0a3eacdadbb64074b97e466420a0aaec631b14d37ec2e339741db513339578ee05994f839f4c382f9033ef92606e113ddca4087fc0bcd209836eedab019d7c02df719f0fd968d53223b69b90dce10ce41f60ba5e7f014fc1a3e112b7d866d4d92d878e9089bf675f05a/d1dbff5039f1b10a
+- Link: https://pika.art/blog/pika-enact
 - Sources: AI Gen Art
-- Received: 2026-11-21T17:02+01:00
+- Received: 2026-11-22T17:03+01:00
 
-## 30. The 50 Claude terms advanced users know
+## 13. Google launches Gemini 4 Neon, a high-performing and cheaper coding model
 
-A glossary of 50 terms explains Claude’s key features and concepts, including artifacts, context windows, projects, skills and MCP. The article recommends immediately putting the terms one understands less well into practice.
+Google has announced Gemini 4 Neon, a model positioned between Gemini 4 Carbon and Gemini 4 Hydrogen. It ranks third on the Artificial Analysis Intelligence Index and first in its Coding Agent ranking. Its API costs $3 per million input tokens and $15 per million output tokens, with a one-million-token context window.
 
-- Link: https://link.mail.beehiiv.com/v2/c/b84e02d40b79bc1ec254da9371875cbfdc5cfa3fb779e0d22ae8208266a8078c85ccf04e21ee5482cf088503e66dda6ec7d597b01c6261c20749aa2debef8f2b81794f387d0c52715389f5e87046492f7ad09a7907a31114791cd0c34e9a18c3944367f557886a728c64cd98ad58fe09a660ee8f40f9e8093fcb67f46c99bac9473a1bc939ee67d8c963799f78182ed21724c0613ce11b3cdb0d84c14eaad2df8cb89b9526d0efdc615bc6f30e58b6ccccd5bef6d1b46de2296a32e32aa111e8/741c23a7d10a2b0f
-- Sources: Cyber Corsairs
-- Received: 2026-11-21T15:48+01:00
+- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+- Sources: AI Gen Art
+- Received: 2026-11-22T17:03+01:00
 
-## 31. Anthropic explains how Claude artifacts work
+## 14. Anthropic explains how to use Claude Meetings with Google Meet
 
-The guide introduces the documents, designs and small tools Claude creates in a panel beside the chat, as well as the options for editing and sharing them.
+Anthropic has published a setup guide for Claude Meetings: connect Google Calendar, choose a Google Meet meeting, then click “Add Claude.” Claude can then create a whiteboard or document during the call.
 
-- Link: https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them
-- Sources: Cyber Corsairs
-- Received: 2026-11-21T15:48+01:00
+- Link: https://support.claude.com/en/articles/18325154-use-claude-meetings
+- Sources: AI Gen Art
+- Received: 2026-11-22T17:03+01:00
 
-## 32. Claude explains the size of its context window
+## 15. Microsoft launches MAI-Image-2.7, an image-editing model
 
-This article presents the limits of paid plans and explains how Claude summarizes older messages when a long conversation approaches the context limit.
+Microsoft has launched MAI-Image-2.7, a model specialized in image editing that ranks near the top of Artificial Analysis’s leaderboard for the task.
 
-- Link: https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans
-- Sources: Cyber Corsairs
-- Received: 2026-11-21T15:48+01:00
+- Link: https://windowsreport.com/microsofts-new-mai-image-2-7-model-climbs-to-the-top-of-ai-image-editing-charts/
+- Sources: AI Gen Art
+- Received: 2026-11-22T17:03+01:00
 
-## 33. Anthropic explains search across conversations and Claude’s memory
+## 16. Technology outages revive emergency preparedness
 
-The guide shows how Claude remembers the user across conversations and how to view, edit or pause the information it retains.
+A series of technology outages disrupted email, travel, investments, money transfers, and purchases. Although there is no indication of a coordinated cyberattack, the incidents are nevertheless prompting many consumers to stock up on water, propane, and other emergency supplies.
 
-- Link: https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context
-- Sources: Cyber Corsairs
-- Received: 2026-11-21T15:48+01:00
+- Link: https://www.businessinsider.com/blackout-rumors-preparing-amazon-emergency-supplies-2026-11
+- Sources: Business Insider
+- Received: 2026-11-22T12:34+01:00
 
-## 34. The Model Context Protocol connects AI applications to data and tools
+## 17. At Caltech, AI is upending mathematics education
 
-The Model Context Protocol is presented as an open standard for connecting AI applications to personal data and tools, like a USB-C port for AI.
+At Caltech, students use AI so extensively that professor Yi Ni no longer grades assignments for correctness. Unlike AI-generated essays, mathematical solutions produced by these tools are difficult to detect.
 
-- Link: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
-- Sources: Cyber Corsairs
-- Received: 2026-11-21T15:48+01:00
+- Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/96eca04a9cb746ca965d162ff48d4c6d
+- Sources: Business Insider
+- Received: 2026-11-22T12:34+01:00
 
-## 35. Anthropic shows how to enable and create custom skills
+## 18. Nvidia risks losing the engineers behind its AI dominance
 
-The guide explains how to enable skills in the personalization settings and upload custom skills to automate tasks in Claude.
+Following Jensen Huang’s resignation, Nvidia faces the risk of losing some of the engineers responsible for its chips and technical systems. Analysts believe this exodus could jeopardize the company’s AI roadmap.
 
-- Link: https://support.claude.com/en/articles/12512180-use-skills-in-claude
-- Sources: Cyber Corsairs
-- Received: 2026-11-21T15:48+01:00
+- Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/7b01ef6ba05244a68b4f45a208e25b60
+- Sources: Business Insider
+- Received: 2026-11-22T12:34+01:00
+
+## 19. Fat from deceased donors turned into a luxury beauty product
+
+After a 45-year-old woman died, nearly eight pounds of her fat was turned into alloClae, an injectable used in cosmetic surgery. According to a Business Insider investigation, that amount could support procedures worth about $200,000.
+
+- Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/1f0369c9677c4831ba17afe1ad732309
+- Sources: Business Insider
+- Received: 2026-11-22T12:34+01:00
+
+## 20. Business Insider real estate journalist becomes a real estate agent
+
+Real estate correspondent James Rodriguez, who has covered the housing market for years, obtained a real estate agent’s license himself. He describes the process as surprisingly easy.
+
+- Link: https://www.businessinsider.com/real-estate-agent-license-training-classes-homebuyers-realtors-commissions-2026-11
+- Sources: Business Insider
+- Received: 2026-11-22T12:34+01:00
+
+## 21. New York’s popular bars struggle to preserve their authenticity
+
+New York’s unpretentious bars are struggling to stay afloat, threatening the city’s authenticity and identity. Adam Glenn, owner of Jimmy’s Corner near Times Square, is warning about this trend.
+
+- Link: https://www.businessinsider.com/american-dive-bars-disappearing-rising-rent-costs-2026-11
+- Sources: Business Insider
+- Received: 2026-11-22T12:34+01:00
