@@ -1,6 +1,6 @@
 # All newsletter news — 2026-11-22
 
-Period: 2026-11-21T06:25+01:00 → 2026-11-22T06:25+01:00 · 42 news received
+Period: 2026-11-21T13:25+01:00 → 2026-11-22T13:25+01:00 · 35 news received
 
 ## 1. Oracle says its contract with OpenAI is fully funded
 
@@ -42,15 +42,7 @@ ChatGPT for Sales offers workflows for selecting accounts, preparing calls and d
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 6. Oxford researcher offers a guide to preparing children for the AI era
-
-Daniel Susskind, an associate researcher at Oxford’s Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.
-
-- Link: https://www.businessinsider.com/daniel-susskind-what-should-my-children-do-review-2026-11
-- Sources: Business Insider
-- Received: 2026-11-21T12:33+01:00
-
-## 7. GTA VI generates $3.8 billion on its first day
+## 6. GTA VI generates $3.8 billion on its first day
 
 Grand Theft Auto VI generated $3.79 billion in 24 hours, a record for a cultural release. Rockstar Games had sold 32.5 million copies even before launch.
 
@@ -58,7 +50,7 @@ Grand Theft Auto VI generated $3.79 billion in 24 hours, a record for a cultural
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 8. YouTube nears $3 billion settlement with U.S. schools
+## 7. YouTube nears $3 billion settlement with U.S. schools
 
 YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protection measures, which have not yet been specified.
 
@@ -66,7 +58,7 @@ YouTube is close to a settlement worth up to $3 billion with school districts ac
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 9. SEC investigates Nvidia’s accounting
+## 8. SEC investigates Nvidia’s accounting
 
 The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.
 
@@ -74,7 +66,7 @@ The U.S. SEC has opened a civil investigation to determine whether Nvidia misled
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 10. FBI investigates suspected intrusion into its criminal database
+## 9. FBI investigates suspected intrusion into its criminal database
 
 The FBI is investigating an apparent intrusion into the National Crime Information Center, used by U.S. law enforcement agencies to check warrants and conduct background checks. A former official said the reliability of the data could be called into question, beyond its confidentiality.
 
@@ -82,7 +74,7 @@ The FBI is investigating an apparent intrusion into the National Crime Informati
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 11. Trump threatens to tax data centers built overseas
+## 10. Trump threatens to tax data centers built overseas
 
 Donald Trump said U.S. companies would be barred from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already operate data centers in other countries.
 
@@ -90,7 +82,7 @@ Donald Trump said U.S. companies would be barred from building data centers over
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 12. Meta reconsiders its climate target as AI-related emissions rise
+## 11. Meta reconsiders its climate target as AI-related emissions rise
 
 Meta is reassessing its pledge to reach carbon neutrality by 2030 after its emissions rose 45% in one year. Its total emissions increased from 15.6 million tons in 2024 to more than 21.7 million in 2025, partly due to its data centers and AI equipment.
 
@@ -98,7 +90,7 @@ Meta is reassessing its pledge to reach carbon neutrality by 2030 after its emis
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 13. Open Inkling 2 Mini model reasons in loops on a laptop
+## 12. Open Inkling 2 Mini model reasons in loops on a laptop
 
 Inkling 2 Mini is a new open model that reasons in loops to solve problems with fewer words while running on a laptop.
 
@@ -106,7 +98,7 @@ Inkling 2 Mini is a new open model that reasons in loops to solve problems with 
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 14. Etsy abandons plans to use seller content to train AI
+## 13. Etsy abandons plans to use seller content to train AI
 
 Etsy announced that it would not use seller content to train AI models after sellers opposed policy changes.
 
@@ -114,7 +106,7 @@ Etsy announced that it would not use seller content to train AI models after sel
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 15. Neuralink participant pilots a GTA VI speedboat with his mind
+## 14. Neuralink participant pilots a GTA VI speedboat with his mind
 
 A Neuralink trial participant piloted a speedboat in GTA VI using a brain implant during a new demonstration.
 
@@ -122,7 +114,7 @@ A Neuralink trial participant piloted a speedboat in GTA VI using a brain implan
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 16. AI’s most misunderstood graph gets a major update
+## 15. AI’s most misunderstood graph gets a major update
 
 The graph considered the most misunderstood in AI has received a major update.
 
@@ -130,7 +122,7 @@ The graph considered the most misunderstood in AI has received a major update.
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 17. Researchers uncover a privacy flaw in the AI supply chain
+## 16. Researchers uncover a privacy flaw in the AI supply chain
 
 A researcher placed 2 million canaries in the AI supply chain, revealing a serious privacy problem.
 
@@ -138,7 +130,7 @@ A researcher placed 2 million canaries in the AI supply chain, revealing a serio
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 18. AI is not replacing jobs—it is turning them into precarious work
+## 17. AI is not replacing jobs—it is turning them into precarious work
 
 An article argues that AI does not necessarily eliminate jobs, but transforms them into outsourced, low-paid tasks.
 
@@ -146,7 +138,7 @@ An article argues that AI does not necessarily eliminate jobs, but transforms th
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 19. SoftBank chief considered a $1 trillion takeover of SK Hynix
+## 18. SoftBank chief considered a $1 trillion takeover of SK Hynix
 
 Masayoshi Son, SoftBank’s chief executive, considered a takeover of SK Hynix valued at $1 trillion, according to The Information.
 
@@ -154,7 +146,7 @@ Masayoshi Son, SoftBank’s chief executive, considered a takeover of SK Hynix v
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 20. Amazon tells defense teams to automate after China-linked intrusion
+## 19. Amazon tells defense teams to automate after China-linked intrusion
 
 Amazon asked its defense teams to automate their processes after China-linked AI agents compromised a campus.
 
@@ -162,7 +154,7 @@ Amazon asked its defense teams to automate their processes after China-linked AI
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 21. Google will shut down the Nest app and Google Assistant
+## 20. Google will shut down the Nest app and Google Assistant
 
 Google plans to shut down the Nest app as well as Google Assistant.
 
@@ -170,7 +162,7 @@ Google plans to shut down the Nest app as well as Google Assistant.
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 22. Microsoft will retire its To Do apps next year
+## 21. Microsoft will retire its To Do apps next year
 
 Microsoft plans to retire its To Do apps next year.
 
@@ -178,7 +170,7 @@ Microsoft plans to retire its To Do apps next year.
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 23. Corporate risk disclosures rarely cover AI’s real-world harms
+## 22. Corporate risk disclosures rarely cover AI’s real-world harms
 
 Corporate risk disclosures cite the types of risks responsible for about 67% of technical failures, but only 2% of social harms such as bias.
 
@@ -186,7 +178,7 @@ Corporate risk disclosures cite the types of risks responsible for about 67% of 
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 24. Chatbots poorly detect distress signals revealed gradually
+## 23. Chatbots poorly detect distress signals revealed gradually
 
 Tests show that chatbots detect distress signals when they are expressed in a single message, but miss them when they emerge gradually. Most models meet social workers’ standards in only 3% to 6% of these conversations.
 
@@ -194,7 +186,7 @@ Tests show that chatbots detect distress signals when they are expressed in a si
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 25. AI news search engines reduce the diversity of Latin American sources
+## 24. AI news search engines reduce the diversity of Latin American sources
 
 AI-powered news search tools provide fewer Latin American sources and less diversity than traditional search engines. They provide local users with 3.6 to 11.6 percentage points fewer national news stories.
 
@@ -202,7 +194,7 @@ AI-powered news search tools provide fewer Latin American sources and less diver
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 26. Pre-election polls accurately measured public dissatisfaction
+## 25. Pre-election polls accurately measured public dissatisfaction
 
 According to the Pew Research Center, polls correctly measured dissatisfaction with the national situation and strong Democratic motivation to vote. However, they underestimated the forces that brought Democrats back to power in Congress and in several states.
 
@@ -210,7 +202,7 @@ According to the Pew Research Center, polls correctly measured dissatisfaction w
 - Sources: Techpresso
 - Received: 2026-11-21T18:45+01:00
 
-## 27. A Caltech math course captivates readers
+## 26. A Caltech math course captivates readers
 
 In a Caltech introductory mathematics course, a professor explained that he no longer graded homework for accuracy because students use AI to complete it. Dozens of readers responded in the comments.
 
@@ -218,7 +210,7 @@ In a Caltech introductory mathematics course, a professor explained that he no l
 - Sources: Business Insider
 - Received: 2026-11-21T18:00+01:00
 
-## 28. Gemini can now handle multistep everyday tasks
+## 27. Gemini can now handle multistep everyday tasks
 
 Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.
 
@@ -226,7 +218,7 @@ Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling ap
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 29. Google Maps generates complete itineraries for road trips
+## 28. Google Maps generates complete itineraries for road trips
 
 The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for excursions or multiday road trips. The itineraries show traffic, opening hours and the atmosphere of locations, among other details.
 
@@ -234,7 +226,7 @@ The new Ask Maps features create detailed plans, with day-by-day schedules and n
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 30. Claude Meetings joins Google Meet to create documents live
+## 29. Claude Meetings joins Google Meet to create documents live
 
 Anthropic launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting and add Claude.
 
@@ -242,7 +234,7 @@ Anthropic launched Claude Meetings in beta, allowing users to add Claude to a Go
 - Sources: AI Gen Art
 - Received: 2026-11-21T17:02+01:00
 
-## 31. The 50 Claude terms advanced users know
+## 30. The 50 Claude terms advanced users know
 
 A glossary of 50 terms explains Claude’s key features and concepts, including artifacts, context windows, projects, skills and MCP. The article recommends immediately putting the terms one understands less well into practice.
 
@@ -250,7 +242,7 @@ A glossary of 50 terms explains Claude’s key features and concepts, including 
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 32. Anthropic explains how Claude artifacts work
+## 31. Anthropic explains how Claude artifacts work
 
 The guide introduces the documents, designs and small tools Claude creates in a panel beside the chat, as well as the options for editing and sharing them.
 
@@ -258,7 +250,7 @@ The guide introduces the documents, designs and small tools Claude creates in a 
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 33. Claude explains the size of its context window
+## 32. Claude explains the size of its context window
 
 This article presents the limits of paid plans and explains how Claude summarizes older messages when a long conversation approaches the context limit.
 
@@ -266,7 +258,7 @@ This article presents the limits of paid plans and explains how Claude summarize
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 34. Anthropic explains search across conversations and Claude’s memory
+## 33. Anthropic explains search across conversations and Claude’s memory
 
 The guide shows how Claude remembers the user across conversations and how to view, edit or pause the information it retains.
 
@@ -274,7 +266,7 @@ The guide shows how Claude remembers the user across conversations and how to vi
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 35. The Model Context Protocol connects AI applications to data and tools
+## 34. The Model Context Protocol connects AI applications to data and tools
 
 The Model Context Protocol is presented as an open standard for connecting AI applications to personal data and tools, like a USB-C port for AI.
 
@@ -282,58 +274,10 @@ The Model Context Protocol is presented as an open standard for connecting AI ap
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
 
-## 36. Anthropic shows how to enable and create custom skills
+## 35. Anthropic shows how to enable and create custom skills
 
 The guide explains how to enable skills in the personalization settings and upload custom skills to automate tasks in Claude.
 
 - Link: https://support.claude.com/en/articles/12512180-use-skills-in-claude
 - Sources: Cyber Corsairs
 - Received: 2026-11-21T15:48+01:00
-
-## 37. A woman buys a house with her older sister and her husband
-
-A woman recounts buying a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.
-
-- Link: https://www.businessinsider.com/bought-house-with-sister-and-her-husband-how-it-works-2026-11
-- Sources: Business Insider
-- Received: 2026-11-21T12:33+01:00
-
-## 38. Americans are expected to eat 46 million turkeys at Thanksgiving
-
-The average price of a turkey has reached $28.55, up 5.5% year over year. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.
-
-- Link: https://www.finder.com/research/american-thanksgiving-turkey-spend
-- Sources: Business Insider
-- Received: 2026-11-21T12:33+01:00
-
-## 39. Zone 2 cardio isn’t enough to improve fitness
-
-Zone 2 is often presented as ideal for burning fat, improving endurance and supporting metabolism. But athletes, doctors and researchers say a routine consisting only of Zone 2 is a mistake and that variety is essential.
-
-- Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8084a26bb8a34aa4a6c4a6bc5b13e910
-- Sources: Business Insider
-- Received: 2026-11-21T12:33+01:00
-
-## 40. Despite their bad reputation, cruises have never been more popular
-
-Cruises have faced numerous warnings related to illnesses and incidents, but the industry continues to grow. Social media, innovation and affordable prices have supported their popularity, even after the pandemic-induced shutdown.
-
-- Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8a6810cf31114129afc1b21e5e920d47
-- Sources: Business Insider
-- Received: 2026-11-21T12:33+01:00
-
-## 41. A 19-hour business-class flight makes economy class seem regrettable
-
-During a 19-hour flight from New Jersey to Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully lie-flat bed so much that she was disappointed when the flight arrived.
-
-- Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/0eaf23d1073947f9884d0a42a83c23ab
-- Sources: Business Insider
-- Received: 2026-11-21T12:33+01:00
-
-## 42. In El Paso, land bought in 1971 has remained almost unchanged
-
-In 1971, a Business Insider journalist’s grandparents bought a residential plot in El Paso for $1,400, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more trash.
-
-- Link: https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/5a60cd0cccda4569b0a5393292a10406
-- Sources: Business Insider
-- Received: 2026-11-21T12:33+01:00
