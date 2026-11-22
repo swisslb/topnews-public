@@ -1,15 +1,54 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "period": {
-    "from": "2026-11-20T19:25+01:00",
-    "to": "2026-11-21T19:25+01:00"
+    "from": "2026-11-21T06:25+01:00",
+    "to": "2026-11-22T06:25+01:00"
   },
-  "news_count": 33,
+  "news_count": 42,
   "news": [
+    {
+      "id": "g6728",
+      "title": "Oracle says its contract with OpenAI is fully funded",
+      "description": "Oracle said its contract with OpenAI was fully funded, in response to reports published in the media.",
+      "link": "https://thenextweb.com/news/oracle-openai-contract-fully-funded-20bn-raise",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6729",
+      "title": "Cursor considers phasing out Chinese AI models",
+      "description": "Cursor, a SpaceX subsidiary, told U.S. lawmakers that it was considering phasing out the use of Chinese AI models.",
+      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
+    },
+    {
+      "id": "g6732",
+      "title": "ChatGPT runs on a Super Nintendo console",
+      "description": "Someone got ChatGPT running on a Super Nintendo, with performance considered better than expected.",
+      "link": "https://www.howtogeek.com/someone-ran-chatgpt-on-a-snes-and-it-performs-better-than-youd-expect/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
     {
       "id": "g6715",
       "title": "OpenAI turns written briefs into playable 3D experiences with Astra",
-      "description": "GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model ranks first on a human-evaluated 3D benchmark.",
+      "description": "GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model leads a human-evaluated 3D benchmark.",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "sources": [
         "AI Gen Art"
@@ -22,7 +61,7 @@
     {
       "id": "g6408",
       "title": "OpenAI launches ChatGPT for Sales with ready-to-use sales workflows",
-      "description": "ChatGPT for Sales offers workflows for selecting accounts, preparing for calls, and writing follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.",
+      "description": "ChatGPT for Sales offers workflows for selecting accounts, preparing calls and drafting follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.",
       "link": "https://openai.com/index/introducing-chatgpt-for-sales/",
       "sources": [
         "AI Gen Art"
@@ -35,7 +74,7 @@
     {
       "id": "g6707",
       "title": "Oxford researcher offers a guide to preparing children for the AI era",
-      "description": "Daniel Susskind, an associate researcher at the Oxford Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.",
+      "description": "Daniel Susskind, an associate researcher at Oxford’s Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.",
       "link": "https://www.businessinsider.com/daniel-susskind-what-should-my-children-do-review-2026-11",
       "sources": [
         "Business Insider"
@@ -46,126 +85,269 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6685",
-      "title": "iPhone Air 2 and iPhone 18 reveal their designs through dummy units",
-      "description": "Leaked dummy units indicate that the iPhone Air 2 will feature two rear cameras, while the standard iPhone 18 will reportedly have no notable changes.",
-      "link": "https://us.list-manage.com/OCPqBzYhhdC?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "id": "g6721",
+      "title": "GTA VI generates $3.8 billion on its first day",
+      "description": "Grand Theft Auto VI generated $3.79 billion in 24 hours, a record for a cultural release. Rockstar Games had sold 32.5 million copies even before launch.",
+      "link": "https://www.business-standard.com/technology/tech-news/gta-vi-generates-3-79-bn-becomes-biggest-entertainment-launch-ever-126112100066_1.html",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6686",
-      "title": "iPhone 20 Pro could adopt a curved display with slimmer bezels",
-      "description": "A new video allegedly shows the iPhone 20 Pro’s curved display, with significantly reduced bezels.",
-      "link": "https://appleinsider.com/articles/26/11/17/this-is-what-the-iphone-20-pro-curved-glass-screen-could-look-like",
+      "id": "g6722",
+      "title": "YouTube nears $3 billion settlement with U.S. schools",
+      "description": "YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protection measures, which have not yet been specified.",
+      "link": "https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6687",
-      "title": "iPhone 20’s curved edges would be nearly invisible from the front",
-      "description": "The future iPhone 20 design would use curved glass edges that would be virtually invisible from the front.",
-      "link": "https://appleinsider.com/articles/26/11/18/curved-glass-edges-of-iphone-20-will-be-practically-invisible-from-the-front",
+      "id": "g6723",
+      "title": "SEC investigates Nvidia’s accounting",
+      "description": "The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.",
+      "link": "https://www.cryptopolitan.com/us-sec-civil-probe-into-nvidias-accounting/",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6679",
-      "title": "Apple may be reconsidering bringing an OLED display to the iMac",
-      "description": "Apple is reportedly revisiting its plans for an OLED iMac, partly because of the cost and the lack of a sales increase seen with the OLED iPad Pro.",
-      "link": "https://appleinsider.com/articles/26/11/19/imac-may-never-get-an-oled-screen-as-apple-reconsiders-cost",
+      "id": "g6724",
+      "title": "FBI investigates suspected intrusion into its criminal database",
+      "description": "The FBI is investigating an apparent intrusion into the National Crime Information Center, used by U.S. law enforcement agencies to check warrants and conduct background checks. A former official said the reliability of the data could be called into question, beyond its confidentiality.",
+      "link": "https://thenextweb.com/news/fbi-ncic-crime-database-breach-usda-hack",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6677",
-      "title": "iPhone camera chief Jon McCormack retires",
-      "description": "Jon McCormack, Apple’s head of iPhone cameras, has reportedly retired.",
-      "link": "https://appleinsider.com/articles/26/11/19/iphone-camera-chief-jon-mccormack-has-retired",
+      "id": "g6725",
+      "title": "Trump threatens to tax data centers built overseas",
+      "description": "Donald Trump said U.S. companies would be barred from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already operate data centers in other countries.",
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6691",
-      "title": "France sues Apple over planned obsolescence",
-      "description": "Apple is being sued in France for planned obsolescence over the pairing process applied to certain iPhone and iPad components, which can cause problems when they are reused.",
-      "link": "https://appleinsider.com/articles/26/11/17/france-takes-apple-to-court-over-planned-obsolescence",
+      "id": "g6726",
+      "title": "Meta reconsiders its climate target as AI-related emissions rise",
+      "description": "Meta is reassessing its pledge to reach carbon neutrality by 2030 after its emissions rose 45% in one year. Its total emissions increased from 15.6 million tons in 2024 to more than 21.7 million in 2025, partly due to its data centers and AI equipment.",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6661",
-      "title": "A major malware attack targeted iPhone and iPad users",
-      "description": "Malicious code injected into more than 170 sites through an Optimizely vulnerability attempted to steal bank card and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.",
-      "link": "https://us.list-manage.com/mj7NE84VBey?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "id": "g6727",
+      "title": "Open Inkling 2 Mini model reasons in loops on a laptop",
+      "description": "Inkling 2 Mini is a new open model that reasons in loops to solve problems with fewer words while running on a laptop.",
+      "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
     },
     {
-      "id": "g6696",
-      "title": "24-inch M6 iMac review: a limited but convincing update",
-      "description": "The new 24-inch iMac mainly adds the M6 chip, bringing a major boost for artificial intelligence while retaining its design and 4.5K display. It sells for 1,499 dollars and receives a score of 4 out of 5.",
-      "link": "https://us.list-manage.com/Y1xfemxIx5k?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
+      "id": "g6730",
+      "title": "Etsy abandons plans to use seller content to train AI",
+      "description": "Etsy announced that it would not use seller content to train AI models after sellers opposed policy changes.",
+      "link": "https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6697",
-      "title": "How to play Grand Theft Auto VI on iPhone, iPad and Vision Pro",
-      "description": "Cloud or console streaming makes it possible to play new games such as Grand Theft Auto VI on iPhone, iPad or Apple Vision Pro.",
-      "link": "https://appleinsider.com/articles/26/11/20/game-streaming-can-bring-grand-theft-auto-vi-to-your-iphone-ipad-or-apple-vision-pro",
+      "id": "g6731",
+      "title": "Neuralink participant pilots a GTA VI speedboat with his mind",
+      "description": "A Neuralink trial participant piloted a speedboat in GTA VI using a brain implant during a new demonstration.",
+      "link": "https://interestingengineering.com/culture/neuralink-brain-implant-gta-vi-blindsight-approval",
       "sources": [
-        "AppleInsider"
+        "Techpresso"
       ],
-      "received_at": "2026-11-21T00:54+01:00",
+      "received_at": "2026-11-21T18:45+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Produits high-tech grand public"
+      "followed_topic": null
+    },
+    {
+      "id": "g6733",
+      "title": "AI’s most misunderstood graph gets a major update",
+      "description": "The graph considered the most misunderstood in AI has received a major update.",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6734",
+      "title": "Researchers uncover a privacy flaw in the AI supply chain",
+      "description": "A researcher placed 2 million canaries in the AI supply chain, revealing a serious privacy problem.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6735",
+      "title": "AI is not replacing jobs—it is turning them into precarious work",
+      "description": "An article argues that AI does not necessarily eliminate jobs, but transforms them into outsourced, low-paid tasks.",
+      "link": "https://asteriskmag.substack.com/p/the-most-important-number-in-ai",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6736",
+      "title": "SoftBank chief considered a $1 trillion takeover of SK Hynix",
+      "description": "Masayoshi Son, SoftBank’s chief executive, considered a takeover of SK Hynix valued at $1 trillion, according to The Information.",
+      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6737",
+      "title": "Amazon tells defense teams to automate after China-linked intrusion",
+      "description": "Amazon asked its defense teams to automate their processes after China-linked AI agents compromised a campus.",
+      "link": "https://thenextweb.com/news/softbank-son-sk-hynix-buyout-1-trillion-the-information",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6738",
+      "title": "Google will shut down the Nest app and Google Assistant",
+      "description": "Google plans to shut down the Nest app as well as Google Assistant.",
+      "link": "https://www.cryptopolitan.com/amazon-urges-automated-defenses-ai-agents/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6739",
+      "title": "Microsoft will retire its To Do apps next year",
+      "description": "Microsoft plans to retire its To Do apps next year.",
+      "link": "https://www.howtogeek.com/google-shutting-down-nest-app-assistant/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6740",
+      "title": "Corporate risk disclosures rarely cover AI’s real-world harms",
+      "description": "Corporate risk disclosures cite the types of risks responsible for about 67% of technical failures, but only 2% of social harms such as bias.",
+      "link": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6741",
+      "title": "Chatbots poorly detect distress signals revealed gradually",
+      "description": "Tests show that chatbots detect distress signals when they are expressed in a single message, but miss them when they emerge gradually. Most models meet social workers’ standards in only 3% to 6% of these conversations.",
+      "link": "https://arxiv.org/abs/2611.25841",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6742",
+      "title": "AI news search engines reduce the diversity of Latin American sources",
+      "description": "AI-powered news search tools provide fewer Latin American sources and less diversity than traditional search engines. They provide local users with 3.6 to 11.6 percentage points fewer national news stories.",
+      "link": "https://arxiv.org/abs/2611.26009",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6743",
+      "title": "Pre-election polls accurately measured public dissatisfaction",
+      "description": "According to the Pew Research Center, polls correctly measured dissatisfaction with the national situation and strong Democratic motivation to vote. However, they underestimated the forces that brought Democrats back to power in Congress and in several states.",
+      "link": "https://arxiv.org/abs/2611.25955",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6720",
-      "title": "A Caltech math course fascinates readers",
-      "description": "In an introductory mathematics course at Caltech, a professor explained that he no longer grades homework for correctness because students use AI to complete it. Dozens of readers reacted in the comments.",
+      "title": "A Caltech math course captivates readers",
+      "description": "In a Caltech introductory mathematics course, a professor explained that he no longer graded homework for accuracy because students use AI to complete it. Dozens of readers responded in the comments.",
       "link": "https://l.businessinsider.com/a/zc/21432/eda32607c93341ac915220c5632aa5cb/349eac756a5f4bfa8585f2b6a71f4afa",
       "sources": [
         "Business Insider"
@@ -177,8 +359,8 @@
     },
     {
       "id": "g6215",
-      "title": "Gemini can now handle multi-step everyday tasks",
-      "description": "Google has expanded Gemini’s Tasks mode to handle tasks such as making appointments, reviewing bills, or placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.",
+      "title": "Gemini can now handle multistep everyday tasks",
+      "description": "Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "sources": [
         "AI Gen Art"
@@ -191,7 +373,7 @@
     {
       "id": "g6050",
       "title": "Google Maps generates complete itineraries for road trips",
-      "description": "The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for outings or multi-day road trips. The itineraries show traffic, opening hours, and the atmosphere of places, among other details.",
+      "description": "The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for excursions or multiday road trips. The itineraries show traffic, opening hours and the atmosphere of locations, among other details.",
       "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "sources": [
         "AI Gen Art"
@@ -202,9 +384,9 @@
       "followed_topic": null
     },
     {
-      "id": "g6718",
+      "id": "g6633",
       "title": "Claude Meetings joins Google Meet to create documents live",
-      "description": "Anthropic has launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting, and add Claude.",
+      "description": "Anthropic launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting and add Claude.",
       "link": "https://link.mail.beehiiv.com/v2/c/f4de177cb8f10bcd78e3e0b97167366b3ef0aca735629fe09a390bfbb4a0bc73119a3df840cca7cdc3c0642c9017a430f04feefd72204773f77f358a125045a78afa419fe49db6a3b8bd58f580c667b1f074295c2efdc0a3eacdadbb64074b97e466420a0aaec631b14d37ec2e339741db513339578ee05994f839f4c382f9033ef92606e113ddca4087fc0bcd209836eedab019d7c02df719f0fd968d53223b69b90dce10ce41f60ba5e7f014fc1a3e112b7d866d4d92d878e9089bf675f05a/d1dbff5039f1b10a",
       "sources": [
         "AI Gen Art"
@@ -217,7 +399,7 @@
     {
       "id": "g6709",
       "title": "The 50 Claude terms advanced users know",
-      "description": "A glossary of 50 terms explains Claude’s essential features and concepts, including artifacts, context windows, projects, skills, and MCP. The article recommends immediately putting the terms one knows less well into practice.",
+      "description": "A glossary of 50 terms explains Claude’s key features and concepts, including artifacts, context windows, projects, skills and MCP. The article recommends immediately putting the terms one understands less well into practice.",
       "link": "https://link.mail.beehiiv.com/v2/c/b84e02d40b79bc1ec254da9371875cbfdc5cfa3fb779e0d22ae8208266a8078c85ccf04e21ee5482cf088503e66dda6ec7d597b01c6261c20749aa2debef8f2b81794f387d0c52715389f5e87046492f7ad09a7907a31114791cd0c34e9a18c3944367f557886a728c64cd98ad58fe09a660ee8f40f9e8093fcb67f46c99bac9473a1bc939ee67d8c963799f78182ed21724c0613ce11b3cdb0d84c14eaad2df8cb89b9526d0efdc615bc6f30e58b6ccccd5bef6d1b46de2296a32e32aa111e8/741c23a7d10a2b0f",
       "sources": [
         "Cyber Corsairs"
@@ -230,7 +412,7 @@
     {
       "id": "g6710",
       "title": "Anthropic explains how Claude artifacts work",
-      "description": "The guide presents the documents, designs, and small tools Claude creates in a panel beside the chat, along with options for editing and sharing them.",
+      "description": "The guide introduces the documents, designs and small tools Claude creates in a panel beside the chat, as well as the options for editing and sharing them.",
       "link": "https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them",
       "sources": [
         "Cyber Corsairs"
@@ -242,7 +424,7 @@
     },
     {
       "id": "g6711",
-      "title": "Claude details the size of its context window",
+      "title": "Claude explains the size of its context window",
       "description": "This article presents the limits of paid plans and explains how Claude summarizes older messages when a long conversation approaches the context limit.",
       "link": "https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans",
       "sources": [
@@ -255,8 +437,8 @@
     },
     {
       "id": "g6712",
-      "title": "Anthropic explains search in Claude conversations and Claude’s memory",
-      "description": "The guide shows how Claude remembers the user across conversations and how to view, edit, or pause the stored information.",
+      "title": "Anthropic explains search across conversations and Claude’s memory",
+      "description": "The guide shows how Claude remembers the user across conversations and how to view, edit or pause the information it retains.",
       "link": "https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context",
       "sources": [
         "Cyber Corsairs"
@@ -281,8 +463,8 @@
     },
     {
       "id": "g6714",
-      "title": "Anthropic shows how to enable and create your own skills",
-      "description": "The guide explains how to enable skills in the personalization settings and upload your own skills to automate tasks in Claude.",
+      "title": "Anthropic shows how to enable and create custom skills",
+      "description": "The guide explains how to enable skills in the personalization settings and upload custom skills to automate tasks in Claude.",
       "link": "https://support.claude.com/en/articles/12512180-use-skills-in-claude",
       "sources": [
         "Cyber Corsairs"
@@ -294,8 +476,8 @@
     },
     {
       "id": "g6701",
-      "title": "A woman buys a house with her older sister and her sister’s husband",
-      "description": "A woman says she bought a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.",
+      "title": "A woman buys a house with her older sister and her husband",
+      "description": "A woman recounts buying a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.",
       "link": "https://www.businessinsider.com/bought-house-with-sister-and-her-husband-how-it-works-2026-11",
       "sources": [
         "Business Insider"
@@ -308,7 +490,7 @@
     {
       "id": "g6702",
       "title": "Americans are expected to eat 46 million turkeys at Thanksgiving",
-      "description": "The average price of a turkey has reached 28.55 dollars, up 5.5% from a year ago. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.",
+      "description": "The average price of a turkey has reached $28.55, up 5.5% year over year. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.",
       "link": "https://www.finder.com/research/american-thanksgiving-turkey-spend",
       "sources": [
         "Business Insider"
@@ -321,7 +503,7 @@
     {
       "id": "g6703",
       "title": "Zone 2 cardio isn’t enough to improve fitness",
-      "description": "Zone 2 is often presented as ideal for burning fat, improving endurance, and supporting metabolism. But athletes, doctors, and researchers say that a routine consisting only of Zone 2 is a mistake and that variety is essential.",
+      "description": "Zone 2 is often presented as ideal for burning fat, improving endurance and supporting metabolism. But athletes, doctors and researchers say a routine consisting only of Zone 2 is a mistake and that variety is essential.",
       "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8084a26bb8a34aa4a6c4a6bc5b13e910",
       "sources": [
         "Business Insider"
@@ -334,7 +516,7 @@
     {
       "id": "g6704",
       "title": "Despite their bad reputation, cruises have never been more popular",
-      "description": "Cruises have faced numerous warnings related to illness and incidents, but the industry continues to grow. Social media, innovation, and affordable prices have supported their popularity, even after the pandemic brought the industry to a halt.",
+      "description": "Cruises have faced numerous warnings related to illnesses and incidents, but the industry continues to grow. Social media, innovation and affordable prices have supported their popularity, even after the pandemic-induced shutdown.",
       "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8a6810cf31114129afc1b21e5e920d47",
       "sources": [
         "Business Insider"
@@ -346,8 +528,8 @@
     },
     {
       "id": "g6705",
-      "title": "A 19-hour business-class flight makes economy class feel regrettable",
-      "description": "During a 19-hour flight between New Jersey and Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully reclining bed so much that she was disappointed to arrive.",
+      "title": "A 19-hour business-class flight makes economy class seem regrettable",
+      "description": "During a 19-hour flight from New Jersey to Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully lie-flat bed so much that she was disappointed when the flight arrived.",
       "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/0eaf23d1073947f9884d0a42a83c23ab",
       "sources": [
         "Business Insider"
@@ -360,77 +542,12 @@
     {
       "id": "g6706",
       "title": "In El Paso, land bought in 1971 has remained almost unchanged",
-      "description": "In 1971, a Business Insider journalist’s grandparents bought a residential plot of land in El Paso for 1,400 dollars, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more litter.",
+      "description": "In 1971, a Business Insider journalist’s grandparents bought a residential plot in El Paso for $1,400, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more trash.",
       "link": "https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/5a60cd0cccda4569b0a5393292a10406",
       "sources": [
         "Business Insider"
       ],
       "received_at": "2026-11-21T12:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6492",
-      "title": "The UK can no longer conceal its request for Apple data",
-      "description": "The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court ruled in Apple’s favor on holding the case in public.",
-      "link": "https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-21T00:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6692",
-      "title": "US senators increase pressure on Apple over nudify apps",
-      "description": "US senators questioned Apple about apps capable of generating non-consensual nude images, following concerns about teenagers’ access to them.",
-      "link": "https://appleinsider.com/articles/26/11/18/senators-turn-up-the-pressure-on-apple-after-teen-access-to-ai-nudify-apps",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-21T00:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6694",
-      "title": "Cyberattack on Chase supplier exposes customer data",
-      "description": "JPMorgan Chase confirmed a cyberattack targeting suppliers. Stolen marketing data reportedly contained more than 16,000 customer email addresses, sometimes along with phone numbers and ZIP codes.",
-      "link": "https://appleinsider.com/articles/26/11/19/chase-customer-names-and-emails-at-risk-after-vendor-cyberattack",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-21T00:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6695",
-      "title": "VLC lets users keep watching DVDs on macOS",
-      "description": "Apple began removing the technology used for built-in DVD playback with macOS 27. VLC offers a way to continue using physical media on Mac.",
-      "link": "https://us.list-manage.com/tMWhItddmB2?e=bf8ebfa063&c2id=ca5447527a18ce8404c391f431c2e8d0",
-      "sources": [
-        "AppleInsider"
-      ],
-      "received_at": "2026-11-21T00:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6684",
-      "title": "Run a task across multiple applications",
-      "description": "This chapter explains how to plan a workflow, add controls, keep it short and assess its cost on Zapier, Make or n8n. It requires a connected tool, an existing automation and a repetitive task involving multiple steps.",
-      "link": "https://link.mail.beehiiv.com/v2/c/a1094f595a599315f3a76b4a4020448ec1415e9b6b6b6141748f54e7a4df0c19e9571872756ea32614cfb743074935c15152e85c8bba1afabaa555526faf8f43d227442c7ceb0330d532e32edae96e62817f329561d6e08b1cf0a2afe669655bf43ec2b2e491ff521cf3cf5b653b873a35f3121e1741780088d40589f2aeaffc03d676793bb02fcbb15579424408231f3ee24a63c5c4894283db28397e1233e3/53d1a2241b921ff7",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-20T19:33+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
