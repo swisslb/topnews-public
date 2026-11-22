@@ -1,274 +1,346 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — All newsletter news — 2026-11-21</title>
+  <title>NewsCenter — All newsletter news — 2026-11-22</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>Every news received through Laurent's newsletters over the last 24 hours. 33 news received.</description>
+  <description>Every news received through Laurent's newsletters over the last 24 hours. 42 news received.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 21 Nov 2026 18:25:20 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 05:25:17 GMT</lastBuildDate>
+  <item>
+    <title>Oracle says its contract with OpenAI is fully funded</title>
+    <link>https://thenextweb.com/news/oracle-openai-contract-fully-funded-20bn-raise</link>
+    <guid isPermaLink="false">2026-11-22:g6728</guid>
+    <description>Oracle said its contract with OpenAI was fully funded, in response to reports published in the media.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Cursor considers phasing out Chinese AI models</title>
+    <link>https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html</link>
+    <guid isPermaLink="false">2026-11-22:g6729</guid>
+    <description>Cursor, a SpaceX subsidiary, told U.S. lawmakers that it was considering phasing out the use of Chinese AI models.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>ChatGPT runs on a Super Nintendo console</title>
+    <link>https://www.howtogeek.com/someone-ran-chatgpt-on-a-snes-and-it-performs-better-than-youd-expect/</link>
+    <guid isPermaLink="false">2026-11-22:g6732</guid>
+    <description>Someone got ChatGPT running on a Super Nintendo, with performance considered better than expected.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
   <item>
     <title>OpenAI turns written briefs into playable 3D experiences with Astra</title>
     <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
-    <guid isPermaLink="false">2026-11-21:g6715</guid>
-    <description>GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model ranks first on a human-evaluated 3D benchmark.</description>
+    <guid isPermaLink="false">2026-11-22:g6715</guid>
+    <description>GPT-6.2 Astra can turn a written brief into an interactive browser experience, such as a playable pinball game or an explorable Colosseum. OpenAI says the model leads a human-evaluated 3D benchmark.</description>
     <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
     <title>OpenAI launches ChatGPT for Sales with ready-to-use sales workflows</title>
     <link>https://openai.com/index/introducing-chatgpt-for-sales/</link>
-    <guid isPermaLink="false">2026-11-21:g6408</guid>
-    <description>ChatGPT for Sales offers workflows for selecting accounts, preparing for calls, and writing follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.</description>
+    <guid isPermaLink="false">2026-11-22:g6408</guid>
+    <description>ChatGPT for Sales offers workflows for selecting accounts, preparing calls and drafting follow-ups. The plugin also includes more than 30 partner integrations, including Canva and Gamma.</description>
     <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
     <title>Oxford researcher offers a guide to preparing children for the AI era</title>
     <link>https://www.businessinsider.com/daniel-susskind-what-should-my-children-do-review-2026-11</link>
-    <guid isPermaLink="false">2026-11-21:g6707</guid>
-    <description>Daniel Susskind, an associate researcher at the Oxford Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.</description>
+    <guid isPermaLink="false">2026-11-22:g6707</guid>
+    <description>Daniel Susskind, an associate researcher at Oxford’s Institute for Ethics in AI and a father of three, examines in his new book how to prepare children for a world in which artificial intelligence is constantly changing.</description>
     <pubDate>Sat, 21 Nov 2026 11:33:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
   <item>
-    <title>iPhone Air 2 and iPhone 18 reveal their designs through dummy units</title>
-    <link>https://us.list-manage.com/OCPqBzYhhdC?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-21:g6685</guid>
-    <description>Leaked dummy units indicate that the iPhone Air 2 will feature two rear cameras, while the standard iPhone 18 will reportedly have no notable changes.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>GTA VI generates $3.8 billion on its first day</title>
+    <link>https://www.business-standard.com/technology/tech-news/gta-vi-generates-3-79-bn-becomes-biggest-entertainment-launch-ever-126112100066_1.html</link>
+    <guid isPermaLink="false">2026-11-22:g6721</guid>
+    <description>Grand Theft Auto VI generated $3.79 billion in 24 hours, a record for a cultural release. Rockstar Games had sold 32.5 million copies even before launch.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>iPhone 20 Pro could adopt a curved display with slimmer bezels</title>
-    <link>https://appleinsider.com/articles/26/11/17/this-is-what-the-iphone-20-pro-curved-glass-screen-could-look-like</link>
-    <guid isPermaLink="false">2026-11-21:g6686</guid>
-    <description>A new video allegedly shows the iPhone 20 Pro’s curved display, with significantly reduced bezels.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>YouTube nears $3 billion settlement with U.S. schools</title>
+    <link>https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341</link>
+    <guid isPermaLink="false">2026-11-22:g6722</guid>
+    <description>YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protection measures, which have not yet been specified.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>iPhone 20’s curved edges would be nearly invisible from the front</title>
-    <link>https://appleinsider.com/articles/26/11/18/curved-glass-edges-of-iphone-20-will-be-practically-invisible-from-the-front</link>
-    <guid isPermaLink="false">2026-11-21:g6687</guid>
-    <description>The future iPhone 20 design would use curved glass edges that would be virtually invisible from the front.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>SEC investigates Nvidia’s accounting</title>
+    <link>https://www.cryptopolitan.com/us-sec-civil-probe-into-nvidias-accounting/</link>
+    <guid isPermaLink="false">2026-11-22:g6723</guid>
+    <description>The U.S. SEC has opened a civil investigation to determine whether Nvidia misled investors about its accounting, without currently accusing the company of breaking the law. The investigation focuses in part on its sales to Singapore and on a customer suspected of rerouting chips to China.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>Apple may be reconsidering bringing an OLED display to the iMac</title>
-    <link>https://appleinsider.com/articles/26/11/19/imac-may-never-get-an-oled-screen-as-apple-reconsiders-cost</link>
-    <guid isPermaLink="false">2026-11-21:g6679</guid>
-    <description>Apple is reportedly revisiting its plans for an OLED iMac, partly because of the cost and the lack of a sales increase seen with the OLED iPad Pro.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>FBI investigates suspected intrusion into its criminal database</title>
+    <link>https://thenextweb.com/news/fbi-ncic-crime-database-breach-usda-hack</link>
+    <guid isPermaLink="false">2026-11-22:g6724</guid>
+    <description>The FBI is investigating an apparent intrusion into the National Crime Information Center, used by U.S. law enforcement agencies to check warrants and conduct background checks. A former official said the reliability of the data could be called into question, beyond its confidentiality.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>iPhone camera chief Jon McCormack retires</title>
-    <link>https://appleinsider.com/articles/26/11/19/iphone-camera-chief-jon-mccormack-has-retired</link>
-    <guid isPermaLink="false">2026-11-21:g6677</guid>
-    <description>Jon McCormack, Apple’s head of iPhone cameras, has reportedly retired.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>Trump threatens to tax data centers built overseas</title>
+    <link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
+    <guid isPermaLink="false">2026-11-22:g6725</guid>
+    <description>Donald Trump said U.S. companies would be barred from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already operate data centers in other countries.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>France sues Apple over planned obsolescence</title>
-    <link>https://appleinsider.com/articles/26/11/17/france-takes-apple-to-court-over-planned-obsolescence</link>
-    <guid isPermaLink="false">2026-11-21:g6691</guid>
-    <description>Apple is being sued in France for planned obsolescence over the pairing process applied to certain iPhone and iPad components, which can cause problems when they are reused.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>Meta reconsiders its climate target as AI-related emissions rise</title>
+    <link>https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/</link>
+    <guid isPermaLink="false">2026-11-22:g6726</guid>
+    <description>Meta is reassessing its pledge to reach carbon neutrality by 2030 after its emissions rose 45% in one year. Its total emissions increased from 15.6 million tons in 2024 to more than 21.7 million in 2025, partly due to its data centers and AI equipment.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>A major malware attack targeted iPhone and iPad users</title>
-    <link>https://us.list-manage.com/mj7NE84VBey?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-21:g6661</guid>
-    <description>Malicious code injected into more than 170 sites through an Optimizely vulnerability attempted to steal bank card and cryptocurrency data. iPhone and iPad users were exposed to Coruna and DarkSword exploit kits.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>Open Inkling 2 Mini model reasons in loops on a laptop</title>
+    <link>https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/</link>
+    <guid isPermaLink="false">2026-11-22:g6727</guid>
+    <description>Inkling 2 Mini is a new open model that reasons in loops to solve problems with fewer words while running on a laptop.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>24-inch M6 iMac review: a limited but convincing update</title>
-    <link>https://us.list-manage.com/Y1xfemxIx5k?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-21:g6696</guid>
-    <description>The new 24-inch iMac mainly adds the M6 chip, bringing a major boost for artificial intelligence while retaining its design and 4.5K display. It sells for 1,499 dollars and receives a score of 4 out of 5.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>Etsy abandons plans to use seller content to train AI</title>
+    <link>https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/</link>
+    <guid isPermaLink="false">2026-11-22:g6730</guid>
+    <description>Etsy announced that it would not use seller content to train AI models after sellers opposed policy changes.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>How to play Grand Theft Auto VI on iPhone, iPad and Vision Pro</title>
-    <link>https://appleinsider.com/articles/26/11/20/game-streaming-can-bring-grand-theft-auto-vi-to-your-iphone-ipad-or-apple-vision-pro</link>
-    <guid isPermaLink="false">2026-11-21:g6697</guid>
-    <description>Cloud or console streaming makes it possible to play new games such as Grand Theft Auto VI on iPhone, iPad or Apple Vision Pro.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
+    <title>Neuralink participant pilots a GTA VI speedboat with his mind</title>
+    <link>https://interestingengineering.com/culture/neuralink-brain-implant-gta-vi-blindsight-approval</link>
+    <guid isPermaLink="false">2026-11-22:g6731</guid>
+    <description>A Neuralink trial participant piloted a speedboat in GTA VI using a brain implant during a new demonstration.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>A Caltech math course fascinates readers</title>
+    <title>AI’s most misunderstood graph gets a major update</title>
+    <link>https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/</link>
+    <guid isPermaLink="false">2026-11-22:g6733</guid>
+    <description>The graph considered the most misunderstood in AI has received a major update.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Researchers uncover a privacy flaw in the AI supply chain</title>
+    <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+    <guid isPermaLink="false">2026-11-22:g6734</guid>
+    <description>A researcher placed 2 million canaries in the AI supply chain, revealing a serious privacy problem.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>AI is not replacing jobs—it is turning them into precarious work</title>
+    <link>https://asteriskmag.substack.com/p/the-most-important-number-in-ai</link>
+    <guid isPermaLink="false">2026-11-22:g6735</guid>
+    <description>An article argues that AI does not necessarily eliminate jobs, but transforms them into outsourced, low-paid tasks.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>SoftBank chief considered a $1 trillion takeover of SK Hynix</title>
+    <link>https://restofworld.org/2026/ai-jobs-skills-gig-work/</link>
+    <guid isPermaLink="false">2026-11-22:g6736</guid>
+    <description>Masayoshi Son, SoftBank’s chief executive, considered a takeover of SK Hynix valued at $1 trillion, according to The Information.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Amazon tells defense teams to automate after China-linked intrusion</title>
+    <link>https://thenextweb.com/news/softbank-son-sk-hynix-buyout-1-trillion-the-information</link>
+    <guid isPermaLink="false">2026-11-22:g6737</guid>
+    <description>Amazon asked its defense teams to automate their processes after China-linked AI agents compromised a campus.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Google will shut down the Nest app and Google Assistant</title>
+    <link>https://www.cryptopolitan.com/amazon-urges-automated-defenses-ai-agents/</link>
+    <guid isPermaLink="false">2026-11-22:g6738</guid>
+    <description>Google plans to shut down the Nest app as well as Google Assistant.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Microsoft will retire its To Do apps next year</title>
+    <link>https://www.howtogeek.com/google-shutting-down-nest-app-assistant/</link>
+    <guid isPermaLink="false">2026-11-22:g6739</guid>
+    <description>Microsoft plans to retire its To Do apps next year.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Corporate risk disclosures rarely cover AI’s real-world harms</title>
+    <link>https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/</link>
+    <guid isPermaLink="false">2026-11-22:g6740</guid>
+    <description>Corporate risk disclosures cite the types of risks responsible for about 67% of technical failures, but only 2% of social harms such as bias.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Chatbots poorly detect distress signals revealed gradually</title>
+    <link>https://arxiv.org/abs/2611.25841</link>
+    <guid isPermaLink="false">2026-11-22:g6741</guid>
+    <description>Tests show that chatbots detect distress signals when they are expressed in a single message, but miss them when they emerge gradually. Most models meet social workers’ standards in only 3% to 6% of these conversations.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>AI news search engines reduce the diversity of Latin American sources</title>
+    <link>https://arxiv.org/abs/2611.26009</link>
+    <guid isPermaLink="false">2026-11-22:g6742</guid>
+    <description>AI-powered news search tools provide fewer Latin American sources and less diversity than traditional search engines. They provide local users with 3.6 to 11.6 percentage points fewer national news stories.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>Pre-election polls accurately measured public dissatisfaction</title>
+    <link>https://arxiv.org/abs/2611.25955</link>
+    <guid isPermaLink="false">2026-11-22:g6743</guid>
+    <description>According to the Pew Research Center, polls correctly measured dissatisfaction with the national situation and strong Democratic motivation to vote. However, they underestimated the forces that brought Democrats back to power in Congress and in several states.</description>
+    <pubDate>Sat, 21 Nov 2026 17:45:00 GMT</pubDate>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>A Caltech math course captivates readers</title>
     <link>https://l.businessinsider.com/a/zc/21432/eda32607c93341ac915220c5632aa5cb/349eac756a5f4bfa8585f2b6a71f4afa</link>
-    <guid isPermaLink="false">2026-11-21:g6720</guid>
-    <description>In an introductory mathematics course at Caltech, a professor explained that he no longer grades homework for correctness because students use AI to complete it. Dozens of readers reacted in the comments.</description>
+    <guid isPermaLink="false">2026-11-22:g6720</guid>
+    <description>In a Caltech introductory mathematics course, a professor explained that he no longer graded homework for accuracy because students use AI to complete it. Dozens of readers responded in the comments.</description>
     <pubDate>Sat, 21 Nov 2026 17:00:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
   <item>
-    <title>Gemini can now handle multi-step everyday tasks</title>
+    <title>Gemini can now handle multistep everyday tasks</title>
     <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
-    <guid isPermaLink="false">2026-11-21:g6215</guid>
-    <description>Google has expanded Gemini’s Tasks mode to handle tasks such as making appointments, reviewing bills, or placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.</description>
+    <guid isPermaLink="false">2026-11-22:g6215</guid>
+    <description>Google has expanded Gemini’s Tasks mode to perform tasks such as scheduling appointments, reviewing bills and placing grocery orders. The service asks for confirmation before certain critical steps, but Google recommends checking the results.</description>
     <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
     <title>Google Maps generates complete itineraries for road trips</title>
     <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
-    <guid isPermaLink="false">2026-11-21:g6050</guid>
-    <description>The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for outings or multi-day road trips. The itineraries show traffic, opening hours, and the atmosphere of places, among other details.</description>
+    <guid isPermaLink="false">2026-11-22:g6050</guid>
+    <description>The new Ask Maps features create detailed plans, with day-by-day schedules and numbered stops, for excursions or multiday road trips. The itineraries show traffic, opening hours and the atmosphere of locations, among other details.</description>
     <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
     <title>Claude Meetings joins Google Meet to create documents live</title>
     <link>https://link.mail.beehiiv.com/v2/c/f4de177cb8f10bcd78e3e0b97167366b3ef0aca735629fe09a390bfbb4a0bc73119a3df840cca7cdc3c0642c9017a430f04feefd72204773f77f358a125045a78afa419fe49db6a3b8bd58f580c667b1f074295c2efdc0a3eacdadbb64074b97e466420a0aaec631b14d37ec2e339741db513339578ee05994f839f4c382f9033ef92606e113ddca4087fc0bcd209836eedab019d7c02df719f0fd968d53223b69b90dce10ce41f60ba5e7f014fc1a3e112b7d866d4d92d878e9089bf675f05a/d1dbff5039f1b10a</link>
-    <guid isPermaLink="false">2026-11-21:g6718</guid>
-    <description>Anthropic has launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting, and add Claude.</description>
+    <guid isPermaLink="false">2026-11-22:g6633</guid>
+    <description>Anthropic launched Claude Meetings in beta, allowing users to add Claude to a Google Meet call to create documents and whiteboards live. Users must connect Google Calendar, select the meeting and add Claude.</description>
     <pubDate>Sat, 21 Nov 2026 16:02:00 GMT</pubDate>
     <category>AI Gen Art</category>
   </item>
   <item>
     <title>The 50 Claude terms advanced users know</title>
     <link>https://link.mail.beehiiv.com/v2/c/b84e02d40b79bc1ec254da9371875cbfdc5cfa3fb779e0d22ae8208266a8078c85ccf04e21ee5482cf088503e66dda6ec7d597b01c6261c20749aa2debef8f2b81794f387d0c52715389f5e87046492f7ad09a7907a31114791cd0c34e9a18c3944367f557886a728c64cd98ad58fe09a660ee8f40f9e8093fcb67f46c99bac9473a1bc939ee67d8c963799f78182ed21724c0613ce11b3cdb0d84c14eaad2df8cb89b9526d0efdc615bc6f30e58b6ccccd5bef6d1b46de2296a32e32aa111e8/741c23a7d10a2b0f</link>
-    <guid isPermaLink="false">2026-11-21:g6709</guid>
-    <description>A glossary of 50 terms explains Claude’s essential features and concepts, including artifacts, context windows, projects, skills, and MCP. The article recommends immediately putting the terms one knows less well into practice.</description>
+    <guid isPermaLink="false">2026-11-22:g6709</guid>
+    <description>A glossary of 50 terms explains Claude’s key features and concepts, including artifacts, context windows, projects, skills and MCP. The article recommends immediately putting the terms one understands less well into practice.</description>
     <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
     <category>Cyber Corsairs</category>
   </item>
   <item>
     <title>Anthropic explains how Claude artifacts work</title>
     <link>https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them</link>
-    <guid isPermaLink="false">2026-11-21:g6710</guid>
-    <description>The guide presents the documents, designs, and small tools Claude creates in a panel beside the chat, along with options for editing and sharing them.</description>
+    <guid isPermaLink="false">2026-11-22:g6710</guid>
+    <description>The guide introduces the documents, designs and small tools Claude creates in a panel beside the chat, as well as the options for editing and sharing them.</description>
     <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
     <category>Cyber Corsairs</category>
   </item>
   <item>
-    <title>Claude details the size of its context window</title>
+    <title>Claude explains the size of its context window</title>
     <link>https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans</link>
-    <guid isPermaLink="false">2026-11-21:g6711</guid>
+    <guid isPermaLink="false">2026-11-22:g6711</guid>
     <description>This article presents the limits of paid plans and explains how Claude summarizes older messages when a long conversation approaches the context limit.</description>
     <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
     <category>Cyber Corsairs</category>
   </item>
   <item>
-    <title>Anthropic explains search in Claude conversations and Claude’s memory</title>
+    <title>Anthropic explains search across conversations and Claude’s memory</title>
     <link>https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context</link>
-    <guid isPermaLink="false">2026-11-21:g6712</guid>
-    <description>The guide shows how Claude remembers the user across conversations and how to view, edit, or pause the stored information.</description>
+    <guid isPermaLink="false">2026-11-22:g6712</guid>
+    <description>The guide shows how Claude remembers the user across conversations and how to view, edit or pause the information it retains.</description>
     <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
     <category>Cyber Corsairs</category>
   </item>
   <item>
     <title>The Model Context Protocol connects AI applications to data and tools</title>
     <link>https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro</link>
-    <guid isPermaLink="false">2026-11-21:g6713</guid>
+    <guid isPermaLink="false">2026-11-22:g6713</guid>
     <description>The Model Context Protocol is presented as an open standard for connecting AI applications to personal data and tools, like a USB-C port for AI.</description>
     <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
     <category>Cyber Corsairs</category>
   </item>
   <item>
-    <title>Anthropic shows how to enable and create your own skills</title>
+    <title>Anthropic shows how to enable and create custom skills</title>
     <link>https://support.claude.com/en/articles/12512180-use-skills-in-claude</link>
-    <guid isPermaLink="false">2026-11-21:g6714</guid>
-    <description>The guide explains how to enable skills in the personalization settings and upload your own skills to automate tasks in Claude.</description>
+    <guid isPermaLink="false">2026-11-22:g6714</guid>
+    <description>The guide explains how to enable skills in the personalization settings and upload custom skills to automate tasks in Claude.</description>
     <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
     <category>Cyber Corsairs</category>
   </item>
   <item>
-    <title>A woman buys a house with her older sister and her sister’s husband</title>
+    <title>A woman buys a house with her older sister and her husband</title>
     <link>https://www.businessinsider.com/bought-house-with-sister-and-her-husband-how-it-works-2026-11</link>
-    <guid isPermaLink="false">2026-11-21:g6701</guid>
-    <description>A woman says she bought a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.</description>
+    <guid isPermaLink="false">2026-11-22:g6701</guid>
+    <description>A woman recounts buying a house with her older sister and brother-in-law, an arrangement that turned out to be perfect for her.</description>
     <pubDate>Sat, 21 Nov 2026 11:33:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
   <item>
     <title>Americans are expected to eat 46 million turkeys at Thanksgiving</title>
     <link>https://www.finder.com/research/american-thanksgiving-turkey-spend</link>
-    <guid isPermaLink="false">2026-11-21:g6702</guid>
-    <description>The average price of a turkey has reached 28.55 dollars, up 5.5% from a year ago. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.</description>
+    <guid isPermaLink="false">2026-11-22:g6702</guid>
+    <description>The average price of a turkey has reached $28.55, up 5.5% year over year. Despite this, 84% of people who celebrate Thanksgiving plan to serve one.</description>
     <pubDate>Sat, 21 Nov 2026 11:33:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
   <item>
     <title>Zone 2 cardio isn’t enough to improve fitness</title>
     <link>https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8084a26bb8a34aa4a6c4a6bc5b13e910</link>
-    <guid isPermaLink="false">2026-11-21:g6703</guid>
-    <description>Zone 2 is often presented as ideal for burning fat, improving endurance, and supporting metabolism. But athletes, doctors, and researchers say that a routine consisting only of Zone 2 is a mistake and that variety is essential.</description>
+    <guid isPermaLink="false">2026-11-22:g6703</guid>
+    <description>Zone 2 is often presented as ideal for burning fat, improving endurance and supporting metabolism. But athletes, doctors and researchers say a routine consisting only of Zone 2 is a mistake and that variety is essential.</description>
     <pubDate>Sat, 21 Nov 2026 11:33:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
   <item>
     <title>Despite their bad reputation, cruises have never been more popular</title>
     <link>https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/8a6810cf31114129afc1b21e5e920d47</link>
-    <guid isPermaLink="false">2026-11-21:g6704</guid>
-    <description>Cruises have faced numerous warnings related to illness and incidents, but the industry continues to grow. Social media, innovation, and affordable prices have supported their popularity, even after the pandemic brought the industry to a halt.</description>
+    <guid isPermaLink="false">2026-11-22:g6704</guid>
+    <description>Cruises have faced numerous warnings related to illnesses and incidents, but the industry continues to grow. Social media, innovation and affordable prices have supported their popularity, even after the pandemic-induced shutdown.</description>
     <pubDate>Sat, 21 Nov 2026 11:33:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
   <item>
-    <title>A 19-hour business-class flight makes economy class feel regrettable</title>
+    <title>A 19-hour business-class flight makes economy class seem regrettable</title>
     <link>https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/0eaf23d1073947f9884d0a42a83c23ab</link>
-    <guid isPermaLink="false">2026-11-21:g6705</guid>
-    <description>During a 19-hour flight between New Jersey and Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully reclining bed so much that she was disappointed to arrive.</description>
+    <guid isPermaLink="false">2026-11-22:g6705</guid>
+    <description>During a 19-hour flight from New Jersey to Singapore, journalist Talia Lakritz enjoyed Singapore Airlines’ meals and fully lie-flat bed so much that she was disappointed when the flight arrived.</description>
     <pubDate>Sat, 21 Nov 2026 11:33:00 GMT</pubDate>
     <category>Business Insider</category>
   </item>
   <item>
     <title>In El Paso, land bought in 1971 has remained almost unchanged</title>
     <link>https://l.businessinsider.com/a/zc/21432/97cd350eb0bf49a4b4d8e7da7efc8223/5a60cd0cccda4569b0a5393292a10406</link>
-    <guid isPermaLink="false">2026-11-21:g6706</guid>
-    <description>In 1971, a Business Insider journalist’s grandparents bought a residential plot of land in El Paso for 1,400 dollars, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more litter.</description>
+    <guid isPermaLink="false">2026-11-22:g6706</guid>
+    <description>In 1971, a Business Insider journalist’s grandparents bought a residential plot in El Paso for $1,400, sold as a promise of prosperity. More than fifty years later, the parcel looks almost as it did then, with more trash.</description>
     <pubDate>Sat, 21 Nov 2026 11:33:00 GMT</pubDate>
     <category>Business Insider</category>
-  </item>
-  <item>
-    <title>The UK can no longer conceal its request for Apple data</title>
-    <link>https://us.list-manage.com/zjO2ke3SzBA?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-21:g6492</guid>
-    <description>The UK was forced to make public its requests for a backdoor into iCloud encryption. The relevant court ruled in Apple’s favor on holding the case in public.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
-  </item>
-  <item>
-    <title>US senators increase pressure on Apple over nudify apps</title>
-    <link>https://appleinsider.com/articles/26/11/18/senators-turn-up-the-pressure-on-apple-after-teen-access-to-ai-nudify-apps</link>
-    <guid isPermaLink="false">2026-11-21:g6692</guid>
-    <description>US senators questioned Apple about apps capable of generating non-consensual nude images, following concerns about teenagers’ access to them.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
-  </item>
-  <item>
-    <title>Cyberattack on Chase supplier exposes customer data</title>
-    <link>https://appleinsider.com/articles/26/11/19/chase-customer-names-and-emails-at-risk-after-vendor-cyberattack</link>
-    <guid isPermaLink="false">2026-11-21:g6694</guid>
-    <description>JPMorgan Chase confirmed a cyberattack targeting suppliers. Stolen marketing data reportedly contained more than 16,000 customer email addresses, sometimes along with phone numbers and ZIP codes.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
-  </item>
-  <item>
-    <title>VLC lets users keep watching DVDs on macOS</title>
-    <link>https://us.list-manage.com/tMWhItddmB2?e=bf8ebfa063&amp;c2id=ca5447527a18ce8404c391f431c2e8d0</link>
-    <guid isPermaLink="false">2026-11-21:g6695</guid>
-    <description>Apple began removing the technology used for built-in DVD playback with macOS 27. VLC offers a way to continue using physical media on Mac.</description>
-    <pubDate>Fri, 20 Nov 2026 23:54:00 GMT</pubDate>
-    <category>AppleInsider</category>
-  </item>
-  <item>
-    <title>Run a task across multiple applications</title>
-    <link>https://link.mail.beehiiv.com/v2/c/a1094f595a599315f3a76b4a4020448ec1415e9b6b6b6141748f54e7a4df0c19e9571872756ea32614cfb743074935c15152e85c8bba1afabaa555526faf8f43d227442c7ceb0330d532e32edae96e62817f329561d6e08b1cf0a2afe669655bf43ec2b2e491ff521cf3cf5b653b873a35f3121e1741780088d40589f2aeaffc03d676793bb02fcbb15579424408231f3ee24a63c5c4894283db28397e1233e3/53d1a2241b921ff7</link>
-    <guid isPermaLink="false">2026-11-21:g6684</guid>
-    <description>This chapter explains how to plan a workflow, add controls, keep it short and assess its cost on Zapier, Make or n8n. It requires a connected tool, an existing automation and a repetitive task involving multiple steps.</description>
-    <pubDate>Fri, 20 Nov 2026 18:33:00 GMT</pubDate>
-    <category>GPT Central</category>
   </item>
 </channel>
 </rss>
