@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "news_count": 42,
+  "news_count": 35,
   "top5": [
     {
       "rank": 1,
@@ -15,13 +15,13 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The SEC’s investigation into Nvidia’s accounting and possible chip rerouting to China could materially affect the AI leader’s valuation, disclosures and export-control exposure."
+      "why": "The SEC’s investigation into Nvidia’s accounting and possible China-linked chip rerouting could materially affect the world’s most valuable AI company, its valuation and semiconductor export controls."
     },
     {
       "rank": 2,
       "id": "g6725",
       "title": "Trump threatens to tax data centers built overseas",
-      "description": "Donald Trump said U.S. companies would be prohibited from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already have data centers in other countries.",
+      "description": "Donald Trump said U.S. companies would be barred from building data centers overseas or would have to pay a very high tax. Alphabet, Amazon, Microsoft, Meta and Oracle already operate data centers in other countries.",
       "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
       "sources": [
         "Techpresso"
@@ -30,28 +30,13 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Trump’s threat to tax or prohibit overseas data centers could reshape the global infrastructure strategies and capital spending of America’s largest technology companies."
+      "why": "Trump’s threat to tax or restrict overseas data centers could reshape how major U.S. technology companies deploy global AI infrastructure and increase costs across the industry."
     },
     {
       "rank": 3,
-      "id": "g6736",
-      "title": "SoftBank chief explored a $1 trillion takeover of SK Hynix",
-      "description": "Masayoshi Son, SoftBank’s chief, explored a $1 trillion takeover of SK Hynix, according to The Information.",
-      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-      "sources": [
-        "Techpresso"
-      ],
-      "received_at": "2026-11-21T18:45+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "SoftBank’s reported exploration of a $1 trillion takeover of SK Hynix highlights the strategic and financial stakes surrounding control of advanced memory for AI systems."
-    },
-    {
-      "rank": 4,
       "id": "g6722",
       "title": "YouTube nears $3 billion settlement with U.S. schools",
-      "description": "YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protections, though details have not yet been specified.",
+      "description": "YouTube is close to a settlement worth up to $3 billion with school districts accusing it of designing an addictive platform. The settlement would also include new protection measures, which have not yet been specified.",
       "link": "https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341",
       "sources": [
         "Techpresso"
@@ -60,7 +45,22 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "A potential $3 billion YouTube settlement with U.S. schools could establish a major financial and regulatory precedent for platform design, child safety and addiction claims."
+      "why": "A potential $3 billion YouTube settlement would be one of the largest technology-platform liability deals and could bring significant new protections for children and teenagers."
+    },
+    {
+      "rank": 4,
+      "id": "g6737",
+      "title": "Amazon tells defense teams to automate after China-linked intrusion",
+      "description": "Amazon asked its defense teams to automate their processes after China-linked AI agents compromised a campus.",
+      "link": "https://thenextweb.com/news/softbank-son-sk-hynix-buyout-1-trillion-the-information",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-21T18:45+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "The China-linked intrusion into an Amazon defense campus highlights the growing ability of AI-enabled attackers to penetrate sensitive systems and is prompting major changes in defense-sector operations."
     },
     {
       "rank": 5,
@@ -75,12 +75,12 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s expansion of Gemini into multistep tasks such as booking appointments, reviewing bills and ordering groceries signals a shift from chatbots toward agentic consumer automation."
+      "why": "Gemini’s ability to schedule appointments, review bills and place orders signals that consumer AI is moving from answering questions toward executing multistep actions in the real world."
     }
   ],
   "period": {
-    "from": "2026-11-21T06:25+01:00",
-    "to": "2026-11-22T06:25+01:00"
+    "from": "2026-11-21T13:25+01:00",
+    "to": "2026-11-22T13:25+01:00"
   },
-  "generated_at": "2026-11-22T06:25+01:00"
+  "generated_at": "2026-11-22T13:25+01:00"
 }
