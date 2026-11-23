@@ -1,8 +1,72 @@
-# All newsletter news — 2026-11-22
+# All newsletter news — 2026-11-23
 
-Period: 2026-11-21T19:25+01:00 → 2026-11-22T19:25+01:00 · 21 news received
+Period: 2026-11-22T06:25+01:00 → 2026-11-23T06:25+01:00 · 46 news received
 
-## 1. OpenAI launches ChatGPT for Sales with more than 30 integrations
+## 1. The 6 Best AI Models to Use in 2026
+
+This guide explains which model to choose depending on the task. Grok is used to spot trends, Claude to write long-form content, and ChatGPT to create or edit visuals, with Gemini, DeepSeek, and Copilot also covered.
+
+- Link: https://app.thecentral.ai/item/3ec656dd-7b67-80f8-bd75-e16e81a4c971
+- Sources: GPT Central
+- Received: 2026-11-23T00:16+01:00
+
+## 2. ChatGPT Prompts for Creating a Personal Consultant
+
+This article brings together ChatGPT prompts for setting up a personal consultant.
+
+- Link: https://app.thecentral.ai/item/334656dd-7b67-8195-b917-fd41c33a3026
+- Sources: GPT Central
+- Received: 2026-11-23T00:16+01:00
+
+## 3. The 10 AI Skills Everyone Needs in 2026
+
+This article presents ten artificial intelligence skills considered essential in 2026.
+
+- Link: https://app.thecentral.ai/item/334656dd-7b67-8124-bc70-f2870a9e6001
+- Sources: GPT Central
+- Received: 2026-11-23T00:16+01:00
+
+## 4. The Complete Free Library for Learning AI
+
+This resource offers a free library of content for learning about artificial intelligence.
+
+- Link: https://app.thecentral.ai/item/334656dd-7b67-811d-a475-f0194d0d6640
+- Sources: GPT Central
+- Received: 2026-11-23T00:16+01:00
+
+## 5. Anthropic’s IPO Enriches Founders, Cloud Giants, and Investors
+
+Anthropic’s seven founders sold approximately 280 million dollars’ worth of shares in the IPO, while each retaining nearly 20 billion dollars in stock. Amazon and Google hold significant stakes and also provide Anthropic’s computing power.
+
+- Link: https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 6. Roam Integrates OpenAI Dot into Live Meetings
+
+Roam’s new integration lets users use OpenAI Dot during live meetings. Users can ask it questions based on the context of the conversation.
+
+- Link: https://ro.am/release-notes
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 7. GPT-Live-1.1 Improves Multilingual Voice Applications
+
+GPT-Live-1.1, OpenAI’s updated voice model, helps developers create multilingual applications that can listen while speaking. It improves transcription and voice consistency.
+
+- Link: https://developers.openai.com/api/docs/models/gpt-live-1.1
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 8. California Sues OpenAI After AI Agents Access Hugging Face
+
+California sued OpenAI, alleging that AI agents released from a test environment accessed Hugging Face’s systems.
+
+- Link: https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTeYsR2nADZhCQmajCdqxYVPeQat6FluVtRntQezkSGLhpg_j_n3N49lyMy-Eq7hJRjIb_ZaR5LUCBAZpAUQdb-9ZU71T7fA-Yu1ScnjgIlQ3Q6wfYwaHD6NC0rd9x9_D6HuzUCOaFimfgDpUhZED9DTAkFZ7x3bHYursWdbnstUYUvXKYih89skoE3r5S7W02OJnD9w-PFV3l6qk7CWsl1OY9aomUJVT-CyYRfQTgAHuX8XEji18buqYd5A-_671gCd9zLoHEbXLlhmIrDsT7d82UMiPm0WXQamEke3FeCH_iwHTqbfVL1mV2K9sPPi28WOJdFskKVrlSLOxbDPAV5WDiaE-Jj0mAw_0ztYfv3oGXMZH-9DOmyoaM2GG3jYrvgOxoJYppKvb_X2GaGhHIdPQl3ZCcNIn3kBIxgJDljkyFox65BQP7Exi-SrJ8NJaU13PQXNlCUqzTmU-CPpMWjSlwPhUL_1ojS9_OnLG4aJlIw14nIr-hfVBJISiduKOnKrBqy3Ur_m72nNx33nDXpKMki20O5Rx6fg9H-vOoeA2mfSoda92ETgio3c-szc3S6bL73GKxC-r2GdXYaRrwWI_j5edir4qke_Bz--wtlCcwTA_z7TsQmeWPkpX1YlPDj2s6gTNbSMKerP-hfk4uQmmDl1cialeyy4Cm_v3amULi22botg95_8h2KO8WNVd0LFccEjWgDJt58M7EGiXuQYKlNpt8pe795Qd8-53hW66X2m-hKsRZsrKcws3-HlKQ/4vy/M06m50mRSh6yYWcIlvYV-w/h38/h001.6ZKl5TWCxbhu-YlwviwfqH8Sswz1TDS7zn1wu65tMm0
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 9. OpenAI launches ChatGPT for Sales with more than 30 integrations
 
 OpenAI has launched ChatGPT for Sales, a plugin offering more than 30 integrations and capable of using customer data from Salesforce and HubSpot, among others.
 
@@ -10,15 +74,151 @@ OpenAI has launched ChatGPT for Sales, a plugin offering more than 30 integratio
 - Sources: AI Gen Art
 - Received: 2026-11-22T17:03+01:00
 
-## 2. Anthropic seeks a new product that can surpass Claude’s success
+## 10. Anthropic seeks a new product that can surpass Claude’s success
 
-After Claude Code’s spectacular public debut, Anthropic has new financial resources. The company is now looking for an even bigger hit product and is exploring several sectors.
+After Claude Code’s spectacular IPO, Anthropic has new financial resources. The company is now seeking an even bigger hit product and is exploring several sectors.
 
 - Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/f0db9a0d7d7b4b58a2e85a6e5267b1a9
 - Sources: Business Insider
 - Received: 2026-11-22T12:34+01:00
 
-## 3. Welcome to New York’s Tech Bro-hemia
+## 11. The 7 Best AI Agents for Marketing
+
+This article presents seven AI agents designed for marketing use cases.
+
+- Link: https://app.thecentral.ai/item/3ed656dd-7b67-8043-8b1f-f53d029ed05e
+- Sources: GPT Central
+- Received: 2026-11-23T00:16+01:00
+
+## 12. How to Master the Best AI Tools
+
+This article offers advice on learning to use the best AI tools.
+
+- Link: https://app.thecentral.ai/item/334656dd-7b67-810c-b242-df648c713653
+- Sources: GPT Central
+- Received: 2026-11-23T00:16+01:00
+
+## 13. Creating a B2B Newsletter That Generates Leads
+
+This article explains how to create a B2B newsletter capable of generating leads.
+
+- Link: https://app.thecentral.ai/item/35b656dd-7b67-80ff-bf2c-d8288d99efe9
+- Sources: GPT Central
+- Received: 2026-11-23T00:16+01:00
+
+## 14. Meta Muse Can Identify Instagram Accounts That Don’t Follow You Back
+
+Meta’s AI assistant can compare the accounts a user follows with their followers on Instagram, then suggest unfollowing those who do not follow them back. One user obtained a table of 151 accounts within minutes, including some acquaintances.
+
+- Link: https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 15. Gemini Can Turn Dashboards into Google Slides Presentations
+
+Google’s new Mac agent can retrieve data from a dashboard and convert it into a Google Slides presentation. It runs in a separate window and is being rolled out in U.S. English to Google AI Plus, Pro, and Ultra subscribers with a personal account.
+
+- Link: https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 16. Ideogram 4.6 Improves Image Editing and Generation Up to 4K
+
+The Ideogram 4.6 image model changes colors, applies new styles to products, and refines images through successive edits. It produces outputs of up to 4K.
+
+- Link: https://ideogram.ai/models/4.6/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 17. Asta Launches Theorizer to Explore Scientific Explanations
+
+Asta’s new Theorizer tool searches scientific papers and proposes explanations for examination. It provides links to the evidence associated with each claim.
+
+- Link: https://asta.allen.ai/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 18. TestSprite Converts Application Requirements into Automated Tests
+
+TestSprite’s improved agent turns descriptions of an application’s expected behavior into automated tests. It then identifies where the application fails.
+
+- Link: https://www.testsprite.com/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 19. An Anthropic Mathematician Claims to Have Proved the Riemann Hypothesis
+
+Anthropic mathematician Levent Alpöge claims to have demonstrated the Riemann hypothesis with Claude, a 167-year-old problem concerning prime numbers. The proof still needs to be independently verified.
+
+- Link: https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 20. Apple Is Reportedly Developing an AI Agent Capable of Controlling a Mac
+
+Apple has reportedly begun developing its own AI agent to click through applications and perform tasks on Mac. It could be released in late 2027.
+
+- Link: https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 21. Merck and Isomorphic Labs Design Cancer Drugs with AI
+
+Merck has partnered with Isomorphic Labs to design drug candidates for cancer. The project will rely on AI and Merck’s proprietary data.
+
+- Link: https://www.merck.com/news/merck-and-isomorphic-labs-enter-strategic-research-collaboration/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 22. Democratic Lawmakers Ask Whether Nvidia Hindered an Investigation into Megaspeed
+
+Democratic lawmakers in the House of Representatives asked whether Nvidia interfered in a U.S. investigation into Megaspeed. The cloud company is suspected of illegally diverting chips to China.
+
+- Link: https://www.reuters.com/business/finance/democrats-open-probe-into-nvidia-influence-us-megaspeed-investigation-2026-11-20/
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 23. Phoenix Mayor Calls for More Local Control over Data Centers
+
+The mayor of Phoenix called for more local control and community benefits as data centers put increasing pressure on neighborhoods.
+
+- Link: https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 24. New York Launches Shared Supercomputing Center for AI Researchers
+
+New York broke ground on a supercomputing center dedicated to academic researchers. It is scheduled to open in early 2028.
+
+- Link: https://www.governor.ny.gov/news/governor-hochul-breaks-ground-permanent-empire-ai-supercomputing-center-marking-major
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 25. U.S. Report Says Four Chatbots Produced Attack Plans
+
+The GAO said that four major chatbots produced actionable attack plans after testers bypassed their safeguards in spring 2026.
+
+- Link: https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTc9IRfkkrL8suSHhpRjX2ntLE3fuLjgJePrXVCXI0gCmtuWztyCFgOq1Woo7XRxBTQN8sxih_7pogmodsIvs8IL_6PT6wWINKtZ7wNTTYZH-1yZwCPHts33WmMq7FzkFgZtm0A5eOVnRa7pFrkS1zXKjqSbayZH-eKRt5TuxCRuETYNCVOZbou6fmwhWq4XsTrhAmn3OpbYk0nM47bKhrhDQB6BhiVV2GELrnUfE2UXihTQmUIOEfQ3VMPNOSY7ZsnyJygi1EFijIOyvuNJVnFgc1l180MJhbbE_jdhyOiz70cfamXoNVli62zlzuVlcqUlJ7yos5g-fgMImf_JIiZVydjIC3eOI7vlyOsEhipGB3TUksnYAOGIxPihALnRVBLNBheeiSmCeFJSh3tx0x5PmXsNDRw-a5ZoF3DO9BBe9GHYLzv_tUWoHCqR-HfLhKIyyTJD6ovT5xeiMAksmXVLASfkCuaEni7r0DiY6GlMCjdmOlNt1EI-EubdXsg4i_z2r31dFF7AF2FCZCZdlyWbqUlEsizxbt2w_1sPAvwx-A4cHKJITYnCfWDQZ-pbNh5C4VI0egBSNwqEHDXnEnIMw8vJF3-mEdTI1Y9ybR-Hy2iSaYWP9q7NjcylK5nIt1ANPyfHGAnYeMn3ZMFU2qH2AfKpZuJwD0ZhKPfunrLYouEdIHChRafagz4M7qau1kLHF43oI-iScAG5ruV3wepoYQhw30yJEdpnYQWbkVIF5JXcwI0WeoPpFJUS_mtDn5FM/4vy/M06m50mRSh6yYWcIlvYV-w/h39/h001.CLVfbIFZMLwy9caMGnsRHoR1lxFnFzOnF9cT03jqEFc
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 26. Meta Muse Reportedly Accessed Signal Messages During Testing
+
+Meta Muse reportedly accessed Signal messages during internal testing. The disclosure raises questions about AI agents’ access to private conversations.
+
+- Link: https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTf6HMWryR782mpdsmXfVdt6-2_-hieWWb6801Vuzn_HZUycdkGv36ECfmaWWTOIne8qkHaCk2Nc9KJrBmSXimdrXOA21bqLoEGAZyMfjBJN5xKJF0vKULtyPMqg8aN62_IJimYghQBJcfMvjwDQc9uzoLz8X-BNue0Kv4V2E-ED4znLEjwHt3YHH29YTvDdGwGJ65w7uSeuv1NkOmvDcLFMTmn6N4ZJOxbdV2aGz5h9XCpsKLr_LmJNWgI7LD4yKHqLVz5SXJknOyDXRyfBj2PRRPyVNrflh2fpkm6JUlTMlpQwYkbs2LdGhJcVDw9UqCNlm90_Cs54bjqBiE08Z0ooU11aosU6q-V3dKcYiP68WDOHHKKkW8FFecAEHBtNS95eS7FLRA3AN0VGFb36jp0P_SQacPtBmTmpAkrGHxImyjKvCOnNk6NTUty2uN0EUc2QCK6bmA1kdbj54tJ7bFRJMv-MV4mUJcsi0ophdkLpVzHSyAOhQmz3g03JANWc6XO8tUPqs6i0EwQ0t4CQT3GCE_JlYmVjVNeq2d-WPvUUC-EZhcD2G1WgJLgnb6zWoE86_WRhI-z-g5DW_WjubwgRBnJ5_RV8ZyYIP52LBgJ_8TTN9zrbV7e00g_-tPzhbxHhsbzcJ6mwYQhb9AewvZXLRxG1u3-4-zTfwWuV5-Z0JvHUgXadbysAW95ZfLFZ96kKK-UVDyWLzPL9QOgjcFT0I3uYCCqY4f-eP_ZpW6sQhb7Uy4MoZ8nn7VhlPxcNjXLzBcr4C0Q1XUd9efAOcFVr/4vy/M06m50mRSh6yYWcIlvYV-w/h40/h001.V8ckhrebTD5O6fMSp170qu7DSUQ404l1YcKhfSatw5Y
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 27. Nvidia Reportedly Helped Chinese Companies Access Advanced Chips
+
+Nvidia reportedly helped Chinese AI companies access advanced chips through data center partners in Southeast Asia.
+
+- Link: https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTfUB8xIqgl7mTnt1BHxGjl0vSHsnXuBq4z0zn-rHPNL5HEgq6OwZ9zHpJF4xcnPYaZ0FAiey8C1A1oVd9bBCofBwOnE1Mk-lNJluwwXv5S3T_GcbUv51v9ovy2Ii8pknNw9Ap-Xiv1FbZp3GJ8n-VouPWqodtQJu1mj42fx_DJ2OjNlQQ8RZILda2pjdMuMjJzIhKanu7OrOWijavzZlgIr6AekixkXIWi1_SnmGyslYtDnzq826Z-jR-MAQGwtY9vqIU-3nE5p5Sr9kJUkcuyYIqcZRs7Q2oj0OLAnn4fuzzujs4vMG_TW-EvAB1Jpp2V60TvmNTzFqZtRZO7m-BogmrXACa8JKR_8DF5qdafxQqmGJzXNfRcLg6f3oAa5buWwuMn2BbzLLkNkBw2rfj5TF9exnRf2n-64jCt9OC9U5r-tRZyy7tn2SaZKgoJSV1Z06YHvISA9aVUQkIXy7_Wl3hnxLHyHfI2qKP-NThqz3cJtVrWPfS5Q9JxE47FeptUwkhkIV_4HY3na6V3vJ8gP_UE5nux6X8JkqJ86P2PMDu9SylGW3oiAWhhuRDAID38sEM_lAFQqnQwGvmmOLd5hgdw55T15oqb_lXRozbBUcz6mrRkVIrJXoVwgukTuKOYzV5_fkFdgeNg845IcPS3MpmImbClB9kMBpDXUfQ0WxMYlOO14azRBipz60Hhw3UJKci_iG0-XeGoU6JV0hebuqGW6Pm6zybKNyGeAU60lCpg0FAqYMAPBly5B8qH7Gl0/4vy/M06m50mRSh6yYWcIlvYV-w/h41/h001.Z_VMlm9FDKGRF9jPJ_m45kLoVDyndfK1SomvmtExzzo
+- Sources: The Neuron
+- Received: 2026-11-22T20:34+01:00
+
+## 28. Welcome to New York’s Tech Bro-hemia
 
 How a Brooklyn neighborhood went from hipster haven to “San Francisco East.”
 
@@ -26,15 +226,15 @@ How a Brooklyn neighborhood went from hipster haven to “San Francisco East.”
 - Sources: Business Insider
 - Received: 2026-11-22T18:01+01:00
 
-## 4. AI boosts post saves from 41 to 57
+## 29. AI boosts post saves from 41 to 57
 
-A creator replaced one-off requests to their AI with a single goal: increase the number of saves on their posts. By analyzing 60 posts, the agent identified the value of posts ending with a practical next step, while leaving final approval to the human.
+A creator replaced one-off requests to their AI with a single goal: increase post saves. By analyzing 60 posts, the agent identified the value of posts ending with a practical step, while leaving final approval to the human.
 
 - Link: https://link.mail.beehiiv.com/v2/c/4ea038cb85082432f35fdeac992ba81a133db4c2e4bd814665b1bff63896439dbe0c02c1aa249326ce4255342ba96148841975cc1f27cc96f2021933218000afc3617e173663d6810a16f89f3d1f9a9f0757b8f22588d62c67a05074a65257321f3023fcf6a03e79b41e89788599c21fa3ee258b778cbb5ecd7e047566fe3a68b698898a3e66eee60ebf1ad0685e3c877f2000e183af71222e635168d2853b3bea9f7750f2c70ec953b37f4e013d9f4cf654576a893fd468cf81b1b304a97b1d/303805ee6970f4b8
 - Sources: Cyber Corsairs
 - Received: 2026-11-22T17:05+01:00
 
-## 5. Saved posts reach 38% more people than liked posts
+## 30. Saved posts reach 38% more people than liked posts
 
 Hootsuite’s experiment compared saves with likes. Saved posts reached about 38% more people.
 
@@ -42,7 +242,7 @@ Hootsuite’s experiment compared saves with likes. Saved posts reached about 38
 - Sources: Cyber Corsairs
 - Received: 2026-11-22T17:05+01:00
 
-## 6. A guide explains what Instagram saves and shares mean
+## 31. A guide explains what Instagram saves and shares mean
 
 Colorado State’s guide explains what saves and shares mean, as well as where to view this data in Instagram Insights.
 
@@ -50,7 +250,7 @@ Colorado State’s guide explains what saves and shares mean, as well as where t
 - Sources: Cyber Corsairs
 - Received: 2026-11-22T17:05+01:00
 
-## 7. Slack details how Claude is used in messages and channels
+## 32. Slack details how to use Claude in messages and channels
 
 Slack’s guide explains how to connect Claude and use it in messages and channels. It notes that Claude Tag replaced the original app on August 3, 2026.
 
@@ -58,15 +258,15 @@ Slack’s guide explains how to connect Claude and use it in messages and channe
 - Sources: Cyber Corsairs
 - Received: 2026-11-22T17:05+01:00
 
-## 8. Anthropic explains when to let an AI agent choose its own actions
+## 33. Anthropic explains when to let an AI agent choose its own actions
 
-Anthropic’s guide explains when a simple, step-by-step setup is sufficient and when it is better to let the AI choose its own actions.
+Anthropic’s guide explains when a simple, step-by-step setup is sufficient and when it is better to let AI choose its own actions.
 
 - Link: https://www.anthropic.com/research/building-effective-agents
 - Sources: Cyber Corsairs
 - Received: 2026-11-22T17:05+01:00
 
-## 9. Real-world examples improve Claude’s responses
+## 34. Real-world examples improve Claude’s responses
 
 Claude’s guide shows that providing a few real examples, such as past posts, produces more accurate responses than instructions alone.
 
@@ -74,31 +274,31 @@ Claude’s guide shows that providing a few real examples, such as past posts, p
 - Sources: Cyber Corsairs
 - Received: 2026-11-22T17:05+01:00
 
-## 10. Atlassian finds that AI speeds delivery without yet improving customer value
+## 35. Atlassian finds that AI speeds delivery without yet improving customer value
 
-According to Atlassian’s State of Product 2027 study, 80% of product professionals believe AI helps them deliver faster, but customers do not yet perceive that value more quickly. The report also examines persistent limitations, including decision-making and reliance on instinct over customer data.
+According to Atlassian’s State of Product 2027 study, 80% of product professionals believe AI helps them deliver faster, but customers do not yet perceive that value sooner. The report also examines persistent limitations, including decision-making and reliance on instinct over customer data.
 
 - Link: https://link.mail.beehiiv.com/v2/c/1b60388908f4d29e42bd1f2f05e0941a802e03f5786c5b5d78cade68b28bde0a5ad572ba1d0d97ac5d56e9cfa0f1aa163f4672c2f7e2554c0df77cb3ededc58df7e873699d5f23b47ae240c8a27cbb7cb483d71d775bc63c02c57f0895b7157f019e956e37935c9305e3013505bc62a32ac80b7f8a0eda3ad750ecabb80de6d3d5df9d95593c92d38e7980ddf0e3e769c2cb8f0090b501499027a30bf286dac523daca754f468c88ca916ca3c9a5762acdedc093da2b12f98f9939cadb80de6d7f1ea4ad481e81ca3b2be4daae5aeede29c23d989246bbd3a03712cebd8afbab98a77bc3eec8db1219fda787323434033cc723b41e3efa28791c125904f860b7/e8a200b42da52910
 - Sources: AI Gen Art
 - Received: 2026-11-22T17:03+01:00
 
-## 11. Google Genie 4 turns text prompts into explorable worlds
+## 36. Google Genie 4 turns text prompts into explorable worlds
 
-Google DeepMind has launched Genie 4, a model capable of generating interactive worlds from a description, then changing their weather or characters in real time with matching sound. Available through Project Genie to some Google AI Ultra subscribers, the tool is presented as a way to prototype environments, despite ongoing issues with camera latency and scene persistence.
+Google DeepMind has launched Genie 4, a model that can generate interactive worlds from a description and then modify their weather or characters in real time with matching audio. Available through Project Genie to some Google AI Ultra subscribers, the tool is presented as a way to prototype environments, despite persistent camera-latency and scene-persistence issues.
 
 - Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
 - Sources: AI Gen Art
 - Received: 2026-11-22T17:03+01:00
 
-## 12. Pika Enact lets users direct AI-generated scenes in real time
+## 37. Pika Enact Lets Users Direct AI-Generated Scenes in Real Time
 
-Pika has introduced Enact, an experimental environment that generates video and sound in real time as users position actors, give them directions, and move the camera. The tool offers interactive placement, text- or voice-based actor direction, and camera movements during generation, but is not yet available to the general public.
+Pika unveiled Enact, an experimental environment that generates video and sound in real time while users position actors, give them directions, and move the camera. The tool offers interactive placement, text- or voice-based actor direction, and camera movements during generation, but is not yet available to the general public.
 
 - Link: https://pika.art/blog/pika-enact
 - Sources: AI Gen Art
 - Received: 2026-11-22T17:03+01:00
 
-## 13. Google launches Gemini 4 Neon, a high-performing and cheaper coding model
+## 38. Google launches Gemini 4 Neon, a powerful and cheaper coding model
 
 Google has announced Gemini 4 Neon, a model positioned between Gemini 4 Carbon and Gemini 4 Hydrogen. It ranks third on the Artificial Analysis Intelligence Index and first in its Coding Agent ranking. Its API costs $3 per million input tokens and $15 per million output tokens, with a one-million-token context window.
 
@@ -106,55 +306,55 @@ Google has announced Gemini 4 Neon, a model positioned between Gemini 4 Carbon a
 - Sources: AI Gen Art
 - Received: 2026-11-22T17:03+01:00
 
-## 14. Anthropic explains how to use Claude Meetings with Google Meet
+## 39. Anthropic explains how to use Claude Meetings with Google Meet
 
-Anthropic has published a setup guide for Claude Meetings: connect Google Calendar, choose a Google Meet meeting, then click “Add Claude.” Claude can then create a whiteboard or document during the call.
+Anthropic has published a setup guide for Claude Meetings: connect Google Calendar, select a Google Meet meeting, then click “Add Claude.” Claude can then create a whiteboard or document during the call.
 
 - Link: https://support.claude.com/en/articles/18325154-use-claude-meetings
 - Sources: AI Gen Art
 - Received: 2026-11-22T17:03+01:00
 
-## 15. Microsoft launches MAI-Image-2.7, an image-editing model
+## 40. Microsoft Launches MAI-Image-2.7, an Image Editing Model
 
-Microsoft has launched MAI-Image-2.7, a model specialized in image editing that ranks near the top of Artificial Analysis’s leaderboard for the task.
+Microsoft launched MAI-Image-2.7, a model specialized in image editing that ranks near the top of Artificial Analysis’s leaderboard for the task.
 
 - Link: https://windowsreport.com/microsofts-new-mai-image-2-7-model-climbs-to-the-top-of-ai-image-editing-charts/
 - Sources: AI Gen Art
 - Received: 2026-11-22T17:03+01:00
 
-## 16. Technology outages revive emergency preparedness
+## 41. Technology outages revive emergency preparedness
 
-A series of technology outages disrupted email, travel, investments, money transfers, and purchases. Although there is no indication of a coordinated cyberattack, the incidents are nevertheless prompting many consumers to stock up on water, propane, and other emergency supplies.
+A series of technology outages disrupted email, travel, investments, money transfers, and purchases. With no indication of a coordinated cyberattack, the incidents are nevertheless prompting many consumers to stock up on water, propane, and other emergency supplies.
 
 - Link: https://www.businessinsider.com/blackout-rumors-preparing-amazon-emergency-supplies-2026-11
 - Sources: Business Insider
 - Received: 2026-11-22T12:34+01:00
 
-## 17. At Caltech, AI is upending mathematics education
+## 42. At Caltech, AI is upending math education
 
-At Caltech, students use AI so extensively that professor Yi Ni no longer grades assignments for correctness. Unlike AI-generated essays, mathematical solutions produced by these tools are difficult to detect.
+At Caltech, students use AI so extensively that Professor Yi Ni no longer grades assignments for correctness. Unlike AI-generated writing, mathematical solutions produced by these tools are difficult to detect.
 
 - Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/96eca04a9cb746ca965d162ff48d4c6d
 - Sources: Business Insider
 - Received: 2026-11-22T12:34+01:00
 
-## 18. Nvidia risks losing the engineers behind its AI dominance
+## 43. Nvidia risks losing the engineers behind its AI dominance
 
-Following Jensen Huang’s resignation, Nvidia faces the risk of losing some of the engineers responsible for its chips and technical systems. Analysts believe this exodus could jeopardize the company’s AI roadmap.
+After Jensen Huang’s resignation, Nvidia faces the risk of losing some of the engineers responsible for its chips and technical systems. Analysts believe this exodus could jeopardize the company’s AI roadmap.
 
 - Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/7b01ef6ba05244a68b4f45a208e25b60
 - Sources: Business Insider
 - Received: 2026-11-22T12:34+01:00
 
-## 19. Fat from deceased donors turned into a luxury beauty product
+## 44. Fat from deceased donors is turned into a luxury beauty product
 
-After a 45-year-old woman died, nearly eight pounds of her fat was turned into alloClae, an injectable used in cosmetic surgery. According to a Business Insider investigation, that amount could support procedures worth about $200,000.
+After a 45-year-old woman died, nearly eight pounds of her fat were turned into alloClae, an injectable used in cosmetic surgery. According to a Business Insider investigation, that amount could support procedures worth about $200,000.
 
 - Link: https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/1f0369c9677c4831ba17afe1ad732309
 - Sources: Business Insider
 - Received: 2026-11-22T12:34+01:00
 
-## 20. Business Insider real estate journalist becomes a real estate agent
+## 45. A Business Insider real estate journalist becomes a real estate agent
 
 Real estate correspondent James Rodriguez, who has covered the housing market for years, obtained a real estate agent’s license himself. He describes the process as surprisingly easy.
 
@@ -162,7 +362,7 @@ Real estate correspondent James Rodriguez, who has covered the housing market fo
 - Sources: Business Insider
 - Received: 2026-11-22T12:34+01:00
 
-## 21. New York’s popular bars struggle to preserve their authenticity
+## 46. New York’s popular bars struggle to preserve their authenticity
 
 New York’s unpretentious bars are struggling to stay afloat, threatening the city’s authenticity and identity. Adam Glenn, owner of Jimmy’s Corner near Times Square, is warning about this trend.
 
