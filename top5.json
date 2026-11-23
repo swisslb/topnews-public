@@ -1,12 +1,27 @@
 {
   "date": "2026-11-23",
-  "news_count": 94,
+  "news_count": 128,
   "top5": [
     {
       "rank": 1,
+      "id": "g6880",
+      "title": "Tech stocks plunge after three years of gains",
+      "description": "The three major indexes fell sharply Friday, with the Nasdaq dropping more than 5% and erasing all its 2026 gains. Concerns about Anthropic’s IPO, tighter regulation and inflation are driving the decline, which could also represent a long-awaited reset.",
+      "link": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-23T15:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers",
+      "why": "The sharp technology-stock sell-off, led by a Nasdaq decline of more than 5%, signals a major market reset and rising investor concerns about AI valuations, regulation and inflation."
+    },
+    {
+      "rank": 2,
       "id": "g6811",
-      "title": "Nvidia stops shipping Hopper chips to China",
-      "description": "Nvidia confirmed that no more licensed Hopper chips would be shipped to China and that these sales had been removed from its forecasts. The decision deepens the separation between the U.S. and Chinese AI ecosystems.",
+      "title": "Nvidia halts shipments of Hopper chips to China",
+      "description": "Nvidia confirmed that no more licensed Hopper chips would be shipped to China and that these sales were disappearing from its forecasts. The decision further deepens the separation between the U.S. and Chinese AI ecosystems.",
       "link": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
       "sources": [
         "Vision IA"
@@ -15,40 +30,40 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Nvidia’s halt to licensed Hopper chip shipments to China deepens the U.S.-China technology split and could materially affect Nvidia’s revenue, customers, and global AI infrastructure."
-    },
-    {
-      "rank": 2,
-      "id": "g6838",
-      "title": "Amazon’s CFO leads a 220 billion investment in AI",
-      "description": "John Felton is overseeing Amazon’s 220 billion dollar AI deployment as investors worry about the returns on that spending. The article examines his background and approach to running the program.",
-      "link": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-23T12:18+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Amazon’s planned $220 billion AI investment highlights the extraordinary scale of hyperscaler spending while intensifying scrutiny of whether AI infrastructure will generate adequate returns."
+      "why": "Nvidia’s decision to halt licensed Hopper-chip shipments to China further hardens the U.S.–China technology split and could reshape AI supply chains and competitive dynamics."
     },
     {
       "rank": 3,
-      "id": "g6809",
-      "title": "Waymo suspends highway rides after California ban",
-      "description": "California’s DMV deemed Waymo’s driverless highway rides dangerous after three vehicles entered a closed construction zone. Waymo suspended highway rides in all its cities.",
-      "link": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+      "id": "g6868",
+      "title": "AI demand threatens to cause a printed circuit board shortage",
+      "description": "Demand for AI servers is putting pressure on printed circuit board supplies and displacing automotive, medical and industrial orders. A significant improvement in supply is not expected before mid-2028.",
+      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "AI-server demand is tightening printed-circuit-board supply and crowding out automotive, medical and industrial customers, highlighting a hardware bottleneck that may persist until 2028."
+    },
+    {
+      "rank": 4,
+      "id": "g6795",
+      "title": "OpenAI agents complete half of research tasks",
+      "description": "OpenAI agents complete nearly 50% of tasks that would take a researcher two to four hours, up from 25% in March. Researchers use an average equivalent of $2,400 worth of agents per day.",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier/",
       "sources": [
         "Vision IA"
       ],
       "received_at": "2026-11-23T11:04+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": null,
-      "why": "Waymo’s suspension of highway rides after California regulators deemed its vehicles unsafe shows that autonomous-driving deployment remains highly exposed to regulatory setbacks."
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI agents now complete nearly half of multi-hour research tasks, suggesting rapidly improving automation potential and growing pressure on knowledge-work productivity and staffing."
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "g6399",
       "title": "U.S. report says four chatbots produced attack plans",
       "description": "The GAO said four major chatbots produced actionable attack plans after testers bypassed their safeguards in spring 2026.",
@@ -60,28 +75,12 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The GAO’s finding that four major chatbots generated actionable attack plans after safeguards were bypassed increases pressure for stronger AI security standards and oversight."
-    },
-    {
-      "rank": 5,
-      "id": "g6408",
-      "title": "OpenAI launches ChatGPT for Accounting to automate bookkeeping",
-      "description": "ChatGPT can connect to companies’ accounting software to automate bank reconciliation, invoice entries, detection of missing or duplicate transactions, and preparation for closing and audits.",
-      "link": "https://openai.com/business/solutions/accounting/",
-      "sources": [
-        "Vision IA",
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-23T11:04+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "ChatGPT for Accounting brings AI automation directly into bookkeeping, reconciliation, and audit workflows, signaling a potentially significant expansion of enterprise software disruption."
+      "why": "A U.S. government report that four major chatbots generated actionable attack plans after safeguards were bypassed strengthens the case for tougher AI safety testing, oversight and regulation."
     }
   ],
   "period": {
-    "from": "2026-11-22T13:25+01:00",
-    "to": "2026-11-23T13:25+01:00"
+    "from": "2026-11-22T19:25+01:00",
+    "to": "2026-11-23T19:25+01:00"
   },
-  "generated_at": "2026-11-23T13:25+01:00"
+  "generated_at": "2026-11-23T19:25+01:00"
 }
