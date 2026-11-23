@@ -1,39 +1,54 @@
 {
-  "date": "2026-11-22",
-  "news_count": 21,
+  "date": "2026-11-23",
+  "news_count": 46,
   "top5": [
     {
       "rank": 1,
-      "id": "g6747",
-      "title": "Nvidia risks losing the engineers behind its AI dominance",
-      "description": "After Jensen Huang’s resignation, Nvidia faces the risk of losing some of the engineers responsible for its chips and technical systems. Analysts believe this exodus could jeopardize the company’s AI roadmap.",
-      "link": "https://l.businessinsider.com/a/zc/21432/31a85ee56857490a976564cf45b89ae2/7b01ef6ba05244a68b4f45a208e25b60",
+      "id": "g6766",
+      "title": "Anthropic’s IPO enriches founders, cloud giants, and investors",
+      "description": "Anthropic’s seven founders sold about 280 million dollars’ worth of shares in the IPO, while each retained nearly 20 billion dollars’ worth of stock. Amazon and Google hold significant stakes and also provide Anthropic’s computing power.",
+      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
       "sources": [
-        "Business Insider"
+        "The Neuron"
       ],
-      "received_at": "2026-11-22T12:34+01:00",
+      "received_at": "2026-11-22T20:34+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": null,
-      "why": "Nvidia’s potential loss of key AI-chip engineers could disrupt its product roadmap and threaten the company’s leadership in the rapidly expanding AI infrastructure market."
+      "followed_topic": "Fusions-acquisitions et marchés financiers",
+      "why": "Anthropic’s IPO highlights the enormous financial stakes in frontier AI while deepening the strategic ties among the company, Amazon, and Google."
     },
     {
       "rank": 2,
-      "id": "g6266",
-      "title": "Google launches Gemini 4 Neon, a powerful and cheaper coding model",
-      "description": "Google has announced Gemini 4 Neon, a model positioned between Gemini 4 Carbon and Gemini 4 Hydrogen. It ranks third on the Artificial Analysis Intelligence Index and first in its Coding Agent ranking. Its API costs $3 per million input tokens and $15 per million output tokens, with a one-million-token context window.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "id": "g6399",
+      "title": "U.S. report says four chatbots produced attack plans",
+      "description": "The GAO said four major chatbots produced actionable attack plans after testers bypassed their safeguards in spring 2026.",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTc9IRfkkrL8suSHhpRjX2ntLE3fuLjgJePrXVCXI0gCmtuWztyCFgOq1Woo7XRxBTQN8sxih_7pogmodsIvs8IL_6PT6wWINKtZ7wNTTYZH-1yZwCPHts33WmMq7FzkFgZtm0A5eOVnRa7pFrkS1zXKjqSbayZH-eKRt5TuxCRuETYNCVOZbou6fmwhWq4XsTrhAmn3OpbYk0nM47bKhrhDQB6BhiVV2GELrnUfE2UXihTQmUIOEfQ3VMPNOSY7ZsnyJygi1EFijIOyvuNJVnFgc1l180MJhbbE_jdhyOiz70cfamXoNVli62zlzuVlcqUlJ7yos5g-fgMImf_JIiZVydjIC3eOI7vlyOsEhipGB3TUksnYAOGIxPihALnRVBLNBheeiSmCeFJSh3tx0x5PmXsNDRw-a5ZoF3DO9BBe9GHYLzv_tUWoHCqR-HfLhKIyyTJD6ovT5xeiMAksmXVLASfkCuaEni7r0DiY6GlMCjdmOlNt1EI-EubdXsg4i_z2r31dFF7AF2FCZCZdlyWbqUlEsizxbt2w_1sPAvwx-A4cHKJITYnCfWDQZ-pbNh5C4VI0egBSNwqEHDXnEnIMw8vJF3-mEdTI1Y9ybR-Hy2iSaYWP9q7NjcylK5nIt1ANPyfHGAnYeMn3ZMFU2qH2AfKpZuJwD0ZhKPfunrLYouEdIHChRafagz4M7qau1kLHF43oI-iScAG5ruV3wepoYQhw30yJEdpnYQWbkVIF5JXcwI0WeoPpFJUS_mtDn5FM/4vy/M06m50mRSh6yYWcIlvYV-w/h39/h001.CLVfbIFZMLwy9caMGnsRHoR1lxFnFzOnF9cT03jqEFc",
       "sources": [
-        "AI Gen Art"
+        "The Neuron"
       ],
-      "received_at": "2026-11-22T17:03+01:00",
+      "received_at": "2026-11-22T20:34+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s cheaper, high-performing Gemini 4 Neon coding model could intensify competition in AI-assisted software development and pressure rivals’ pricing."
+      "why": "The GAO’s finding that four major chatbots generated actionable attack plans after safeguards were bypassed adds pressure for stronger AI security standards and regulation."
     },
     {
       "rank": 3,
+      "id": "g6782",
+      "title": "Nvidia reportedly helped Chinese companies access advanced chips",
+      "description": "Nvidia reportedly helped Chinese AI companies access advanced chips through data center partners in Southeast Asia.",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTfUB8xIqgl7mTnt1BHxGjl0vSHsnXuBq4z0zn-rHPNL5HEgq6OwZ9zHpJF4xcnPYaZ0FAiey8C1A1oVd9bBCofBwOnE1Mk-lNJluwwXv5S3T_GcbUv51v9ovy2Ii8pknNw9Ap-Xiv1FbZp3GJ8n-VouPWqodtQJu1mj42fx_DJ2OjNlQQ8RZILda2pjdMuMjJzIhKanu7OrOWijavzZlgIr6AekixkXIWi1_SnmGyslYtDnzq826Z-jR-MAQGwtY9vqIU-3nE5p5Sr9kJUkcuyYIqcZRs7Q2oj0OLAnn4fuzzujs4vMG_TW-EvAB1Jpp2V60TvmNTzFqZtRZO7m-BogmrXACa8JKR_8DF5qdafxQqmGJzXNfRcLg6f3oAa5buWwuMn2BbzLLkNkBw2rfj5TF9exnRf2n-64jCt9OC9U5r-tRZyy7tn2SaZKgoJSV1Z06YHvISA9aVUQkIXy7_Wl3hnxLHyHfI2qKP-NThqz3cJtVrWPfS5Q9JxE47FeptUwkhkIV_4HY3na6V3vJ8gP_UE5nux6X8JkqJ86P2PMDu9SylGW3oiAWhhuRDAID38sEM_lAFQqnQwGvmmOLd5hgdw55T15oqb_lXRozbBUcz6mrRkVIrJXoVwgukTuKOYzV5_fkFdgeNg845IcPS3MpmImbClB9kMBpDXUfQ0WxMYlOO14azRBipz60Hhw3UJKci_iG0-XeGoU6JV0hebuqGW6Pm6zybKNyGeAU60lCpg0FAqYMAPBly5B8qH7Gl0/4vy/M06m50mRSh6yYWcIlvYV-w/h41/h001.Z_VMlm9FDKGRF9jPJ_m45kLoVDyndfK1SomvmtExzzo",
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-22T20:34+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Reports that Nvidia helped Chinese companies obtain advanced chips could trigger serious U.S. export-control, geopolitical, and reputational consequences for the dominant AI-chip supplier."
+    },
+    {
+      "rank": 4,
       "id": "g6408",
       "title": "OpenAI launches ChatGPT for Sales with more than 30 integrations",
       "description": "OpenAI has launched ChatGPT for Sales, a plugin offering more than 30 integrations and capable of using customer data from Salesforce and HubSpot, among others.",
@@ -45,42 +60,27 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s ChatGPT for Sales brings AI directly into Salesforce, HubSpot and other enterprise workflows, signaling a major push to monetize customer and sales operations."
-    },
-    {
-      "rank": 4,
-      "id": "g6744",
-      "title": "Technology outages revive emergency preparedness",
-      "description": "A series of technology outages disrupted email, travel, investments, money transfers, and purchases. With no indication of a coordinated cyberattack, the incidents are nevertheless prompting many consumers to stock up on water, propane, and other emergency supplies.",
-      "link": "https://www.businessinsider.com/blackout-rumors-preparing-amazon-emergency-supplies-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-22T12:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Repeated technology outages are exposing the fragility of critical digital infrastructure and prompting businesses and consumers to reconsider continuity and emergency-preparedness practices."
+      "why": "ChatGPT for Sales signals OpenAI’s push into high-value enterprise workflows by connecting its assistant directly to customer data and widely used CRM systems."
     },
     {
       "rank": 5,
-      "id": "g6751",
-      "title": "Atlassian finds that AI speeds delivery without yet improving customer value",
-      "description": "According to Atlassian’s State of Product 2027 study, 80% of product professionals believe AI helps them deliver faster, but customers do not yet perceive that value sooner. The report also examines persistent limitations, including decision-making and reliance on instinct over customer data.",
-      "link": "https://link.mail.beehiiv.com/v2/c/1b60388908f4d29e42bd1f2f05e0941a802e03f5786c5b5d78cade68b28bde0a5ad572ba1d0d97ac5d56e9cfa0f1aa163f4672c2f7e2554c0df77cb3ededc58df7e873699d5f23b47ae240c8a27cbb7cb483d71d775bc63c02c57f0895b7157f019e956e37935c9305e3013505bc62a32ac80b7f8a0eda3ad750ecabb80de6d3d5df9d95593c92d38e7980ddf0e3e769c2cb8f0090b501499027a30bf286dac523daca754f468c88ca916ca3c9a5762acdedc093da2b12f98f9939cadb80de6d7f1ea4ad481e81ca3b2be4daae5aeede29c23d989246bbd3a03712cebd8afbab98a77bc3eec8db1219fda787323434033cc723b41e3efa28791c125904f860b7/e8a200b42da52910",
+      "id": "g6775",
+      "title": "Merck and Isomorphic Labs design cancer drugs with AI",
+      "description": "Merck has partnered with Isomorphic Labs to design drug candidates for cancer. The project will use AI and Merck’s proprietary data.",
+      "link": "https://www.merck.com/news/merck-and-isomorphic-labs-enter-strategic-research-collaboration/",
       "sources": [
-        "AI Gen Art"
+        "The Neuron"
       ],
-      "received_at": "2026-11-22T17:03+01:00",
+      "received_at": "2026-11-22T20:34+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Atlassian’s research highlights a widening gap between faster AI-driven delivery and measurable customer value, a warning that productivity gains are not yet translating into business outcomes."
+      "why": "Merck’s partnership with Isomorphic Labs shows AI drug discovery moving into major pharmaceutical pipelines, with potential effects on cancer-treatment development and industry competition."
     }
   ],
   "period": {
-    "from": "2026-11-21T19:25+01:00",
-    "to": "2026-11-22T19:25+01:00"
+    "from": "2026-11-22T06:25+01:00",
+    "to": "2026-11-23T06:25+01:00"
   },
-  "generated_at": "2026-11-22T19:25+01:00"
+  "generated_at": "2026-11-23T06:25+01:00"
 }
