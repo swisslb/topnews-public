@@ -3,48 +3,49 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-23</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 46 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 94 news received.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 23 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. Anthropic’s IPO enriches founders, cloud giants, and investors</title>
-    <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm</link>
-    <guid isPermaLink="false">2026-11-23:g6766</guid>
-    <description>Why it matters: Anthropic’s IPO highlights the enormous financial stakes in frontier AI while deepening the strategic ties among the company, Amazon, and Google. Anthropic’s seven founders sold about 280 million dollars’ worth of shares in the IPO, while each retained nearly 20 billion dollars’ worth of stock. Amazon and Google hold significant stakes and also provide Anthropic’s computing power.</description>
-    <pubDate>Sun, 22 Nov 2026 19:34:00 GMT</pubDate>
-    <category>The Neuron</category>
+    <title>1. Nvidia stops shipping Hopper chips to China</title>
+    <link>https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china</link>
+    <guid isPermaLink="false">2026-11-23:g6811</guid>
+    <description>Why it matters: Nvidia’s halt to licensed Hopper chip shipments to China deepens the U.S.-China technology split and could materially affect Nvidia’s revenue, customers, and global AI infrastructure. Nvidia confirmed that no more licensed Hopper chips would be shipped to China and that these sales had been removed from its forecasts. The decision deepens the separation between the U.S. and Chinese AI ecosystems.</description>
+    <pubDate>Mon, 23 Nov 2026 10:04:00 GMT</pubDate>
+    <category>Vision IA</category>
   </item>
   <item>
-    <title>2. U.S. report says four chatbots produced attack plans</title>
+    <title>2. Amazon’s CFO leads a 220 billion investment in AI</title>
+    <link>https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11</link>
+    <guid isPermaLink="false">2026-11-23:g6838</guid>
+    <description>Why it matters: Amazon’s planned $220 billion AI investment highlights the extraordinary scale of hyperscaler spending while intensifying scrutiny of whether AI infrastructure will generate adequate returns. John Felton is overseeing Amazon’s 220 billion dollar AI deployment as investors worry about the returns on that spending. The article examines his background and approach to running the program.</description>
+    <pubDate>Mon, 23 Nov 2026 11:18:00 GMT</pubDate>
+    <category>Business Insider</category>
+  </item>
+  <item>
+    <title>3. Waymo suspends highway rides after California ban</title>
+    <link>https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b</link>
+    <guid isPermaLink="false">2026-11-23:g6809</guid>
+    <description>Why it matters: Waymo’s suspension of highway rides after California regulators deemed its vehicles unsafe shows that autonomous-driving deployment remains highly exposed to regulatory setbacks. California’s DMV deemed Waymo’s driverless highway rides dangerous after three vehicles entered a closed construction zone. Waymo suspended highway rides in all its cities.</description>
+    <pubDate>Mon, 23 Nov 2026 10:04:00 GMT</pubDate>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>4. U.S. report says four chatbots produced attack plans</title>
     <link>https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTc9IRfkkrL8suSHhpRjX2ntLE3fuLjgJePrXVCXI0gCmtuWztyCFgOq1Woo7XRxBTQN8sxih_7pogmodsIvs8IL_6PT6wWINKtZ7wNTTYZH-1yZwCPHts33WmMq7FzkFgZtm0A5eOVnRa7pFrkS1zXKjqSbayZH-eKRt5TuxCRuETYNCVOZbou6fmwhWq4XsTrhAmn3OpbYk0nM47bKhrhDQB6BhiVV2GELrnUfE2UXihTQmUIOEfQ3VMPNOSY7ZsnyJygi1EFijIOyvuNJVnFgc1l180MJhbbE_jdhyOiz70cfamXoNVli62zlzuVlcqUlJ7yos5g-fgMImf_JIiZVydjIC3eOI7vlyOsEhipGB3TUksnYAOGIxPihALnRVBLNBheeiSmCeFJSh3tx0x5PmXsNDRw-a5ZoF3DO9BBe9GHYLzv_tUWoHCqR-HfLhKIyyTJD6ovT5xeiMAksmXVLASfkCuaEni7r0DiY6GlMCjdmOlNt1EI-EubdXsg4i_z2r31dFF7AF2FCZCZdlyWbqUlEsizxbt2w_1sPAvwx-A4cHKJITYnCfWDQZ-pbNh5C4VI0egBSNwqEHDXnEnIMw8vJF3-mEdTI1Y9ybR-Hy2iSaYWP9q7NjcylK5nIt1ANPyfHGAnYeMn3ZMFU2qH2AfKpZuJwD0ZhKPfunrLYouEdIHChRafagz4M7qau1kLHF43oI-iScAG5ruV3wepoYQhw30yJEdpnYQWbkVIF5JXcwI0WeoPpFJUS_mtDn5FM/4vy/M06m50mRSh6yYWcIlvYV-w/h39/h001.CLVfbIFZMLwy9caMGnsRHoR1lxFnFzOnF9cT03jqEFc</link>
     <guid isPermaLink="false">2026-11-23:g6399</guid>
-    <description>Why it matters: The GAO’s finding that four major chatbots generated actionable attack plans after safeguards were bypassed adds pressure for stronger AI security standards and regulation. The GAO said four major chatbots produced actionable attack plans after testers bypassed their safeguards in spring 2026.</description>
+    <description>Why it matters: The GAO’s finding that four major chatbots generated actionable attack plans after safeguards were bypassed increases pressure for stronger AI security standards and oversight. The GAO said four major chatbots produced actionable attack plans after testers bypassed their safeguards in spring 2026.</description>
     <pubDate>Sun, 22 Nov 2026 19:34:00 GMT</pubDate>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>3. Nvidia reportedly helped Chinese companies access advanced chips</title>
-    <link>https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTfUB8xIqgl7mTnt1BHxGjl0vSHsnXuBq4z0zn-rHPNL5HEgq6OwZ9zHpJF4xcnPYaZ0FAiey8C1A1oVd9bBCofBwOnE1Mk-lNJluwwXv5S3T_GcbUv51v9ovy2Ii8pknNw9Ap-Xiv1FbZp3GJ8n-VouPWqodtQJu1mj42fx_DJ2OjNlQQ8RZILda2pjdMuMjJzIhKanu7OrOWijavzZlgIr6AekixkXIWi1_SnmGyslYtDnzq826Z-jR-MAQGwtY9vqIU-3nE5p5Sr9kJUkcuyYIqcZRs7Q2oj0OLAnn4fuzzujs4vMG_TW-EvAB1Jpp2V60TvmNTzFqZtRZO7m-BogmrXACa8JKR_8DF5qdafxQqmGJzXNfRcLg6f3oAa5buWwuMn2BbzLLkNkBw2rfj5TF9exnRf2n-64jCt9OC9U5r-tRZyy7tn2SaZKgoJSV1Z06YHvISA9aVUQkIXy7_Wl3hnxLHyHfI2qKP-NThqz3cJtVrWPfS5Q9JxE47FeptUwkhkIV_4HY3na6V3vJ8gP_UE5nux6X8JkqJ86P2PMDu9SylGW3oiAWhhuRDAID38sEM_lAFQqnQwGvmmOLd5hgdw55T15oqb_lXRozbBUcz6mrRkVIrJXoVwgukTuKOYzV5_fkFdgeNg845IcPS3MpmImbClB9kMBpDXUfQ0WxMYlOO14azRBipz60Hhw3UJKci_iG0-XeGoU6JV0hebuqGW6Pm6zybKNyGeAU60lCpg0FAqYMAPBly5B8qH7Gl0/4vy/M06m50mRSh6yYWcIlvYV-w/h41/h001.Z_VMlm9FDKGRF9jPJ_m45kLoVDyndfK1SomvmtExzzo</link>
-    <guid isPermaLink="false">2026-11-23:g6782</guid>
-    <description>Why it matters: Reports that Nvidia helped Chinese companies obtain advanced chips could trigger serious U.S. export-control, geopolitical, and reputational consequences for the dominant AI-chip supplier. Nvidia reportedly helped Chinese AI companies access advanced chips through data center partners in Southeast Asia.</description>
-    <pubDate>Sun, 22 Nov 2026 19:34:00 GMT</pubDate>
-    <category>The Neuron</category>
-  </item>
-  <item>
-    <title>4. OpenAI launches ChatGPT for Sales with more than 30 integrations</title>
-    <link>https://openai.com/index/introducing-chatgpt-for-sales/</link>
+    <title>5. OpenAI launches ChatGPT for Accounting to automate bookkeeping</title>
+    <link>https://openai.com/business/solutions/accounting/</link>
     <guid isPermaLink="false">2026-11-23:g6408</guid>
-    <description>Why it matters: ChatGPT for Sales signals OpenAI’s push into high-value enterprise workflows by connecting its assistant directly to customer data and widely used CRM systems. OpenAI has launched ChatGPT for Sales, a plugin offering more than 30 integrations and capable of using customer data from Salesforce and HubSpot, among others.</description>
-    <pubDate>Sun, 22 Nov 2026 16:03:00 GMT</pubDate>
+    <description>Why it matters: ChatGPT for Accounting brings AI automation directly into bookkeeping, reconciliation, and audit workflows, signaling a potentially significant expansion of enterprise software disruption. ChatGPT can connect to companies’ accounting software to automate bank reconciliation, invoice entries, detection of missing or duplicate transactions, and preparation for closing and audits.</description>
+    <pubDate>Mon, 23 Nov 2026 10:04:00 GMT</pubDate>
+    <category>Vision IA</category>
     <category>AI Gen Art</category>
-  </item>
-  <item>
-    <title>5. Merck and Isomorphic Labs design cancer drugs with AI</title>
-    <link>https://www.merck.com/news/merck-and-isomorphic-labs-enter-strategic-research-collaboration/</link>
-    <guid isPermaLink="false">2026-11-23:g6775</guid>
-    <description>Why it matters: Merck’s partnership with Isomorphic Labs shows AI drug discovery moving into major pharmaceutical pipelines, with potential effects on cancer-treatment development and industry competition. Merck has partnered with Isomorphic Labs to design drug candidates for cancer. The project will use AI and Merck’s proprietary data.</description>
-    <pubDate>Sun, 22 Nov 2026 19:34:00 GMT</pubDate>
-    <category>The Neuron</category>
   </item>
 </channel>
 </rss>
