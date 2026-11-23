@@ -1,11 +1,27 @@
 {
   "date": "2026-11-23",
   "period": {
-    "from": "2026-11-22T13:25+01:00",
-    "to": "2026-11-23T13:25+01:00"
+    "from": "2026-11-22T19:25+01:00",
+    "to": "2026-11-23T19:25+01:00"
   },
-  "news_count": 94,
+  "news_count": 128,
   "news": [
+    {
+      "id": "g6525",
+      "title": "Claude may have contributed to a formal proof of the Riemann hypothesis",
+      "description": "Anthropic mathematician Levent Alpöge published a formal proof of the Riemann hypothesis, which has remained unsolved since 1859. The proof contains 17 million lines of code and has been certified correct by the Lean and Mathlib communities.",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "sources": [
+        "Superhuman",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-23T15:11+01:00",
+      "covered_by": 4,
+      "favorite": false,
+      "followed_topic": null
+    },
     {
       "id": "g6791",
       "title": "OpenAI proposes common limits for advanced AI models",
@@ -21,18 +37,56 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6408",
-      "title": "OpenAI launches ChatGPT for Accounting to automate bookkeeping",
-      "description": "ChatGPT can connect to companies’ accounting software to automate bank reconciliation, invoice entries, detection of missing or duplicate transactions, and preparation for closings and audits.",
-      "link": "https://openai.com/business/solutions/accounting/",
+      "id": "g6903",
+      "title": "OpenAI’s prompt engineering best practices",
+      "description": "OpenAI presents simple rules and before-and-after examples, including explaining what to do rather than merely stating what not to do.",
+      "link": "https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api",
       "sources": [
-        "Vision IA",
-        "AI Gen Art"
+        "Cyber Corsairs"
       ],
-      "received_at": "2026-11-23T11:04+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-23T17:07+01:00",
+      "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6906",
+      "title": "A discussion thread examines prompt anti-patterns",
+      "description": "An OpenAI community discussion asks whether adding many instructions can degrade responses, while participants debate the issue.",
+      "link": "https://community.openai.com/t/prompt-anti-patterns-when-more-instructions-may-harm-model-performance/1372460",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-23T17:07+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6899",
+      "title": "Questions about fast charging the Tesla Model Y Premium 2026",
+      "description": "A buyer who reserved a Model Y 2026 asks which home charger to use for the fastest charging at 240 V and whether the Tesla charger has any specific features.",
+      "link": "https://www.teslaownersonline.com/threads/2026-model-y-premium-questions.40062/?post_id=481388#post-481388",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Véhicules électriques et Tesla"
+    },
+    {
+      "id": "g6880",
+      "title": "Tech stocks plunge after three years of gains",
+      "description": "The three major indexes fell sharply Friday, with the Nasdaq dropping more than 5% and wiping out all its 2026 gains. Concerns about Anthropic’s IPO, tighter regulation and inflation are driving the decline, which could also represent an overdue reset.",
+      "link": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-23T15:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
       "id": "g6834",
@@ -48,24 +102,23 @@
       "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
-      "id": "g6525",
-      "title": "Lean and Mathlib maintainers largely validate a Riemann proof",
-      "description": "Lean and Mathlib maintainers said they had “full confidence” in the proof of the Riemann hypothesis developed by Levent Alpöge with Claude. A final check matching the statements was still underway.",
-      "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
-      "sources": [
-        "The Neuron",
-        "Vision IA"
-      ],
-      "received_at": "2026-11-23T11:51+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6795",
       "title": "OpenAI agents complete half of research tasks",
       "description": "OpenAI agents complete nearly 50% of tasks that would take a researcher two to four hours, up from 25% in March. Researchers use an average equivalent of $2,400 worth of agents per day.",
       "link": "https://openai.com/index/research-acceleration-jagged-frontier/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-23T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6408",
+      "title": "OpenAI launches ChatGPT for Accounting to automate bookkeeping",
+      "description": "ChatGPT can connect to companies’ accounting software to automate bank reconciliation, invoice entries, detection of missing or duplicate transactions, and preparation for closings and audits.",
+      "link": "https://openai.com/business/solutions/accounting/",
       "sources": [
         "Vision IA"
       ],
@@ -86,20 +139,6 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g6410",
-      "title": "Google opens Genie 4, its interactive-world generator",
-      "description": "Google AI Ultra subscribers can create and edit explorable worlds in real time using simple text, with sound that adapts to the scenes. An agent helps build the worlds, and a gallery lets users share their creations.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "sources": [
-        "Vision IA",
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-23T11:04+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null
     },
     {
       "id": "g6783",
@@ -204,6 +243,552 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6902",
+      "title": "Shorter, consistent prompts make models more reliable",
+      "description": "Prompts that accumulate contradictory rules give the model two commands at once. The article recommends removing contradictions and stating what the model should do instead of multiplying prohibitions.",
+      "link": "https://link.mail.beehiiv.com/v2/c/029848b8c33271835f205f73b1defc9474a2d9f2d3af6d12101a48dacae08f66534fff40a9e2acd145df997614eb200b2849158a8fbb66078dc3a64b007d17962dca4d546bf2d5a7f9a205439b7e3ecd0b63bf76664ebb711ac167ce3741e358c14ad9b0413abdc77a214b848827eb5bf95caff34bcc326a4777e22c07e370e344c5d9e3cfa22d4896a231ad40ecd50d583f31b5e66d03c04e577b91d3d7755c35410eee86363e00939af5955cdd8d23be7d0c4ed7e9ddb0cd1fddf68a995f59/b7bb50d466b58eb6",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-23T17:07+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6904",
+      "title": "Claude’s prompt engineering best practices",
+      "description": "This guide presents essential techniques and common mistakes, with a section devoted to positive instructions rather than avoidance-based wording.",
+      "link": "https://claude.com/resources/articles/best-practices-for-prompt-engineering",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-23T17:07+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6905",
+      "title": "Google’s prompt design strategies for Gemini",
+      "description": "Google details clear instructions, examples and constraints, as well as how to prioritize rules when they conflict.",
+      "link": "https://aistudio.google.com/docs/prompting-strategies",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-23T17:07+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6907",
+      "title": "When negative prompts are still useful",
+      "description": "Virtualization Review explains when an instruction such as “avoid this” may still be relevant and why too many constraints produce the opposite effect.",
+      "link": "https://virtualizationreview.com/articles/2025/12/08/using-negative-ai-prompts-effectively.aspx",
+      "sources": [
+        "Cyber Corsairs"
+      ],
+      "received_at": "2026-11-23T17:07+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6889",
+      "title": "A new Tesla owner worries about range on road trips",
+      "description": "A new owner living in the southwestern United States is planning several Tesla trips but is concerned about Supercharger availability in some areas.",
+      "link": "https://www.teslaownersonline.com/threads/range-anxiety-prozac.40054/?post_id=481284#post-481284",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6890",
+      "title": "A Tesla makes an intelligent lane change earlier than expected",
+      "description": "A driving observation reports an automated lane change approximately 100 to 200 meters before the turnoff. This behavior could reduce lane changes and last-minute slowdowns.",
+      "link": "https://www.teslaownersonline.com/threads/software-build-2026-44.40026/?post_id=481476#post-481476",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6891",
+      "title": "Tesla’s Cybercab is now available by invitation",
+      "description": "The Cybercab has been announced as available by invitation.",
+      "link": "https://www.teslaownersonline.com/threads/cybercab-now-available-by-invite.39976/page-3?post_id=481302#post-481302",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6892",
+      "title": "Speaker considers Tesla’s future model insufficiently desirable",
+      "description": "One participant believes wealthy people would not want to be seen in this plastic vehicle and instead cites the Roadster as an attractive model, if it ever materializes.",
+      "link": "https://www.teslaownersonline.com/threads/cybercab-now-available-by-invite.39976/page-3?post_id=481302#post-481302",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6894",
+      "title": "An owner uses public NEMA 14-50 outlets to charge their Tesla",
+      "description": "After buying their first Tesla in 2023, an owner discovered NEMA 14-50 outlets in a public park they visited daily. The outlets had originally been installed for food trucks.",
+      "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtLlHMfKMKNPZ0GxBZlvbVsn3WhPCtImxcKFj93zLu2BkvojMmqvLw0DgIpd12trEP2XUuWFYf8ujd5G9B7OWQlpRK-A0lZb13ARz_G8N-dnKCSRZn37m1MM6POhsBK9oeEtmpddh7qHvOL3kXrX7f9-icNuz-MaL-sZwa-jtgzTBPCqQQjbK_-EZJcNVYguP1feOI8cq1WePjNYSAB9WYPRV4kGS2iIBZrreQ_e_UzU5Z2k-6uiLmN4gHnnHYnfEDCcQ8PxuiXrM8DQSUlBK33k45_vPMVIAtkZ02jq3qzth1HQEAD9QjU3Y-6_TXFjFE/4vz/Rp32xkLwRdW7p_x-29BymQ/h53/h001.lW6Qk4NQ2vlicuZ0BqP6ucosO2Bn-UAJppgXgYkjWvc",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6895",
+      "title": "An owner asks for lighting in the Tesla charging port",
+      "description": "An owner would like a light in the charging port to make it easier to position the connector in the rain, without having to find the opening by touch.",
+      "link": "https://www.teslaownersonline.com/threads/charging-i%E2%80%99d-like-a-light-in-the-charging-hole-so-when-it%E2%80%99s-raining-i-don%E2%80%99t-have-to-stick-my-finger-in-it-to-find-where-to-place-the-nozzle.40020/?post_id=481424#post-481424",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6896",
+      "title": "Tesla could insure autonomous vehicles itself",
+      "description": "Tesla has long considered becoming the insurer of fully autonomous vehicles, while potentially partnering with existing insurance companies in heavily regulated markets.",
+      "link": "https://www.teslaownersonline.com/threads/rivian-r2.37879/page-9?post_id=481320#post-481320",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6897",
+      "title": "A buyer receives a new Tesla with outdated software",
+      "description": "An owner of a Model Y 2027 says they asked whether the software was up to date at delivery and received an affirmative answer. Their one-month FSD trial began immediately afterward.",
+      "link": "https://www.teslaownersonline.com/threads/new-car-old-software.40056/?post_id=481290#post-481290",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6898",
+      "title": "Forum member defends electric vehicles against hybrids",
+      "description": "One participant says they would not choose any hybrid for a road trip over their Model 3 Performance or Cybertruck. They say they have been taking fully electric trips for a long time.",
+      "link": "https://www.teslaownersonline.com/threads/hate-to-say-it-but-hybrids-are-superior-to-bev.39406/page-16?post_id=481368#post-481368",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6900",
+      "title": "User reminds others that FSD must be actively supervised",
+      "description": "A user says they would only feel unsafe with FSD if they were not actively supervising it. To them, that means staying attentive to the road and keeping their hands ready to take control.",
+      "link": "https://www.teslaownersonline.com/threads/software-build-2026-38.39412/page-4?post_id=481294#post-481294",
+      "sources": [
+        "Threadloom"
+      ],
+      "received_at": "2026-11-23T16:49+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6884",
+      "title": "Nvidia reinstates Jensen Huang as CEO and chairman",
+      "description": "Nvidia’s board unanimously voted to reinstate its founder as CEO and chairman. The dramatic reversal came days after the board said it did not intend to reappoint him.",
+      "link": "https://l.businessinsider.com/a/zc/21432/2d2b827c1cf345f191c84394bbd366cf/e202d0d7b0fa4cc5b531893602c494b9",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-23T16:12+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6881",
+      "title": "Thinking Machines launches Inkling 2 Mini, a model that runs on Mac",
+      "description": "Inkling 2 Mini is a general-purpose multimodal model compact enough to run on a Mac with at least 32 GB of RAM. It uses, among other things, a new recurrent transformer architecture and joins the few American open-weight models competing with China’s lead.",
+      "link": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-23T15:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6882",
+      "title": "Create a 60-second KPI recap video with Claude",
+      "description": "The tutorial explains how to connect a data source in Claude, create a “Visual short” artifact and generate a summary video for management. It recommends checking indicator definitions, filters and periods before approving the result.",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.-FSEldgqQ7OeNkS-DxvZTYD4nI8fre2Moh6pWaI2VvgXVifUFgPdN3_0zxGDWLr9V4mXae2ODNVBLJVGIC1kF-e12w1xH3tYd8S9xOVoxk32C6NifxUbeGnxprElZaqNSZMkSWq6nbMQkeNdgxDOICr3MIBUcayFap12Hk5hEQ1wSBdQpa6C9v09IwSAaY_xy60x0UuauhTosI5aoI5nDavOAuCYC6q3vTDsGRqTmKY/4vz/SBg4gORlTTKaXpbuDU69mg/h15/h001.2nlA0cZLK9QtIUWhEhBMkUhb4BbrNif_huQzlr1ux5g",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-23T15:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6883",
+      "title": "Notion recommends a shared context system to automate work",
+      "description": "Notion co-founder Akshay Kothari advises organizations to create a shared space containing their information and processes. He says this “context system” would allow agents to learn continuously and take over routine tasks, while employees supervise their work.",
+      "link": "https://www.notion.com/a-new-shape-for-work",
+      "sources": [
+        "Superhuman"
+      ],
+      "received_at": "2026-11-23T15:11+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6868",
+      "title": "AI demand threatens to cause a printed circuit board shortage",
+      "description": "Demand for AI servers is straining the supply of printed circuit boards and displacing automotive, medical and industrial orders. A significant improvement in supply is not expected before mid-2028.",
+      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6869",
+      "title": "Ubuntu targets 2028 for its immutable desktop",
+      "description": "Canonical is targeting Ubuntu 28.04 LTS for Core Desktop, with the provisional goal of making it the default download in version 30.04. The system is based on isolated snap packages and atomic updates, while traditional Ubuntu will remain available.",
+      "link": "https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6870",
+      "title": "SAP details its strategy for an autonomous enterprise",
+      "description": "SAP’s AI chief explains how the company manages costs, governance and models for its autonomous enterprise concept and AI agents. SAP combines daily usage limits, default models and centralized controls, but still struggles to link token consumption directly to financial value.",
+      "link": "https://www.cio.com/article/4249833/sap-caio-we-need-to-be-more-precise-in-managing-the-use-of-ai.html",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6871",
+      "title": "Cloud monitoring can miss AI failures",
+      "description": "An AI service can remain online while producing incorrect answers, violating policies or generating unexpected costs. Teams must monitor output quality, agent behavior and spending, and establish processes for restoring reliable behavior.",
+      "link": "https://www.cdotrends.com/story/5184/your-cloud-operations-arent-ready-ai",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6872",
+      "title": "Google rolls out ambient networking for GKE",
+      "description": "Google announced general availability of ambient networking for Google Kubernetes Engine, with a sidecarless service mesh architecture. It separates networking functions from application workloads to reduce resource consumption and management complexity.",
+      "link": "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6873",
+      "title": "AWS tests centralized Internet firewall controls",
+      "description": "AWS Network Firewall can now apply centralized filtering rules directly to VPC Internet gateways without changing routing or architecture. The preview includes built-in NAT and automatically extends policies to new VPCs and subnets.",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6874",
+      "title": "GitHub releases Enterprise Server 3.23 release candidate",
+      "description": "GitHub Enterprise Server 3.23 adds improved filtering in GitHub Projects, AI secret detection in isolated environments and expanded malware detection. The update also brings several improvements to Dependabot, OAuth tokens and cluster configuration.",
+      "link": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6875",
+      "title": "AWS adds an API to instantly estimate workload costs",
+      "description": "The new Pricing Calculator API estimates up to 500 usage lines per request based on public or customer-specific rates. It allows infrastructure price calculations to be integrated directly into existing tools.",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6876",
+      "title": "AWS DevOps Agent expands its conversational capabilities",
+      "description": "AWS DevOps Agent can now directly execute GitHub and PagerDuty actions from Claude Code, Slack and Microsoft Teams.",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-new-chat-capabilities/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6559",
+      "title": "Google Quantum AI observes contextuality up to 105 qubits",
+      "description": "Google’s Willow quantum processor exceeded classical limits in the Mermin-Peres magic square game, with a success rate of 98.3%.",
+      "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6878",
+      "title": "Windows hotpatch causes application failures",
+      "description": "Microsoft acknowledged application failures after the November hotpatch for Windows 11 and provided a Registry workaround that requires a restart.",
+      "link": "https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-23T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6855",
+      "title": "Tesla rolls out version 15 of its FSD autonomous driving system",
+      "description": "Version 15 notably improves sign detection, pothole handling and speed in school zones. It also adds live visualization and slowing at speed cameras, and has begun rolling out.",
+      "link": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6856",
+      "title": "Neuralink expands clinical trials to Canada and the United Kingdom",
+      "description": "Neuralink has increased the frequency of procedures and expanded its clinical trials to Canada and the United Kingdom. Early participants are holding video calls with new participants to help them use the technology.",
+      "link": "https://new.life.com/stories-details/neuralink-noland-arbaugh-cover-story",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6857",
+      "title": "AI in biology also depends on the quality of measured data",
+      "description": "Progress in AI for biology will depend not only on the volume of data, but also on what is measured and its quality. Systematically incomplete measurements will probably not allow researchers to fully understand complex biological systems.",
+      "link": "https://combine-lab.github.io/blog/2026/11/22/ai-bio-data.html",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6858",
+      "title": "Developer programs an FPGA to run a language model",
+      "description": "A developer used “vibe coding” to run a language model on an FPGA. The experiment shows what becomes possible with a large token budget and suitable problems.",
+      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6859",
+      "title": "AI models can serve as informal proof checkers",
+      "description": "This article examines the use of System One models as informal proof checkers. These methods can complement formal approaches to increase confidence in agentic software development workflows.",
+      "link": "https://www.nikolasgoebel.com/2026/11/22/informal-verification.html",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6860",
+      "title": "Superintelligence is more likely to arrive in 2029 than 2027",
+      "description": "The author estimates that the industry is about 60% of the way toward superintelligence compared with 2022. In their view, it will probably arrive in 2029 rather than 2027, and work on longer-term timelines should not be neglected.",
+      "link": "https://blog.karthiktadepalli.com/p/asi-2027",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6861",
+      "title": "An associate of Alice Huang is accused of shipping Nvidia chips to China",
+      "description": "Li Ming allegedly played a central role in a network of companies smuggling restricted Nvidia chips into China. He was indicted for fraud in February 2025 in a case related to the alleged transshipment, which is still ongoing.",
+      "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?st=15h1mX&reflink=desktopwebshare_permalink",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6862",
+      "title": "More than 95% of new Chinese micro-dramas are produced with AI",
+      "description": "More than 95% of new micro-dramas released in China are now made with AI.",
+      "link": "https://manassaloi.com/2026/11/21/why-china-won-ai-video.html",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6863",
+      "title": "A researcher compresses one billion bytes of Wikipedia with a Transformer model",
+      "description": "A researcher compressed one billion bytes of Wikipedia into 105,388,353 bytes. The package includes the offline-trained weights and decoder for a 12-layer Transformer with 163 million parameters.",
+      "link": "https://tufalabs.ai/research/tufazip/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6864",
+      "title": "A team deploys more than 100 pull requests to production in one week",
+      "description": "Although many of these pull requests were simple, their volume reflects how the fundamentals of software development are evolving.",
+      "link": "https://lethain.com/passing-100-prs-in-a-week/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6865",
+      "title": "Autonomous media could transform the industry in 2027",
+      "description": "AI-generated voices and videos are becoming increasingly convincing. This evolution will have major implications for the media industry.",
+      "link": "https://danielmiessler.com/blog/autonomous-media-2027",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6734",
+      "title": "Researchers reveal a sensitive data leak in the AI supply chain",
+      "description": "The researchers placed two million canaries in the AI supply chain. They discovered an ecosystem exposing large amounts of highly sensitive data.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6867",
+      "title": "Microsoft wants to better reward its top cloud employees",
+      "description": "Employees receiving the highest ratings will receive additional stock. Those with weaker results will have formal meetings with their managers.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others?srnd=phx-technology",
+      "sources": [
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T13:21+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6831",
@@ -765,6 +1350,19 @@
       "followed_topic": null
     },
     {
+      "id": "g6410",
+      "title": "Google opens Genie 4, its interactive-world generator",
+      "description": "Google AI Ultra subscribers can create and edit explorable worlds in real time using simple text, with sound that adapts to the scenes. An agent helps build the worlds, and a gallery lets users share their creations.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-23T11:04+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6809",
       "title": "Waymo suspends highway rides after California ban",
       "description": "California’s DMV deemed Waymo’s driverless highway rides dangerous after three vehicles entered a closed construction zone. Waymo suspended highway rides in all its cities.",
@@ -830,7 +1428,7 @@
       "followed_topic": null
     },
     {
-      "id": "g6814",
+      "id": "g6432",
       "title": "U.S. banks tighten restrictions on AI agents",
       "description": "Wells Fargo warns that using an AI agent is at the customer’s own risk, while JPMorgan Chase already bans agents that use its credentials. Other banks and companies are also blocking certain actions performed by bots.",
       "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
@@ -1072,162 +1670,6 @@
         "The Neuron"
       ],
       "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6764",
-      "title": "Welcome to New York’s Tech Bro-hemia",
-      "description": "How a Brooklyn neighborhood went from hipster haven to “San Francisco East.”",
-      "link": "https://l.businessinsider.com/a/zc/21432/28c737b3a589432c9bca0de6948af34f/158f1a9d46ab448d85f950be3803412c",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-22T18:01+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6758",
-      "title": "AI boosts post saves from 41 to 57",
-      "description": "A creator replaced one-off requests to their AI with a single goal: increase post saves. By analyzing 60 posts, the agent identified the value of posts ending with a practical step, while leaving final approval to the human.",
-      "link": "https://link.mail.beehiiv.com/v2/c/4ea038cb85082432f35fdeac992ba81a133db4c2e4bd814665b1bff63896439dbe0c02c1aa249326ce4255342ba96148841975cc1f27cc96f2021933218000afc3617e173663d6810a16f89f3d1f9a9f0757b8f22588d62c67a05074a65257321f3023fcf6a03e79b41e89788599c21fa3ee258b778cbb5ecd7e047566fe3a68b698898a3e66eee60ebf1ad0685e3c877f2000e183af71222e635168d2853b3bea9f7750f2c70ec953b37f4e013d9f4cf654576a893fd468cf81b1b304a97b1d/303805ee6970f4b8",
-      "sources": [
-        "Cyber Corsairs"
-      ],
-      "received_at": "2026-11-22T17:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6759",
-      "title": "Saved posts reach 38% more people than liked posts",
-      "description": "Hootsuite’s experiment compared saves with likes. Saved posts reached about 38% more people.",
-      "link": "https://blog.hootsuite.com/experiment-instagram-saves-likes/",
-      "sources": [
-        "Cyber Corsairs"
-      ],
-      "received_at": "2026-11-22T17:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6760",
-      "title": "A guide explains what Instagram saves and shares mean",
-      "description": "Colorado State’s guide explains what saves and shares mean, as well as where to view this data in Instagram Insights.",
-      "link": "https://link.mail.beehiiv.com/v2/c/22c147b2efc314747c5ae6350d5688736017b639dbece8bc144135d6fb0093d98ef89f5f2c7052fba5707e2ee57c6fbd472f89af88a5c78791d36a1e3d7dfbb0b8c934b5b90d9150a84230f31e10f79bdebde390d9d75e1f0d32e5a754d8ce2fd17e5871bbd52b520b31fe0e57767813fd38273ede2b3f6cf30e2549b67d2938dbe63f5ea10001d625e92b3021f7830b38754dce33210d008425ab0ccbddea9024a92649861aeb0a7799a39d672f561827097306dc5fe8336888182b45a1d4d7/50c33ea3de84c776",
-      "sources": [
-        "Cyber Corsairs"
-      ],
-      "received_at": "2026-11-22T17:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6761",
-      "title": "Slack details how to use Claude in messages and channels",
-      "description": "Slack’s guide explains how to connect Claude and use it in messages and channels. It notes that Claude Tag replaced the original app on August 3, 2026.",
-      "link": "https://slack.com/help/articles/53532192117267-Use-Claude-in-Slack",
-      "sources": [
-        "Cyber Corsairs"
-      ],
-      "received_at": "2026-11-22T17:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6762",
-      "title": "Anthropic explains when to let an AI agent choose its own actions",
-      "description": "Anthropic’s guide explains when a simple, step-by-step setup is sufficient and when it is better to let AI choose its own actions.",
-      "link": "https://www.anthropic.com/research/building-effective-agents",
-      "sources": [
-        "Cyber Corsairs"
-      ],
-      "received_at": "2026-11-22T17:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6763",
-      "title": "Real-world examples improve Claude’s responses",
-      "description": "Claude’s guide shows that providing a few real examples, such as past posts, produces more accurate responses than instructions alone.",
-      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#use-examples-effectively",
-      "sources": [
-        "Cyber Corsairs"
-      ],
-      "received_at": "2026-11-22T17:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6751",
-      "title": "Atlassian finds that AI speeds delivery without yet improving customer value",
-      "description": "According to Atlassian’s State of Product 2027 study, 80% of product professionals believe AI helps them deliver faster, but customers do not yet perceive that value sooner. The report also examines persistent limitations, including decision-making and reliance on instinct over customer data.",
-      "link": "https://link.mail.beehiiv.com/v2/c/1b60388908f4d29e42bd1f2f05e0941a802e03f5786c5b5d78cade68b28bde0a5ad572ba1d0d97ac5d56e9cfa0f1aa163f4672c2f7e2554c0df77cb3ededc58df7e873699d5f23b47ae240c8a27cbb7cb483d71d775bc63c02c57f0895b7157f019e956e37935c9305e3013505bc62a32ac80b7f8a0eda3ad750ecabb80de6d3d5df9d95593c92d38e7980ddf0e3e769c2cb8f0090b501499027a30bf286dac523daca754f468c88ca916ca3c9a5762acdedc093da2b12f98f9939cadb80de6d7f1ea4ad481e81ca3b2be4daae5aeede29c23d989246bbd3a03712cebd8afbab98a77bc3eec8db1219fda787323434033cc723b41e3efa28791c125904f860b7/e8a200b42da52910",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-22T17:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6347",
-      "title": "Pika Enact enables real-time direction of AI-generated scenes",
-      "description": "Pika introduced Enact, an experimental environment that generates video and sound in real time while users position actors, give them directions, and move the camera. The tool offers interactive placement, text- or voice-based actor direction, and camera movements during generation, but is not yet available to the general public.",
-      "link": "https://pika.art/blog/pika-enact",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-22T17:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6266",
-      "title": "Google launches Gemini 4 Neon, a powerful and cheaper coding model",
-      "description": "Google has announced Gemini 4 Neon, a model positioned between Gemini 4 Carbon and Gemini 4 Hydrogen. It ranks third on the Artificial Analysis Intelligence Index and first in its Coding Agent ranking. Its API costs $3 per million input tokens and $15 per million output tokens, with a one-million-token context window.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-22T17:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6633",
-      "title": "Anthropic explains how to use Claude Meetings with Google Meet",
-      "description": "Anthropic has published a setup guide for Claude Meetings: connect Google Calendar, select a Google Meet meeting, then click “Add Claude.” Claude can then create a whiteboard or document during the call.",
-      "link": "https://support.claude.com/en/articles/18325154-use-claude-meetings",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-22T17:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6478",
-      "title": "Microsoft launches MAI-Image-2.7, an image-editing model",
-      "description": "Microsoft launched MAI-Image-2.7, a model specialized in image editing that ranks near the top of Artificial Analysis’s leaderboard for the task.",
-      "link": "https://windowsreport.com/microsofts-new-mai-image-2-7-model-climbs-to-the-top-of-ai-image-editing-charts/",
-      "sources": [
-        "AI Gen Art"
-      ],
-      "received_at": "2026-11-22T17:03+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
