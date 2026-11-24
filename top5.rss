@@ -3,49 +3,54 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-24</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 132 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 104 news received.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 24 Nov 2026 05:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 12:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. Tech stocks plunge after three years of gains</title>
-    <link>https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html</link>
-    <guid isPermaLink="false">2026-11-24:g6880</guid>
-    <description>Why it matters: The sharp technology-stock sell-off signals a potentially important market reset for AI valuations, investor confidence and the financing environment. The three major indexes fell sharply Friday, with the Nasdaq dropping more than 5% and wiping out all its 2026 gains. Concerns about Anthropic’s IPO, tighter regulation and inflation are driving the decline, which could also represent an overdue reset.</description>
-    <pubDate>Mon, 23 Nov 2026 14:11:00 GMT</pubDate>
-    <category>Superhuman</category>
-  </item>
-  <item>
-    <title>2. CrowdStrike acquires Zscaler for $43.9 billion</title>
-    <link>https://www.implicator.ai/crowdstrike-agrees-acquire-zscaler-which-develops-network/</link>
-    <guid isPermaLink="false">2026-11-24:g6913</guid>
-    <description>Why it matters: CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape cybersecurity consolidation and create a major integrated security platform. CrowdStrike has reached an all-stock agreement to acquire Zscaler in a deal valued at approximately $43.9 billion. Zscaler is expected to bring nearly 8,000 customers, while CrowdStrike anticipates roughly $1 billion in additional annual revenue.</description>
-    <pubDate>Mon, 23 Nov 2026 17:42:00 GMT</pubDate>
-    <category>Techpresso</category>
-  </item>
-  <item>
-    <title>3. OpenAI calls on rival labs to limit AI training</title>
-    <link>https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/</link>
-    <guid isPermaLink="false">2026-11-24:g6791</guid>
-    <description>Why it matters: OpenAI’s call for common limits on advanced-model training could become an important industry-led approach to AI safety, monitoring and future regulation. OpenAI chief scientist Jakub Pachocki is proposing that AI labs set common limits for training advanced models. He believes safety and monitoring research could fall behind as early as 2027.</description>
-    <pubDate>Mon, 23 Nov 2026 17:42:00 GMT</pubDate>
-    <category>Techpresso</category>
+    <title>1. Nvidia reinstates Jensen Huang as CEO after initially rejecting his return</title>
+    <link>https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx</link>
+    <guid isPermaLink="false">2026-11-24:g6884</guid>
+    <description>Why it matters: Nvidia’s reinstatement of Jensen Huang after an investigation creates immediate leadership, governance and market implications for the most strategically important AI-chip company. Nvidia’s board reinstated Jensen Huang as chairman, chief executive officer, and director five days after rejecting his return. The independent investigation continues, while Nvidia shares rebounded sharply after the announcement.</description>
+    <pubDate>Tue, 24 Nov 2026 10:50:00 GMT</pubDate>
     <category>The Neuron</category>
     <category>Vision IA</category>
+    <category>Business Insider</category>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>4. Nvidia halts shipments of Hopper chips to China</title>
-    <link>https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china</link>
-    <guid isPermaLink="false">2026-11-24:g6811</guid>
-    <description>Why it matters: Nvidia’s halt to licensed Hopper shipments to China deepens the technological separation between the U.S. and Chinese AI ecosystems and removes revenue from Nvidia’s forecasts. Nvidia confirmed that no more licensed Hopper chips would be shipped to China and that these sales were disappearing from its forecasts. The decision further deepens the separation between the U.S. and Chinese AI ecosystems.</description>
-    <pubDate>Mon, 23 Nov 2026 10:04:00 GMT</pubDate>
+    <title>2. CrowdStrike acquires Zscaler in the largest cybersecurity deal</title>
+    <link>https://www.theinformation.com/briefings/crowdstrike-agrees-buy-zscaler-44-billion-all-stock-deal</link>
+    <guid isPermaLink="false">2026-11-24:g6913</guid>
+    <description>Why it matters: CrowdStrike’s all-stock acquisition of Zscaler would create a major end-to-end cybersecurity platform and reshape competition in enterprise security. CrowdStrike will acquire Zscaler in an all-stock transaction. The combined company will cover enterprise security from devices to the cloud.</description>
+    <pubDate>Tue, 24 Nov 2026 10:03:00 GMT</pubDate>
     <category>Vision IA</category>
+    <category>Techpresso</category>
   </item>
   <item>
-    <title>5. Discount AI API providers stole keys and read queries</title>
-    <link>https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/</link>
-    <guid isPermaLink="false">2026-11-24:g6793</guid>
-    <description>Why it matters: The discovery that discount AI API providers stole cloud keys and accessed customer queries exposes a serious security and trust risk in the AI supply chain. A Dragos investigation reveals that three API providers stole AWS keys and accessed their clients’ queries after a fake-query campaign. OpenRouter removed these providers and revoked the privacy label for 125 endpoints.</description>
-    <pubDate>Mon, 23 Nov 2026 10:04:00 GMT</pubDate>
+    <title>3. Virginia and Oregon sue Elon Musk’s companies</title>
+    <link>https://apnews.com/article/452cc64e7169a55868f797982d0e8238</link>
+    <guid isPermaLink="false">2026-11-24:g6927</guid>
+    <description>Why it matters: Virginia and Oregon’s lawsuits against Elon Musk’s companies could bring significant legal, regulatory and reputational consequences for AI safety and platform governance. Virginia and Oregon have sued Elon Musk’s companies, alleging that Grok lacked adequate safeguards against child sexual abuse material and non-consensual intimate images. These are allegations, not judicial findings.</description>
+    <pubDate>Tue, 24 Nov 2026 10:50:00 GMT</pubDate>
+    <category>The Neuron</category>
+    <category>Vision IA</category>
+    <category>Techpresso</category>
+  </item>
+  <item>
+    <title>4. The EU Chips Act Unlocks €33 Billion in Investment</title>
+    <link>https://www.techrepublic.com/article/news-eu-chips-act-33-billion-semiconductor-investments-emea/</link>
+    <guid isPermaLink="false">2026-11-24:g6953</guid>
+    <description>Why it matters: The EU Chips Act’s €33 billion investment package signals a major effort to strengthen Europe’s semiconductor capacity and reduce supply-chain dependence. Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.</description>
+    <pubDate>Tue, 24 Nov 2026 09:33:00 GMT</pubDate>
+    <category>TechnologyAdvice</category>
+  </item>
+  <item>
+    <title>5. OpenAI deploys GPT-6.2 Sol in ChatGPT’s Chat tab</title>
+    <link>https://newscenter.laurentbischoff.com</link>
+    <guid isPermaLink="false">2026-11-24:g6969</guid>
+    <description>Why it matters: OpenAI’s lower-cost GPT-6.2 Sol deployment could materially change the economics of everyday AI use across ChatGPT, enterprise products and APIs. OpenAI is adding a chat-optimized version of GPT-6.2 Sol to ChatGPT’s Chat tab. Sol and Astra are also available in ChatGPT Work, Codex, and the API; OpenAI says Sol delivers performance close to Astra’s at about one-fifth the cost.</description>
+    <pubDate>Tue, 24 Nov 2026 10:50:00 GMT</pubDate>
+    <category>The Neuron</category>
     <category>Vision IA</category>
   </item>
 </channel>
