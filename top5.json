@@ -1,60 +1,26 @@
 {
   "date": "2026-11-24",
-  "news_count": 104,
+  "news_count": 99,
   "top5": [
     {
       "rank": 1,
-      "id": "g6884",
-      "title": "Nvidia reinstates Jensen Huang as CEO after initially rejecting his return",
-      "description": "Nvidia’s board reinstated Jensen Huang as chairman, chief executive officer, and director five days after rejecting his return. The independent investigation continues, while Nvidia shares rebounded sharply after the announcement.",
-      "link": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
-      "sources": [
-        "The Neuron",
-        "Vision IA",
-        "Business Insider",
-        "Techpresso"
-      ],
-      "received_at": "2026-11-24T11:50+01:00",
-      "covered_by": 4,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Nvidia’s reinstatement of Jensen Huang after an investigation creates immediate leadership, governance and market implications for the most strategically important AI-chip company."
-    },
-    {
-      "rank": 2,
       "id": "g6913",
-      "title": "CrowdStrike acquires Zscaler in the largest cybersecurity deal",
-      "description": "CrowdStrike will acquire Zscaler in an all-stock transaction. The combined company will cover enterprise security from devices to the cloud.",
-      "link": "https://www.theinformation.com/briefings/crowdstrike-agrees-buy-zscaler-44-billion-all-stock-deal",
+      "title": "CrowdStrike to acquire Zscaler for $43.9 billion",
+      "description": "CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.",
+      "link": "https://therecord.media/crowdstrike-zscaler",
       "sources": [
-        "Vision IA",
-        "Techpresso"
+        "TLDR IT",
+        "Business Insider",
+        "Vision IA"
       ],
-      "received_at": "2026-11-24T11:03+01:00",
-      "covered_by": 2,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "CrowdStrike’s all-stock acquisition of Zscaler would create a major end-to-end cybersecurity platform and reshape competition in enterprise security."
-    },
-    {
-      "rank": 3,
-      "id": "g6927",
-      "title": "Virginia and Oregon sue Elon Musk’s companies",
-      "description": "Virginia and Oregon have sued Elon Musk’s companies, alleging that Grok lacked adequate safeguards against child sexual abuse material and non-consensual intimate images. These are allegations, not judicial findings.",
-      "link": "https://apnews.com/article/452cc64e7169a55868f797982d0e8238",
-      "sources": [
-        "The Neuron",
-        "Vision IA",
-        "Techpresso"
-      ],
-      "received_at": "2026-11-24T11:50+01:00",
+      "received_at": "2026-11-24T14:52+01:00",
       "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "Virginia and Oregon’s lawsuits against Elon Musk’s companies could bring significant legal, regulatory and reputational consequences for AI safety and platform governance."
+      "why": "CrowdStrike’s $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, zero-trust and threat-intelligence capabilities."
     },
     {
-      "rank": 4,
+      "rank": 2,
       "id": "g6953",
       "title": "The EU Chips Act Unlocks €33 Billion in Investment",
       "description": "Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.",
@@ -66,28 +32,58 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The EU Chips Act’s €33 billion investment package signals a major effort to strengthen Europe’s semiconductor capacity and reduce supply-chain dependence."
+      "why": "The EU Chips Act is unlocking €33 billion across more than 20 semiconductor projects, signaling a major push to reduce Europe’s dependence on foreign chip supply."
     },
     {
-      "rank": 5,
-      "id": "g6969",
-      "title": "OpenAI deploys GPT-6.2 Sol in ChatGPT’s Chat tab",
-      "description": "OpenAI is adding a chat-optimized version of GPT-6.2 Sol to ChatGPT’s Chat tab. Sol and Astra are also available in ChatGPT Work, Codex, and the API; OpenAI says Sol delivers performance close to Astra’s at about one-fifth the cost.",
-      "link": null,
+      "rank": 3,
+      "id": "g6791",
+      "title": "OpenAI’s chief scientist calls for limiting the pace of AI progress",
+      "description": "Jakub Pachocki published the pretraining scores for every major model since GPT-3.5 and is asking competing labs to agree on common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
       "sources": [
-        "The Neuron",
-        "Vision IA"
+        "Superhuman",
+        "The Neuron"
       ],
-      "received_at": "2026-11-24T11:50+01:00",
+      "received_at": "2026-11-24T15:11+01:00",
       "covered_by": 2,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s lower-cost GPT-6.2 Sol deployment could materially change the economics of everyday AI use across ChatGPT, enterprise products and APIs."
+      "why": "OpenAI’s chief scientist is calling for common limits on the pace of AI progress, potentially influencing industry coordination, safety policy and future regulation."
+    },
+    {
+      "rank": 4,
+      "id": "g7008",
+      "title": "Nvidia’s competitors are designing chips with artificial intelligence",
+      "description": "OpenAI, Google and Anthropic are using AI models to design chips that could replace Nvidia GPUs. This development poses a significant risk to the company’s dominance.",
+      "link": "https://www.businessinsider.com/openai-google-anthropic-use-ai-challenge-nvidia-chip-dominance-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-24T12:50+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI, Google and Anthropic are using AI to design chips that could improve their bargaining power and challenge Nvidia’s dominance in AI hardware."
+    },
+    {
+      "rank": 5,
+      "id": "g7033",
+      "title": "Microsoft’s massive outage exposes testing and capacity weaknesses",
+      "description": "Microsoft’s final report says a Windows defect went unnoticed for months before overwhelming Microsoft 365 gateway servers. More than 80% of North American gateway servers stopped responding at the height of the outage.",
+      "link": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-24T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Microsoft’s outage, which took more than 80% of North American gateway servers offline, exposes the operational and capacity risks of widely deployed cloud infrastructure."
     }
   ],
   "period": {
-    "from": "2026-11-23T13:25+01:00",
-    "to": "2026-11-24T13:25+01:00"
+    "from": "2026-11-23T19:25+01:00",
+    "to": "2026-11-24T19:25+01:00"
   },
-  "generated_at": "2026-11-24T13:25+01:00"
+  "generated_at": "2026-11-24T19:25+01:00"
 }
