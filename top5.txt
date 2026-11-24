@@ -1,40 +1,20 @@
 # Top 5 news of the day — 2026-11-24
 
-Period: 2026-11-23T13:25+01:00 → 2026-11-24T13:25+01:00 · 104 news received
+Period: 2026-11-23T19:25+01:00 → 2026-11-24T19:25+01:00 · 99 news received
 
-## 1. Nvidia reinstates Jensen Huang as CEO after initially rejecting his return
+## 1. CrowdStrike to acquire Zscaler for $43.9 billion
 
-**Why it matters:** Nvidia’s reinstatement of Jensen Huang after an investigation creates immediate leadership, governance and market implications for the most strategically important AI-chip company.
+**Why it matters:** CrowdStrike’s $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, zero-trust and threat-intelligence capabilities.
 
-Nvidia’s board reinstated Jensen Huang as chairman, chief executive officer, and director five days after rejecting his return. The independent investigation continues, while Nvidia shares rebounded sharply after the announcement.
+CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.
 
-- Link: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx
-- Sources: The Neuron, Vision IA, Business Insider, Techpresso
-- Received: 2026-11-24T11:50+01:00
+- Link: https://therecord.media/crowdstrike-zscaler
+- Sources: TLDR IT, Business Insider, Vision IA
+- Received: 2026-11-24T14:52+01:00
 
-## 2. CrowdStrike acquires Zscaler in the largest cybersecurity deal
+## 2. The EU Chips Act Unlocks €33 Billion in Investment
 
-**Why it matters:** CrowdStrike’s all-stock acquisition of Zscaler would create a major end-to-end cybersecurity platform and reshape competition in enterprise security.
-
-CrowdStrike will acquire Zscaler in an all-stock transaction. The combined company will cover enterprise security from devices to the cloud.
-
-- Link: https://www.theinformation.com/briefings/crowdstrike-agrees-buy-zscaler-44-billion-all-stock-deal
-- Sources: Vision IA, Techpresso
-- Received: 2026-11-24T11:03+01:00
-
-## 3. Virginia and Oregon sue Elon Musk’s companies
-
-**Why it matters:** Virginia and Oregon’s lawsuits against Elon Musk’s companies could bring significant legal, regulatory and reputational consequences for AI safety and platform governance.
-
-Virginia and Oregon have sued Elon Musk’s companies, alleging that Grok lacked adequate safeguards against child sexual abuse material and non-consensual intimate images. These are allegations, not judicial findings.
-
-- Link: https://apnews.com/article/452cc64e7169a55868f797982d0e8238
-- Sources: The Neuron, Vision IA, Techpresso
-- Received: 2026-11-24T11:50+01:00
-
-## 4. The EU Chips Act Unlocks €33 Billion in Investment
-
-**Why it matters:** The EU Chips Act’s €33 billion investment package signals a major effort to strengthen Europe’s semiconductor capacity and reduce supply-chain dependence.
+**Why it matters:** The EU Chips Act is unlocking €33 billion across more than 20 semiconductor projects, signaling a major push to reduce Europe’s dependence on foreign chip supply.
 
 Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.
 
@@ -42,12 +22,32 @@ Europe has unlocked €33 billion to revive its semiconductor industry, with new
 - Sources: TechnologyAdvice
 - Received: 2026-11-24T10:33+01:00
 
-## 5. OpenAI deploys GPT-6.2 Sol in ChatGPT’s Chat tab
+## 3. OpenAI’s chief scientist calls for limiting the pace of AI progress
 
-**Why it matters:** OpenAI’s lower-cost GPT-6.2 Sol deployment could materially change the economics of everyday AI use across ChatGPT, enterprise products and APIs.
+**Why it matters:** OpenAI’s chief scientist is calling for common limits on the pace of AI progress, potentially influencing industry coordination, safety policy and future regulation.
 
-OpenAI is adding a chat-optimized version of GPT-6.2 Sol to ChatGPT’s Chat tab. Sol and Astra are also available in ChatGPT Work, Codex, and the API; OpenAI says Sol delivers performance close to Astra’s at about one-fifth the cost.
+Jakub Pachocki published the pretraining scores for every major model since GPT-3.5 and is asking competing labs to agree on common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.
 
-- Link: —
-- Sources: The Neuron, Vision IA
-- Received: 2026-11-24T11:50+01:00
+- Link: https://openai.com/index/perplexity-and-intelligence/
+- Sources: Superhuman, The Neuron
+- Received: 2026-11-24T15:11+01:00
+
+## 4. Nvidia’s competitors are designing chips with artificial intelligence
+
+**Why it matters:** OpenAI, Google and Anthropic are using AI to design chips that could improve their bargaining power and challenge Nvidia’s dominance in AI hardware.
+
+OpenAI, Google and Anthropic are using AI models to design chips that could replace Nvidia GPUs. This development poses a significant risk to the company’s dominance.
+
+- Link: https://www.businessinsider.com/openai-google-anthropic-use-ai-challenge-nvidia-chip-dominance-2026-11
+- Sources: Business Insider
+- Received: 2026-11-24T12:50+01:00
+
+## 5. Microsoft’s massive outage exposes testing and capacity weaknesses
+
+**Why it matters:** Microsoft’s outage, which took more than 80% of North American gateway servers offline, exposes the operational and capacity risks of widely deployed cloud infrastructure.
+
+Microsoft’s final report says a Windows defect went unnoticed for months before overwhelming Microsoft 365 gateway servers. More than 80% of North American gateway servers stopped responding at the height of the outage.
+
+- Link: https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656
+- Sources: TLDR IT
+- Received: 2026-11-24T14:52+01:00
