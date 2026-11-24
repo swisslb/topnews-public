@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-24
 
-Period: 2026-11-23T06:25+01:00 → 2026-11-24T06:25+01:00 · 132 news received
+Period: 2026-11-23T13:25+01:00 → 2026-11-24T13:25+01:00 · 104 news received
 
-## 1. Tech stocks plunge after three years of gains
+## 1. Nvidia reinstates Jensen Huang as CEO after initially rejecting his return
 
-**Why it matters:** The sharp technology-stock sell-off signals a potentially important market reset for AI valuations, investor confidence and the financing environment.
+**Why it matters:** Nvidia’s reinstatement of Jensen Huang after an investigation creates immediate leadership, governance and market implications for the most strategically important AI-chip company.
 
-The three major indexes fell sharply Friday, with the Nasdaq dropping more than 5% and wiping out all its 2026 gains. Concerns about Anthropic’s IPO, tighter regulation and inflation are driving the decline, which could also represent an overdue reset.
+Nvidia’s board reinstated Jensen Huang as chairman, chief executive officer, and director five days after rejecting his return. The independent investigation continues, while Nvidia shares rebounded sharply after the announcement.
 
-- Link: https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html
-- Sources: Superhuman
-- Received: 2026-11-23T15:11+01:00
+- Link: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx
+- Sources: The Neuron, Vision IA, Business Insider, Techpresso
+- Received: 2026-11-24T11:50+01:00
 
-## 2. CrowdStrike acquires Zscaler for $43.9 billion
+## 2. CrowdStrike acquires Zscaler in the largest cybersecurity deal
 
-**Why it matters:** CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape cybersecurity consolidation and create a major integrated security platform.
+**Why it matters:** CrowdStrike’s all-stock acquisition of Zscaler would create a major end-to-end cybersecurity platform and reshape competition in enterprise security.
 
-CrowdStrike has reached an all-stock agreement to acquire Zscaler in a deal valued at approximately $43.9 billion. Zscaler is expected to bring nearly 8,000 customers, while CrowdStrike anticipates roughly $1 billion in additional annual revenue.
+CrowdStrike will acquire Zscaler in an all-stock transaction. The combined company will cover enterprise security from devices to the cloud.
 
-- Link: https://www.implicator.ai/crowdstrike-agrees-acquire-zscaler-which-develops-network/
-- Sources: Techpresso
-- Received: 2026-11-23T18:42+01:00
+- Link: https://www.theinformation.com/briefings/crowdstrike-agrees-buy-zscaler-44-billion-all-stock-deal
+- Sources: Vision IA, Techpresso
+- Received: 2026-11-24T11:03+01:00
 
-## 3. OpenAI calls on rival labs to limit AI training
+## 3. Virginia and Oregon sue Elon Musk’s companies
 
-**Why it matters:** OpenAI’s call for common limits on advanced-model training could become an important industry-led approach to AI safety, monitoring and future regulation.
+**Why it matters:** Virginia and Oregon’s lawsuits against Elon Musk’s companies could bring significant legal, regulatory and reputational consequences for AI safety and platform governance.
 
-OpenAI chief scientist Jakub Pachocki is proposing that AI labs set common limits for training advanced models. He believes safety and monitoring research could fall behind as early as 2027.
+Virginia and Oregon have sued Elon Musk’s companies, alleging that Grok lacked adequate safeguards against child sexual abuse material and non-consensual intimate images. These are allegations, not judicial findings.
 
-- Link: https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/
-- Sources: Techpresso, The Neuron, Vision IA
-- Received: 2026-11-23T18:42+01:00
+- Link: https://apnews.com/article/452cc64e7169a55868f797982d0e8238
+- Sources: The Neuron, Vision IA, Techpresso
+- Received: 2026-11-24T11:50+01:00
 
-## 4. Nvidia halts shipments of Hopper chips to China
+## 4. The EU Chips Act Unlocks €33 Billion in Investment
 
-**Why it matters:** Nvidia’s halt to licensed Hopper shipments to China deepens the technological separation between the U.S. and Chinese AI ecosystems and removes revenue from Nvidia’s forecasts.
+**Why it matters:** The EU Chips Act’s €33 billion investment package signals a major effort to strengthen Europe’s semiconductor capacity and reduce supply-chain dependence.
 
-Nvidia confirmed that no more licensed Hopper chips would be shipped to China and that these sales were disappearing from its forecasts. The decision further deepens the separation between the U.S. and Chinese AI ecosystems.
+Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.
 
-- Link: https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china
-- Sources: Vision IA
-- Received: 2026-11-23T11:04+01:00
+- Link: https://www.techrepublic.com/article/news-eu-chips-act-33-billion-semiconductor-investments-emea/
+- Sources: TechnologyAdvice
+- Received: 2026-11-24T10:33+01:00
 
-## 5. Discount AI API providers stole keys and read queries
+## 5. OpenAI deploys GPT-6.2 Sol in ChatGPT’s Chat tab
 
-**Why it matters:** The discovery that discount AI API providers stole cloud keys and accessed customer queries exposes a serious security and trust risk in the AI supply chain.
+**Why it matters:** OpenAI’s lower-cost GPT-6.2 Sol deployment could materially change the economics of everyday AI use across ChatGPT, enterprise products and APIs.
 
-A Dragos investigation reveals that three API providers stole AWS keys and accessed their clients’ queries after a fake-query campaign. OpenRouter removed these providers and revoked the privacy label for 125 endpoints.
+OpenAI is adding a chat-optimized version of GPT-6.2 Sol to ChatGPT’s Chat tab. Sol and Astra are also available in ChatGPT Work, Codex, and the API; OpenAI says Sol delivers performance close to Astra’s at about one-fifth the cost.
 
-- Link: https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/
-- Sources: Vision IA
-- Received: 2026-11-23T11:04+01:00
+- Link: —
+- Sources: The Neuron, Vision IA
+- Received: 2026-11-24T11:50+01:00
