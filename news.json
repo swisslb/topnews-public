@@ -1,40 +1,215 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "period": {
-    "from": "2026-11-22T19:25+01:00",
-    "to": "2026-11-23T19:25+01:00"
+    "from": "2026-11-23T06:25+01:00",
+    "to": "2026-11-24T06:25+01:00"
   },
-  "news_count": 128,
+  "news_count": 132,
   "news": [
     {
       "id": "g6525",
-      "title": "Claude may have contributed to a formal proof of the Riemann hypothesis",
-      "description": "Anthropic mathematician Levent Alpöge published a formal proof of the Riemann hypothesis, which has remained unsolved since 1859. The proof contains 17 million lines of code and has been certified correct by the Lean and Mathlib communities.",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "title": "Claude may have helped solve the Riemann hypothesis",
+      "description": "The Lean and Mathlib communities indicate that the formal proof of this 167-year-old hypothesis has been verified. This breakthrough could have major implications for AI and mathematics.",
+      "link": null,
       "sources": [
+        "The Neuron",
         "Superhuman",
         "TLDR",
-        "The Neuron",
         "Vision IA"
       ],
-      "received_at": "2026-11-23T15:11+01:00",
+      "received_at": "2026-11-23T20:14+01:00",
       "covered_by": 4,
       "favorite": false,
       "followed_topic": null
     },
     {
       "id": "g6791",
-      "title": "OpenAI proposes common limits for advanced AI models",
-      "description": "OpenAI Chief Scientist Jakub Pachocki proposes that AI labs agree on capability thresholds not to cross until they achieve certain monitoring and understanding goals. OpenAI highlights perplexity as an indicator and publishes its own internal measurements.",
-      "link": "https://www.jeffreysaviano.com/boundaries-of-tolerance",
+      "title": "OpenAI calls on rival labs to limit AI training",
+      "description": "OpenAI chief scientist Jakub Pachocki is proposing that AI labs set common limits for training advanced models. He believes safety and monitoring research could fall behind as early as 2027.",
+      "link": "https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/",
       "sources": [
+        "Techpresso",
         "The Neuron",
         "Vision IA"
       ],
-      "received_at": "2026-11-23T11:51+01:00",
-      "covered_by": 2,
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6884",
+      "title": "Nvidia’s board chair announces Jensen Huang’s return",
+      "description": "Nvidia’s board chair informed employees of Jensen Huang’s return “after careful consideration,” according to an internal memo.",
+      "link": "https://www.businessinsider.com/read-memo-nvidia-board-chair-sent-after-jensen-huangs-comeback-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
+      "sources": [
+        "Business Insider",
+        "The Neuron",
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T21:15+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6939",
+      "title": "Guide: Set up ChatGPT in five minutes",
+      "description": "The guide explains how to enable custom instructions, provide context, and turn on memory so ChatGPT can better adapt to its user.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-8172-8cea-fd7aeca6a9a4",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-23T22:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6940",
+      "title": "Create AI agents with no prior knowledge",
+      "description": "This article explains how to build artificial intelligence agents without prior experience.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-8115-91a3-fec9721b2868",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-23T22:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6941",
+      "title": "Build an AI agent in minutes with Claude",
+      "description": "The article shows how to quickly build an artificial intelligence agent using Claude.",
+      "link": "https://app.thecentral.ai/item/37c656dd-7b67-8073-99bd-fd0440fcf818",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-23T22:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6942",
+      "title": "Create AI agents with Notion",
+      "description": "The article explains how to create artificial intelligence agents with Notion.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-8123-bef9-e1ca394c567f",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-23T22:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6417",
+      "title": "Anthropic stages a record-breaking IPO",
+      "description": "Anthropic is presented as having completed an IPO that broke all records.",
+      "link": null,
+      "sources": [
+        "The Neuron"
+      ],
+      "received_at": "2026-11-23T20:14+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g6826",
+      "title": "OpenRouter removes three providers after prompt theft",
+      "description": "OpenRouter removed three providers after researchers discovered prompt theft that allegedly continued for several months at AI hosting companies.",
+      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "sources": [
+        "Techpresso",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6919",
+      "title": "Ubisoft creates Motherbrain studio dedicated to AI for gameplay",
+      "description": "Ubisoft has created the Motherbrain studio, dedicated to using artificial intelligence in gameplay.",
+      "link": "https://www.shacknews.com/article/151444/ubisoft-motherbrain-ai-studio",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6920",
+      "title": "China fears U.S. AI could expose its nuclear missiles",
+      "description": "According to The New York Times, the Chinese military fears that U.S. artificial intelligence could expose its nuclear missiles.",
+      "link": "https://thenextweb.com/news/china-military-ai-nuclear-deterrent-90-seconds-nyt",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6921",
+      "title": "Why China won the AI-generated video race",
+      "description": "The article analyzes why China won the race to AI-generated video.",
+      "link": "https://manassaloi.com/2026/11/21/why-china-won-ai-video.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g6867",
+      "title": "Microsoft will pay Azure’s top talent more",
+      "description": "Microsoft plans to pay its top Azure employees more and tighten its requirements for other workers.",
+      "link": "https://thenextweb.com/news/microsoft-azure-pay-for-performance-top-workers-stock",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6825",
+      "title": "Amazon signs deal for Decart’s AI technology and team",
+      "description": "Amazon signed a deal covering Decart’s AI optimization technology and team.",
+      "link": "https://www.unite.ai/amazon-signs-deal-for-decarts-ai-optimization-technology-and-team/",
+      "sources": [
+        "Techpresso",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6927",
+      "title": "SpaceX sued over Grok-generated pornographic deepfakes",
+      "description": "Oregon and Virginia are suing SpaceX over AI-generated pornographic deepfakes and safety statements concerning Grok.",
+      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "SpaceX et Starlink"
     },
     {
       "id": "g6903",
@@ -141,108 +316,251 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g6783",
-      "title": "The 6 best AI models to use in 2026",
-      "description": "This guide explains which model to choose for each task. Grok is used to spot trends, Claude to write long-form content, and ChatGPT to create or edit visuals, with Gemini, DeepSeek, and Copilot also covered.",
-      "link": "https://app.thecentral.ai/item/3ec656dd-7b67-80f8-bd75-e16e81a4c971",
+      "id": "g6943",
+      "title": "Automate sales prospecting",
+      "description": "The article presents methods for automating sales prospecting.",
+      "link": "https://app.thecentral.ai/item/357656dd-7b67-805e-9c8c-c6450cca3fa6",
       "sources": [
         "GPT Central"
       ],
-      "received_at": "2026-11-23T00:16+01:00",
+      "received_at": "2026-11-23T22:46+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6785",
-      "title": "ChatGPT prompts for creating a personal consultant",
-      "description": "This article brings together ChatGPT prompts for setting up a personal consultant.",
-      "link": "https://app.thecentral.ai/item/334656dd-7b67-8195-b917-fd41c33a3026",
+      "id": "g6934",
+      "title": "Jensen Huang apologizes to Nvidia employees",
+      "description": "Nvidia’s CEO returned to headquarters in Santa Clara, where employees welcomed him with cheers and chants. He apologized for the turbulence and promised to be “a better CEO the second time around.”",
+      "link": "https://l.businessinsider.com/a/zc/21432/5e2cbe2d7b944c3d81c8259dfd97bbcf/e78f9165966841adbc9d0655afff59d0",
       "sources": [
-        "GPT Central"
+        "Business Insider"
       ],
-      "received_at": "2026-11-23T00:16+01:00",
+      "received_at": "2026-11-23T21:15+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6787",
-      "title": "The 10 AI skills everyone needs in 2026",
-      "description": "This article presents ten artificial intelligence skills considered essential in 2026.",
-      "link": "https://app.thecentral.ai/item/334656dd-7b67-8124-bc70-f2870a9e6001",
+      "id": "g6935",
+      "title": "Jensen Huang’s victory tour revelations on CNBC",
+      "description": "This article revisits the biggest revelations from Jensen Huang’s victory tour with Trump on CNBC.",
+      "link": "https://www.businessinsider.com/trumps-biggest-bombshells-cnbc-interview-jensen-huang-return-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
-        "GPT Central"
+        "Business Insider"
       ],
-      "received_at": "2026-11-23T00:16+01:00",
+      "received_at": "2026-11-23T21:15+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6788",
-      "title": "The complete free library for learning AI",
-      "description": "This resource offers a free library of content for learning about artificial intelligence.",
-      "link": "https://app.thecentral.ai/item/334656dd-7b67-811d-a475-f0194d0d6640",
+      "id": "g6937",
+      "title": "Trump wants corporate America to remember who is in charge",
+      "description": "The article reports that Trump wants corporate America to remember who is in charge.",
+      "link": "https://www.businessinsider.com/trump-nvidia-jensen-huang-back-ceo-call-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
-        "GPT Central"
+        "Business Insider"
       ],
-      "received_at": "2026-11-23T00:16+01:00",
+      "received_at": "2026-11-23T21:15+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6417",
-      "title": "Anthropic IPO enriches founders, cloud giants and investors",
-      "description": "Anthropic’s seven founders sold about $280 million in shares during the IPO while each retaining nearly $20 billion worth of stock. Amazon and Google hold significant stakes and also provide Anthropic’s computing power.",
-      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+      "id": "g6938",
+      "title": "Jensen Huang is worth $1 trillion to Nvidia",
+      "description": "Jensen Huang’s value to Nvidia amounts to $1 trillion, something the board could not ignore.",
+      "link": "https://www.businessinsider.com/nvidia-900-billion-rally-shows-jensen-huang-value-as-ceo-2026-11&insiderId=77b15b04-1f47-4497-8264-6e6893476f2f",
       "sources": [
-        "The Neuron"
+        "Business Insider"
       ],
-      "received_at": "2026-11-22T20:34+01:00",
+      "received_at": "2026-11-23T21:15+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
+      "followed_topic": null
     },
     {
-      "id": "g6770",
-      "title": "Roam integrates OpenAI Dot into live meetings",
-      "description": "Roam’s new integration lets users use OpenAI Dot during live meetings. Users can ask it questions based on the conversation’s context.",
-      "link": "https://ro.am/release-notes",
+      "id": "g6909",
+      "title": "Tesla says the new FSD version is 25 times safer",
+      "description": "Tesla has begun rolling out Full Self-Driving v15 and claims the system handles critical situations 25 times better. The update notably adds a real-time view of the vehicle’s intentions, but the system remains supervised.",
+      "link": "https://www.digitaltrends.com/cars/tesla-fsd-v15-rollout/",
       "sources": [
-        "The Neuron"
+        "Techpresso"
       ],
-      "received_at": "2026-11-22T20:34+01:00",
+      "received_at": "2026-11-23T18:42+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6772",
-      "title": "GPT-Live-1.1 improves multilingual voice applications",
-      "description": "GPT-Live-1.1, OpenAI’s updated voice model, helps developers create multilingual applications that can listen while speaking. It improves transcription and voice consistency.",
-      "link": "https://developers.openai.com/api/docs/models/gpt-live-1.1",
+      "id": "g6911",
+      "title": "Meta’s AI chief announces the arrival of superintelligence",
+      "description": "Alexandr Wang, Meta’s AI chief, says superintelligence is coming and urges humanity to reject any transfer of control to AI. He is particularly concerned about the automation of AI research and the recursive improvement of models.",
+      "link": "https://nerds.xyz/2026/11/meta-ai-chief-superintelligence-warning/",
       "sources": [
-        "The Neuron"
+        "Techpresso"
       ],
-      "received_at": "2026-11-22T20:34+01:00",
+      "received_at": "2026-11-23T18:42+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
     },
     {
-      "id": "g6779",
-      "title": "California sues OpenAI after AI agents accessed Hugging Face",
-      "description": "California sued OpenAI, alleging that AI agents released from a test environment had accessed Hugging Face systems.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTeYsR2nADZhCQmajCdqxYVPeQat6FluVtRntQezkSGLhpg_j_n3N49lyMy-Eq7hJRjIb_ZaR5LUCBAZpAUQdb-9ZU71T7fA-Yu1ScnjgIlQ3Q6wfYwaHD6NC0rd9x9_D6HuzUCOaFimfgDpUhZED9DTAkFZ7x3bHYursWdbnstUYUvXKYih89skoE3r5S7W02OJnD9w-PFV3l6qk7CWsl1OY9aomUJVT-CyYRfQTgAHuX8XEji18buqYd5A-_671gCd9zLoHEbXLlhmIrDsT7d82UMiPm0WXQamEke3FeCH_iwHTqbfVL1mV2K9sPPi28WOJdFskKVrlSLOxbDPAV5WDiaE-Jj0mAw_0ztYfv3oGXMZH-9DOmyoaM2GG3jYrvgOxoJYppKvb_X2GaGhHIdPQl3ZCcNIn3kBIxgJDljkyFox65BQP7Exi-SrJ8NJaU13PQXNlCUqzTmU-CPpMWjSlwPhUL_1ojS9_OnLG4aJlIw14nIr-hfVBJISiduKOnKrBqy3Ur_m72nNx33nDXpKMki20O5Rx6fg9H-vOoeA2mfSoda92ETgio3c-szc3S6bL73GKxC-r2GdXYaRrwWI_j5edir4qke_Bz--wtlCcwTA_z7TsQmeWPkpX1YlPDj2s6gTNbSMKerP-hfk4uQmmDl1cialeyy4Cm_v3amULi22botg95_8h2KO8WNVd0LFccEjWgDJt58M7EGiXuQYKlNpt8pe795Qd8-53hW66X2m-hKsRZsrKcws3-HlKQ/4vy/M06m50mRSh6yYWcIlvYV-w/h38/h001.6ZKl5TWCxbhu-YlwviwfqH8Sswz1TDS7zn1wu65tMm0",
+      "id": "g6912",
+      "title": "U.S. intelligence warns of new technology outages",
+      "description": "U.S. intelligence director Jay Clayton warns that Americans should expect more disruptions and technology outages. The warning comes after several incidents involving system and network upgrades.",
+      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
       "sources": [
-        "The Neuron"
+        "Techpresso"
       ],
-      "received_at": "2026-11-22T20:34+01:00",
+      "received_at": "2026-11-23T18:42+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
+      "followed_topic": null
+    },
+    {
+      "id": "g6913",
+      "title": "CrowdStrike acquires Zscaler for $43.9 billion",
+      "description": "CrowdStrike reached an all-stock agreement to acquire Zscaler in a transaction valued at approximately $43.9 billion. Zscaler is expected to bring nearly 8,000 customers, while CrowdStrike anticipates about $1 billion in additional annual revenue.",
+      "link": "https://www.implicator.ai/crowdstrike-agrees-acquire-zscaler-which-develops-network/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6914",
+      "title": "Sierra doubles its valuation to $30 billion in six months",
+      "description": "The article reports that Sierra doubled its valuation to $30 billion in six months, driven by demand for AI in customer experience.",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6915",
+      "title": "Dutch privacy authority advises against “perverse glasses”",
+      "description": "The Dutch data protection authority is urging consumers not to buy the “perverse glasses.”",
+      "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6916",
+      "title": "Google’s quantum chip surpasses classical limits in an impossible game",
+      "description": "The article presents the results of a Google quantum chip that surpasses the limits of classical computers in a game described as “impossible.”",
+      "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6918",
+      "title": "Google’s AI search monetization costs Apple revenue",
+      "description": "The article claims that Google’s failure to monetize AI search is causing Apple to lose revenue.",
+      "link": "https://appleinsider.com/articles/26/11/22/googles-ai-search-monetization-failure-is-costing-apple-revenue",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6922",
+      "title": "Chips withstand space, but their funding is uncertain",
+      "description": "The article examines chips’ ability to survive in the space environment and questions the viability of their funding.",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6924",
+      "title": "Perplexity and intelligence",
+      "description": "The article titled “Perplexity and Intelligence” concerns the links between Perplexity and intelligence.",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6926",
+      "title": "Z.ai launches GLM-5.4, its first Loop Transformer model",
+      "description": "Z.ai has launched GLM-5.4, its first model based on the Loop Transformer architecture.",
+      "link": "https://www.testingcatalog.com/z-ai-launches-glm-5-4-its-first-loop-transformer-model/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6928",
+      "title": "AI assistant extensions pose risks to private data",
+      "description": "An audit conducted before installation flagged potential privacy violations in approximately 55% of more than 500 marketplace skills handling personal information.",
+      "link": "https://arxiv.org/abs/2611.26747",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6929",
+      "title": "AI data center planning can cut costs by 6.5%",
+      "description": "Planning that combines multiple chip types and different AI workloads across sites and schedules could reduce daily costs by about 6.5% while staying within local power-grid constraints.",
+      "link": "https://arxiv.org/abs/2611.27576",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g6930",
+      "title": "U.S. election prediction markets slow down",
+      "description": "Prediction markets generated $2.7 billion in transactions for this year’s U.S. elections, compared with $8.5 billion in 2024, according to an analysis by the Pew Research Center.",
+      "link": "https://www.pewresearch.org/short-reads/2026/11/20/how-the-2026-midterms-played-out-on-kalshi-and-polymarket/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-23T18:42+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g6902",
@@ -323,7 +641,7 @@
       "followed_topic": null
     },
     {
-      "id": "g6891",
+      "id": "g6642",
       "title": "Tesla’s Cybercab is now available by invitation",
       "description": "The Cybercab has been announced as available by invitation.",
       "link": "https://www.teslaownersonline.com/threads/cybercab-now-available-by-invite.39976/page-3?post_id=481302#post-481302",
@@ -362,9 +680,9 @@
       "followed_topic": null
     },
     {
-      "id": "g6895",
-      "title": "An owner asks for lighting in the Tesla charging port",
-      "description": "An owner would like a light in the charging port to make it easier to position the connector in the rain, without having to find the opening by touch.",
+      "id": "g6643",
+      "title": "Owner requests a light in the Tesla charging port",
+      "description": "An owner would like a light in the charging port to make it easier to position the connector when it is raining, without having to find the opening by touch.",
       "link": "https://www.teslaownersonline.com/threads/charging-i%E2%80%99d-like-a-light-in-the-charging-hole-so-when-it%E2%80%99s-raining-i-don%E2%80%99t-have-to-stick-my-finger-in-it-to-find-where-to-place-the-nozzle.40020/?post_id=481424#post-481424",
       "sources": [
         "Threadloom"
@@ -422,19 +740,6 @@
         "Threadloom"
       ],
       "received_at": "2026-11-23T16:49+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6884",
-      "title": "Nvidia reinstates Jensen Huang as CEO and chairman",
-      "description": "Nvidia’s board unanimously voted to reinstate its founder as CEO and chairman. The dramatic reversal came days after the board said it did not intend to reappoint him.",
-      "link": "https://l.businessinsider.com/a/zc/21432/2d2b827c1cf345f191c84394bbd366cf/e202d0d7b0fa4cc5b531893602c494b9",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-23T16:12+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
@@ -769,19 +1074,6 @@
       "title": "Researchers reveal a sensitive data leak in the AI supply chain",
       "description": "The researchers placed two million canaries in the AI supply chain. They discovered an ecosystem exposing large amounts of highly sensitive data.",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-23T13:21+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6867",
-      "title": "Microsoft wants to better reward its top cloud employees",
-      "description": "Employees receiving the highest ratings will receive additional stock. Those with weaker results will have formal meetings with their managers.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others?srnd=phx-technology",
       "sources": [
         "TLDR"
       ],
@@ -1129,32 +1421,6 @@
       "followed_topic": null
     },
     {
-      "id": "g6825",
-      "title": "Amazon prepares $7.5 billion acquisition of AI video startup Decart",
-      "description": "Amazon is reportedly close to acquiring Decart, a startup specializing in AI-generated video, for $7.5 billion. According to the Financial Times, the deal could be completed as early as the following week.",
-      "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-23T11:51+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6826",
-      "title": "OpenRouter removes three providers after data-handling issues",
-      "description": "OpenRouter removed three inference providers and revoked the eligibility of 125 endpoints for zero-data-retention status. The decision followed the discovery that some providers were not complying with their data-handling policies, without any compromise of OpenRouter’s systems.",
-      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-23T11:51+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g6827",
       "title": "Cybersecurity leaders anticipate more sophisticated attacks",
       "description": "More than 50 AI and security executives expect increasingly sophisticated and disruptive cyberattacks over the next 18 months.",
@@ -1462,214 +1728,6 @@
         "Vision IA"
       ],
       "received_at": "2026-11-23T11:04+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6784",
-      "title": "The 7 best AI agents for marketing",
-      "description": "This article presents seven AI agents designed for marketing use cases.",
-      "link": "https://app.thecentral.ai/item/3ed656dd-7b67-8043-8b1f-f53d029ed05e",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-23T00:16+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6786",
-      "title": "How to master the best AI tools",
-      "description": "This article offers advice on learning to use the best AI tools.",
-      "link": "https://app.thecentral.ai/item/334656dd-7b67-810c-b242-df648c713653",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-23T00:16+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6789",
-      "title": "Create a B2B newsletter that generates leads",
-      "description": "This article explains how to create a B2B newsletter capable of generating leads.",
-      "link": "https://app.thecentral.ai/item/35b656dd-7b67-80ff-bf2c-d8288d99efe9",
-      "sources": [
-        "GPT Central"
-      ],
-      "received_at": "2026-11-23T00:16+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6765",
-      "title": "Meta Muse can identify Instagram accounts that don’t follow you back",
-      "description": "Meta’s AI assistant can compare the accounts a user follows with their followers on Instagram, then suggest unfollowing those who don’t follow them back. One user obtained a table of 151 accounts within minutes, including some acquaintances.",
-      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6767",
-      "title": "Gemini can turn dashboards into Google Slides presentations",
-      "description": "Google’s new Mac agent can retrieve data from a dashboard and convert it into a Google Slides presentation. It runs in a separate window and is rolling out in U.S. English to Google AI Plus, Pro, and Ultra subscribers with a personal account.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6768",
-      "title": "Ideogram 4.6 improves image editing and generation up to 4K",
-      "description": "The Ideogram 4.6 image model changes colors, applies new styles to products, and refines images through successive edits. It produces outputs of up to 4K.",
-      "link": "https://ideogram.ai/models/4.6/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6769",
-      "title": "Asta launches Theorizer to explore scientific explanations",
-      "description": "Asta’s new Theorizer tool searches scientific papers and offers explanations for review. It provides links to the evidence associated with each claim.",
-      "link": "https://asta.allen.ai/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6771",
-      "title": "TestSprite converts an app’s requirements into automated tests",
-      "description": "TestSprite’s upgraded agent turns descriptions of how an application is expected to work into automated tests. It then identifies where the application fails.",
-      "link": "https://www.testsprite.com/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6522",
-      "title": "Apple is reportedly developing an AI agent capable of controlling a Mac",
-      "description": "Apple has reportedly begun developing its own AI agent to click within applications and perform tasks on a Mac. It could be released in late 2027.",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6775",
-      "title": "Merck and Isomorphic Labs design cancer drugs with AI",
-      "description": "Merck has partnered with Isomorphic Labs to design drug candidates for cancer. The project will use AI and Merck’s proprietary data.",
-      "link": "https://www.merck.com/news/merck-and-isomorphic-labs-enter-strategic-research-collaboration/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6776",
-      "title": "Democratic lawmakers ask whether Nvidia hindered an investigation into Megaspeed",
-      "description": "Democratic lawmakers in the House of Representatives asked whether Nvidia had interfered in a U.S. investigation into Megaspeed. The cloud company is suspected of illegally diverting chips to China.",
-      "link": "https://www.reuters.com/business/finance/democrats-open-probe-into-nvidia-influence-us-megaspeed-investigation-2026-11-20/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6777",
-      "title": "Phoenix mayor calls for greater local control over data centers",
-      "description": "The mayor of Phoenix called for greater local control and more benefits for communities as data centers place growing pressure on neighborhoods.",
-      "link": "https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6778",
-      "title": "New York launches shared supercomputing center for AI researchers",
-      "description": "New York broke ground on a supercomputing center for academic researchers. It is expected to open in early 2028.",
-      "link": "https://www.governor.ny.gov/news/governor-hochul-breaks-ground-permanent-empire-ai-supercomputing-center-marking-major",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6399",
-      "title": "U.S. report says four chatbots produced attack plans",
-      "description": "The GAO said four major chatbots produced actionable attack plans after testers bypassed their safeguards in spring 2026.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTc9IRfkkrL8suSHhpRjX2ntLE3fuLjgJePrXVCXI0gCmtuWztyCFgOq1Woo7XRxBTQN8sxih_7pogmodsIvs8IL_6PT6wWINKtZ7wNTTYZH-1yZwCPHts33WmMq7FzkFgZtm0A5eOVnRa7pFrkS1zXKjqSbayZH-eKRt5TuxCRuETYNCVOZbou6fmwhWq4XsTrhAmn3OpbYk0nM47bKhrhDQB6BhiVV2GELrnUfE2UXihTQmUIOEfQ3VMPNOSY7ZsnyJygi1EFijIOyvuNJVnFgc1l180MJhbbE_jdhyOiz70cfamXoNVli62zlzuVlcqUlJ7yos5g-fgMImf_JIiZVydjIC3eOI7vlyOsEhipGB3TUksnYAOGIxPihALnRVBLNBheeiSmCeFJSh3tx0x5PmXsNDRw-a5ZoF3DO9BBe9GHYLzv_tUWoHCqR-HfLhKIyyTJD6ovT5xeiMAksmXVLASfkCuaEni7r0DiY6GlMCjdmOlNt1EI-EubdXsg4i_z2r31dFF7AF2FCZCZdlyWbqUlEsizxbt2w_1sPAvwx-A4cHKJITYnCfWDQZ-pbNh5C4VI0egBSNwqEHDXnEnIMw8vJF3-mEdTI1Y9ybR-Hy2iSaYWP9q7NjcylK5nIt1ANPyfHGAnYeMn3ZMFU2qH2AfKpZuJwD0ZhKPfunrLYouEdIHChRafagz4M7qau1kLHF43oI-iScAG5ruV3wepoYQhw30yJEdpnYQWbkVIF5JXcwI0WeoPpFJUS_mtDn5FM/4vy/M06m50mRSh6yYWcIlvYV-w/h39/h001.CLVfbIFZMLwy9caMGnsRHoR1lxFnFzOnF9cT03jqEFc",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6543",
-      "title": "Meta Muse reportedly accessed Signal messages during testing",
-      "description": "Meta Muse reportedly accessed Signal messages during internal testing. The revelation raises questions about AI agents’ access to private conversations.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTf6HMWryR782mpdsmXfVdt6-2_-hieWWb6801Vuzn_HZUycdkGv36ECfmaWWTOIne8qkHaCk2Nc9KJrBmSXimdrXOA21bqLoEGAZyMfjBJN5xKJF0vKULtyPMqg8aN62_IJimYghQBJcfMvjwDQc9uzoLz8X-BNue0Kv4V2E-ED4znLEjwHt3YHH29YTvDdGwGJ65w7uSeuv1NkOmvDcLFMTmn6N4ZJOxbdV2aGz5h9XCpsKLr_LmJNWgI7LD4yKHqLVz5SXJknOyDXRyfBj2PRRPyVNrflh2fpkm6JUlTMlpQwYkbs2LdGhJcVDw9UqCNlm90_Cs54bjqBiE08Z0ooU11aosU6q-V3dKcYiP68WDOHHKKkW8FFecAEHBtNS95eS7FLRA3AN0VGFb36jp0P_SQacPtBmTmpAkrGHxImyjKvCOnNk6NTUty2uN0EUc2QCK6bmA1kdbj54tJ7bFRJMv-MV4mUJcsi0ophdkLpVzHSyAOhQmz3g03JANWc6XO8tUPqs6i0EwQ0t4CQT3GCE_JlYmVjVNeq2d-WPvUUC-EZhcD2G1WgJLgnb6zWoE86_WRhI-z-g5DW_WjubwgRBnJ5_RV8ZyYIP52LBgJ_8TTN9zrbV7e00g_-tPzhbxHhsbzcJ6mwYQhb9AewvZXLRxG1u3-4-zTfwWuV5-Z0JvHUgXadbysAW95ZfLFZ96kKK-UVDyWLzPL9QOgjcFT0I3uYCCqY4f-eP_ZpW6sQhb7Uy4MoZ8nn7VhlPxcNjXLzBcr4C0Q1XUd9efAOcFVr/4vy/M06m50mRSh6yYWcIlvYV-w/h40/h001.V8ckhrebTD5O6fMSp170qu7DSUQ404l1YcKhfSatw5Y",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6782",
-      "title": "Nvidia reportedly helped Chinese companies access advanced chips",
-      "description": "Nvidia reportedly helped Chinese AI companies access advanced chips through data center partners in Southeast Asia.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtbDyaAkpHq3Q1LBamkAPlTfUB8xIqgl7mTnt1BHxGjl0vSHsnXuBq4z0zn-rHPNL5HEgq6OwZ9zHpJF4xcnPYaZ0FAiey8C1A1oVd9bBCofBwOnE1Mk-lNJluwwXv5S3T_GcbUv51v9ovy2Ii8pknNw9Ap-Xiv1FbZp3GJ8n-VouPWqodtQJu1mj42fx_DJ2OjNlQQ8RZILda2pjdMuMjJzIhKanu7OrOWijavzZlgIr6AekixkXIWi1_SnmGyslYtDnzq826Z-jR-MAQGwtY9vqIU-3nE5p5Sr9kJUkcuyYIqcZRs7Q2oj0OLAnn4fuzzujs4vMG_TW-EvAB1Jpp2V60TvmNTzFqZtRZO7m-BogmrXACa8JKR_8DF5qdafxQqmGJzXNfRcLg6f3oAa5buWwuMn2BbzLLkNkBw2rfj5TF9exnRf2n-64jCt9OC9U5r-tRZyy7tn2SaZKgoJSV1Z06YHvISA9aVUQkIXy7_Wl3hnxLHyHfI2qKP-NThqz3cJtVrWPfS5Q9JxE47FeptUwkhkIV_4HY3na6V3vJ8gP_UE5nux6X8JkqJ86P2PMDu9SylGW3oiAWhhuRDAID38sEM_lAFQqnQwGvmmOLd5hgdw55T15oqb_lXRozbBUcz6mrRkVIrJXoVwgukTuKOYzV5_fkFdgeNg845IcPS3MpmImbClB9kMBpDXUfQ0WxMYlOO14azRBipz60Hhw3UJKci_iG0-XeGoU6JV0hebuqGW6Pm6zybKNyGeAU60lCpg0FAqYMAPBly5B8qH7Gl0/4vy/M06m50mRSh6yYWcIlvYV-w/h41/h001.Z_VMlm9FDKGRF9jPJ_m45kLoVDyndfK1SomvmtExzzo",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-22T20:34+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
