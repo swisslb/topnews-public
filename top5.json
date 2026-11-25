@@ -1,9 +1,30 @@
 {
-  "date": "2026-11-24",
-  "news_count": 99,
+  "date": "2026-11-25",
+  "news_count": 105,
   "top5": [
     {
       "rank": 1,
+      "id": "g6884",
+      "title": "Trump and Silicon Valley convinced Nvidia to bring Jensen Huang back",
+      "description": "The article explains how Donald Trump and Silicon Valley pushed Nvidia to bring Jensen Huang back.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "sources": [
+        "Techpresso",
+        "Business Insider",
+        "Superhuman",
+        "TLDR IT",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-24T18:48+01:00",
+      "covered_by": 7,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "The reported political and Silicon Valley pressure on Nvidia’s leadership signals potentially significant implications for the company’s strategy, valuation, and U.S. technology policy."
+    },
+    {
+      "rank": 2,
       "id": "g6913",
       "title": "CrowdStrike to acquire Zscaler for $43.9 billion",
       "description": "CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.",
@@ -17,10 +38,29 @@
       "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "CrowdStrike’s $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, zero-trust and threat-intelligence capabilities."
+      "why": "CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, identity, and zero-trust capabilities."
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "id": "g6957",
+      "title": "Anthropic launches Claude Ship to automate code approvals",
+      "description": "Claude Ship brings together agents that can review code, fix issues, and automatically approve certain changes. The service is being rolled out in beta for Claude Team and Enterprise plans on GitHub repositories.",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "sources": [
+        "Techpresso",
+        "Superhuman",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-24T18:48+01:00",
+      "covered_by": 5,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Anthropic’s Claude Ship moves AI coding agents closer to autonomous software delivery by letting them review, fix, and approve code within enterprise GitHub workflows."
+    },
+    {
+      "rank": 4,
       "id": "g6953",
       "title": "The EU Chips Act Unlocks €33 Billion in Investment",
       "description": "Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.",
@@ -32,10 +72,10 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The EU Chips Act is unlocking €33 billion across more than 20 semiconductor projects, signaling a major push to reduce Europe’s dependence on foreign chip supply."
+      "why": "The EU Chips Act’s €33 billion investment package materially strengthens Europe’s semiconductor manufacturing, packaging, and power-electronics capacity."
     },
     {
-      "rank": 3,
+      "rank": 5,
       "id": "g6791",
       "title": "OpenAI’s chief scientist calls for limiting the pace of AI progress",
       "description": "Jakub Pachocki published the pretraining scores for every major model since GPT-3.5 and is asking competing labs to agree on common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.",
@@ -48,42 +88,12 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI’s chief scientist is calling for common limits on the pace of AI progress, potentially influencing industry coordination, safety policy and future regulation."
-    },
-    {
-      "rank": 4,
-      "id": "g7008",
-      "title": "Nvidia’s competitors are designing chips with artificial intelligence",
-      "description": "OpenAI, Google and Anthropic are using AI models to design chips that could replace Nvidia GPUs. This development poses a significant risk to the company’s dominance.",
-      "link": "https://www.businessinsider.com/openai-google-anthropic-use-ai-challenge-nvidia-chip-dominance-2026-11",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-24T12:50+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "OpenAI, Google and Anthropic are using AI to design chips that could improve their bargaining power and challenge Nvidia’s dominance in AI hardware."
-    },
-    {
-      "rank": 5,
-      "id": "g7033",
-      "title": "Microsoft’s massive outage exposes testing and capacity weaknesses",
-      "description": "Microsoft’s final report says a Windows defect went unnoticed for months before overwhelming Microsoft 365 gateway servers. More than 80% of North American gateway servers stopped responding at the height of the outage.",
-      "link": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-24T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Microsoft’s outage, which took more than 80% of North American gateway servers offline, exposes the operational and capacity risks of widely deployed cloud infrastructure."
+      "why": "OpenAI’s chief scientist calling for common limits on the pace of AI progress elevates frontier-model safety from an internal concern to a potential industry-wide governance issue."
     }
   ],
   "period": {
-    "from": "2026-11-23T19:25+01:00",
-    "to": "2026-11-24T19:25+01:00"
+    "from": "2026-11-24T06:25+01:00",
+    "to": "2026-11-25T06:25+01:00"
   },
-  "generated_at": "2026-11-24T19:25+01:00"
+  "generated_at": "2026-11-25T06:25+01:00"
 }
