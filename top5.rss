@@ -1,53 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — Top 5 news of the day — 2026-11-24</title>
+  <title>NewsCenter — Top 5 news of the day — 2026-11-25</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 99 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 105 news received.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 24 Nov 2026 18:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. CrowdStrike to acquire Zscaler for $43.9 billion</title>
+    <title>1. Trump and Silicon Valley convinced Nvidia to bring Jensen Huang back</title>
+    <link>https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/</link>
+    <guid isPermaLink="false">2026-11-25:g6884</guid>
+    <description>Why it matters: The reported political and Silicon Valley pressure on Nvidia’s leadership signals potentially significant implications for the company’s strategy, valuation, and U.S. technology policy. The article explains how Donald Trump and Silicon Valley pushed Nvidia to bring Jensen Huang back.</description>
+    <pubDate>Tue, 24 Nov 2026 17:48:00 GMT</pubDate>
+    <category>Techpresso</category>
+    <category>Business Insider</category>
+    <category>Superhuman</category>
+    <category>TLDR IT</category>
+    <category>TLDR</category>
+    <category>The Neuron</category>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>2. CrowdStrike to acquire Zscaler for $43.9 billion</title>
     <link>https://therecord.media/crowdstrike-zscaler</link>
-    <guid isPermaLink="false">2026-11-24:g6913</guid>
-    <description>Why it matters: CrowdStrike’s $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, zero-trust and threat-intelligence capabilities. CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.</description>
+    <guid isPermaLink="false">2026-11-25:g6913</guid>
+    <description>Why it matters: CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, identity, and zero-trust capabilities. CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.</description>
     <pubDate>Tue, 24 Nov 2026 13:52:00 GMT</pubDate>
     <category>TLDR IT</category>
     <category>Business Insider</category>
     <category>Vision IA</category>
   </item>
   <item>
-    <title>2. The EU Chips Act Unlocks €33 Billion in Investment</title>
+    <title>3. Anthropic launches Claude Ship to automate code approvals</title>
+    <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
+    <guid isPermaLink="false">2026-11-25:g6957</guid>
+    <description>Why it matters: Anthropic’s Claude Ship moves AI coding agents closer to autonomous software delivery by letting them review, fix, and approve code within enterprise GitHub workflows. Claude Ship brings together agents that can review code, fix issues, and automatically approve certain changes. The service is being rolled out in beta for Claude Team and Enterprise plans on GitHub repositories.</description>
+    <pubDate>Tue, 24 Nov 2026 17:48:00 GMT</pubDate>
+    <category>Techpresso</category>
+    <category>Superhuman</category>
+    <category>TLDR</category>
+    <category>The Neuron</category>
+    <category>Vision IA</category>
+  </item>
+  <item>
+    <title>4. The EU Chips Act Unlocks €33 Billion in Investment</title>
     <link>https://www.techrepublic.com/article/news-eu-chips-act-33-billion-semiconductor-investments-emea/</link>
-    <guid isPermaLink="false">2026-11-24:g6953</guid>
-    <description>Why it matters: The EU Chips Act is unlocking €33 billion across more than 20 semiconductor projects, signaling a major push to reduce Europe’s dependence on foreign chip supply. Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.</description>
+    <guid isPermaLink="false">2026-11-25:g6953</guid>
+    <description>Why it matters: The EU Chips Act’s €33 billion investment package materially strengthens Europe’s semiconductor manufacturing, packaging, and power-electronics capacity. Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.</description>
     <pubDate>Tue, 24 Nov 2026 09:33:00 GMT</pubDate>
     <category>TechnologyAdvice</category>
   </item>
   <item>
-    <title>3. OpenAI’s chief scientist calls for limiting the pace of AI progress</title>
+    <title>5. OpenAI’s chief scientist calls for limiting the pace of AI progress</title>
     <link>https://openai.com/index/perplexity-and-intelligence/</link>
-    <guid isPermaLink="false">2026-11-24:g6791</guid>
-    <description>Why it matters: OpenAI’s chief scientist is calling for common limits on the pace of AI progress, potentially influencing industry coordination, safety policy and future regulation. Jakub Pachocki published the pretraining scores for every major model since GPT-3.5 and is asking competing labs to agree on common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.</description>
+    <guid isPermaLink="false">2026-11-25:g6791</guid>
+    <description>Why it matters: OpenAI’s chief scientist calling for common limits on the pace of AI progress elevates frontier-model safety from an internal concern to a potential industry-wide governance issue. Jakub Pachocki published the pretraining scores for every major model since GPT-3.5 and is asking competing labs to agree on common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.</description>
     <pubDate>Tue, 24 Nov 2026 14:11:00 GMT</pubDate>
     <category>Superhuman</category>
     <category>The Neuron</category>
-  </item>
-  <item>
-    <title>4. Nvidia’s competitors are designing chips with artificial intelligence</title>
-    <link>https://www.businessinsider.com/openai-google-anthropic-use-ai-challenge-nvidia-chip-dominance-2026-11</link>
-    <guid isPermaLink="false">2026-11-24:g7008</guid>
-    <description>Why it matters: OpenAI, Google and Anthropic are using AI to design chips that could improve their bargaining power and challenge Nvidia’s dominance in AI hardware. OpenAI, Google and Anthropic are using AI models to design chips that could replace Nvidia GPUs. This development poses a significant risk to the company’s dominance.</description>
-    <pubDate>Tue, 24 Nov 2026 11:50:00 GMT</pubDate>
-    <category>Business Insider</category>
-  </item>
-  <item>
-    <title>5. Microsoft’s massive outage exposes testing and capacity weaknesses</title>
-    <link>https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656</link>
-    <guid isPermaLink="false">2026-11-24:g7033</guid>
-    <description>Why it matters: Microsoft’s outage, which took more than 80% of North American gateway servers offline, exposes the operational and capacity risks of widely deployed cloud infrastructure. Microsoft’s final report says a Windows defect went unnoticed for months before overwhelming Microsoft 365 gateway servers. More than 80% of North American gateway servers stopped responding at the height of the outage.</description>
-    <pubDate>Tue, 24 Nov 2026 13:52:00 GMT</pubDate>
-    <category>TLDR IT</category>
   </item>
 </channel>
 </rss>
