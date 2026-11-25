@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-25
 
-Period: 2026-11-24T06:25+01:00 → 2026-11-25T06:25+01:00 · 105 news received
+Period: 2026-11-24T13:25+01:00 → 2026-11-25T13:25+01:00 · 87 news received
 
-## 1. Trump and Silicon Valley convinced Nvidia to bring Jensen Huang back
+## 1. CrowdStrike to acquire Zscaler for $43.9 billion
 
-**Why it matters:** The reported political and Silicon Valley pressure on Nvidia’s leadership signals potentially significant implications for the company’s strategy, valuation, and U.S. technology policy.
-
-The article explains how Donald Trump and Silicon Valley pushed Nvidia to bring Jensen Huang back.
-
-- Link: https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/
-- Sources: Techpresso, Business Insider, Superhuman, TLDR IT, TLDR, The Neuron, Vision IA
-- Received: 2026-11-24T18:48+01:00
-
-## 2. CrowdStrike to acquire Zscaler for $43.9 billion
-
-**Why it matters:** CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, identity, and zero-trust capabilities.
+**Why it matters:** CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, network and threat-intelligence businesses.
 
 CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.
 
 - Link: https://therecord.media/crowdstrike-zscaler
-- Sources: TLDR IT, Business Insider, Vision IA
+- Sources: TLDR IT
 - Received: 2026-11-24T14:52+01:00
 
-## 3. Anthropic launches Claude Ship to automate code approvals
+## 2. U.S. plans to sanction a smuggler of Nvidia chips to China
 
-**Why it matters:** Anthropic’s Claude Ship moves AI coding agents closer to autonomous software delivery by letting them review, fix, and approve code within enterprise GitHub workflows.
+**Why it matters:** U.S. sanctions against a company accused of smuggling Nvidia chips to China show that export controls are expanding enforcement and could further constrain China’s access to advanced AI hardware.
 
-Claude Ship brings together agents that can review code, fix issues, and automatically approve certain changes. The service is being rolled out in beta for Claude Team and Enterprise plans on GitHub repositories.
+The United States plans to place Megaspeed, a Singaporean data center company, on a blacklist for helping smuggle AI-related Nvidia chips into China. The company would then be barred from buying or selling goods in the United States.
 
-- Link: https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
-- Sources: Techpresso, Superhuman, TLDR, The Neuron, Vision IA
+- Link: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss
+- Sources: Techpresso
 - Received: 2026-11-24T18:48+01:00
 
-## 4. The EU Chips Act Unlocks €33 Billion in Investment
+## 3. AI server makers raise prices by up to 45%
 
-**Why it matters:** The EU Chips Act’s €33 billion investment package materially strengthens Europe’s semiconductor manufacturing, packaging, and power-electronics capacity.
+**Why it matters:** AI server price increases of up to 45% signal worsening infrastructure costs and could pressure AI companies’ margins, capacity plans and valuations.
 
-Europe has unlocked €33 billion to revive its semiconductor industry, with new factories, GaN power-production sites, and packaging and testing lines spread across more than 20 projects. However, commercial production will not begin immediately.
+AI server manufacturers are raising their prices by up to 45% after contracts are signed, according to the Financial Times.
 
-- Link: https://www.techrepublic.com/article/news-eu-chips-act-33-billion-semiconductor-investments-emea/
-- Sources: TechnologyAdvice
-- Received: 2026-11-24T10:33+01:00
+- Link: https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft
+- Sources: Techpresso
+- Received: 2026-11-24T18:48+01:00
 
-## 5. OpenAI’s chief scientist calls for limiting the pace of AI progress
+## 4. Google observes attacks that discover and exploit vulnerabilities without humans
 
-**Why it matters:** OpenAI’s chief scientist calling for common limits on the pace of AI progress elevates frontier-model safety from an internal concern to a potential industry-wide governance issue.
+**Why it matters:** Google’s observation of AI systems autonomously finding and exploiting vulnerabilities indicates that cyberattacks are becoming faster and less dependent on human operators.
 
-Jakub Pachocki published the pretraining scores for every major model since GPT-3.5 and is asking competing labs to agree on common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.
+Google’s Threat Intelligence group reported for the first time that attackers were using AI to find and exploit software vulnerabilities without human intervention.
 
-- Link: https://openai.com/index/perplexity-and-intelligence/
-- Sources: Superhuman, The Neuron
-- Received: 2026-11-24T15:11+01:00
+- Link: https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/
+- Sources: The Neuron
+- Received: 2026-11-25T11:35+01:00
+
+## 5. Anthropic and OpenAI employees question the safety of upcoming models
+
+**Why it matters:** Employees at OpenAI and Anthropic reportedly questioning whether upcoming frontier models can be deployed safely could trigger slower releases, stronger oversight and renewed regulatory pressure.
+
+More than two dozen sources report that employees at both companies doubt their most powerful unpublished models can be deployed safely. Nothing has been decided yet.
+
+- Link: https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks
+- Sources: The Neuron
+- Received: 2026-11-25T11:35+01:00
