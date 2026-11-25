@@ -3,48 +3,51 @@
 <channel>
   <title>NewsCenter — Top 5 news of the day — 2026-11-25</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 87 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 123 news received.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 25 Nov 2026 12:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 18:25:00 GMT</lastBuildDate>
   <item>
-    <title>1. CrowdStrike to acquire Zscaler for $43.9 billion</title>
-    <link>https://therecord.media/crowdstrike-zscaler</link>
-    <guid isPermaLink="false">2026-11-25:g6913</guid>
-    <description>Why it matters: CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, network and threat-intelligence businesses. CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.</description>
-    <pubDate>Tue, 24 Nov 2026 13:52:00 GMT</pubDate>
+    <title>1. Microsoft launches a “Code Red” after a historic 24-hour outage</title>
+    <link>https://siliconangle.com/2026/11/24/microsoft-declares-internal-code-red-after-nearly-24-hour-microsoft-365-outage/</link>
+    <guid isPermaLink="false">2026-11-25:g7164</guid>
+    <description>Why it matters: Microsoft’s highest-level response to a major Microsoft 365 outage highlights the growing operational risks of cloud concentration and the push to use AI agents for faster incident recovery. Microsoft activated its highest alert level to review the handling of major incidents after an outage affected Exchange Online and several Microsoft 365 services. The company wants to resolve global incidents in under an hour, including with AI agents.</description>
+    <pubDate>Wed, 25 Nov 2026 17:00:00 GMT</pubDate>
+    <category>Techpresso</category>
+    <category>Superhuman</category>
     <category>TLDR IT</category>
   </item>
   <item>
-    <title>2. U.S. plans to sanction a smuggler of Nvidia chips to China</title>
-    <link>https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&amp;at_campaign=rss</link>
-    <guid isPermaLink="false">2026-11-25:g7069</guid>
-    <description>Why it matters: U.S. sanctions against a company accused of smuggling Nvidia chips to China show that export controls are expanding enforcement and could further constrain China’s access to advanced AI hardware. The United States plans to place Megaspeed, a Singaporean data center company, on a blacklist for helping smuggle AI-related Nvidia chips into China. The company would then be barred from buying or selling goods in the United States.</description>
-    <pubDate>Tue, 24 Nov 2026 17:48:00 GMT</pubDate>
+    <title>2. European Union proposes a €50 billion AI fund</title>
+    <link>https://thenextweb.com/news/eu-50bn-sovereign-tech-equity-fund-ai-quantum</link>
+    <guid isPermaLink="false">2026-11-25:g7210</guid>
+    <description>Why it matters: The EU’s proposed €50 billion fund signals a major industrial-policy effort to build European AI and quantum champions and reduce dependence on U.S. and Chinese technology. The European Commission is proposing a €50 billion private-equity fund to take direct stakes in European AI and quantum-computing companies. The goal is to reduce the bloc’s dependence on American and Chinese technologies.</description>
+    <pubDate>Wed, 25 Nov 2026 17:00:00 GMT</pubDate>
     <category>Techpresso</category>
   </item>
   <item>
-    <title>3. AI server makers raise prices by up to 45%</title>
-    <link>https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft</link>
-    <guid isPermaLink="false">2026-11-25:g7079</guid>
-    <description>Why it matters: AI server price increases of up to 45% signal worsening infrastructure costs and could pressure AI companies’ margins, capacity plans and valuations. AI server manufacturers are raising their prices by up to 45% after contracts are signed, according to the Financial Times.</description>
-    <pubDate>Tue, 24 Nov 2026 17:48:00 GMT</pubDate>
-    <category>Techpresso</category>
-  </item>
-  <item>
-    <title>4. Google observes attacks that discover and exploit vulnerabilities without humans</title>
+    <title>3. Google warns of the arrival of autonomous AI cyberattacks</title>
     <link>https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/</link>
     <guid isPermaLink="false">2026-11-25:g7120</guid>
-    <description>Why it matters: Google’s observation of AI systems autonomously finding and exploiting vulnerabilities indicates that cyberattacks are becoming faster and less dependent on human operators. Google’s Threat Intelligence group reported for the first time that attackers were using AI to find and exploit software vulnerabilities without human intervention.</description>
-    <pubDate>Wed, 25 Nov 2026 10:35:00 GMT</pubDate>
+    <description>Why it matters: Google’s warning that attackers are automating parts of cyberattacks with AI raises the urgency of patching, detection and incident-response capabilities across every enterprise. Attackers are automating some stages of cyberattacks with AI agents. This development is increasing pressure on companies’ patching and incident-response processes.</description>
+    <pubDate>Wed, 25 Nov 2026 13:54:00 GMT</pubDate>
+    <category>TLDR IT</category>
     <category>The Neuron</category>
   </item>
   <item>
-    <title>5. Anthropic and OpenAI employees question the safety of upcoming models</title>
-    <link>https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks</link>
-    <guid isPermaLink="false">2026-11-25:g7116</guid>
-    <description>Why it matters: Employees at OpenAI and Anthropic reportedly questioning whether upcoming frontier models can be deployed safely could trigger slower releases, stronger oversight and renewed regulatory pressure. More than two dozen sources report that employees at both companies doubt their most powerful unpublished models can be deployed safely. Nothing has been decided yet.</description>
-    <pubDate>Wed, 25 Nov 2026 10:35:00 GMT</pubDate>
-    <category>The Neuron</category>
+    <title>4. Amazon acquires Decart to narrow the software gap with Nvidia</title>
+    <link>https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/</link>
+    <guid isPermaLink="false">2026-11-25:g6825</guid>
+    <description>Why it matters: Amazon’s acquisition of Decart could improve the performance of its Trainium chips, strengthening AWS’s effort to reduce customer dependence on Nvidia GPUs. Amazon is acquiring Decart’s team and optimization technologies. The deal could improve Trainium performance and give AWS customers more alternatives to Nvidia GPUs.</description>
+    <pubDate>Wed, 25 Nov 2026 13:54:00 GMT</pubDate>
+    <category>TLDR IT</category>
+  </item>
+  <item>
+    <title>5. The Business-to-Agent economy is becoming a market that is hard to ignore</title>
+    <link>https://a16z.com/welcome-to-the-b2a-economy/</link>
+    <guid isPermaLink="false">2026-11-25:g7186</guid>
+    <description>Why it matters: The rise of AI agents as web visitors and purchasing intermediaries could reshape online discovery, retail traffic and the rules companies use to decide whether to welcome or block automated access. According to Andreessen Horowitz, agents are becoming primary visitors to the Internet and increasingly influencing online spending. Shopify is seeing a sharp rise in AI-driven traffic and orders, while retailers are divided between blocking and welcoming agents.</description>
+    <pubDate>Wed, 25 Nov 2026 14:11:00 GMT</pubDate>
+    <category>Superhuman</category>
   </item>
 </channel>
 </rss>
