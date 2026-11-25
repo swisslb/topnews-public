@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-25
 
-Period: 2026-11-24T13:25+01:00 → 2026-11-25T13:25+01:00 · 87 news received
+Period: 2026-11-24T19:25+01:00 → 2026-11-25T19:25+01:00 · 123 news received
 
-## 1. CrowdStrike to acquire Zscaler for $43.9 billion
+## 1. Microsoft launches a “Code Red” after a historic 24-hour outage
 
-**Why it matters:** CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, network and threat-intelligence businesses.
+**Why it matters:** Microsoft’s highest-level response to a major Microsoft 365 outage highlights the growing operational risks of cloud concentration and the push to use AI agents for faster incident recovery.
 
-CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.
+Microsoft activated its highest alert level to review the handling of major incidents after an outage affected Exchange Online and several Microsoft 365 services. The company wants to resolve global incidents in under an hour, including with AI agents.
 
-- Link: https://therecord.media/crowdstrike-zscaler
-- Sources: TLDR IT
-- Received: 2026-11-24T14:52+01:00
+- Link: https://siliconangle.com/2026/11/24/microsoft-declares-internal-code-red-after-nearly-24-hour-microsoft-365-outage/
+- Sources: Techpresso, Superhuman, TLDR IT
+- Received: 2026-11-25T18:00+01:00
 
-## 2. U.S. plans to sanction a smuggler of Nvidia chips to China
+## 2. European Union proposes a €50 billion AI fund
 
-**Why it matters:** U.S. sanctions against a company accused of smuggling Nvidia chips to China show that export controls are expanding enforcement and could further constrain China’s access to advanced AI hardware.
+**Why it matters:** The EU’s proposed €50 billion fund signals a major industrial-policy effort to build European AI and quantum champions and reduce dependence on U.S. and Chinese technology.
 
-The United States plans to place Megaspeed, a Singaporean data center company, on a blacklist for helping smuggle AI-related Nvidia chips into China. The company would then be barred from buying or selling goods in the United States.
+The European Commission is proposing a €50 billion private-equity fund to take direct stakes in European AI and quantum-computing companies. The goal is to reduce the bloc’s dependence on American and Chinese technologies.
 
-- Link: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss
+- Link: https://thenextweb.com/news/eu-50bn-sovereign-tech-equity-fund-ai-quantum
 - Sources: Techpresso
-- Received: 2026-11-24T18:48+01:00
+- Received: 2026-11-25T18:00+01:00
 
-## 3. AI server makers raise prices by up to 45%
+## 3. Google warns of the arrival of autonomous AI cyberattacks
 
-**Why it matters:** AI server price increases of up to 45% signal worsening infrastructure costs and could pressure AI companies’ margins, capacity plans and valuations.
+**Why it matters:** Google’s warning that attackers are automating parts of cyberattacks with AI raises the urgency of patching, detection and incident-response capabilities across every enterprise.
 
-AI server manufacturers are raising their prices by up to 45% after contracts are signed, according to the Financial Times.
-
-- Link: https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft
-- Sources: Techpresso
-- Received: 2026-11-24T18:48+01:00
-
-## 4. Google observes attacks that discover and exploit vulnerabilities without humans
-
-**Why it matters:** Google’s observation of AI systems autonomously finding and exploiting vulnerabilities indicates that cyberattacks are becoming faster and less dependent on human operators.
-
-Google’s Threat Intelligence group reported for the first time that attackers were using AI to find and exploit software vulnerabilities without human intervention.
+Attackers are automating some stages of cyberattacks with AI agents. This development is increasing pressure on companies’ patching and incident-response processes.
 
 - Link: https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/
-- Sources: The Neuron
-- Received: 2026-11-25T11:35+01:00
+- Sources: TLDR IT, The Neuron
+- Received: 2026-11-25T14:54+01:00
 
-## 5. Anthropic and OpenAI employees question the safety of upcoming models
+## 4. Amazon acquires Decart to narrow the software gap with Nvidia
 
-**Why it matters:** Employees at OpenAI and Anthropic reportedly questioning whether upcoming frontier models can be deployed safely could trigger slower releases, stronger oversight and renewed regulatory pressure.
+**Why it matters:** Amazon’s acquisition of Decart could improve the performance of its Trainium chips, strengthening AWS’s effort to reduce customer dependence on Nvidia GPUs.
 
-More than two dozen sources report that employees at both companies doubt their most powerful unpublished models can be deployed safely. Nothing has been decided yet.
+Amazon is acquiring Decart’s team and optimization technologies. The deal could improve Trainium performance and give AWS customers more alternatives to Nvidia GPUs.
 
-- Link: https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks
-- Sources: The Neuron
-- Received: 2026-11-25T11:35+01:00
+- Link: https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
+- Sources: TLDR IT
+- Received: 2026-11-25T14:54+01:00
+
+## 5. The Business-to-Agent economy is becoming a market that is hard to ignore
+
+**Why it matters:** The rise of AI agents as web visitors and purchasing intermediaries could reshape online discovery, retail traffic and the rules companies use to decide whether to welcome or block automated access.
+
+According to Andreessen Horowitz, agents are becoming primary visitors to the Internet and increasingly influencing online spending. Shopify is seeing a sharp rise in AI-driven traffic and orders, while retailers are divided between blocking and welcoming agents.
+
+- Link: https://a16z.com/welcome-to-the-b2a-economy/
+- Sources: Superhuman
+- Received: 2026-11-25T15:11+01:00
