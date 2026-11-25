@@ -1,86 +1,89 @@
 {
   "date": "2026-11-25",
-  "news_count": 87,
+  "news_count": 123,
   "top5": [
     {
       "rank": 1,
-      "id": "g6913",
-      "title": "CrowdStrike to acquire Zscaler for $43.9 billion",
-      "description": "CrowdStrike announced the all-stock acquisition of Zscaler, bringing together endpoint protection, zero-trust networking, cloud security and threat intelligence. Jay Chaudhry will remain CEO of Zscaler and join CrowdStrike’s board of directors.",
-      "link": "https://therecord.media/crowdstrike-zscaler",
+      "id": "g7164",
+      "title": "Microsoft launches a “Code Red” after a historic 24-hour outage",
+      "description": "Microsoft activated its highest alert level to review the handling of major incidents after an outage affected Exchange Online and several Microsoft 365 services. The company wants to resolve global incidents in under an hour, including with AI agents.",
+      "link": "https://siliconangle.com/2026/11/24/microsoft-declares-internal-code-red-after-nearly-24-hour-microsoft-365-outage/",
       "sources": [
+        "Techpresso",
+        "Superhuman",
         "TLDR IT"
       ],
-      "received_at": "2026-11-24T14:52+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-25T18:00+01:00",
+      "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "CrowdStrike’s proposed $43.9 billion acquisition of Zscaler would reshape the cybersecurity market by combining endpoint, cloud, network and threat-intelligence businesses."
+      "why": "Microsoft’s highest-level response to a major Microsoft 365 outage highlights the growing operational risks of cloud concentration and the push to use AI agents for faster incident recovery."
     },
     {
       "rank": 2,
-      "id": "g7069",
-      "title": "U.S. plans to sanction a smuggler of Nvidia chips to China",
-      "description": "The United States plans to place Megaspeed, a Singaporean data center company, on a blacklist for helping smuggle AI-related Nvidia chips into China. The company would then be barred from buying or selling goods in the United States.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "id": "g7210",
+      "title": "European Union proposes a €50 billion AI fund",
+      "description": "The European Commission is proposing a €50 billion private-equity fund to take direct stakes in European AI and quantum-computing companies. The goal is to reduce the bloc’s dependence on American and Chinese technologies.",
+      "link": "https://thenextweb.com/news/eu-50bn-sovereign-tech-equity-fund-ai-quantum",
       "sources": [
         "Techpresso"
       ],
-      "received_at": "2026-11-24T18:48+01:00",
+      "received_at": "2026-11-25T18:00+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "U.S. sanctions against a company accused of smuggling Nvidia chips to China show that export controls are expanding enforcement and could further constrain China’s access to advanced AI hardware."
+      "why": "The EU’s proposed €50 billion fund signals a major industrial-policy effort to build European AI and quantum champions and reduce dependence on U.S. and Chinese technology."
     },
     {
       "rank": 3,
-      "id": "g7079",
-      "title": "AI server makers raise prices by up to 45%",
-      "description": "AI server manufacturers are raising their prices by up to 45% after contracts are signed, according to the Financial Times.",
-      "link": "https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft",
+      "id": "g7120",
+      "title": "Google warns of the arrival of autonomous AI cyberattacks",
+      "description": "Attackers are automating some stages of cyberattacks with AI agents. This development is increasing pressure on companies’ patching and incident-response processes.",
+      "link": "https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/",
       "sources": [
-        "Techpresso"
+        "TLDR IT",
+        "The Neuron"
       ],
-      "received_at": "2026-11-24T18:48+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-25T14:54+01:00",
+      "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "AI server price increases of up to 45% signal worsening infrastructure costs and could pressure AI companies’ margins, capacity plans and valuations."
+      "why": "Google’s warning that attackers are automating parts of cyberattacks with AI raises the urgency of patching, detection and incident-response capabilities across every enterprise."
     },
     {
       "rank": 4,
-      "id": "g7120",
-      "title": "Google observes attacks that discover and exploit vulnerabilities without humans",
-      "description": "Google’s Threat Intelligence group reported for the first time that attackers were using AI to find and exploit software vulnerabilities without human intervention.",
-      "link": "https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/",
+      "id": "g6825",
+      "title": "Amazon acquires Decart to narrow the software gap with Nvidia",
+      "description": "Amazon is acquiring Decart’s team and optimization technologies. The deal could improve Trainium performance and give AWS customers more alternatives to Nvidia GPUs.",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
       "sources": [
-        "The Neuron"
+        "TLDR IT"
       ],
-      "received_at": "2026-11-25T11:35+01:00",
+      "received_at": "2026-11-25T14:54+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s observation of AI systems autonomously finding and exploiting vulnerabilities indicates that cyberattacks are becoming faster and less dependent on human operators."
+      "why": "Amazon’s acquisition of Decart could improve the performance of its Trainium chips, strengthening AWS’s effort to reduce customer dependence on Nvidia GPUs."
     },
     {
       "rank": 5,
-      "id": "g7116",
-      "title": "Anthropic and OpenAI employees question the safety of upcoming models",
-      "description": "More than two dozen sources report that employees at both companies doubt their most powerful unpublished models can be deployed safely. Nothing has been decided yet.",
-      "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "id": "g7186",
+      "title": "The Business-to-Agent economy is becoming a market that is hard to ignore",
+      "description": "According to Andreessen Horowitz, agents are becoming primary visitors to the Internet and increasingly influencing online spending. Shopify is seeing a sharp rise in AI-driven traffic and orders, while retailers are divided between blocking and welcoming agents.",
+      "link": "https://a16z.com/welcome-to-the-b2a-economy/",
       "sources": [
-        "The Neuron"
+        "Superhuman"
       ],
-      "received_at": "2026-11-25T11:35+01:00",
+      "received_at": "2026-11-25T15:11+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives",
-      "why": "Employees at OpenAI and Anthropic reportedly questioning whether upcoming frontier models can be deployed safely could trigger slower releases, stronger oversight and renewed regulatory pressure."
+      "followed_topic": null,
+      "why": "The rise of AI agents as web visitors and purchasing intermediaries could reshape online discovery, retail traffic and the rules companies use to decide whether to welcome or block automated access."
     }
   ],
   "period": {
-    "from": "2026-11-24T13:25+01:00",
-    "to": "2026-11-25T13:25+01:00"
+    "from": "2026-11-24T19:25+01:00",
+    "to": "2026-11-25T19:25+01:00"
   },
-  "generated_at": "2026-11-25T13:25+01:00"
+  "generated_at": "2026-11-25T19:25+01:00"
 }
