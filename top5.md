@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-26
 
-Period: 2026-11-25T13:25+01:00 → 2026-11-26T13:25+01:00 · 106 news received
+Period: 2026-11-25T19:25+01:00 → 2026-11-26T19:25+01:00 · 110 news received
 
-## 1. European Union proposes a €50 billion fund for AI
+## 1. FCC authorizes SpaceX’s one-million-unit AI satellite network
 
-**Why it matters:** The EU’s proposed €50 billion AI and quantum fund signals a major shift toward strategic technology sovereignty and could reshape European investment and competition.
+**Why it matters:** The FCC’s approval of SpaceX’s planned one-million-satellite AI network could reshape space infrastructure, cloud computing, spectrum competition and astronomical regulation.
 
-The European Commission is proposing a €50 billion private-equity fund to take direct stakes in European AI and quantum-computing companies. The goal is to reduce the bloc’s dependence on American and Chinese technologies.
+The FCC approved Starmind, SpaceX’s project to launch up to one million solar-powered satellites equipped with AI data centers. Despite opposition from Amazon, Viasat, and astronomers, the first launches are planned for 2027 and the network must be completed by 2040.
 
-- Link: https://thenextweb.com/news/eu-50bn-sovereign-tech-equity-fund-ai-quantum
-- Sources: Techpresso
-- Received: 2026-11-25T18:00+01:00
+- Link: https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7
+- Sources: Superhuman, TLDR, The Neuron, Vision IA
+- Received: 2026-11-26T15:10+01:00
 
-## 2. FCC authorizes SpaceX’s orbital data center project
+## 2. Anthropic Shares Fall Below Their IPO Price
 
-**Why it matters:** FCC approval for SpaceX’s potential orbital data-center constellation opens an extraordinary new infrastructure direction with major implications for satellites, AI computing and regulation.
+**Why it matters:** Anthropic shares falling below their IPO price is an important market test of whether frontier-AI revenues can justify enormous computing and operating costs.
 
-SpaceX has received FCC authorization for a constellation of orbital AI data centers that could include up to one million satellites, with defined deployment milestones.
+Anthropic shares fell below their IPO price less than a week after going public, suggesting investors still doubt that revenue will exceed costs.
 
-- Link: https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers
+- Link: https://www.businessinsider.com/anthropic-stock-falls-below-ipo-investor-reactions-2026-11
+- Sources: Business Insider
+- Received: 2026-11-26T12:31+01:00
+
+## 3. HPE shares fall as AI-related margin decline weighs
+
+**Why it matters:** HPE’s sharp share-price decline shows that surging AI-server demand may not translate into profits when component costs rise faster than vendors’ pricing power.
+
+HPE shares fell about 16%, as margin guidance overshadowed an improved forecast for 2027 revenue growth. Demand for AI servers is supporting revenue, but component costs are rising faster than selling prices.
+
+- Link: https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/
+- Sources: TLDR IT
+- Received: 2026-11-26T14:52+01:00
+
+## 4. Chinese labs estimate they are up to nine months behind the United States
+
+**Why it matters:** Chinese AI labs reportedly being within nine months of U.S. leaders despite chip restrictions highlights the limits of export controls and the intensity of strategic competition.
+
+Chip restrictions, limited access to Nvidia hardware and anti-distillation measures are weighing on DeepSeek, Moonshot AI and Alibaba. DeepSeek researchers reportedly estimate internally that they are no more than nine months behind.
+
+- Link: https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/
+- Sources: Vision IA
+- Received: 2026-11-26T11:13+01:00
+
+## 5. OpenAI tests private inference for businesses
+
+**Why it matters:** OpenAI’s private-inference trials could remove a major data-confidentiality barrier to enterprise adoption of frontier AI models.
+
+OpenAI’s Private Inference runs a company’s queries on its best models without OpenAI being able to see the data. The service is being tested with early business customers.
+
+- Link: https://x.com/sama/status/2125638790593274259
 - Sources: The Neuron, Vision IA
 - Received: 2026-11-26T11:33+01:00
-
-## 3. Meta reportedly negotiating with Amazon to let its Muse agent make purchases
-
-**Why it matters:** A Meta–Amazon deal enabling AI agents to make purchases would accelerate the shift from human-driven e-commerce to an agent-mediated economy.
-
-Amazon and Meta are reportedly negotiating an agreement that would allow Meta’s Muse agent to make purchases on Amazon. The placement of ads and display of search results remain to be decided.
-
-- Link: https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/
-- Sources: The Neuron, Vision IA, Techpresso
-- Received: 2026-11-26T11:33+01:00
-
-## 4. Amazon acquires Decart to narrow the software gap with Nvidia
-
-**Why it matters:** Amazon’s acquisition of Decart could strengthen AWS’s Trainium platform and intensify the strategic challenge to Nvidia’s dominance in AI chips.
-
-Amazon is acquiring Decart’s team and optimization technologies. The deal could improve Trainium performance and give AWS customers more alternatives to Nvidia GPUs.
-
-- Link: https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
-- Sources: TLDR IT
-- Received: 2026-11-25T14:54+01:00
-
-## 5. Microsoft launches a “Code Red” after a historic 24-hour outage
-
-**Why it matters:** Microsoft’s historic outage exposed the operational and financial risks of concentrated cloud dependencies, prompting the company to rethink incident response and automate recovery.
-
-Microsoft activated its highest alert level to review major-incident management after an outage affected Exchange Online and several Microsoft 365 services. The company wants to resolve global incidents in under an hour, including with AI agents.
-
-- Link: https://siliconangle.com/2026/11/24/microsoft-declares-internal-code-red-after-nearly-24-hour-microsoft-365-outage/
-- Sources: Techpresso, Superhuman, TLDR IT
-- Received: 2026-11-25T18:00+01:00
