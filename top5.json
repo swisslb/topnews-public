@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-25",
-  "news_count": 123,
+  "date": "2026-11-26",
+  "news_count": 127,
   "top5": [
     {
       "rank": 1,
       "id": "g7164",
       "title": "Microsoft launches a “Code Red” after a historic 24-hour outage",
-      "description": "Microsoft activated its highest alert level to review the handling of major incidents after an outage affected Exchange Online and several Microsoft 365 services. The company wants to resolve global incidents in under an hour, including with AI agents.",
+      "description": "Microsoft activated its highest alert level to review major-incident management after an outage affected Exchange Online and several Microsoft 365 services. The company wants to resolve global incidents in under an hour, including with AI agents.",
       "link": "https://siliconangle.com/2026/11/24/microsoft-declares-internal-code-red-after-nearly-24-hour-microsoft-365-outage/",
       "sources": [
         "Techpresso",
@@ -17,12 +17,31 @@
       "covered_by": 3,
       "favorite": false,
       "followed_topic": null,
-      "why": "Microsoft’s highest-level response to a major Microsoft 365 outage highlights the growing operational risks of cloud concentration and the push to use AI agents for faster incident recovery."
+      "why": "Microsoft’s historic Microsoft 365 outage is prompting a top-level overhaul of incident management and highlights the operational risks of deep cloud-service dependencies."
     },
     {
       "rank": 2,
+      "id": "g6543",
+      "title": "Meta integrates its Muse assistant directly into Instagram messages",
+      "description": "Meta is integrating its Muse AI assistant directly into Instagram private conversations.",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "sources": [
+        "Techpresso",
+        "Superhuman",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-25T18:00+01:00",
+      "covered_by": 5,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Embedding Muse in Instagram private messages gives Meta’s AI assistant access to a massive consumer distribution channel and could accelerate everyday AI adoption."
+    },
+    {
+      "rank": 3,
       "id": "g7210",
-      "title": "European Union proposes a €50 billion AI fund",
+      "title": "European Union proposes a €50 billion fund for AI",
       "description": "The European Commission is proposing a €50 billion private-equity fund to take direct stakes in European AI and quantum-computing companies. The goal is to reduce the bloc’s dependence on American and Chinese technologies.",
       "link": "https://thenextweb.com/news/eu-50bn-sovereign-tech-equity-fund-ai-quantum",
       "sources": [
@@ -32,13 +51,28 @@
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null,
-      "why": "The EU’s proposed €50 billion fund signals a major industrial-policy effort to build European AI and quantum champions and reduce dependence on U.S. and Chinese technology."
+      "why": "The EU’s proposed €50 billion AI and quantum fund signals a major attempt to build European technology champions and reduce dependence on U.S. and Chinese suppliers."
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "g6838",
+      "title": "Amazon details its $220 billion AI investment strategy",
+      "description": "AWS CFO John Felton explained to Business Insider the strategy behind Amazon’s massive investment program in artificial intelligence, as well as the role of speed in the effort.",
+      "link": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-record-220-billion-ai-push-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-25T12:30+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "Amazon’s planned $220 billion AI investment strategy could reshape cloud, semiconductor, and infrastructure competition while intensifying the industry’s capital race."
+    },
+    {
+      "rank": 5,
       "id": "g7120",
-      "title": "Google warns of the arrival of autonomous AI cyberattacks",
-      "description": "Attackers are automating some stages of cyberattacks with AI agents. This development is increasing pressure on companies’ patching and incident-response processes.",
+      "title": "Google warns of autonomous AI cyberattacks on the horizon",
+      "description": "Attackers are automating certain stages of cyberattacks with AI agents. This development is increasing pressure on companies’ patching and incident-response processes.",
       "link": "https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/",
       "sources": [
         "TLDR IT",
@@ -48,42 +82,12 @@
       "covered_by": 2,
       "favorite": false,
       "followed_topic": null,
-      "why": "Google’s warning that attackers are automating parts of cyberattacks with AI raises the urgency of patching, detection and incident-response capabilities across every enterprise."
-    },
-    {
-      "rank": 4,
-      "id": "g6825",
-      "title": "Amazon acquires Decart to narrow the software gap with Nvidia",
-      "description": "Amazon is acquiring Decart’s team and optimization technologies. The deal could improve Trainium performance and give AWS customers more alternatives to Nvidia GPUs.",
-      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-25T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Amazon’s acquisition of Decart could improve the performance of its Trainium chips, strengthening AWS’s effort to reduce customer dependence on Nvidia GPUs."
-    },
-    {
-      "rank": 5,
-      "id": "g7186",
-      "title": "The Business-to-Agent economy is becoming a market that is hard to ignore",
-      "description": "According to Andreessen Horowitz, agents are becoming primary visitors to the Internet and increasingly influencing online spending. Shopify is seeing a sharp rise in AI-driven traffic and orders, while retailers are divided between blocking and welcoming agents.",
-      "link": "https://a16z.com/welcome-to-the-b2a-economy/",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-25T15:11+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "The rise of AI agents as web visitors and purchasing intermediaries could reshape online discovery, retail traffic and the rules companies use to decide whether to welcome or block automated access."
+      "why": "Google’s warning that AI agents are automating parts of cyberattacks raises the urgency of patching, monitoring, and incident-response capabilities across enterprises."
     }
   ],
   "period": {
-    "from": "2026-11-24T19:25+01:00",
-    "to": "2026-11-25T19:25+01:00"
+    "from": "2026-11-25T06:25+01:00",
+    "to": "2026-11-26T06:25+01:00"
   },
-  "generated_at": "2026-11-25T19:25+01:00"
+  "generated_at": "2026-11-26T06:25+01:00"
 }
