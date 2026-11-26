@@ -1,28 +1,76 @@
 {
   "date": "2026-11-26",
-  "news_count": 106,
+  "news_count": 110,
   "top5": [
     {
       "rank": 1,
-      "id": "g7210",
-      "title": "European Union proposes a €50 billion fund for AI",
-      "description": "The European Commission is proposing a €50 billion private-equity fund to take direct stakes in European AI and quantum-computing companies. The goal is to reduce the bloc’s dependence on American and Chinese technologies.",
-      "link": "https://thenextweb.com/news/eu-50bn-sovereign-tech-equity-fund-ai-quantum",
+      "id": "g7253",
+      "title": "FCC authorizes SpaceX’s one-million-unit AI satellite network",
+      "description": "The FCC approved Starmind, SpaceX’s project to launch up to one million solar-powered satellites equipped with AI data centers. Despite opposition from Amazon, Viasat, and astronomers, the first launches are planned for 2027 and the network must be completed by 2040.",
+      "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7",
       "sources": [
-        "Techpresso"
+        "Superhuman",
+        "TLDR",
+        "The Neuron",
+        "Vision IA"
       ],
-      "received_at": "2026-11-25T18:00+01:00",
-      "covered_by": 1,
+      "received_at": "2026-11-26T15:10+01:00",
+      "covered_by": 4,
       "favorite": false,
-      "followed_topic": null,
-      "why": "The EU’s proposed €50 billion AI and quantum fund signals a major shift toward strategic technology sovereignty and could reshape European investment and competition."
+      "followed_topic": "SpaceX et Starlink",
+      "why": "The FCC’s approval of SpaceX’s planned one-million-satellite AI network could reshape space infrastructure, cloud computing, spectrum competition and astronomical regulation."
     },
     {
       "rank": 2,
-      "id": "g7253",
-      "title": "FCC authorizes SpaceX’s orbital data center project",
-      "description": "SpaceX has received FCC authorization for a constellation of orbital AI data centers that could include up to one million satellites, with defined deployment milestones.",
-      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "id": "g7110",
+      "title": "Anthropic Shares Fall Below Their IPO Price",
+      "description": "Anthropic shares fell below their IPO price less than a week after going public, suggesting investors still doubt that revenue will exceed costs.",
+      "link": "https://www.businessinsider.com/anthropic-stock-falls-below-ipo-investor-reactions-2026-11",
+      "sources": [
+        "Business Insider"
+      ],
+      "received_at": "2026-11-26T12:31+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Anthropic shares falling below their IPO price is an important market test of whether frontier-AI revenues can justify enormous computing and operating costs."
+    },
+    {
+      "rank": 3,
+      "id": "g7336",
+      "title": "HPE shares fall as AI-related margin decline weighs",
+      "description": "HPE shares fell about 16%, as margin guidance overshadowed an improved forecast for 2027 revenue growth. Demand for AI servers is supporting revenue, but component costs are rising faster than selling prices.",
+      "link": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/",
+      "sources": [
+        "TLDR IT"
+      ],
+      "received_at": "2026-11-26T14:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "HPE’s sharp share-price decline shows that surging AI-server demand may not translate into profits when component costs rise faster than vendors’ pricing power."
+    },
+    {
+      "rank": 4,
+      "id": "g7262",
+      "title": "Chinese labs estimate they are up to nine months behind the United States",
+      "description": "Chip restrictions, limited access to Nvidia hardware and anti-distillation measures are weighing on DeepSeek, Moonshot AI and Alibaba. DeepSeek researchers reportedly estimate internally that they are no more than nine months behind.",
+      "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "sources": [
+        "Vision IA"
+      ],
+      "received_at": "2026-11-26T11:13+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null,
+      "why": "Chinese AI labs reportedly being within nine months of U.S. leaders despite chip restrictions highlights the limits of export controls and the intensity of strategic competition."
+    },
+    {
+      "rank": 5,
+      "id": "g7257",
+      "title": "OpenAI tests private inference for businesses",
+      "description": "OpenAI’s Private Inference runs a company’s queries on its best models without OpenAI being able to see the data. The service is being tested with early business customers.",
+      "link": "https://x.com/sama/status/2125638790593274259",
       "sources": [
         "The Neuron",
         "Vision IA"
@@ -30,62 +78,13 @@
       "received_at": "2026-11-26T11:33+01:00",
       "covered_by": 2,
       "favorite": false,
-      "followed_topic": "SpaceX et Starlink",
-      "why": "FCC approval for SpaceX’s potential orbital data-center constellation opens an extraordinary new infrastructure direction with major implications for satellites, AI computing and regulation."
-    },
-    {
-      "rank": 3,
-      "id": "g7222",
-      "title": "Meta reportedly negotiating with Amazon to let its Muse agent make purchases",
-      "description": "Amazon and Meta are reportedly negotiating an agreement that would allow Meta’s Muse agent to make purchases on Amazon. The placement of ads and display of search results remain to be decided.",
-      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "sources": [
-        "The Neuron",
-        "Vision IA",
-        "Techpresso"
-      ],
-      "received_at": "2026-11-26T11:33+01:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "A Meta–Amazon deal enabling AI agents to make purchases would accelerate the shift from human-driven e-commerce to an agent-mediated economy."
-    },
-    {
-      "rank": 4,
-      "id": "g6825",
-      "title": "Amazon acquires Decart to narrow the software gap with Nvidia",
-      "description": "Amazon is acquiring Decart’s team and optimization technologies. The deal could improve Trainium performance and give AWS customers more alternatives to Nvidia GPUs.",
-      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-25T14:54+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Amazon’s acquisition of Decart could strengthen AWS’s Trainium platform and intensify the strategic challenge to Nvidia’s dominance in AI chips."
-    },
-    {
-      "rank": 5,
-      "id": "g7164",
-      "title": "Microsoft launches a “Code Red” after a historic 24-hour outage",
-      "description": "Microsoft activated its highest alert level to review major-incident management after an outage affected Exchange Online and several Microsoft 365 services. The company wants to resolve global incidents in under an hour, including with AI agents.",
-      "link": "https://siliconangle.com/2026/11/24/microsoft-declares-internal-code-red-after-nearly-24-hour-microsoft-365-outage/",
-      "sources": [
-        "Techpresso",
-        "Superhuman",
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-25T18:00+01:00",
-      "covered_by": 3,
-      "favorite": false,
-      "followed_topic": null,
-      "why": "Microsoft’s historic outage exposed the operational and financial risks of concentrated cloud dependencies, prompting the company to rethink incident response and automate recovery."
+      "followed_topic": "Intelligence artificielle et ses dérives",
+      "why": "OpenAI’s private-inference trials could remove a major data-confidentiality barrier to enterprise adoption of frontier AI models."
     }
   ],
   "period": {
-    "from": "2026-11-25T13:25+01:00",
-    "to": "2026-11-26T13:25+01:00"
+    "from": "2026-11-25T19:25+01:00",
+    "to": "2026-11-26T19:25+01:00"
   },
-  "generated_at": "2026-11-26T13:25+01:00"
+  "generated_at": "2026-11-26T19:25+01:00"
 }
