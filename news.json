@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "period": {
-    "from": "2026-11-24T19:25+01:00",
-    "to": "2026-11-25T19:25+01:00"
+    "from": "2026-11-25T06:25+01:00",
+    "to": "2026-11-26T06:25+01:00"
   },
-  "news_count": 123,
+  "news_count": 127,
   "news": [
     {
       "id": "g6543",
@@ -101,6 +101,73 @@
       "followed_topic": null
     },
     {
+      "id": "g7110",
+      "title": "Anthropic’s stock falls below its IPO price",
+      "description": "The AI company’s stock fell below its $83 IPO price for the first time, less than a week after a record-breaking public debut.",
+      "link": "https://l.businessinsider.com/a/zc/21432/ccc6b72809404f67bb14b982baa4182a/d9bb8c705b944335a95dd68b0996289d",
+      "sources": [
+        "Business Insider",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-25T12:30+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Fusions-acquisitions et marchés financiers"
+    },
+    {
+      "id": "g7067",
+      "title": "Anthropic and OpenAI employees question the safety of upcoming models",
+      "description": "More than two dozen sources report that employees at both companies doubt their most powerful yet-unreleased models can be deployed safely. Nothing has been decided yet.",
+      "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "sources": [
+        "The Neuron",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-25T11:35+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7229",
+      "title": "A ChatGPT prompt for creating a personal consultant",
+      "description": "This article is among the most-read content in the Prompts section and offers a prompt for using ChatGPT as a personal consultant.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-8195-b917-fd41c33a3026",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-25T18:43+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7231",
+      "title": "A selection of professional prompts for ChatGPT",
+      "description": "This article is among the most-read content in the Prompts section and offers a selection of professional prompts for ChatGPT.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-811b-b733-d592ebd5876c",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-25T18:43+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7232",
+      "title": "Four secret ChatGPT prompts to try",
+      "description": "This article is presented as one of the most-read pieces in the Prompts section and brings together four secret prompts for ChatGPT.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-81f4-be27-fd218c7ddef4",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-25T18:43+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
       "id": "g7205",
       "title": "OpenAI says it has solved a 60-year-old mathematical problem",
       "description": "OpenAI researchers claim to have determined the exact exponent for multiplying square matrices at 2.25. Their proof, formalized in Lean, still needs to be reviewed by the mathematical community.",
@@ -195,19 +262,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g7133",
-      "title": "Anthropic’s stock falls below its IPO price",
-      "description": "The AI company’s stock fell below its $83 IPO price for the first time, less than a week after a record-breaking listing.",
-      "link": "https://l.businessinsider.com/a/zc/21432/ccc6b72809404f67bb14b982baa4182a/d9bb8c705b944335a95dd68b0996289d",
-      "sources": [
-        "Business Insider"
-      ],
-      "received_at": "2026-11-25T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
-    },
-    {
       "id": "g6838",
       "title": "Amazon details its $220 billion AI investment strategy",
       "description": "AWS CFO John Felton explained to Business Insider the strategy behind Amazon’s massive investment program in artificial intelligence, as well as the role of speed in the effort.",
@@ -281,19 +335,6 @@
         "Business Insider"
       ],
       "received_at": "2026-11-25T12:30+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
-      "id": "g7116",
-      "title": "Anthropic and OpenAI employees question the safety of upcoming models",
-      "description": "More than two dozen sources report that employees at both companies doubt whether their most powerful unpublished models can be deployed safely. Nothing has been decided yet.",
-      "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-25T11:35+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": "Intelligence artificielle et ses dérives"
@@ -377,19 +418,6 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g7108",
-      "title": "OpenAI and Anthropic employees reportedly consider their future models out of control",
-      "description": "According to anonymous sources cited by Axios, employees at both labs believe their frontier models exceed current safety measures. The companies are reportedly discussing a possible pause in releases or training, with no official confirmation.",
-      "link": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-25T11:05+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": "Intelligence artificielle et ses dérives"
-    },
-    {
       "id": "g7109",
       "title": "Former engineer accused of placing a microphone at OpenAI released on bail",
       "description": "Abdulrahman Alfozan was released on one million dollars bail and fitted with an electronic ankle monitor. He is suspected of concealing a recording device in an OpenAI meeting room.",
@@ -403,17 +431,43 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
-      "id": "g7110",
-      "title": "Anthropic stock falls below its IPO price",
-      "description": "Anthropic stock, listed on Nasdaq at 83 dollars, closed below its IPO price after falling 6.5%. Investors are concerned in particular about the debt used to finance data centers.",
-      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "id": "g7234",
+      "title": "How Copilot turns financial PDFs into a dashboard",
+      "description": "Copilot gathered financial documents in OneLake, then Fabric extracted the data from the PDFs, created a semantic model, and generated an application. Satya Nadella received a link to the dashboard about 30 to 35 minutes later.",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
       "sources": [
-        "Vision IA"
+        "The Neuron"
       ],
-      "received_at": "2026-11-25T11:05+01:00",
+      "received_at": "2026-11-25T22:10+01:00",
       "covered_by": 1,
       "favorite": false,
-      "followed_topic": "Fusions-acquisitions et marchés financiers"
+      "followed_topic": null
+    },
+    {
+      "id": "g7228",
+      "title": "A guide explains how to customize Claude with persistent skills",
+      "description": "The guide shows how to save a configuration as a skill so Claude retains the context, tone, and rules from one conversation to the next. It also explains the difference between temporary prompts and permanent skills.",
+      "link": "https://app.thecentral.ai/item/34f656dd-7b67-80cf-923f-ea041755b1b7",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-25T18:43+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7230",
+      "title": "A selection of 60 marketing prompts for Claude",
+      "description": "This article is among the most-read content in the Prompts section and brings together 60 marketing prompts for Claude.",
+      "link": "https://app.thecentral.ai/item/37c656dd-7b67-8033-80c7-e43cfc52edcb",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-25T18:43+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
     },
     {
       "id": "g7209",
