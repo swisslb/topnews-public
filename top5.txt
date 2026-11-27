@@ -1,53 +1,53 @@
 # Top 5 news of the day — 2026-11-27
 
-Period: 2026-11-26T06:25+01:00 → 2026-11-27T06:25+01:00 · 123 news received
+Period: 2026-11-26T13:25+01:00 → 2026-11-27T13:25+01:00 · 91 news received
 
-## 1. FCC authorizes SpaceX to deploy up to one million satellites
+## 1. Nvidia threatens to cut off clouds renting computing power to China
 
-**Why it matters:** The FCC’s authorization for up to one million SpaceX satellites could reshape satellite communications, orbital computing and the competitive dynamics of space infrastructure.
+**Why it matters:** Nvidia’s reported move to restrict cloud providers serving China would significantly tighten the global AI-chip bottleneck and escalate U.S.-China technology controls.
 
-The U.S. Federal Communications Commission has approved SpaceX’s plan to place a constellation of data centers in orbit. The authorization, valid for 15 years, allows the deployment of up to one million satellites.
+Nvidia chip sellers would now refuse to supply neoclouds whose capacity is partly rented to Chinese companies. The BIS rule, which took effect on November 19, replaces a previous limit of 50% of GPUs.
 
-- Link: https://www.politico.com/news/2026/11/25/elon-musk-space-datacenters-fcc-01183330
-- Sources: Techpresso, Superhuman, TLDR, The Neuron, Vision IA
+- Link: https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html
+- Sources: Vision IA
+- Received: 2026-11-27T11:01+01:00
+
+## 2. Dell reaches 22 billion dollars in revenue from AI servers
+
+**Why it matters:** Dell’s $22 billion in AI-server revenue and $132.3 billion backlog show that AI infrastructure demand is translating into unusually large enterprise orders, while also exposing supply constraints.
+
+Dell generated 22 billion dollars in AI server revenue, up 291%. Its order backlog has reached 132.3 billion dollars, which could delay some deliveries.
+
+- Link: https://www.techrepublic.com/article/news-dell-ai-server-revenue-q3-fy27-backlog/
+- Sources: TechnologyAdvice
+- Received: 2026-11-27T10:33+01:00
+
+## 3. Investigation finds undeclared AI use in 25 court cases
+
+**Why it matters:** Undeclared AI-generated errors in at least 25 English and Welsh court cases highlight urgent risks for judicial integrity, professional accountability, and AI regulation.
+
+The Bureau of Investigative Journalism found undeclared AI use in at least 25 cases in England and Wales. Some rulings included fabricated case law and nonexistent statutes.
+
+- Link: https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026
+- Sources: The Neuron
+- Received: 2026-11-27T11:32+01:00
+
+## 4. SAP reportedly considering cutting at least 10,000 jobs to pivot toward AI
+
+**Why it matters:** SAP’s reported plan to cut at least 10,000 jobs as it pivots toward AI could become a major signal of how generative AI is reshaping enterprise software workforces.
+
+According to Bloomberg, SAP is preparing a plan covering at least 10,000 positions out of more than 110,000, particularly in product, engineering and sales. The company has not commented, and the figure could change after labor negotiations.
+
+- Link: https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html
+- Sources: Vision IA
+- Received: 2026-11-27T11:01+01:00
+
+## 5. Neuralink gets FDA approval to test its implant for ALS
+
+**Why it matters:** FDA authorization for Neuralink’s pivotal ALS study moves invasive brain-computer interfaces closer to potential clinical adoption and commercial-scale medical regulation.
+
+Neuralink has received FDA authorization to launch the pivotal LINK study, which will evaluate its brain implant in people severely disabled by ALS. U.S. adults with the disease can sign up for the patient registry.
+
+- Link: https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/
+- Sources: Techpresso, TLDR
 - Received: 2026-11-26T18:52+01:00
-
-## 2. Nvidia suspends AI server shipments to four Asian countries
-
-**Why it matters:** Nvidia’s suspension of AI-server shipments to four Asian countries shows how expanding U.S. export controls are disrupting the global AI hardware supply chain.
-
-Nvidia has asked its manufacturing partners to suspend AI server shipments to Malaysia, Singapore, Thailand and Indonesia. The decision follows a new U.S. rule requiring licenses to export advanced chips to these countries.
-
-- Link: https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/
-- Sources: Techpresso
-- Received: 2026-11-26T18:52+01:00
-
-## 3. Anthropic Shares Fall Below Their IPO Price
-
-**Why it matters:** Anthropic shares falling below their IPO price signals growing investor skepticism that frontier-AI revenues will justify the sector’s enormous computing costs.
-
-Anthropic shares fell below their IPO price less than a week after going public, suggesting investors still doubt that revenue will exceed costs.
-
-- Link: https://www.businessinsider.com/anthropic-stock-falls-below-ipo-investor-reactions-2026-11
-- Sources: Business Insider
-- Received: 2026-11-26T12:31+01:00
-
-## 4. New York bans toys with AI chatbots for five years
-
-**Why it matters:** New York’s five-year ban on AI chatbot toys marks a significant expansion of child-safety regulation that could influence product design and policy in other states.
-
-New York has become the second state, after California, to ban toys equipped with AI chatbots. The five-year ban will take effect 90 days after it is signed.
-
-- Link: https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
-- Sources: The Neuron, Vision IA
-- Received: 2026-11-26T11:33+01:00
-
-## 5. OpenAI tests private inference for businesses
-
-**Why it matters:** OpenAI’s private-inference trial addresses a central barrier to enterprise AI adoption by promising businesses that their sensitive queries cannot be viewed by OpenAI.
-
-OpenAI’s Private Inference runs a company’s queries on its best models without OpenAI being able to see the data. The service is being tested with early business customers.
-
-- Link: https://x.com/sama/status/2125638790593274259
-- Sources: The Neuron, Vision IA
-- Received: 2026-11-26T11:33+01:00
