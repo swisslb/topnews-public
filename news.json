@@ -1,24 +1,25 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "period": {
-    "from": "2026-11-25T19:25+01:00",
-    "to": "2026-11-26T19:25+01:00"
+    "from": "2026-11-26T06:25+01:00",
+    "to": "2026-11-27T06:25+01:00"
   },
-  "news_count": 110,
+  "news_count": 123,
   "news": [
     {
       "id": "g7253",
-      "title": "FCC authorizes SpaceX’s one-million-unit AI satellite network",
-      "description": "The FCC approved Starmind, SpaceX’s project to launch up to one million solar-powered satellites equipped with AI data centers. Despite opposition from Amazon, Viasat and astronomers, the first launches are scheduled for 2027 and the network must be completed by 2040.",
-      "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7",
+      "title": "FCC authorizes SpaceX to deploy up to one million satellites",
+      "description": "The U.S. Federal Communications Commission has approved SpaceX’s plan to place a constellation of data centers in orbit. The authorization, valid for 15 years, allows the deployment of up to one million satellites.",
+      "link": "https://www.politico.com/news/2026/11/25/elon-musk-space-datacenters-fcc-01183330",
       "sources": [
+        "Techpresso",
         "Superhuman",
         "TLDR",
         "The Neuron",
         "Vision IA"
       ],
-      "received_at": "2026-11-26T15:10+01:00",
-      "covered_by": 4,
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 5,
       "favorite": false,
       "followed_topic": "SpaceX et Starlink"
     },
@@ -37,9 +38,63 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g7322",
+      "title": "Neuralink gets FDA approval to test its implant for ALS",
+      "description": "Neuralink has received FDA authorization to launch the pivotal LINK study, which will evaluate its brain implant in people severely disabled by ALS. U.S. adults with the disease can sign up for the patient registry.",
+      "link": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
+      "sources": [
+        "Techpresso",
+        "TLDR"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7118",
+      "title": "Character.AI reportedly wants to sell millions of user conversations",
+      "description": "Character.AI is reportedly considering selling millions of its users’ conversations to the highest bidder.",
+      "link": "https://gizmodo.com/character-ai-wants-to-sell-millions-of-user-chats-to-the-highest-bidder-2000845664",
+      "sources": [
+        "Techpresso",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7366",
+      "title": "OpenAI fixes a ChatGPT billing error",
+      "description": "OpenAI fixed a billing error affecting ChatGPT and promises to make it 40% worse.",
+      "link": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7372",
+      "title": "OpenAI tests protection for business prompts during processing",
+      "description": "OpenAI is testing a method designed to protect businesses’ prompts while its models process them.",
+      "link": "https://thenextweb.com/news/openai-private-inference-testing-customers",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
       "id": "g7152",
-      "title": "Epochal launches Time Portal, a “time machine” for AI",
-      "description": "Startup Epochal, founded by former xAI members, unveiled Time Portal, an environment that confines AI agents to the Internet as it existed on a given date over the past 30-plus years. The agents then use this historical data to make forecasts, with sometimes surprisingly robust results.",
+      "title": "Epochal launches Time Portal, an “AI time machine”",
+      "description": "Startup Epochal, founded by former xAI members, unveiled Time Portal, an environment that confines AI agents to the Internet as it existed on a given date over the past 30 years. The agents then use this historical data to make forecasts, with sometimes surprisingly robust results.",
       "link": "https://epochal.com/blog/introducing-time-portal",
       "sources": [
         "Superhuman",
@@ -51,9 +106,23 @@
       "followed_topic": null
     },
     {
+      "id": "g7282",
+      "title": "Claude supports skills, tasks, and interactions via MCP",
+      "description": "Anthropic is launching Skills over MCP in public beta for Claude, allowing Model Context Protocol servers to publish workflows and instructions with their tools. The Tasks and Elicitation features are also available for long-running and interactive work, while file uploads will roll out soon.",
+      "link": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "sources": [
+        "TLDR IT",
+        "The Neuron"
+      ],
+      "received_at": "2026-11-26T14:52+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g7323",
       "title": "SpaceX prepares to deploy computing capabilities in orbit",
-      "description": "The U.S. space industry is generally described as being in poor health, while SpaceX is particularly well positioned to install computing infrastructure in orbit. The company has invested in this direction for more than a decade, while other technology giants lack ideas for future growth.",
+      "description": "The U.S. space industry is described as generally unhealthy, while SpaceX is particularly well positioned to install computing infrastructure in orbit. The company has been investing in this direction for more than a decade, while other tech giants lack ideas for future growth.",
       "link": "https://blog.caseyhandmer.com/2026/11/25/spacex-is-not-a-monopoly-tech-incumbents-obviously-lack-urgency-and-other-harsh-truths/",
       "sources": [
         "TLDR"
@@ -79,7 +148,7 @@
     {
       "id": "g6417",
       "title": "Anthropic’s IPO tests confidence in AI spending",
-      "description": "Anthropic’s IPO provided a new test for bets on AI-related spending.",
+      "description": "Anthropic’s IPO represented a new test for bets on AI-related spending.",
       "link": "https://www.businessinsider.com/anthropic-ipo-smart-people-investor-reactions-2026-10",
       "sources": [
         "Business Insider"
@@ -91,8 +160,8 @@
     },
     {
       "id": "g7304",
-      "title": "OpenAI, Google and Anthropic are designing their own chips",
-      "description": "OpenAI, Google and Anthropic are using AI to design their own chips.",
+      "title": "OpenAI, Google, and Anthropic are designing their own chips",
+      "description": "OpenAI, Google, and Anthropic are using AI to design their own chips.",
       "link": "https://www.businessinsider.com/openai-google-anthropic-use-ai-challenge-nvidia-chip-dominance-2026-11",
       "sources": [
         "Business Insider"
@@ -143,8 +212,8 @@
       "followed_topic": null
     },
     {
-      "id": "g7217",
-      "title": "New York bans toys equipped with AI chatbots for five years",
+      "id": "g7010",
+      "title": "New York bans AI chatbot-equipped toys for five years",
       "description": "New York has become the second state, after California, to ban toys equipped with AI chatbots. The five-year ban will take effect 90 days after it is signed.",
       "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "sources": [
@@ -209,9 +278,178 @@
       "followed_topic": "Fusions-acquisitions et marchés financiers"
     },
     {
+      "id": "g7360",
+      "title": "Nvidia suspends AI server deliveries to four Asian countries",
+      "description": "Nvidia has asked its manufacturing partners to suspend AI server deliveries to Malaysia, Singapore, Thailand, and Indonesia. The decision follows a new U.S. rule requiring licenses to export advanced chips to these countries.",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7362",
+      "title": "WhatsApp now lets users schedule messages",
+      "description": "WhatsApp is adding a feature that lets users schedule the automatic sending of a text, photo, or video from 10 minutes to 14 days in advance. Messages remain end-to-end encrypted, and the feature will roll out worldwide over the coming weeks.",
+      "link": "https://mashable.com/tech/whatsapp-scheduled-messages",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7363",
+      "title": "1Password suffers intrusion into its backend systems",
+      "description": "Hackers accessed 1Password’s backend systems after compromising an employee’s GitHub account and deploying malicious code. According to the company, customer vaults, passwords, and recovery keys were not affected, but some administrative data was stolen.",
+      "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7364",
+      "title": "Dario Amodei rejects the idea of handing human free will to AI",
+      "description": "Anthropic CEO Dario Amodei called the idea that he wants humans to surrender their free will to AI “absurd.” He said society must never sacrifice its legitimacy or self-determination in the name of efficiency or security.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-chief-dario-amodei-denies-wanting-humans-to-surrender-free-will-to-ai/articleshow/136178073.cms",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7367",
+      "title": "X adds parental controls for the first time",
+      "description": "X is adding its first parental controls.",
+      "link": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7368",
+      "title": "Apple removes MiniMax chatbot from the App Store over safety concerns",
+      "description": "Apple removed the MiniMax AI chatbot from the App Store because of concerns related to child safety.",
+      "link": "https://www.reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7369",
+      "title": "Complaint reveals alleged pressure from Trump on Intel",
+      "description": "A lawsuit reveals the pressure Donald Trump allegedly exerted on Intel.",
+      "link": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7370",
+      "title": "Claude rewrote the API that powers it, but verification proved more difficult",
+      "description": "Claude rewrote the API that powers the Claude service. Verifying its work proved more difficult.",
+      "link": "https://thenextweb.com/news/anthropic-claude-messages-api-rust-migration",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7371",
+      "title": "Chinese company says robots will soon handle household chores",
+      "description": "A Chinese electric vehicle company says robots could perform household chores within one to two years.",
+      "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7373",
+      "title": "The New York Times bans Photoshop 2027 for its AI tools",
+      "description": "The New York Times is banning the use of Adobe Photoshop 2027 because of its AI tools and metadata disclosure requirements.",
+      "link": "https://boingboing.net/2026/11/25/new-york-times-bans-adobe-photoshop-2027-over-ai-tool-use-and-metadata-disclosures.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7374",
+      "title": "Kagi launches a Gmail competitor",
+      "description": "Kagi, presented as an alternative to Google’s search engine, is launching a competing service to Gmail.",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7375",
+      "title": "U.S. officials reportedly considered reinstating Jensen Huang at Nvidia",
+      "description": "U.S. defense officials reportedly considered using a Cold War-era law to force Nvidia to reinstate Jensen Huang as CEO after his resignation, according to a report.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/us-defense-officials-considered-using-cold-war-law-to-force-nvidia-to-reinstate-jensen-huang-as-ceo-following-his-resignation-report-claims-1950-defense-production-act-was-floated-as-solution-to-president-trump",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7376",
+      "title": "Nvidia sellers seek new buyers amid U.S. restrictions",
+      "description": "Sellers of Nvidia chips are seeking new buyers as the United States limits China’s access to AI chips, according to sources cited by CNBC.",
+      "link": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-26T18:52+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g7358",
       "title": "My terrifying journey to becoming a real estate agent",
-      "description": "It is far too easy to obtain a real estate agent’s license, which should worry American homebuyers. The author describes discovering the seedy side of every real estate sale.",
+      "description": "It is far too easy to obtain a real estate agent’s license, which should concern American buyers. The author recounts discovering the seedy side of every real estate sale.",
       "link": "https://l.businessinsider.com/a/zc/21432/275c40f82a4a469586228b96bd09dfb3/ece04357735846448feb3676334ef7e2",
       "sources": [
         "Business Insider"
@@ -224,7 +462,7 @@
     {
       "id": "g7357",
       "title": "Separate server and model costs to reduce an agent’s bill",
-      "description": "Hosting a coding agent in the cloud generates two separate bills: infrastructure costs, charged for the entire runtime, and model costs, based on calls and tokens used. To avoid paying for idle time, shut down workspaces after tasks and track the two types of costs separately.",
+      "description": "Hosting a coding agent in the cloud creates two separate bills: infrastructure costs, charged for the entire runtime, and model costs, tied to calls and tokens used. To avoid paying for idle time, shut down workspaces after tasks and track the two types of costs separately.",
       "link": "https://www.newline.co/@Dipen/deploying-claude-code-and-other-coding-agents-on-cloud-servers--c21dabe8",
       "sources": [
         "Fullstack.io"
@@ -250,7 +488,7 @@
     {
       "id": "g7350",
       "title": "Grok Bot can call businesses and compile their responses",
-      "description": "Grok Bot can be configured to call suppliers, restaurants, repair shops or service providers, ask a series of questions and compile the answers in a comparison. The user must approve each call, then can save the process as a skill and daily routine.",
+      "description": "Grok Bot can be configured to call suppliers, restaurants, repair shops, or service providers, ask a series of questions, and compile the answers into a comparison. The user must approve each call, then can save the process as a skill and daily routine.",
       "link": "https://x.ai/bot",
       "sources": [
         "Superhuman"
@@ -262,8 +500,8 @@
     },
     {
       "id": "g7352",
-      "title": "Grok Bot can monitor prices ahead of Black Friday",
-      "description": "Grok Bot can monitor prices on Amazon, Walmart, Best Buy and other sites every few hours, then alert the user when the best deals appear.",
+      "title": "Grok Bot can monitor prices before Black Friday",
+      "description": "Grok Bot can monitor prices on Amazon, Walmart, Best Buy, and other sites every few hours, then alert the user when the best deals appear.",
       "link": "https://archive.superhuman.ai/2125464682580623467",
       "sources": [
         "Superhuman"
@@ -276,7 +514,7 @@
     {
       "id": "g7354",
       "title": "Claude Fable 5.2 users are already exploring ambitious applications",
-      "description": "Anthropic published an early look at real-world uses of Claude Fable 5.2 less than two weeks after its launch. Some examples go far beyond the most obvious use cases.",
+      "description": "Anthropic published an initial look at real-world uses of Claude Fable 5.2 less than two weeks after its launch. Some examples go far beyond the most obvious use cases.",
       "link": "https://archive.superhuman.ai/2125616057788637364",
       "sources": [
         "Superhuman"
@@ -289,7 +527,7 @@
     {
       "id": "g7355",
       "title": "Independent developer creates a game with AI’s help in six days",
-      "description": "A solo game developer says they used AI for the code and part of the visual work on their first game. Six days after launch, the title had surpassed a level of sales rarely achieved by independent developers.",
+      "description": "A solo game developer says they used AI for the code and part of the visual work on their first game. Six days after launch, the title had surpassed a sales level rarely reached by independent developers.",
       "link": "https://archive.superhuman.ai/2125485386009084378",
       "sources": [
         "Superhuman"
@@ -301,8 +539,8 @@
     },
     {
       "id": "g7356",
-      "title": "Google files a patent to put you in personalized films and TV shows",
-      "description": "Google has reportedly filed a patent for an AI-powered television network capable of using a person’s photos and voice to place them in personalized films and TV shows.",
+      "title": "Google files a patent to put you in personalized movies and TV shows",
+      "description": "Google reportedly filed a patent for an AI-powered television network capable of using a person’s photos and voice to insert them into personalized movies and TV shows.",
       "link": "https://archive.superhuman.ai/2125409636753064124",
       "sources": [
         "Superhuman"
@@ -315,7 +553,7 @@
     {
       "id": "g7335",
       "title": "Rackspace shuts down Spot after security breach",
-      "description": "Rackspace will permanently shut down its Spot Kubernetes service on December 8 at 5 p.m. Central Time. Customers must migrate their workloads and download their data, while API tokens, kubeconfigs and Kubernetes secrets are considered potentially compromised.",
+      "description": "Rackspace will permanently shut down its Spot Kubernetes service on December 8 at 5 p.m. Central Time. Customers must migrate their workloads and download their data, while API tokens, kubeconfigs, and Kubernetes secrets are considered potentially compromised.",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
       "sources": [
         "TLDR IT"
@@ -327,8 +565,8 @@
     },
     {
       "id": "g7336",
-      "title": "HPE shares fall amid declining AI-related margins",
-      "description": "HPE shares fell about 16%, as its margin outlook overshadowed an improved 2027 revenue-growth forecast. Demand for AI servers is supporting revenue, but component costs are rising faster than selling prices.",
+      "title": "HPE shares fall as AI-related margin decline weighs",
+      "description": "HPE shares fell about 16%, as margin guidance overshadowed an improved forecast for 2027 revenue growth. Demand for AI servers is supporting revenue, but component costs are rising faster than selling prices.",
       "link": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/",
       "sources": [
         "TLDR IT"
@@ -341,7 +579,7 @@
     {
       "id": "g7337",
       "title": "European IT spending expected to jump 9.9% in 2027",
-      "description": "Gartner forecasts that European IT spending will reach $1.57 trillion in 2027, up 9.9%. Demand for AI infrastructure and rising server prices are driving the increase, while software purchases are shifting toward systems that coordinate multiple business functions.",
+      "description": "Gartner forecasts that European IT spending will reach $1.57 trillion in 2027, a 9.9% increase. Demand for AI infrastructure and rising server prices are driving the growth, while software purchases are shifting toward systems that coordinate multiple business functions.",
       "link": "https://www.itpro.com/artificial-intelligence/ai-infrastructure/european-it-spending-set-for-9-9-percent-surge-in-2027-amid-ai-optimized-server-boom",
       "sources": [
         "TLDR IT"
@@ -354,7 +592,7 @@
     {
       "id": "g7338",
       "title": "Why legacy systems are becoming increasingly risky",
-      "description": "The reliability of aging infrastructure depends in part on maintenance, vendor support, replacement parts, monitoring and redundancy. Software becomes riskier as workloads evolve, patches disappear and support ends, making timely upgrades or retirement necessary.",
+      "description": "The reliability of aging infrastructure depends in part on maintenance, vendor support, replacement parts, monitoring, and redundancy. Software becomes riskier as workloads evolve and patches and support end, making timely upgrades or retirement necessary.",
       "link": "https://www.cio.com/article/4252566/do-legacy-systems-wear-out.html",
       "sources": [
         "TLDR IT"
@@ -366,22 +604,9 @@
     },
     {
       "id": "g7339",
-      "title": "An AI agent reveals a technical team’s unwritten rules",
-      "description": "Matthew Finlayson describes creating an agent to route customer issues to engineering teams. The project uncovered undocumented ownership rules and improved routing accuracy from about 60% to 95%.",
+      "title": "An AI agent reveals a technical team’s informal rules",
+      "description": "Matthew Finlayson describes building an agent to route customer issues to engineering teams. The project uncovered undocumented responsibility rules and improved routing accuracy from about 60% to 95%.",
       "link": "https://www.cio.com/article/4252552/i-built-an-ai-agent-it-broke-my-assumptions-about-my-own-team.html",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-26T14:52+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g7340",
-      "title": "Claude supports skills, tasks and interactions through MCP",
-      "description": "Anthropic is launching Skills over MCP in public beta for Claude, allowing Model Context Protocol servers to publish workflows and instructions alongside their tools. Tasks and Elicitation are also available for long-running and interactive work, while file uploads will be rolled out soon.",
-      "link": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
       "sources": [
         "TLDR IT"
       ],
@@ -393,7 +618,7 @@
     {
       "id": "g7341",
       "title": "Datadog launches Bits Maintenance to automate infrastructure fixes",
-      "description": "Datadog introduced Bits Maintenance, an AI teammate designed to automate patches and upgrades for open-source software. Available in preview, the tool tracks versions and vulnerabilities, analyzes changes, prepares upgrade plans and executes pull requests according to user-defined guardrails.",
+      "description": "Datadog introduces Bits Maintenance, an AI teammate designed to automate fixes and upgrades for open-source software. Available in preview, the tool tracks versions and vulnerabilities, analyzes changes, prepares upgrade plans, and executes pull requests under user-defined guardrails.",
       "link": "https://www.datadoghq.com/blog/bits-maintenance/",
       "sources": [
         "TLDR IT"
@@ -406,7 +631,7 @@
     {
       "id": "g7342",
       "title": "Workday’s CIO prepares IT for the AI era",
-      "description": "Rani Johnson explains how Workday is rebuilding its data lake, identity infrastructure and Salesforce environment to strengthen its AI foundations. Collaboration with training helped increase enterprise AI adoption from under 50% to more than 96% by addressing skills and behavioral challenges.",
+      "description": "Rani Johnson explains how Workday is rebuilding its data lake, identity infrastructure, and Salesforce environment to strengthen its AI foundations. Collaboration with training helped increase enterprise AI adoption from under 50% to more than 96% by addressing skills and behavior challenges.",
       "link": "https://www.computerweekly.com/news/366654875/Interview-Rani-Johnson-CIO-Workday",
       "sources": [
         "TLDR IT"
@@ -419,7 +644,7 @@
     {
       "id": "g7343",
       "title": "Microsoft modernizes retail kiosks with Autopilot and Intune",
-      "description": "Microsoft describes moving its point-of-sale devices from being domain-joined and managed by Configuration Manager to Windows Autopilot and Intune. The new setup uses Windows 11 Enterprise LTSC, Microsoft Entra join, provisioning without an individual user account and certificates for Wi-Fi access.",
+      "description": "Microsoft describes moving its checkout devices from domain-joined and Configuration Manager-managed systems to Windows Autopilot and Intune. The new setup uses Windows 11 Enterprise LTSC, Microsoft Entra join, provisioning without individual user accounts, and certificates for Wi-Fi access.",
       "link": "https://techcommunity.microsoft.com/blog/devicemanagementmicrosoft/modernizing-retail-kiosks-with-windows-autopilot-and-microsoft-intune/4576553",
       "sources": [
         "TLDR IT"
@@ -432,7 +657,7 @@
     {
       "id": "g7344",
       "title": "Capital One reduces human rework with its multi-agent system",
-      "description": "Capital One reduced the rate of human rework on AI-generated customer-support summaries by about 80% with its MACAW agent system.",
+      "description": "Capital One reduced the rate of human rework on AI-generated customer-support summaries by about 80% using its MACAW agent system.",
       "link": "https://leaddev.com/ai/inside-capital-ones-multi-agent-system",
       "sources": [
         "TLDR IT"
@@ -445,7 +670,7 @@
     {
       "id": "g7345",
       "title": "Germany’s federal IT provider chooses OpenProject as a Jira alternative",
-      "description": "ITZBund, the central IT provider for Germany’s federal administration, chose OpenProject as an open-source alternative to Jira.",
+      "description": "ITZBund, the central IT provider for Germany’s federal administration, has chosen OpenProject as an open-source alternative to Jira.",
       "link": "https://www.openproject.org/blog/itzbund-jira-alternative-openproject/",
       "sources": [
         "TLDR IT"
@@ -457,8 +682,8 @@
     },
     {
       "id": "g7346",
-      "title": "Google reorganizes Meet rooms’ “More actions” panel",
-      "description": "Google Meet room-controller menus will prioritize the most frequently used commands. Early access rollout will begin on December 2, followed by broader rollout on December 11.",
+      "title": "Google reorganizes the “More actions” panel for Meet rooms",
+      "description": "Menus on Google Meet room controllers will prioritize the most frequently used commands. Early access rollout will begin on December 2, followed by broader rollout on December 11.",
       "link": "https://workspaceupdates.googleblog.com/2026/11/rooms-more-actions-panel-reordering.html",
       "sources": [
         "TLDR IT"
@@ -469,22 +694,9 @@
       "followed_topic": null
     },
     {
-      "id": "g7322",
-      "title": "Neuralink receives FDA authorization to test its implant in ALS patients",
-      "description": "The FDA authorized Neuralink to begin a trial of its LINK brain-computer interface with a limited number of ALS patients in the United States. The study will assess their ability to control digital devices with their thoughts, as well as the system’s long-term safety and reliability.",
-      "link": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
-      "sources": [
-        "TLDR"
-      ],
-      "received_at": "2026-11-26T13:32+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g7324",
-      "title": "AI models outperform theoretical physicists on many technical tasks",
-      "description": "Publicly accessible AI models crossed a threshold in August and now outperform most theoretical physicists on many technical tasks. They can perform complex analytical calculations, produce lengthy proofs and turn well-defined problems into code with little instruction.",
+      "title": "AI models surpass theoretical physicists on many technical tasks",
+      "description": "Publicly available AI models crossed a threshold in August and now outperform most theoretical physicists on many technical tasks. They can perform complex analytical calculations, produce lengthy proofs, and turn well-defined problems into code with minimal instruction.",
       "link": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
       "sources": [
         "TLDR"
@@ -497,7 +709,7 @@
     {
       "id": "g7325",
       "title": "Software engineering enters an advanced automation phase",
-      "description": "A growing share of software work can be automated opaquely by teams, swarms or agent factories when the target is sufficiently verifiable. Advances in agents’ problem selection, intent and taste require continually redefining what needs human intervention.",
+      "description": "A growing share of software work can be automated opaquely by agent teams, swarms, or factories when the target is sufficiently verifiable. Advances in agents’ problem selection, intent, and taste require continuously redefining what needs human intervention.",
       "link": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering/",
       "sources": [
         "TLDR"
@@ -510,7 +722,7 @@
     {
       "id": "g7326",
       "title": "Engineers who use AI can improve software quality",
-      "description": "Equating engineers who use AI with executives who weaken their companies is harmful. With real responsibility and good models, engineers can build the safeguards, proofs and fixes they previously lacked time to create.",
+      "description": "Equating engineers who use AI with executives who weaken their companies is harmful. With real responsibility and good models, engineers can build the safeguards, proofs, and fixes they previously lacked time to create.",
       "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
       "sources": [
         "TLDR"
@@ -523,7 +735,7 @@
     {
       "id": "g7327",
       "title": "Anthropic operates like an infrastructure provider specializing in frontier AI",
-      "description": "Anthropic is dedicating tens of billions of dollars in computing capacity to selling an advantage in AI and performance. The company is portrayed as a highly leveraged utility provider with an R&D department, able to preserve its margins through growing demand for frontier intelligence.",
+      "description": "Anthropic is committing tens of billions of dollars in computing capacity to selling an advantage in AI and performance. The company is portrayed as a heavily indebted utility provider with an R&D department, able to preserve its margins through growing demand for frontier intelligence.",
       "link": "https://mhdempsey.substack.com/p/the-business-of-anthropic",
       "sources": [
         "TLDR"
@@ -536,7 +748,7 @@
     {
       "id": "g7328",
       "title": "A guide to getting started in angel investing",
-      "description": "Angel investing can potentially multiply a small investment many times over, and it is possible to start with $5,000. This article explains where beginners can find founders, how to evaluate them and how much to invest.",
+      "description": "Angel investing can potentially multiply a small investment many times over, and it is possible to start with $5,000. This article explains where beginners can find founders, how to select them, and how much to invest.",
       "link": "https://www.julian.com/guide/angel/intro",
       "sources": [
         "TLDR"
@@ -561,7 +773,7 @@
     },
     {
       "id": "g7026",
-      "title": "Ladybird’s first downloadable alpha shows promise",
+      "title": "Ladybird’s first downloadable alpha is promising",
       "description": "Ladybird’s rendering engine and LibJS JavaScript engine were written entirely from scratch. Its first downloadable alpha is surprisingly capable.",
       "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
       "sources": [
@@ -575,7 +787,7 @@
     {
       "id": "g7331",
       "title": "An introduction to open-source chip design",
-      "description": "This article offers readers accustomed to a more software-oriented view of computing an introduction to the open-source chip-design toolchain.",
+      "description": "This article introduces readers accustomed to a more software-focused view of computing to the open-source chip design toolchain.",
       "link": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html",
       "sources": [
         "TLDR"
@@ -588,7 +800,7 @@
     {
       "id": "g7332",
       "title": "The Jevons paradox may no longer explain rising usage",
-      "description": "Cheaper tokens increase usage within the same stage, but moving to the next stage is an organizational rather than pricing problem.",
+      "description": "Cheaper tokens increase usage within the same step, but moving to the next step is an organizational rather than pricing problem.",
       "link": "https://martinalderson.com/posts/has-jevons-paradox-broken-down/",
       "sources": [
         "TLDR"
@@ -601,7 +813,7 @@
     {
       "id": "g7334",
       "title": "Bicameral Labs seeks to create non-conscious neural networks",
-      "description": "The founder of Bicameral Labs believes it is possible to create neural networks by ensuring that they are not conscious, or by minimizing the risk that they become conscious.",
+      "description": "The founder of Bicameral Labs believes it is possible to create neural networks while ensuring they are not conscious, or by minimizing the risk that they become conscious.",
       "link": "https://www.astralcodexten.com/p/anima-bicameral",
       "sources": [
         "TLDR"
@@ -613,8 +825,8 @@
     },
     {
       "id": "g7320",
-      "title": "Cloud coding agents generate two separate costs to budget for",
-      "description": "A cloud-hosted coding agent incurs separate infrastructure costs, tied to machine usage time, and model costs, tied to tokens consumed. To limit expenses, shut down workspaces when they are idle and track the two costs in separate columns.",
+      "title": "Cloud coding agents generate two distinct costs to budget for",
+      "description": "A cloud-hosted coding agent incurs separate infrastructure costs, tied to machine usage time, and model costs, tied to tokens consumed. To limit spending, shut down workspaces when they are idle and track the two costs in separate columns.",
       "link": "https://www.newline.co/@Dipen/deploying-claude-code-and-other-coding-agents-on-cloud-servers--c21dabe8",
       "sources": [
         "Fullstack.io"
@@ -627,7 +839,7 @@
     {
       "id": "g7289",
       "title": "A millennial popularizes Friendsgiving in a retirement community",
-      "description": "A millennial introduced Friendsgiving to her neighbors in a retirement community, who first had to understand why the event took place on a different day. Four years later, it is the building’s most anticipated event.",
+      "description": "A millennial introduced Friendsgiving to her neighbors in a retirement community, who first had to understand why the event was held on a different day. Four years later, it is the building’s most anticipated event.",
       "link": "https://www.businessinsider.com/introduced-holiday-tradition-to-older-generation-retirement-community-friendsgiving-2026-11",
       "sources": [
         "Business Insider"
@@ -639,7 +851,7 @@
     },
     {
       "id": "g7290",
-      "title": "AI may have contributed to the recent outages, but not as expected",
+      "title": "AI May Have Contributed to Recent Outages, But Not as Expected",
       "description": "AI likely played a role in the recent outages, but not in the way expected.",
       "link": "https://www.businessinsider.com/tech-outages-ai-explanation-cybersecurity-2026-11",
       "sources": [
@@ -652,7 +864,7 @@
     },
     {
       "id": "g7291",
-      "title": "Cloudflare and Vercel call for calm amid AI fears",
+      "title": "Cloudflare and Vercel Call for Calm Amid AI-Related Fears",
       "description": "As social media imagined that AI could paralyze civilization, leaders at Cloudflare and Vercel called for calm.",
       "link": "https://www.businessinsider.com/cloudflare-vercel-leaders-caution-against-ai-cyber-panic-2026-10",
       "sources": [
@@ -665,7 +877,7 @@
     },
     {
       "id": "g7292",
-      "title": "JPMorgan supplier breach shows risks amplified by AI",
+      "title": "JPMorgan Supplier Breach Shows AI-Amplified Risks",
       "description": "A breach at a JPMorgan supplier illustrates why AI could make old vulnerabilities easier to exploit.",
       "link": "https://www.businessinsider.com/jpmorgan-vendor-cyberattack-customer-data-exposed-2026-11",
       "sources": [
@@ -678,7 +890,7 @@
     },
     {
       "id": "g7293",
-      "title": "Black October PHP vulnerability illustrates AI risks",
+      "title": "Black October PHP Vulnerability Illustrates AI Risks",
       "description": "The Black October PHP vulnerability shows why AI could make exploiting old flaws easier.",
       "link": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
       "sources": [
@@ -691,7 +903,7 @@
     },
     {
       "id": "g7294",
-      "title": "Experts fear a “tsunami of vulnerabilities” with AI",
+      "title": "Experts Fear a “Tsunami of Vulnerabilities” With AI",
       "description": "Some experts believe AI could trigger a “tsunami of vulnerabilities.”",
       "link": "https://www.businessinsider.com/what-smart-people-say-cybersecurity-openai-internet-threats-2026-10",
       "sources": [
@@ -704,7 +916,7 @@
     },
     {
       "id": "g7295",
-      "title": "Jensen Huang’s return divides investors and tech leaders",
+      "title": "Jensen Huang’s Return Divides Investors and Tech Leaders",
       "description": "Jensen Huang’s return divided investors and technology industry leaders.",
       "link": "https://www.businessinsider.com/jensen-huang-return-reactions-2026-11",
       "sources": [
@@ -717,8 +929,8 @@
     },
     {
       "id": "g7296",
-      "title": "AI is creating founders too important to fail",
-      "description": "Jensen Huang’s return revived the question of whether AI is creating founders who have become too important to fail.",
+      "title": "AI Is Creating Founders Too Important to Disappear",
+      "description": "Jensen Huang’s return renewed the question of whether AI is creating founders who have become too important to fail.",
       "link": "https://www.businessinsider.com/million-jensen-huangs-too-big-fail-ai-nvidia-2026-11",
       "sources": [
         "Business Insider"
@@ -730,8 +942,8 @@
     },
     {
       "id": "g7297",
-      "title": "Jensen Huang says Nvidia does not need a Plan B",
-      "description": "Jensen Huang said Nvidia did not need a Plan B.",
+      "title": "Jensen Huang Says Nvidia Doesn’t Need a Plan B",
+      "description": "Jensen Huang said Nvidia did not need a plan B.",
       "link": "https://www.businessinsider.com/jensen-huangs-succession-message-nvidia-we-dont-need-plan-b-2026-11",
       "sources": [
         "Business Insider"
@@ -743,8 +955,8 @@
     },
     {
       "id": "g7298",
-      "title": "S&P Global warns of dependence on Jensen Huang at Nvidia",
-      "description": "S&P Global’s warning makes it harder to ignore the question of Jensen Huang’s succession at Nvidia.",
+      "title": "S&P Global Warns of Nvidia’s Dependence on Jensen Huang",
+      "description": "S&P Global’s warning makes the question of Jensen Huang’s succession at Nvidia harder to ignore.",
       "link": "https://www.businessinsider.com/nvidia-credit-rating-downgrade-spglobal-jensen-huang-nvda-2026-11",
       "sources": [
         "Business Insider"
@@ -756,7 +968,7 @@
     },
     {
       "id": "g7299",
-      "title": "Michael Burry criticizes Nvidia’s reliance on its leader",
+      "title": "Michael Burry Criticizes Nvidia’s Dependence on Its Leader",
       "description": "Michael Burry’s criticism adds to questions about Nvidia’s dependence on Jensen Huang.",
       "link": "https://www.businessinsider.com/michael-burry-nvidia-big-short-jensen-huang-nvda-2026-11",
       "sources": [
@@ -769,7 +981,7 @@
     },
     {
       "id": "g7300",
-      "title": "Market decline raises questions about the profitability of AI spending",
+      "title": "Market Decline Raises Questions About the Profitability of AI Spending",
       "description": "The market decline reflects growing doubts about whether companies investing heavily in data centers can generate sufficient returns.",
       "link": "https://www.businessinsider.com/stock-market-plunge-tech-ai-michael-burry-nvda-ant-2026-11",
       "sources": [
@@ -782,8 +994,8 @@
     },
     {
       "id": "g7302",
-      "title": "Anthropic discloses nearly $895 billion in commitments",
-      "description": "An amended document filed by Anthropic reports nearly $895 billion in commitments.",
+      "title": "Anthropic Reveals Nearly $895 Billion in Commitments",
+      "description": "The amended filing submitted by Anthropic reports nearly $895 billion in commitments.",
       "link": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
       "sources": [
         "Business Insider"
@@ -795,8 +1007,8 @@
     },
     {
       "id": "g7110",
-      "title": "Anthropic shares fall below their IPO price",
-      "description": "Anthropic shares fell below their IPO price less than a week after going public, signaling that investors still doubt revenues will exceed costs.",
+      "title": "Anthropic Shares Fall Below Their IPO Price",
+      "description": "Anthropic shares fell below their IPO price less than a week after going public, suggesting investors still doubt that revenue will exceed costs.",
       "link": "https://www.businessinsider.com/anthropic-stock-falls-below-ipo-investor-reactions-2026-11",
       "sources": [
         "Business Insider"
@@ -808,7 +1020,7 @@
     },
     {
       "id": "g7305",
-      "title": "Google and Amazon could sell their chips to other customers",
+      "title": "Google and Amazon Could Sell Their Chips to Other Customers",
       "description": "Google and Amazon could sell their chips to other customers.",
       "link": "https://www.businessinsider.com/google-amazon-nvidia-chips-ai-tpu-trainium-customers-2026-4",
       "sources": [
@@ -821,7 +1033,7 @@
     },
     {
       "id": "g7306",
-      "title": "Data center opposition could limit cloud capacity",
+      "title": "Data Center Opposition Could Limit Cloud Capacity",
       "description": "Opposition to data centers could make it harder for major cloud providers to compete with existing capacity.",
       "link": "https://www.businessinsider.com/ai-data-center-backlash-amazon-microsoft-google-midterms-2026-11",
       "sources": [
@@ -834,8 +1046,8 @@
     },
     {
       "id": "g7307",
-      "title": "Macy’s Thanksgiving parade postponed until Saturday",
-      "description": "A storm postponed Macy’s Thanksgiving parade until Saturday for the first time in its history, disrupting the plans of more than 3.5 million usual spectators.",
+      "title": "Macy’s Thanksgiving Parade Postponed Until Saturday",
+      "description": "A storm postponed Macy’s Thanksgiving Parade until Saturday for the first time in its history, disrupting the plans of more than 3.5 million regular spectators.",
       "link": "https://www.businessinsider.com/macys-thanksgiving-day-parade-postponed-until-saturday-due-to-weather-2026-11",
       "sources": [
         "Business Insider"
@@ -847,7 +1059,7 @@
     },
     {
       "id": "g7308",
-      "title": "Weather delays more than 6,500 U.S. flights",
+      "title": "Weather Delays More Than 6,500 U.S. Flights",
       "description": "On Wednesday, weather delayed more than 6,500 flights in the United States and canceled about 160.",
       "link": "https://www.businessinsider.com/storm-east-coast-thanksgiving-day-2026-11",
       "sources": [
@@ -860,8 +1072,8 @@
     },
     {
       "id": "g7309",
-      "title": "Nine things to know about the historic super El Niño",
-      "description": "The article presents nine things to know about this year’s historic super El Niño.",
+      "title": "Nine Things to Know About the Historic Super El Niño",
+      "description": "The article presents nine things to know about this year’s historic Super El Niño.",
       "link": "https://www.businessinsider.com/what-to-know-about-super-el-nino-2026-11",
       "sources": [
         "Business Insider"
@@ -873,7 +1085,7 @@
     },
     {
       "id": "g7310",
-      "title": "Terence Tao calls for a transition to “math 2.0”",
+      "title": "Terence Tao Calls for a Transition to “Math 2.0”",
       "description": "Terence Tao is calling for a transition to “math 2.0” following AI’s spectacular advances.",
       "link": "https://www.businessinsider.com/terence-tao-reimann-hypothesis-math-ai-solutions-advice-anthropic-openai-2026-11",
       "sources": [
@@ -886,7 +1098,7 @@
     },
     {
       "id": "g7311",
-      "title": "Anthropic gets more AI with less computing power",
+      "title": "Anthropic Gets More AI With Less Computing Power",
       "description": "Anthropic is getting more AI with less computing power, which benefits the company but hurts other players.",
       "link": "https://www.businessinsider.com/anthropic-efficiency-gains-doubt-ai-spending-boom-compute-multiplier-2026-11",
       "sources": [
@@ -899,8 +1111,8 @@
     },
     {
       "id": "g7312",
-      "title": "Teen entrepreneur generates six-figure revenue in one month",
-      "description": "A young entrepreneur ignored the advice to follow his passion. His business generated six-figure revenue in a single month.",
+      "title": "Teen Entrepreneur Generates Six Figures in Revenue in One Month",
+      "description": "A young entrepreneur ignored the advice to follow his passion. His business generated six figures in revenue in a single month.",
       "link": "https://www.businessinsider.com/gen-z-entrepreneur-didnt-follow-traditional-career-advice-2026-11",
       "sources": [
         "Business Insider"
@@ -912,8 +1124,8 @@
     },
     {
       "id": "g7314",
-      "title": "The 10 best movies and shows to watch this weekend",
-      "description": "The article recommends the 10 best movies and shows to watch during Thanksgiving weekend.",
+      "title": "The 10 Best Movies and Shows to Watch This Weekend",
+      "description": "The article recommends the 10 best movies and shows to watch over Thanksgiving weekend.",
       "link": "https://www.businessinsider.com/best-movies-tv-shows-to-watch-thanksgiving-weekend-2026-11",
       "sources": [
         "Business Insider"
@@ -925,7 +1137,7 @@
     },
     {
       "id": "g7315",
-      "title": "Bill Ackman shares Carl Icahn’s declining fortune",
+      "title": "Bill Ackman Shares Carl Icahn’s Declining Fortune",
       "description": "Bill Ackman cannot resist sharing information about Carl Icahn’s declining fortune.",
       "link": "https://www.businessinsider.com/bill-ackman-carl-icahn-feud-wealth-herbalife-billionaires-investing-short-2026-11",
       "sources": [
@@ -938,7 +1150,7 @@
     },
     {
       "id": "g7316",
-      "title": "Consumers are turning away from gift cards for more personal gifts",
+      "title": "Consumers Are Abandoning Gift Cards for More Personal Gifts",
       "description": "Gift cards are losing ground as consumers put more effort into their gifts this year.",
       "link": "https://www.businessinsider.com/gift-card-giving-falls-to-20-year-low-as-shoppers-get-picky-2026-11",
       "sources": [
@@ -951,8 +1163,8 @@
     },
     {
       "id": "g7317",
-      "title": "Google is building a tollbooth for AI agents",
-      "description": "Google is building a new tollbooth for AI agents, which could prompt Microsoft to do the same.",
+      "title": "Google Is Building a Tollbooth for AI Agents",
+      "description": "Google is building a new tollbooth for AI agents, which could encourage Microsoft to do the same.",
       "link": "https://www.businessinsider.com/google-ai-agent-access-limits-fees-gmail-drive-microsoft-copilot-2026-11",
       "sources": [
         "Business Insider"
@@ -964,7 +1176,7 @@
     },
     {
       "id": "g7318",
-      "title": "New notices exclude borrowers from a student repayment plan",
+      "title": "New Notices Exclude Borrowers From a Student Repayment Plan",
       "description": "Student loan borrowers are receiving new notices informing them that they have been excluded from an income-driven repayment plan.",
       "link": "https://www.businessinsider.com/student-loan-borrowers-kicked-off-ibr-repayment-plan-new-notices-2026-11",
       "sources": [
@@ -977,8 +1189,8 @@
     },
     {
       "id": "g7319",
-      "title": "Family who traveled to see the Thanksgiving parade will not be able to attend",
-      "description": "Someone took their family to New York for the Thanksgiving parade, an event that had been on their dream list since childhood. They ultimately will not be able to see it.",
+      "title": "Family Who Came to See the Thanksgiving Parade Won’t Be Able to Attend",
+      "description": "Someone brought their family to New York for the Thanksgiving Parade, an event that had been on their dream list since childhood. They ultimately will not be able to see it.",
       "link": "https://www.businessinsider.com/florida-mom-planned-macy-thanksgiving-parade-bucket-list-trip-2026-11",
       "sources": [
         "Business Insider"
@@ -1058,19 +1270,6 @@
       "title": "Agents already control some of the computing used by Gemini",
       "description": "Koray Kavukcuoglu, a vice president at Google DeepMind, said that AI agents now control some of the computing used in Gemini experiments, while estimating that full self-improvement remains a long way off.",
       "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-26T11:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g7282",
-      "title": "Claude can now acquire skills through MCP servers",
-      "description": "Skills over MCP gives Claude instructions for using a connected application without a separate installation. The feature is in public beta and enabled by default for Pro, Max and Ultra subscriptions.",
-      "link": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
       "sources": [
         "The Neuron"
       ],
@@ -1249,19 +1448,6 @@
       "followed_topic": null
     },
     {
-      "id": "g7118",
-      "title": "42 attorneys general seek to stop Character.AI from selling conversations",
-      "description": "In bankruptcy, Character.AI plans to sell its assets, including users’ chat histories and IP addresses, many of them belonging to minors. Forty-two attorneys general are asking the court to block the sale.",
-      "link": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-26T11:13+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g7267",
       "title": "Nvidia risks a ratings downgrade amid political controversy",
       "description": "S&P placed Nvidia on negative watch following controversy involving Jensen Huang and an alleged investigation by the Department of Justice. The agency could downgrade the company from AA to AA- within 90 days.",
@@ -1276,8 +1462,8 @@
     },
     {
       "id": "g7209",
-      "title": "CIA and U.S. intelligence agencies hit by intrusion",
-      "description": "The CIA and the Office of the Director of National Intelligence discovered an intrusion into a public-intelligence analysis system. The data was not classified, but the extent of the leak remains unknown.",
+      "title": "CIA and U.S. Intelligence Agencies Hit by Intrusion",
+      "description": "The CIA and the Office of the Director of National Intelligence discovered an intrusion into a public intelligence analysis system. The data was not classified, but the extent of the breach remains unknown.",
       "link": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
       "sources": [
         "Vision IA"
@@ -1426,19 +1612,6 @@
         "Republic of Innovation"
       ],
       "received_at": "2026-11-26T10:03+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g7234",
-      "title": "How Copilot turns financial PDFs into a dashboard",
-      "description": "Copilot gathered financial documents in OneLake, then Fabric extracted the data from the PDFs, created a semantic model, and generated an application. Satya Nadella received a link to the dashboard about 30 to 35 minutes later.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
-      "sources": [
-        "The Neuron"
-      ],
-      "received_at": "2026-11-25T22:10+01:00",
       "covered_by": 1,
       "favorite": false,
       "followed_topic": null
