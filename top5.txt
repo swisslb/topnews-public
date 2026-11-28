@@ -1,10 +1,10 @@
-# Top 5 news of the day — 2026-11-27
+# Top 5 news of the day — 2026-11-28
 
-Period: 2026-11-26T19:25+01:00 → 2026-11-27T19:25+01:00 · 108 news received
+Period: 2026-11-27T06:25+01:00 → 2026-11-28T06:25+01:00 · 129 news received
 
 ## 1. Nvidia Suspends Server Shipments to Southeast Asia
 
-**Why it matters:** Nvidia’s reported halt of server shipments to four Southeast Asian markets shows that tighter U.S. export controls are already disrupting regional data-center investment and supply chains.
+**Why it matters:** Nvidia’s shipment halt across Southeast Asia shows that tightening U.S. export controls are already disrupting regional data-center investment and the global AI infrastructure supply chain.
 
 Nvidia reportedly asked server manufacturers to halt deliveries to Malaysia, Singapore, Thailand and Indonesia after new U.S. export rules took effect. Fitch expects slower growth and more selective investment in the region’s data centers.
 
@@ -12,29 +12,29 @@ Nvidia reportedly asked server manufacturers to halt deliveries to Malaysia, Sin
 - Sources: Superhuman, TLDR IT, The Neuron, Vision IA
 - Received: 2026-11-27T15:10+01:00
 
-## 2. Dell reaches $22 billion in revenue from AI servers
+## 2. SAP considers cutting 10,000 jobs in AI-related restructuring
 
-**Why it matters:** Dell’s $22 billion in AI-server revenue and $132.3 billion backlog demonstrate the exceptional scale of enterprise demand—and the growing risk of delivery constraints—for AI infrastructure.
+**Why it matters:** SAP’s potential elimination of at least 10,000 jobs signals that major enterprise software companies are restructuring materially around AI-driven productivity and changing demand.
 
-Dell generated $22 billion in AI-server revenue, up 291%. Its order backlog reached $132.3 billion, which could delay some deliveries.
+SAP is considering eliminating at least 10,000 positions, or about 9% of its global workforce, as part of a shift toward artificial intelligence. No final plan has been decided, and discussions with employee representatives are ongoing.
 
-- Link: https://www.techrepublic.com/article/news-dell-ai-server-revenue-q3-fy27-backlog/
-- Sources: TechnologyAdvice
-- Received: 2026-11-27T10:33+01:00
+- Link: https://www.implicator.ai/sources-sap-preparing-plan-eliminate-least-10-000-positions/
+- Sources: Techpresso, TLDR IT, Vision IA
+- Received: 2026-11-27T18:46+01:00
 
-## 3. SAP Considers Cutting at Least 10,000 Jobs in AI-Related Restructuring
+## 3. Soaring memory prices push companies to open “war rooms”
 
-**Why it matters:** SAP’s potential elimination of at least 10,000 jobs signals how major software companies are restructuring their workforces and costs around AI adoption.
+**Why it matters:** Memory prices rising as much as 500% confirms that AI demand is creating a broader semiconductor supply shock, increasing costs and procurement risks for companies.
 
-The job cuts would affect about 9% of SAP’s global workforce. The final number still depends on negotiations with employee representatives.
+The global memory chip shortage is prompting small companies in particular to create purchasing task forces to find DRAM, sometimes on eBay. Prices have risen 500%, while manufacturers are prioritizing HBM memory for AI.
 
-- Link: https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring
-- Sources: TLDR IT
-- Received: 2026-11-27T14:53+01:00
+- Link: https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units
+- Sources: Techpresso
+- Received: 2026-11-27T18:46+01:00
 
 ## 4. 42 Attorneys General Oppose the Sale of Character.AI Conversations
 
-**Why it matters:** The bipartisan push by 42 attorneys general to block the sale of Character.AI conversation histories could establish important precedents for consumer-data ownership, deletion rights and AI privacy enforcement.
+**Why it matters:** The bipartisan effort by 42 U.S. attorneys general to block Character.AI’s data sale could establish important privacy precedents for monetizing AI conversation histories.
 
 A bipartisan coalition of 42 U.S. attorneys general is trying to block the planned sale of conversation histories from more than 21 million accounts. It criticizes the lack of safeguards allowing users to delete data or requiring buyers to follow privacy policies.
 
@@ -42,12 +42,12 @@ A bipartisan coalition of 42 U.S. attorneys general is trying to block the plann
 - Sources: Superhuman, Business Insider
 - Received: 2026-11-27T15:10+01:00
 
-## 5. Investigation finds undisclosed AI use in 25 court cases
+## 5. Hackers infiltrate the US Air Force’s main cloud platform
 
-**Why it matters:** Undisclosed AI-generated errors in at least 25 English and Welsh court cases highlight immediate risks to institutional trust and could accelerate rules requiring transparency and human oversight in legal work.
+**Why it matters:** The breach of the U.S. Air Force’s main cloud platform highlights the operational and national-security consequences of vulnerabilities in government cloud infrastructure.
 
-The Bureau of Investigative Journalism found undisclosed AI use in at least 25 cases in England and Wales. Some rulings included fabricated case law and nonexistent statutes.
+Hackers exploited a vulnerability to access the control plane of Cloud One, the US Air Force’s cloud platform. The intrusion froze migrations and some software fixes, while US Cyber Command assesses the damage.
 
-- Link: https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026
-- Sources: The Neuron
-- Received: 2026-11-27T11:32+01:00
+- Link: https://cyberinsider.com/us-air-force-cloud-one-cyberattack/
+- Sources: Techpresso
+- Received: 2026-11-27T18:46+01:00
