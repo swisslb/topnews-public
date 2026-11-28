@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NewsCenter — Top 5 news of the day — 2026-11-27</title>
+  <title>NewsCenter — Top 5 news of the day — 2026-11-28</title>
   <link>https://newscenter.laurentbischoff.com</link>
-  <description>The five news that matter most today, chosen from Laurent's newsletters. 108 news received.</description>
+  <description>The five news that matter most today, chosen from Laurent's newsletters. 129 news received.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 27 Nov 2026 18:25:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 05:25:00 GMT</lastBuildDate>
   <item>
     <title>1. Nvidia Suspends Server Shipments to Southeast Asia</title>
     <link>https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/</link>
-    <guid isPermaLink="false">2026-11-27:g7360</guid>
-    <description>Why it matters: Nvidia’s reported halt of server shipments to four Southeast Asian markets shows that tighter U.S. export controls are already disrupting regional data-center investment and supply chains. Nvidia reportedly asked server manufacturers to halt deliveries to Malaysia, Singapore, Thailand and Indonesia after new U.S. export rules took effect. Fitch expects slower growth and more selective investment in the region’s data centers.</description>
+    <guid isPermaLink="false">2026-11-28:g7360</guid>
+    <description>Why it matters: Nvidia’s shipment halt across Southeast Asia shows that tightening U.S. export controls are already disrupting regional data-center investment and the global AI infrastructure supply chain. Nvidia reportedly asked server manufacturers to halt deliveries to Malaysia, Singapore, Thailand and Indonesia after new U.S. export rules took effect. Fitch expects slower growth and more selective investment in the region’s data centers.</description>
     <pubDate>Fri, 27 Nov 2026 14:10:00 GMT</pubDate>
     <category>Superhuman</category>
     <category>TLDR IT</category>
@@ -18,37 +18,39 @@
     <category>Vision IA</category>
   </item>
   <item>
-    <title>2. Dell reaches $22 billion in revenue from AI servers</title>
-    <link>https://www.techrepublic.com/article/news-dell-ai-server-revenue-q3-fy27-backlog/</link>
-    <guid isPermaLink="false">2026-11-27:g7378</guid>
-    <description>Why it matters: Dell’s $22 billion in AI-server revenue and $132.3 billion backlog demonstrate the exceptional scale of enterprise demand—and the growing risk of delivery constraints—for AI infrastructure. Dell generated $22 billion in AI-server revenue, up 291%. Its order backlog reached $132.3 billion, which could delay some deliveries.</description>
-    <pubDate>Fri, 27 Nov 2026 09:33:00 GMT</pubDate>
-    <category>TechnologyAdvice</category>
+    <title>2. SAP considers cutting 10,000 jobs in AI-related restructuring</title>
+    <link>https://www.implicator.ai/sources-sap-preparing-plan-eliminate-least-10-000-positions/</link>
+    <guid isPermaLink="false">2026-11-28:g7400</guid>
+    <description>Why it matters: SAP’s potential elimination of at least 10,000 jobs signals that major enterprise software companies are restructuring materially around AI-driven productivity and changing demand. SAP is considering eliminating at least 10,000 positions, or about 9% of its global workforce, as part of a shift toward artificial intelligence. No final plan has been decided, and discussions with employee representatives are ongoing.</description>
+    <pubDate>Fri, 27 Nov 2026 17:46:00 GMT</pubDate>
+    <category>Techpresso</category>
+    <category>TLDR IT</category>
+    <category>Vision IA</category>
   </item>
   <item>
-    <title>3. SAP Considers Cutting at Least 10,000 Jobs in AI-Related Restructuring</title>
-    <link>https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring</link>
-    <guid isPermaLink="false">2026-11-27:g7467</guid>
-    <description>Why it matters: SAP’s potential elimination of at least 10,000 jobs signals how major software companies are restructuring their workforces and costs around AI adoption. The job cuts would affect about 9% of SAP’s global workforce. The final number still depends on negotiations with employee representatives.</description>
-    <pubDate>Fri, 27 Nov 2026 13:53:00 GMT</pubDate>
-    <category>TLDR IT</category>
+    <title>3. Soaring memory prices push companies to open “war rooms”</title>
+    <link>https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units</link>
+    <guid isPermaLink="false">2026-11-28:g7497</guid>
+    <description>Why it matters: Memory prices rising as much as 500% confirms that AI demand is creating a broader semiconductor supply shock, increasing costs and procurement risks for companies. The global memory chip shortage is prompting small companies in particular to create purchasing task forces to find DRAM, sometimes on eBay. Prices have risen 500%, while manufacturers are prioritizing HBM memory for AI.</description>
+    <pubDate>Fri, 27 Nov 2026 17:46:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
   <item>
     <title>4. 42 Attorneys General Oppose the Sale of Character.AI Conversations</title>
     <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
-    <guid isPermaLink="false">2026-11-27:g7118</guid>
-    <description>Why it matters: The bipartisan push by 42 attorneys general to block the sale of Character.AI conversation histories could establish important precedents for consumer-data ownership, deletion rights and AI privacy enforcement. A bipartisan coalition of 42 U.S. attorneys general is trying to block the planned sale of conversation histories from more than 21 million accounts. It criticizes the lack of safeguards allowing users to delete data or requiring buyers to follow privacy policies.</description>
+    <guid isPermaLink="false">2026-11-28:g7118</guid>
+    <description>Why it matters: The bipartisan effort by 42 U.S. attorneys general to block Character.AI’s data sale could establish important privacy precedents for monetizing AI conversation histories. A bipartisan coalition of 42 U.S. attorneys general is trying to block the planned sale of conversation histories from more than 21 million accounts. It criticizes the lack of safeguards allowing users to delete data or requiring buyers to follow privacy policies.</description>
     <pubDate>Fri, 27 Nov 2026 14:10:00 GMT</pubDate>
     <category>Superhuman</category>
     <category>Business Insider</category>
   </item>
   <item>
-    <title>5. Investigation finds undisclosed AI use in 25 court cases</title>
-    <link>https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026</link>
-    <guid isPermaLink="false">2026-11-27:g7414</guid>
-    <description>Why it matters: Undisclosed AI-generated errors in at least 25 English and Welsh court cases highlight immediate risks to institutional trust and could accelerate rules requiring transparency and human oversight in legal work. The Bureau of Investigative Journalism found undisclosed AI use in at least 25 cases in England and Wales. Some rulings included fabricated case law and nonexistent statutes.</description>
-    <pubDate>Fri, 27 Nov 2026 10:32:00 GMT</pubDate>
-    <category>The Neuron</category>
+    <title>5. Hackers infiltrate the US Air Force’s main cloud platform</title>
+    <link>https://cyberinsider.com/us-air-force-cloud-one-cyberattack/</link>
+    <guid isPermaLink="false">2026-11-28:g7492</guid>
+    <description>Why it matters: The breach of the U.S. Air Force’s main cloud platform highlights the operational and national-security consequences of vulnerabilities in government cloud infrastructure. Hackers exploited a vulnerability to access the control plane of Cloud One, the US Air Force’s cloud platform. The intrusion froze migrations and some software fixes, while US Cyber Command assesses the damage.</description>
+    <pubDate>Fri, 27 Nov 2026 17:46:00 GMT</pubDate>
+    <category>Techpresso</category>
   </item>
 </channel>
 </rss>
