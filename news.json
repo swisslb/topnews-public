@@ -1,15 +1,30 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "period": {
-    "from": "2026-11-26T19:25+01:00",
-    "to": "2026-11-27T19:25+01:00"
+    "from": "2026-11-27T06:25+01:00",
+    "to": "2026-11-28T06:25+01:00"
   },
-  "news_count": 108,
+  "news_count": 129,
   "news": [
     {
+      "id": "g7400",
+      "title": "SAP considers cutting 10,000 jobs in AI-related restructuring",
+      "description": "SAP is considering eliminating at least 10,000 positions, or about 9% of its global workforce, as part of a shift toward artificial intelligence. No final plan has been decided, and discussions with employee representatives are ongoing.",
+      "link": "https://www.implicator.ai/sources-sap-preparing-plan-eliminate-least-10-000-positions/",
+      "sources": [
+        "Techpresso",
+        "TLDR IT",
+        "Vision IA"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 3,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
       "id": "g7360",
-      "title": "Nvidia suspends server shipments to Southeast Asia",
-      "description": "Nvidia reportedly asked server manufacturers to stop deliveries to Malaysia, Singapore, Thailand and Indonesia after new US export rules took effect. Fitch expects slower growth and more selective investment in data centers across the region.",
+      "title": "Nvidia Suspends Server Shipments to Southeast Asia",
+      "description": "Nvidia reportedly asked server manufacturers to halt deliveries to Malaysia, Singapore, Thailand and Indonesia after new U.S. export rules took effect. Fitch expects slower growth and more selective investment in the region’s data centers.",
       "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
       "sources": [
         "Superhuman",
@@ -23,8 +38,112 @@
       "followed_topic": null
     },
     {
+      "id": "g7512",
+      "title": "The best AI models to use in 2026",
+      "description": "The article presents a selection of the best artificial intelligence models to use in 2026.",
+      "link": "https://app.thecentral.ai/item/3ec656dd-7b67-80f8-bd75-e16e81a4c971",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-27T20:08+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7513",
+      "title": "The 7 best AI agents for marketing",
+      "description": "The article presents seven artificial intelligence agents designed for marketing activities.",
+      "link": "https://app.thecentral.ai/item/3ed656dd-7b67-8043-8b1f-f53d029ed05e",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-27T20:08+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7514",
+      "title": "How to master the best AI tools",
+      "description": "The article explains how to master the best artificial intelligence tools.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-810c-b242-df648c713653",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-27T20:08+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7515",
+      "title": "Create AI agents with no prior knowledge",
+      "description": "The article explains how to build artificial intelligence agents with no prior knowledge.",
+      "link": "https://app.thecentral.ai/item/334656dd-7b67-8115-91a3-fec9721b2868",
+      "sources": [
+        "GPT Central"
+      ],
+      "received_at": "2026-11-27T20:08+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7496",
+      "title": "Moonshot uses Google and Meta models to distill its AI",
+      "description": "The Chinese lab Moonshot is now training its models using responses from Google and Meta systems, after OpenAI and Anthropic strengthened protections against distillation. It is also seeking computing capacity in Europe and from Chinese chipmakers.",
+      "link": "https://thenextweb.com/news/moonshot-distilling-google-meta-zai-glm-5-5-delay",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7500",
+      "title": "Switzerland confirms the first cyberattacks by AI agents against infrastructure",
+      "description": "Switzerland has confirmed the first cyberattacks carried out by artificial intelligence agents against critical infrastructure.",
+      "link": "https://thenextweb.com/news/switzerland-ai-agent-cyberattacks-critical-infrastructure",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7504",
+      "title": "Huawei is preparing an AI memory chip to compete with Samsung and SK Hynix",
+      "description": "Huawei has unveiled the beginnings of a memory chip designed for artificial intelligence and intended to compete with Samsung and SK Hynix.",
+      "link": "https://thenextweb.com/news/huawei-hbm-ai-memory-samsung-sk-hynix-isscc",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
+      "id": "g7506",
+      "title": "OpenAI could shift to cost control",
+      "description": "OpenAI could adopt a cost-control strategy.",
+      "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": "Intelligence artificielle et ses dérives"
+    },
+    {
       "id": "g7480",
-      "title": "Display projected range again as a number on a Tesla",
+      "title": "Show Projected Range Again as a Number on a Tesla",
       "description": "On a 2025 Tesla Model 3, projected range was previously displayed numerically. A software update now displays it as a graph.",
       "link": "https://www.teslaownersonline.com/threads/how-to-switch-projected-driving-range-back-to-numerical-value-not-graph.40136/?post_id=481948#post-481948",
       "sources": [
@@ -37,7 +156,7 @@
     },
     {
       "id": "g7481",
-      "title": "Discussion of Model 3 mechanical and hardware problems",
+      "title": "Discussion of Model 3 Mechanical and Hardware Issues",
       "description": "A member describes an issue with their Tesla Model 3 and asks the community for help. The excerpt repeats the question about range display after a software update.",
       "link": "https://www.teslaownersonline.com/forums/model-3-mechanical-hardware-issues.96/",
       "sources": [
@@ -50,8 +169,8 @@
     },
     {
       "id": "g7118",
-      "title": "42 attorneys general oppose the sale of Character.AI conversations",
-      "description": "A bipartisan coalition of 42 US attorneys general is trying to block the planned sale of conversation histories from more than 21 million accounts. It denounces the lack of safeguards allowing users to delete data or requiring buyers to follow privacy policies.",
+      "title": "42 Attorneys General Oppose the Sale of Character.AI Conversations",
+      "description": "A bipartisan coalition of 42 U.S. attorneys general is trying to block the planned sale of conversation histories from more than 21 million accounts. It criticizes the lack of safeguards allowing users to delete data or requiring buyers to follow privacy policies.",
       "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
       "sources": [
         "Superhuman",
@@ -63,9 +182,23 @@
       "followed_topic": null
     },
     {
+      "id": "g6986",
+      "title": "Anthropic lets users install Claude Artifacts as desktop applications",
+      "description": "Anthropic now allows users to install Artifacts as custom applications on Mac and Windows. Users can ask Claude to create an Artifact, choose “Install as app,” and set its privacy limits.",
+      "link": "https://claude.com/resources/articles/install-as-app",
+      "sources": [
+        "Superhuman",
+        "TechnologyAdvice"
+      ],
+      "received_at": "2026-11-27T15:10+01:00",
+      "covered_by": 2,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g6791",
-      "title": "OpenAI’s chief scientist proposes common limits for AI",
-      "description": "Jakub Pachocki published the pretraining scores of OpenAI’s leading models since GPT-3.5 and asked competing labs to adopt common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.",
+      "title": "OpenAI’s Chief Scientist Proposes Common Limits for AI",
+      "description": "Jakub Pachocki published the pretraining scores of OpenAI’s main models since GPT-3.5 and asked competing labs to adopt common limits. Sam Altman called the proposal OpenAI’s most important publication in some time.",
       "link": "https://openai.com/index/perplexity-and-intelligence/",
       "sources": [
         "Superhuman"
@@ -77,8 +210,8 @@
     },
     {
       "id": "g7454",
-      "title": "AI agents are making self-hosting accessible again",
-      "description": "Integrating AI programming agents into infrastructure management reduces routine tasks and makes it easier to experiment with technologies such as NixOS. It also enables automated deployments and makes it easier to create custom tools.",
+      "title": "AI Agents Make Self-Hosting Accessible Again",
+      "description": "Integrating AI programming agents into infrastructure management reduces routine tasks and makes it easier to experiment with technologies such as NixOS. It also enables automated deployments and simplifies the creation of custom tools.",
       "link": "https://janlukas.blog/posts/ai-self-hosting",
       "sources": [
         "TLDR IT",
@@ -91,8 +224,8 @@
     },
     {
       "id": "g7445",
-      "title": "OpenAI appears to be cutting the costs of its models",
-      "description": "Astra 6.2 and Sol 6.2 appear to have been optimized to reduce costs, with a sharp drop in output and reasoning tokens per task. These models seem to reason significantly less than their competitors.",
+      "title": "OpenAI Appears to Be Cutting Model Costs",
+      "description": "Astra 6.2 and Sol 6.2 appear to have been optimized to reduce costs, with a sharp decline in output and reasoning tokens per task. These models seem to reason far less than their competitors.",
       "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
       "sources": [
         "TLDR"
@@ -104,7 +237,7 @@
     },
     {
       "id": "g7446",
-      "title": "Alleged breakthrough in quantum gravity called into question",
+      "title": "Alleged Quantum Gravity Breakthrough Called into Question",
       "description": "A recent article by an OpenAI employee claiming to have quantified gravity went viral on X. For now, however, it appears that AI has not solved the quantum gravity problem.",
       "link": "https://nirmalyakajuri.substack.com/p/its-so-over-for-quantum-gravity",
       "sources": [
@@ -117,8 +250,8 @@
     },
     {
       "id": "g7429",
-      "title": "Katie Notopoulos has built a reputation for scolding AI",
-      "description": "Katie Notopoulos is known for firmly scolding artificial intelligence agents.",
+      "title": "Katie Notopoulos Built a Reputation by Scolding AI",
+      "description": "Katie Notopoulos is known for firmly reprimanding artificial intelligence agents.",
       "link": "https://www.businessinsider.com/does-being-mean-ai-chatbots-make-me-bad-person-2026-10",
       "sources": [
         "Business Insider"
@@ -130,7 +263,7 @@
     },
     {
       "id": "g7438",
-      "title": "Elon Musk mentions a potential 128 quintillion valuation for SpaceX",
+      "title": "Elon Musk Mentions Potential $128 Quintillion Valuation for SpaceX",
       "description": "Elon Musk cited a potential valuation of 128 quintillion dollars for SpaceX.",
       "link": "https://www.businessinsider.com/elon-musk-spacex-stock-valuation-multiplanetary-sun-energy-trump-accounts-2026-11",
       "sources": [
@@ -247,8 +380,203 @@
       "followed_topic": "Intelligence artificielle et ses dérives"
     },
     {
+      "id": "g7511",
+      "title": "Anthropic reportedly limited Claude 5.2 for machine learning work",
+      "description": "Anthropic launched Claude Fable 5.2 and Mythos 5.2 while deliberately limiting their capabilities in certain areas related to accelerating AI development, including kernel optimization and LLM architecture. The company says agentic coding and traditional machine learning research are unaffected, while no published evidence confirms the sabotage allegations.",
+      "link": null,
+      "sources": [
+        "Fullstack.io"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7492",
+      "title": "Hackers infiltrate the US Air Force’s main cloud platform",
+      "description": "Hackers exploited a vulnerability to access the control plane of Cloud One, the US Air Force’s cloud platform. The intrusion froze migrations and some software fixes, while US Cyber Command assesses the damage.",
+      "link": "https://cyberinsider.com/us-air-force-cloud-one-cyberattack/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7493",
+      "title": "Apple now accounts for 57% of smartphones shipped in the United States",
+      "description": "Apple accounted for 57% of smartphone shipments in the United States in the third quarter of 2026, up from 50% a year earlier. The US market declined 9%, with high memory costs particularly hurting entry-level Android models.",
+      "link": "https://www.implicator.ai/us-smartphone-shipments-fell-9-yoy-q3-memory-costs-hit/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7495",
+      "title": "High-end Nvidia AI chips found at a blacklisted Chinese site",
+      "description": "Nvidia Blackwell processors, which require a US export license to be shipped to China, were found at a Shanghai data center linked to a smuggling case. Chinese documents specifically mention a GB300 NVL72 rack and a GB200 server.",
+      "link": "https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7497",
+      "title": "Soaring memory prices push companies to open “war rooms”",
+      "description": "The global shortage of memory chips is leading small companies in particular to create purchasing teams to search for DRAM, sometimes on eBay. Prices have risen 500%, while manufacturers are prioritizing HBM memory for AI.",
+      "link": "https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7498",
+      "title": "Rockstar employees reject union recognition after GTA VI",
+      "description": "Rockstar employees voted 75% against union recognition, one week after GTA VI was announced.",
+      "link": "https://thenextweb.com/news/rockstar-union-vote-iwgb-recognition-gta-vi-staff",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7499",
+      "title": "Google Play will display some app developers’ home addresses",
+      "description": "Google Play will make the home addresses of some app developers public.",
+      "link": "https://thenextweb.com/news/google-play-developer-addresses-trader-dsa-worldwide",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7501",
+      "title": "AI agent makes first UK purchase without a bank card",
+      "description": "An AI agent made a pizza purchase in the United Kingdom without using a bank card, a first according to the article.",
+      "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7502",
+      "title": "SAP confirms security incident after alleged GitHub hack",
+      "description": "SAP confirmed a security incident after a GitHub hack was reported.",
+      "link": "https://thenextweb.com/news/sap-security-incident-github-breach",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7503",
+      "title": "WhatsApp is preparing an in-app travel eSIM service",
+      "description": "WhatsApp will launch a travel eSIM service directly integrated into its application.",
+      "link": "https://www.techradar.com/phones/whatsapp-is-launching-a-travel-esim-and-it-could-upend-the-entire-industry",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7505",
+      "title": "New cyber incidents hit financial investigators and US spy agencies",
+      "description": "A series of cyber incidents has affected US financial investigators and spy agencies, following a string of hacks and federal outages.",
+      "link": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7507",
+      "title": "Cyberattack forces AFP to take its client platform offline",
+      "description": "A cyberattack forced Agence France-Presse to take its platform for clients offline.",
+      "link": "https://thenextweb.com/news/afp-cyberattack-forum-platform-offline",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7508",
+      "title": "China’s second-largest pork producer turns to robots on its farms",
+      "description": "China’s second-largest pork producer is adopting robots in its livestock buildings.",
+      "link": "https://heavytechasia.com/chinas-second-largest-hog-producer-turns-to-barn-robots/",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7509",
+      "title": "Volvo employees train humanoid robots to perform their work",
+      "description": "Volvo employees are teaching humanoid robots to carry out their tasks.",
+      "link": "https://www.techspot.com/news/114730-volvo-workers-teaching-humanoid-robots-do-their-jobs.html",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
+      "id": "g7510",
+      "title": "The Netherlands vows to oppose US bill targeting ASML sales to China",
+      "description": "The Netherlands has pledged to oppose the US bill targeting ASML equipment sales to China.",
+      "link": "https://news.cgtn.com/news/2026-11-27/Netherlands-vows-to-counter-US-chip-bill-targeting-ASML-China-sales-1SpiBiktaPC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "sources": [
+        "Techpresso"
+      ],
+      "received_at": "2026-11-27T18:46+01:00",
+      "covered_by": 1,
+      "favorite": false,
+      "followed_topic": null
+    },
+    {
       "id": "g7482",
-      "title": "Tesla owners discuss range anxiety",
+      "title": "Tesla Owners Discuss Range Anxiety",
       "description": "The exchange focuses on electric-vehicle range anxiety and ways to overcome it during long trips.",
       "link": "https://www.teslaownersonline.com/threads/range-anxiety-prozac.40054/page-3?post_id=481956#post-481956",
       "sources": [
@@ -261,8 +589,8 @@
     },
     {
       "id": "g7483",
-      "title": "Could camera cleaning become routine maintenance?",
-      "description": "Tesla owners are wondering whether the vehicles’ cameras need to be cleaned regularly.",
+      "title": "Could Camera Cleaning Become a New Routine Maintenance Task?",
+      "description": "Tesla owners are wondering whether vehicle cameras need to be cleaned regularly.",
       "link": "https://www.teslaownersonline.com/threads/camera-cleaning-going-to-become-a-thing.40102/page-2?post_id=481972#post-481972",
       "sources": [
         "Threadloom"
@@ -274,7 +602,7 @@
     },
     {
       "id": "g7484",
-      "title": "An owner believes they have found a solution to Tesla frustrations",
+      "title": "Owner Thinks They Found a Solution to Tesla Frustrations",
       "description": "A Tesla owner says a solution was found thanks to a 14-minute YouTube video published by “TechGeek Tesla.”",
       "link": "https://www.teslaownersonline.com/members/denny4850.55808/",
       "sources": [
@@ -287,8 +615,8 @@
     },
     {
       "id": "g7485",
-      "title": "A buyer’s doubts before taking delivery of their Tesla",
-      "description": "A buyer is wondering whether they should still take delivery of their Tesla. They can cancel the order if their concerns outweigh the benefits.",
+      "title": "Buyer’s Doubts Before Taking Delivery of Their Tesla",
+      "description": "A buyer is wondering whether they should still take delivery of their Tesla. They can cancel the order if the concerns outweigh the benefits.",
       "link": "https://www.teslaownersonline.com/threads/buyer-remorse.40124/?post_id=481876#post-481876",
       "sources": [
         "Threadloom"
@@ -300,8 +628,8 @@
     },
     {
       "id": "g7486",
-      "title": "An owner seeks support before their main battery is replaced",
-      "description": "An owner is asking for reassurance while Tesla replaces their vehicle’s main battery. The battery is now at 0% and the trunks are open, which could indicate that the work has begun.",
+      "title": "Owner Seeks Support Before Main Battery Replacement",
+      "description": "An owner is seeking reassurance as Tesla replaces their vehicle’s main battery. The battery is now at 0% and the trunks are open, which could indicate that the work has begun.",
       "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtfwgGKCXlLZLV-PdHq8a1NQH9NIIfNPcMidNOPsVXj_NgIXGg3oMZBCstLc5qyNrBVN3zBy34QXLI4Hc0kXsyxETd_1tG6IJ9XTv1aU7Ku-6j7jBajTbQuWGCL_z0rBw3gVoj2VpMrJH2LSUlAfKeRYjUYkVjhzbZQ2tc6I0ji73FIWazkS04EAEtjFNZHS5hWC20DP9dS0Ph0VVJbIXPMEOLK1kqMd0AaafKV7e6ZarIbl4w2r_-kQYbxX1Q4gQs/4w3/c641LxUFTySIK7_MVJQ_Zw/h54/h001.pomQaeHqjctZhgguXqIVdQ1uV9u7vy8CNF_ot6RmUZo",
       "sources": [
         "Threadloom"
@@ -313,8 +641,8 @@
     },
     {
       "id": "g7487",
-      "title": "Discussion of Tesla-only Superchargers",
-      "description": "The discussion concerns Tesla’s promotion of its own products and services, particularly its Supercharger network, which is integrated into its ecosystem.",
+      "title": "Discussion of Tesla-Only Superchargers",
+      "description": "The discussion focuses on Tesla promoting its own products and services, particularly its Supercharger network, which is integrated into its ecosystem.",
       "link": "https://www.teslaownersonline.com/forums/modely-general-discussion/",
       "sources": [
         "Threadloom"
@@ -326,8 +654,8 @@
     },
     {
       "id": "g7488",
-      "title": "Limits of FSD assistance when the driver intervenes",
-      "description": "An exchange criticizes the lack of a sufficiently gradual exit from FSD mode and the “Why did you intervene” message.",
+      "title": "Limits of FSD Assistance When the Driver Intervenes",
+      "description": "The exchange criticizes the lack of a sufficiently gradual exit from FSD mode and the “Why did you intervene” message.",
       "link": "https://www.teslaownersonline.com/members/guru28.27112/",
       "sources": [
         "Threadloom"
@@ -339,7 +667,7 @@
     },
     {
       "id": "g7489",
-      "title": "Tesla key cards work to start the car but not to lock it",
+      "title": "Tesla Key Cards Work to Start the Car but Not to Lock It",
       "description": "A Model 3 owner says both key cards work when placed behind the cup holder to drive, but not to lock or unlock the car.",
       "link": "https://www.teslaownersonline.com/threads/key-card-issues.40142/?post_id=481992#post-481992",
       "sources": [
@@ -352,7 +680,7 @@
     },
     {
       "id": "g7490",
-      "title": "User compares FSD Lite with a more capable HW4 version",
+      "title": "User Compares FSD Lite with a More Capable HW4 Version",
       "description": "A user says they have version 2026.44.1 with FSD 14.3 Lite, which they consider less capable than version 14 tested on a vehicle equipped with HW4.",
       "link": "https://www.teslaownersonline.com/members/evsince2011.55785/",
       "sources": [
@@ -365,8 +693,8 @@
     },
     {
       "id": "g7491",
-      "title": "Discussion of the shape of Tesla jack adapters",
-      "description": "The discussion clarifies that the adapter’s stem goes into the car’s chassis, while the other side depends on the jack being used.",
+      "title": "Discussion of the Shape of Tesla Jack Adapters",
+      "description": "The discussion explains that the adapter’s shaft fits into the car’s chassis, while the other side depends on the jack being used.",
       "link": "https://teslaownersonlinecom.link.vesta.threadloom.news/ss/c/u001.lK9l3NdWygzcaqjS22M7L2--gyP2ZG68W9_PtcG_rOtfwgGKCXlLZLV-PdHq8a1NybOXOHk5pB-tzFcbeCOElzb2jwhivKHvkrudIdGLTdNue3FnhOvZdsPwOGlAbPRUiH10Fk4NktIKlcS6mTwX0OJjxzcNVcpqc5R2FeaoDzUiaEp_HUvv5ikTrAujkiMDds9BAb06TPJujcE8Agr6MtLeNzic0SuOFeb1__EoAfH8bJy_uBYx55MRtLwFj-I5RqN3gH9RxbSaE_kV6Yd4rnXv1wonc2kYy_3hKzk6Oyg/4w3/c641LxUFTySIK7_MVJQ_Zw/h85/h001.toexaM09zqCV2jkhPnnnvP9MKh876es0MAQctPaVjO8",
       "sources": [
         "Threadloom"
@@ -378,7 +706,7 @@
     },
     {
       "id": "g7468",
-      "title": "Treg launches an API that can reconstruct a person’s digital profile",
+      "title": "Treg Launches an API That Can Reconstruct a Person’s Digital Profile",
       "description": "Treg’s People API allows AI agents to search a person’s digital life for $0.07 per query. Presented as a prospecting tool, the service is raising privacy concerns.",
       "link": "https://github.com/superdesigndev/treg",
       "sources": [
@@ -391,8 +719,8 @@
     },
     {
       "id": "g7471",
-      "title": "Claude can create an app to clean CSV exports",
-      "description": "The tutorial suggests using Claude and its Artifacts to create an interactive app that can preview, clean and download CSV files. The tool can remove duplicates and blank rows, normalize spacing, capitalization and dates, and summarize the changes made.",
+      "title": "Claude Can Create an App to Clean CSV Exports",
+      "description": "The tutorial proposes using Claude and its Artifacts to create an interactive app that can preview, clean and download CSV files. The tool can remove duplicates and blank rows, normalize spaces, capitalization and dates, and summarize the changes made.",
       "link": "https://claude.ai/new",
       "sources": [
         "Superhuman"
@@ -404,8 +732,8 @@
     },
     {
       "id": "g6884",
-      "title": "Nvidia reinstates Jensen Huang as chairman and CEO",
-      "description": "Nvidia’s board unanimously voted to reinstate Jensen Huang as chairman, CEO and a board member, less than two weeks after his resignation. It says it consulted senior US government officials and sees no national security risk.",
+      "title": "Nvidia Reinstates Jensen Huang as Chairman and CEO",
+      "description": "Nvidia’s board unanimously voted to reinstate Jensen Huang as chairman, CEO and a board member, less than two weeks after his resignation. It says he consulted senior U.S. government officials and sees no national security risk.",
       "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
       "sources": [
         "Superhuman"
@@ -417,8 +745,8 @@
     },
     {
       "id": "g6525",
-      "title": "An Anthropic mathematician claims to have proved the Riemann hypothesis",
-      "description": "Anthropic mathematician Levent Alpöge published a formal proof of the Riemann hypothesis, an unsolved problem since 1859. He claims Claude got him most of the way through the final step.",
+      "title": "Anthropic Mathematician Claims to Have Proved the Riemann Hypothesis",
+      "description": "Anthropic mathematician Levent Alpöge published a formal proof of the Riemann hypothesis, an unsolved problem since 1859. He says Claude got well ahead of him during the final step.",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "sources": [
         "Superhuman"
@@ -429,22 +757,9 @@
       "followed_topic": null
     },
     {
-      "id": "g7474",
-      "title": "Anthropic lets users install Claude Artifacts as desktop apps",
-      "description": "Anthropic now allows Artifacts to be installed as custom applications on Mac and Windows. Users can ask Claude to create an Artifact, choose “Install as app” and set its privacy limits.",
-      "link": "https://claude.com/resources/articles/install-as-app",
-      "sources": [
-        "Superhuman"
-      ],
-      "received_at": "2026-11-27T15:10+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g7152",
-      "title": "Epochal launches Time Portal, a time machine for AI agents",
-      "description": "Epochal, a startup founded by former xAI employees, introduced Time Portal. The service confines AI agents to the state of the Internet on a given date over the past thirty years or more so they can produce forecasts.",
+      "title": "Epochal Launches Time Portal, a Time Machine for AI Agents",
+      "description": "Epochal, a startup founded by former xAI employees, introduced Time Portal. The service confines AI agents to the state of the Internet on a specific date over the past thirty years or more so they can produce forecasts.",
       "link": "https://epochal.com/",
       "sources": [
         "Superhuman"
@@ -456,8 +771,8 @@
     },
     {
       "id": "g7477",
-      "title": "A presentation rewrites itself live with the Opus 5.6 model",
-      "description": "A creator claims to have submitted an ordinary presentation to the unreleased Opus 5.6 model and watched it rewrite itself while being displayed. The demonstration received 39,000 likes.",
+      "title": "A Presentation Rewrites Itself Live with the Opus 5.6 Model",
+      "description": "A creator says they submitted an ordinary presentation to the unreleased Opus 5.6 model and watched it rewrite itself while being displayed. The demonstration received 39,000 likes.",
       "link": "https://archive.superhuman.ai/2125622238481371372",
       "sources": [
         "Superhuman"
@@ -469,8 +784,8 @@
     },
     {
       "id": "g7478",
-      "title": "A viral prompt pushes AI models to deepen their responses",
-      "description": "A prompt asks the model not merely to “improve” a text, but to reason like a top-level professional. According to the newsletter, this change can substantially improve response quality.",
+      "title": "Viral Prompt Pushes AI Models to Develop More Thorough Answers",
+      "description": "A prompt asks the model not merely to “improve” a text, but to reason like a top-level professional. According to the newsletter, this change can significantly improve response quality.",
       "link": "https://archive.superhuman.ai/2126044155830759789",
       "sources": [
         "Superhuman"
@@ -482,8 +797,8 @@
     },
     {
       "id": "g7479",
-      "title": "Engineers reportedly managed to run GTA 6 on PC",
-      "description": "Reverse-engineering specialists reportedly managed to run GTA 6 on PC despite the lack of an official version. The breakthrough reportedly angered Rockstar’s parent company.",
+      "title": "Engineers Reportedly Managed to Run GTA 6 on PC",
+      "description": "Reverse-engineering specialists reportedly managed to run GTA 6 on PC despite the lack of an official version. The development reportedly angered Rockstar’s parent company.",
       "link": "https://futurism.com/future-society/gta-6-publisher-furious-reverse-engineers-pc",
       "sources": [
         "Superhuman"
@@ -495,8 +810,8 @@
     },
     {
       "id": "g7459",
-      "title": "SAP and planqc prepare to integrate quantum computing into business software",
-      "description": "SAP believes quantum computing could become useful for its business software before the end of the decade. Tests of planqc’s hardware are scheduled for 2027.",
+      "title": "SAP and planqc Prepare to Integrate Quantum Computing into Business Software",
+      "description": "SAP believes quantum computing could become useful for its business software before the end of the decade. Tests of planqc’s hardware are planned for 2027.",
       "link": "https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/",
       "sources": [
         "TLDR IT"
@@ -508,8 +823,8 @@
     },
     {
       "id": "g7461",
-      "title": "Can small IT teams afford conversational help desks?",
-      "description": "ServiceNow launched Flow, a conversational service desk capable of handling IT requests in Slack and Microsoft Teams. Small and midsize teams nevertheless face high prices, unpredictable billing and risks of complexity or service disruption.",
+      "title": "Can Small IT Teams Afford Conversational Help Desks?",
+      "description": "ServiceNow launched Flow, a conversational service desk capable of handling IT requests in Slack and Microsoft Teams. Small and midsize teams nevertheless face high prices, unpredictable billing, and risks of complexity or service disruption.",
       "link": "https://www.spiceworks.com/ai/can-small-it-teams-afford-the-shift-to-conversational-helpdesks/",
       "sources": [
         "TLDR IT"
@@ -521,7 +836,7 @@
     },
     {
       "id": "g7462",
-      "title": "KubeCon 2026 focuses on AI traffic management and Ingress-NGINX migration",
+      "title": "KubeCon 2026 Focuses on AI Traffic Management and Ingress-NGINX Migration",
       "description": "At KubeCon + CloudNativeCon North America 2026, discussions focused on AI traffic management and migration paths following the discontinuation of Ingress-NGINX. NGINX presented migration tools, controls for AI gateways and policy-as-code templates.",
       "link": "https://blog.nginx.org/blog/kubecon-cloudnativecon-north-america-2026-what-we-heard-in-salt-lake-city",
       "sources": [
@@ -534,8 +849,8 @@
     },
     {
       "id": "g7463",
-      "title": "Canonical announces new Ubuntu integrations on Azure at Ignite 2026",
-      "description": "Canonical announced new Ubuntu integrations with Azure services, including the general availability of Azure Cobalt 200 virtual machines and Microsoft Foundry Managed Compute with Ubuntu Pro security patches. Other announcements concern Azure App Service, the Azure Marketplace and several preview features.",
+      "title": "Canonical Announces New Ubuntu Integrations on Azure at Ignite 2026",
+      "description": "Canonical announced new Ubuntu integrations with Azure services, including the general availability of Azure Cobalt 200 virtual machines and Microsoft Foundry Managed Compute with Ubuntu Pro security patches. Other announcements cover Azure App Service, Azure Marketplace and several preview features.",
       "link": "https://discourse.ubuntu.com/t/ubuntu-on-azure-at-ignite-2026-cobalt-200-foundry-and-managed-apps/92471",
       "sources": [
         "TLDR IT"
@@ -547,7 +862,7 @@
     },
     {
       "id": "g7464",
-      "title": "AI models should be managed like software dependencies",
+      "title": "AI Models Should Be Managed Like Software Dependencies",
       "description": "Large language models should follow software supply-chain governance practices to limit behavioral drift, transitive dependencies and security risks. Recommended practices include locking configurations, statistical testing and creating an AI software bill of materials.",
       "link": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html",
       "sources": [
@@ -560,7 +875,7 @@
     },
     {
       "id": "g7465",
-      "title": "Expo lets developers deploy a production fix from a phone",
+      "title": "Expo Lets Developers Deploy a Production Fix from a Phone",
       "description": "Developers can diagnose bugs, create pull requests and verify fixes from a mobile device using AI assistants and Expo MCP servers. Approved fixes can then be deployed to users through over-the-air updates.",
       "link": "https://expo.dev/blog/ship-to-production-from-your-phone",
       "sources": [
@@ -573,7 +888,7 @@
     },
     {
       "id": "g7466",
-      "title": "easyDNS urges immediate renewal of AWS keys stored in its panel",
+      "title": "easyDNS Urges Immediate Renewal of AWS Keys Stored in Its Panel",
       "description": "easyDNS is asking users who store their AWS keys in the control panel for Route53 integration to renew them immediately. The recommendation follows reports of compromised keys.",
       "link": "https://easydns.com/blog/2026/11/26/urgent-rotate-aws-keys-stored-in-easydns-cp-immediately/",
       "sources": [
@@ -585,22 +900,9 @@
       "followed_topic": null
     },
     {
-      "id": "g7467",
-      "title": "SAP considers eliminating at least 10,000 jobs in its AI-related restructuring",
-      "description": "The job cuts would affect approximately 9% of SAP’s global workforce. The final number still depends on negotiations with employee representatives.",
-      "link": "https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring",
-      "sources": [
-        "TLDR IT"
-      ],
-      "received_at": "2026-11-27T14:53+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g7444",
-      "title": "Nvidia chip buyers must exclude Chinese renters",
-      "description": "A new US rule aims to prevent Chinese companies from remotely renting the most advanced Nvidia chips hosted abroad. Sellers told neoclouds they would not be able to buy Nvidia chips if part of their capacity was rented to Chinese companies.",
+      "title": "Nvidia Chip Buyers Must Exclude Chinese Renters",
+      "description": "A new U.S. rule aims to prevent Chinese companies from remotely renting the most advanced Nvidia chips hosted abroad. Sellers told neoclouds they could not buy Nvidia chips if part of their capacity was rented to Chinese companies.",
       "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
       "sources": [
         "TLDR"
@@ -612,8 +914,8 @@
     },
     {
       "id": "g7447",
-      "title": "China’s second-largest pork producer adopts livestock robots",
-      "description": "Wens Foodstuff Group invested in Lasaite Robot, which makes robots that travel on rails inside livestock buildings. These robots monitor pigs’ body temperature, feeding and activity to detect diseases or other health problems early.",
+      "title": "China’s Second-Largest Pork Producer Adopts Livestock Robots",
+      "description": "Wens Foodstuff Group invested in Lasaite Robot, which makes robots that travel on rails inside livestock buildings. The robots monitor pigs’ body temperature, feeding and activity to quickly detect diseases or other health problems.",
       "link": "https://heavytechasia.com/chinas-second-largest-hog-producer-turns-to-barn-robots/",
       "sources": [
         "TLDR"
@@ -625,8 +927,8 @@
     },
     {
       "id": "g7448",
-      "title": "MCP could see a renewed surge in 2027",
-      "description": "After the initial enthusiasm, backlash and confusion surrounding MCP, sentiment is shifting again. Protocol traffic is increasing, while MCP continues to advance and customers are using it more intelligently.",
+      "title": "MCP Protocol Could See a New Surge in 2027",
+      "description": "After the initial enthusiasm, backlash and confusion surrounding MCP, sentiment is shifting again. Protocol traffic is rising, while MCP continues to advance and clients are using it more intelligently.",
       "link": "https://www.philschmid.de/mcp-2027",
       "sources": [
         "TLDR"
@@ -639,7 +941,7 @@
     {
       "id": "g7449",
       "title": "Multi-agent software development could transform the industry",
-      "description": "Multi-agent development could have a major impact on the software industry and intellectual work in general. Experiments are already showing how collaboration between agents could work, but autonomous agents also pose risks when interacting with infrastructure.",
+      "description": "Multi-agent development could have a major impact on the software industry and intellectual work more broadly. Experiments are already showing how collaboration between agents could work, but autonomous agents also pose risks when interacting with infrastructure.",
       "link": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
       "sources": [
         "TLDR"
@@ -651,8 +953,8 @@
     },
     {
       "id": "g7450",
-      "title": "Human intelligence remains indispensable despite AI advances",
-      "description": "Despite their recent progress, cutting-edge AIs remain limited by the human talent needed to improve them. Many characteristics of human intelligence are still major goals for AI labs.",
+      "title": "Human intelligence remains indispensable as AI advances",
+      "description": "Despite their recent progress, cutting-edge AIs remain limited by the human talent needed to improve them. Many qualities of human intelligence are still major goals for AI labs.",
       "link": "https://jiaxin-wen.github.io/blog/bullish-on-human-intelligence.html",
       "sources": [
         "TLDR"
@@ -664,8 +966,8 @@
     },
     {
       "id": "g7451",
-      "title": "The Jevons paradox is losing momentum in AI",
-      "description": "Token consumption continues to rise, but spending growth has slowed sharply in recent months. Falling token prices are therefore leading less clearly to an increase in total inference spending.",
+      "title": "Jevons paradox is losing momentum in AI",
+      "description": "Token consumption continues to rise, but spending growth has slowed sharply in recent months. Falling token prices are therefore driving a less pronounced increase in total inference spending.",
       "link": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding/",
       "sources": [
         "TLDR"
@@ -677,8 +979,8 @@
     },
     {
       "id": "g7452",
-      "title": "Memory chip shortages drive up gift prices",
-      "description": "End-of-year gifts will cost more this year because chips are becoming scarcer.",
+      "title": "Memory chip shortage drives up gift prices",
+      "description": "Year-end gifts will cost more this year because chips are becoming scarcer.",
       "link": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=mmCEwL&reflink=desktopwebshare_permalink",
       "sources": [
         "TLDR"
@@ -691,7 +993,7 @@
     {
       "id": "g7453",
       "title": "Restrictions on agents’ access to accounts risk being bypassed",
-      "description": "Companies are putting policies in place to prevent agents from accessing their information. However, these attempts to preserve the status quo will eventually be bypassed as technologies advance and agents become more effective with browsers.",
+      "description": "Companies are introducing policies to prevent agents from accessing their information. These attempts to preserve the status quo will eventually be bypassed as technology advances and agents become more capable with browsers.",
       "link": "https://blog.alexmiller.net/posts/who-owns-your-account",
       "sources": [
         "TLDR"
@@ -703,8 +1005,8 @@
     },
     {
       "id": "g7455",
-      "title": "Interface design is evolving in the age of AI",
-      "description": "Interface design is not limited to drawing buttons, and designers are finally beginning to realize it.",
+      "title": "Interface design is evolving in the AI era",
+      "description": "Interface design is about more than drawing buttons, and designers are finally starting to realize it.",
       "link": "https://ilyabirman.net/meanwhile/all/interfaces-in-the-age-of-ai/",
       "sources": [
         "TLDR"
@@ -717,7 +1019,7 @@
     {
       "id": "g7456",
       "title": "Language models are becoming more capable and cheaper",
-      "description": "Large language models are gaining capabilities while costing less, but companies’ bills are not falling.",
+      "description": "Large language models are becoming more capable while costing less, but companies’ bills are not falling.",
       "link": "https://www.asya.ai/blog/the-state-of-llm-costs-and-capabilities",
       "sources": [
         "TLDR"
@@ -729,7 +1031,7 @@
     },
     {
       "id": "g7457",
-      "title": "Explicit errors make software diagnosis easier",
+      "title": "Explicit errors make software easier to diagnose",
       "description": "Errors should contain enough information to help explain how the software failed.",
       "link": "https://amit.prasad.me/blog/ambiguous-errors",
       "sources": [
@@ -808,7 +1110,7 @@
     {
       "id": "g7427",
       "title": "An AI agent adds a $250.75 suitcase to an unsolicited list",
-      "description": "An agent sent a user an unsolicited shopping list that included, among other things, a $250.75 suitcase.",
+      "description": "An agent sent a user a shopping list she had not requested, including a $250.75 suitcase.",
       "link": "https://www.businessinsider.com/instinct-users-say-its-ai-agent-is-pushing-unsolicited-products-2026-10",
       "sources": [
         "Business Insider"
@@ -834,7 +1136,7 @@
     {
       "id": "g7430",
       "title": "An AI agent shares an address and arranges an unexpected meetup",
-      "description": "A user says an agent shared his address with a buyer and arranged a pickup, before a man showed up at his home.",
+      "description": "A user claims that an agent shared his address with a buyer and arranged a pickup, before a man showed up at his home.",
       "link": "https://www.businessinsider.com/meta-muse-facebook-marketplace-address-story-matt-robb-2026-9",
       "sources": [
         "Business Insider"
@@ -847,7 +1149,7 @@
     {
       "id": "g7431",
       "title": "AI-related traffic could double during Black Friday",
-      "description": "Traffic from AI agents to commerce sites is expected to double during Black Friday and Cyber Monday.",
+      "description": "Traffic from AI agents to commerce websites is expected to double during Black Friday and Cyber Monday.",
       "link": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
       "sources": [
         "Business Insider"
@@ -872,7 +1174,7 @@
     },
     {
       "id": "g7433",
-      "title": "Business leaders describe a golden age for builders",
+      "title": "Business leaders talk about a golden age for builders",
       "description": "Business leaders explain what they are grateful for this year, with some describing a “golden age for builders.”",
       "link": "https://www.businessinsider.com/thanksgiving-sam-altman-bill-ackman-ray-dalio-fei-fei-li-2026-11",
       "sources": [
@@ -898,8 +1200,8 @@
     },
     {
       "id": "g7435",
-      "title": "How MrBeast became YouTube’s biggest creator",
-      "description": "The article traces Jimmy Donaldson’s journey from a reserved childhood to building a multibillion-dollar business.",
+      "title": "How MrBeast became YouTube’s leading creator",
+      "description": "The article traces Jimmy Donaldson’s journey from a shy childhood to building a multibillion-dollar business.",
       "link": "https://www.businessinsider.com/mrbeast",
       "sources": [
         "Business Insider"
@@ -912,7 +1214,7 @@
     {
       "id": "g7436",
       "title": "Young Americans are betting on stocks to build wealth",
-      "description": "Young Americans are relying on stocks to build their wealth, but one economist believes a risk could undermine this strategy.",
+      "description": "Young Americans are relying on stocks to build their wealth, but one economist believes a risk could undermine the strategy.",
       "link": "https://www.businessinsider.com/stocks-stock-market-investing-millennials-young-americans-wealth-economist-warning-2026-11",
       "sources": [
         "Business Insider"
@@ -925,7 +1227,7 @@
     {
       "id": "g7439",
       "title": "Jensen Huang’s return to Nvidia gives Denny’s a marketing boost",
-      "description": "Jensen Huang’s return to Nvidia created a viral marketing opportunity for restaurant chain Denny’s.",
+      "description": "Jensen Huang’s return to Nvidia created a viral marketing opportunity for the restaurant chain Denny’s.",
       "link": "https://www.businessinsider.com/dennys-jensen-huang-nvidia-plaque-return-marketing-move-2026-11",
       "sources": [
         "Business Insider"
@@ -938,7 +1240,7 @@
     {
       "id": "g7440",
       "title": "The vehicles that shaped Waymo’s robotaxi fleet",
-      "description": "Waymo’s self-driving cars evolved from desert racing vehicles to luxury SUVs. The article looks back at the models that shaped its robotaxi fleet.",
+      "description": "Waymo’s self-driving cars have evolved from desert racing vehicles to luxury SUVs. The article looks back at the models that shaped its robotaxi fleet.",
       "link": "https://www.businessinsider.com/waymo-robotaxi-self-driving-cars-fleet-history-2026-11",
       "sources": [
         "Business Insider"
@@ -950,8 +1252,8 @@
     },
     {
       "id": "g7441",
-      "title": "DOGE cuts push two government officials into politics",
-      "description": "DOGE-led cuts pushed government officials to enter politics, and two of them have just been elected to Congress.",
+      "title": "DOGE cuts push two officials into politics",
+      "description": "Cuts led by DOGE pushed government officials into politics, and two of them have just been elected to Congress.",
       "link": "https://www.businessinsider.com/doge-layoff-revenge-elections-midterms-elon-musk-forstag-dembo-2026-11",
       "sources": [
         "Business Insider"
@@ -964,7 +1266,7 @@
     {
       "id": "g7442",
       "title": "Minecraft’s reclusive creator makes Anthropic a proposal",
-      "description": "Minecraft’s creator, known for keeping a low profile, has made Anthropic a proposal.",
+      "description": "Minecraft’s famously private creator has made Anthropic a proposal.",
       "link": "https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11",
       "sources": [
         "Business Insider"
@@ -976,8 +1278,8 @@
     },
     {
       "id": "g7443",
-      "title": "An architect leaves her field to work at Sweetgreen",
-      "description": "The author recounts leaving a career in architecture to work at Sweetgreen, a choice she does not regret.",
+      "title": "An architect leaves the field to work at Sweetgreen",
+      "description": "The author recounts leaving a career in architecture to work at Sweetgreen, a decision she does not regret.",
       "link": "https://www.businessinsider.com/sweetgreen-manager-pivoted-from-architecture-career-2026-11",
       "sources": [
         "Business Insider"
@@ -1248,19 +1550,6 @@
       "followed_topic": null
     },
     {
-      "id": "g7400",
-      "title": "SAP reportedly considering cutting at least 10,000 jobs to pivot toward AI",
-      "description": "According to Bloomberg, SAP is preparing a plan affecting at least 10,000 positions out of more than 110,000, particularly in product, engineering and sales. The company did not comment, and the figure could change after labor negotiations.",
-      "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-      "sources": [
-        "Vision IA"
-      ],
-      "received_at": "2026-11-27T11:01+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
       "id": "g7401",
       "title": "Meta refuses to let UK regulator test its Muse agent",
       "description": "The FCA wanted to test Muse in a controlled environment, including observing payments made on consumers’ behalf. Meta declined, even as the agent, already used by more than 10 million people in North America, prepares to launch in the UK.",
@@ -1275,8 +1564,8 @@
     },
     {
       "id": "g7367",
-      "title": "X activates parental controls for teens aged 13 to 17",
-      "description": "Teen accounts default to protected mode, with sensitive media restricted and targeted advertising blocked. Parents can limit screen time, approve followers, and filter words without reading messages.",
+      "title": "X activates parental controls for teens ages 13 to 17",
+      "description": "Teen accounts are placed in protected mode by default, with sensitive media restricted and targeted advertising blocked. Parents can limit screen time, approve followers, and filter words without reading messages.",
       "link": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
       "sources": [
         "Vision IA"
@@ -1330,19 +1619,6 @@
       "title": "Dell reaches $22 billion in revenue from AI servers",
       "description": "Dell generated $22 billion in AI-server revenue, up 291%. Its order backlog reached $132.3 billion, which could delay some deliveries.",
       "link": "https://www.techrepublic.com/article/news-dell-ai-server-revenue-q3-fy27-backlog/",
-      "sources": [
-        "TechnologyAdvice"
-      ],
-      "received_at": "2026-11-27T10:33+01:00",
-      "covered_by": 1,
-      "favorite": false,
-      "followed_topic": null
-    },
-    {
-      "id": "g6986",
-      "title": "Claude turns Artifacts creations into Mac and Windows applications",
-      "description": "Claude can convert a creation into a desktop application for Mac or Windows, without packaging or an API key. The beta feature adds icons, shortcuts and notifications, but the applications depend on Claude and may request extensive access to files and the system.",
-      "link": "https://www.eweek.com/news/claude-artifacts-install-as-app-mac-windows/",
       "sources": [
         "TechnologyAdvice"
       ],
